@@ -16,4 +16,5 @@ For things related to me, go have a look at [my website](https://leothesen.com).
     src="https://raw.githubusercontent.com/leothesen/leothesen/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
 Note: all of my professional software development is done through Bitbucket and won't show up here. 
