@@ -1,10 +1,24 @@
-import useDarkModeImpl from '@fisch0920/use-dark-mode'
+import { useCallback, useEffect, useState } from 'react'
 
 export function useDarkMode() {
-  const darkMode = useDarkModeImpl(false, { classNameDark: 'dark-mode' })
+  const [isDarkMode, setIsDarkMode] = useState(false)
 
-  return {
-    isDarkMode: darkMode.value,
-    toggleDarkMode: darkMode.toggle
-  }
+  useEffect(() => {
+    const dark = document.body.classList.contains('dark-mode')
+    setIsDarkMode(dark)
+  }, [])
+
+  const toggleDarkMode = useCallback(() => {
+    setIsDarkMode((prev) => {
+      const next = !prev
+      document.body.classList.toggle('dark-mode', next)
+      document.body.classList.toggle('light-mode', !next)
+      try {
+        localStorage.setItem('darkMode', JSON.stringify(next))
+      } catch {}
+      return next
+    })
+  }, [])
+
+  return { isDarkMode, toggleDarkMode }
 }
