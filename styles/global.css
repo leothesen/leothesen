@@ -21,42 +21,18 @@ body {
   overflow-x: hidden;
 }
 
-.static-tweet blockquote {
-  margin: 0;
-  margin-block-start: 0;
-  margin-block-end: 0;
-  margin-inline-start: 0;
-  margin-inline-end: 0;
-}
-
-.static-tweet-emoji {
-  height: 1.2em !important;
-  width: 1.2em !important;
-}
-
-.searchInput {
-  color: var(--fg-color);
-  caret-color: var(--fg-color);
-}
-
-::-webkit-scrollbar
-{
+::-webkit-scrollbar {
   width: 5px;
   height: 5px;
-  background-color: #F5F5F5;
-  background-color: var(--bg-color-1);
+  background-color: var(--bg-color-1, #f5f5f5);
 }
 
-::-webkit-scrollbar-thumb
-{
+::-webkit-scrollbar-thumb {
   border-radius: 10px;
-  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
-  background-color: #555;
-  border-radius: 10px;
-  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
-  background-color: var(--fg-color-1);
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  background-color: var(--fg-color-1, #555);
 }
 
-::-webkit-scrollbar-track {           
-    background-color: var(--bg-color);
+::-webkit-scrollbar-track {
+  background-color: var(--bg-color, #fff);
 }

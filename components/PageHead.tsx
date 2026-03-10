@@ -2,17 +2,17 @@ import * as React from 'react'
 import Head from 'next/head'
 
 import * as config from '@/lib/config'
-import * as types from '@/lib/types'
 import { getSocialImageUrl } from '@/lib/get-social-image-url'
+import type { Site } from '@/lib/types'
 
-export const PageHead: React.FC<
-  types.PageProps & {
-    title?: string
-    description?: string
-    image?: string
-    url?: string
-  }
-> = ({ site, title, description, pageId, image, url }) => {
+export const PageHead: React.FC<{
+  site?: Site
+  title?: string
+  description?: string
+  image?: string
+  url?: string
+  pageId?: string
+}> = ({ site, title, description, pageId, image, url }) => {
   const rssFeedUrl = `${config.host}/feed`
 
   title = title ?? site?.name
@@ -29,8 +29,8 @@ export const PageHead: React.FC<
         content='width=device-width, initial-scale=1, shrink-to-fit=no'
       />
 
-      <meta name="theme-color" media="(prefers-color-scheme: light)" content="#fefffe" key="theme-color-light"/>
-      <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#2d3439" key="theme-color-dark"/>
+      <meta name="theme-color" media="(prefers-color-scheme: light)" content="#fefffe" key="theme-color-light" />
+      <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#2d3439" key="theme-color-dark" />
 
       <meta name='robots' content='index,follow' />
       <meta property='og:type' content='website' />
@@ -38,7 +38,7 @@ export const PageHead: React.FC<
       {site && (
         <>
           <meta property='og:site_name' content={site.name} />
-          <meta name="author" content={site.name}></meta>
+          <meta name="author" content={site.name} />
           <meta property='twitter:domain' content={site.domain} />
         </>
       )}
@@ -60,7 +60,6 @@ export const PageHead: React.FC<
           <meta name='twitter:card' content='summary_large_image' />
           <meta name='twitter:image' content={socialImageUrl} />
           <meta property='og:image' content={socialImageUrl} />
-          {/* <meta property="og:image:type" content="image/jpg" /> */}
         </>
       ) : (
         <meta name='twitter:card' content='summary' />

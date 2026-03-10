@@ -1,30 +1,25 @@
 import * as React from 'react'
 import Document, { Head, Html, Main, NextScript } from 'next/document'
 
-import { IconContext } from '@react-icons/all-files'
-
 export default class MyDocument extends Document {
   render() {
     return (
-      <IconContext.Provider value={{ style: { verticalAlign: 'middle' } }}>
-        <Html lang='en'>
-          <Head>
-            <link rel='shortcut icon' href='/favicon.ico' />
-            <link
-              rel='icon'
-              type='image/png'
-              sizes='32x32'
-              href='favicon.png'
-            />
+      <Html lang='en'>
+        <Head>
+          <link rel='shortcut icon' href='/favicon.ico' />
+          <link
+            rel='icon'
+            type='image/png'
+            sizes='32x32'
+            href='favicon.png'
+          />
+          <link rel='manifest' href='/manifest.json' />
+        </Head>
 
-            <link rel='manifest' href='/manifest.json' />
-          </Head>
-
-          <body>
-            <script
-              dangerouslySetInnerHTML={{
-                __html: `
-/** Inlined version of noflash.js from use-dark-mode */
+        <body>
+          <script
+            dangerouslySetInnerHTML={{
+              __html: `
 ;(function () {
   var storageKey = 'darkMode'
   var classNameDark = 'dark-mode'
@@ -44,29 +39,23 @@ export default class MyDocument extends Document {
   if (localStorageExists) {
     localStorageTheme = JSON.parse(localStorageTheme)
   }
-  // Determine the source of truth
   if (localStorageExists) {
-    // source of truth from localStorage
     setClassOnDocumentBody(localStorageTheme)
   } else if (supportsColorSchemeQuery) {
-    // source of truth from system
     setClassOnDocumentBody(mql.matches)
     localStorage.setItem(storageKey, mql.matches)
   } else {
-    // source of truth from document.body
     var isDarkMode = document.body.classList.contains(classNameDark)
     localStorage.setItem(storageKey, JSON.stringify(isDarkMode))
   }
 })();
 `
-              }}
-            />
-            <Main />
-
-            <NextScript />
-          </body>
-        </Html>
-      </IconContext.Provider>
+            }}
+          />
+          <Main />
+          <NextScript />
+        </body>
+      </Html>
     )
   }
 }

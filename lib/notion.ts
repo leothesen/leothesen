@@ -1,68 +1,51 @@
-import { ExtendedRecordMap, SearchParams, SearchResults } from 'notion-types'
-import { mergeRecordMaps } from 'notion-utils'
-import pMap from 'p-map'
-import pMemoize from 'p-memoize'
-
 import {
-  isPreviewImageSupportEnabled,
-  navigationLinks,
-  navigationStyle
-} from './config'
-import { notion } from './notion-api'
-import { getPreviewImageMap } from './preview-images'
+  getBlocks,
+  getPage,
+  getPageCover,
+  getPageIcon,
+  getPagePropertyText,
+  getPageTitle,
+  queryDatabase,
+  type NotionBlock,
+  type NotionPage,
+} from './notion-api'
+import { slugify, uuidToId } from './notion-utils'
+import type { DatabaseEntry } from './types'
 
-const getNavigationLinkPages = pMemoize(
-  async (): Promise<ExtendedRecordMap[]> => {
-    const navigationLinkPageIds = (navigationLinks || [])
-      .map((link) => link.pageId)
-      .filter(Boolean)
+export { getBlocks, getPage }
 
-    if (navigationStyle !== 'default' && navigationLinkPageIds.length) {
-      return pMap(
-        navigationLinkPageIds,
-        async (navigationLinkPageId) =>
-          notion.getPage(navigationLinkPageId, {
-            chunkLimit: 1,
-            fetchMissingBlocks: false,
-            fetchCollections: false,
-            signFileUrls: false
-          }),
-        {
-          concurrency: 4
-        }
-      )
-    }
-
-    return []
-  }
-)
-
-export async function getPage(pageId: string): Promise<ExtendedRecordMap> {
-  let recordMap = await notion.getPage(pageId)
-
-  if (navigationStyle !== 'default') {
-    // ensure that any pages linked to in the custom navigation header have
-    // their block info fully resolved in the page record map so we know
-    // the page title, slug, etc.
-    const navigationLinkRecordMaps = await getNavigationLinkPages()
-
-    if (navigationLinkRecordMaps?.length) {
-      recordMap = navigationLinkRecordMaps.reduce(
-        (map, navigationLinkRecordMap) =>
-          mergeRecordMaps(map, navigationLinkRecordMap),
-        recordMap
-      )
-    }
-  }
-
-  if (isPreviewImageSupportEnabled) {
-    const previewImageMap = await getPreviewImageMap(recordMap)
-    ;(recordMap as any).preview_images = previewImageMap
-  }
-
-  return recordMap
+export async function getPageWithBlocks(pageId: string) {
+  const [page, blocks] = await Promise.all([
+    getPage(pageId),
+    getBlocks(pageId),
+  ])
+  return { page, blocks }
 }
 
-export async function search(params: SearchParams): Promise<SearchResults> {
-  return notion.search(params)
+export async function getDatabaseEntries(databaseId: string): Promise<DatabaseEntry[]> {
+  const pages = await queryDatabase(databaseId)
+  return pages.map(pageToEntry)
+}
+
+export function pageToEntry(page: NotionPage): DatabaseEntry {
+  const title = getPageTitle(page)
+  const id = uuidToId(page.id)
+  const slug = slugify(title) || id
+
+  return {
+    id: page.id,
+    title,
+    description: getPagePropertyText(page, 'Description'),
+    cover: getPageCover(page),
+    icon: getPageIcon(page),
+    slug,
+    published: getPagePropertyText(page, 'Published'),
+    author: getPagePropertyText(page, 'Author'),
+    lastEdited: page.last_edited_time,
+  }
+}
+
+// Find child_database blocks in a page's blocks
+export function findDatabaseBlocks(blocks: NotionBlock[]): NotionBlock[] {
+  return blocks.filter((b) => b.type === 'child_database')
 }
