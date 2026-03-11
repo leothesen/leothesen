@@ -15,9 +15,37 @@ function BreadcrumbIcon({ icon }: { icon: string }) {
   return <span className="breadcrumb-icon-emoji">{icon}</span>
 }
 
+function useScrollDirection() {
+  const [hidden, setHidden] = React.useState(false)
+
+  React.useEffect(() => {
+    let lastScrollY = window.scrollY
+
+    const onScroll = () => {
+      const currentScrollY = window.scrollY
+      // Always show header near the top of the page
+      if (currentScrollY < 10) {
+        setHidden(false)
+      } else if (currentScrollY > lastScrollY) {
+        setHidden(true)
+      } else {
+        setHidden(false)
+      }
+      lastScrollY = currentScrollY
+    }
+
+    window.addEventListener('scroll', onScroll, { passive: true })
+    return () => window.removeEventListener('scroll', onScroll)
+  }, [])
+
+  return hidden
+}
+
 export const NotionPageHeader: React.FC<{ breadcrumbs?: Breadcrumb[] }> = ({ breadcrumbs }) => {
+  const hidden = useScrollDirection()
+
   return (
-    <header className='notion-header'>
+    <header className={cs('notion-header', hidden && 'notion-header-hidden')}>
       <div className='notion-nav-header'>
         <nav className="notion-nav-breadcrumbs" aria-label="Breadcrumb">
           <Link href="/" className="breadcrumb button">Home</Link>
