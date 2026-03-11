@@ -35,7 +35,7 @@ function extractText(children: React.ReactNode): string {
   return ''
 }
 
-// Convert basic markdown formatting to HTML (for use inside HTML blocks where markdown isn't parsed)
+// Convert markdown formatting to HTML (for use inside HTML blocks where markdown isn't parsed)
 function markdownInlineToHtml(text: string): string {
   return text
     .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
@@ -45,10 +45,42 @@ function markdownInlineToHtml(text: string): string {
     .replace(/`(.+?)`/g, '<code class="notion-inline-code">$1</code>')
 }
 
+// Convert markdown block + inline syntax to HTML (for content inside HTML blocks like <column>)
+// Uses custom element names to avoid HTML5 parser restructuring block elements inside <column>
+function markdownBlockToHtml(text: string): string {
+  // Strip {color="..."} attributes (handle before other conversions)
+  text = text.replace(/\s*\{color="[^"]*"\}/g, '')
+
+  // Convert headings to custom elements (block-level h1-h3 would break <column> parsing)
+  text = text.replace(/^\t*(#{3})\s+(.+)$/gm, (_m, _h, content) =>
+    `<col-heading level="3">${markdownInlineToHtml(content)}</col-heading>`)
+  text = text.replace(/^\t*(#{2})\s+(.+)$/gm, (_m, _h, content) =>
+    `<col-heading level="2">${markdownInlineToHtml(content)}</col-heading>`)
+  text = text.replace(/^\t*(#{1})\s+(.+)$/gm, (_m, _h, content) =>
+    `<col-heading level="1">${markdownInlineToHtml(content)}</col-heading>`)
+
+  // Convert --- to custom element (block-level <hr> would break <column> parsing)
+  text = text.replace(/^\t*---\s*$/gm, '<col-hr></col-hr>')
+
+  // Remove <unknown> tags inside columns (embeds/bookmarks can't render locally)
+  text = text.replace(/<unknown\s+[^>]*\/>/g, '')
+
+  // Convert images to custom element
+  text = text.replace(/!\[([^\]]*)\]\(([^)]+)\)/g,
+    '<col-img src="$2" alt="$1"></col-img>')
+
+  // Convert links
+  text = text.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" class="notion-link">$1</a>')
+
+  // Convert inline formatting
+  text = markdownInlineToHtml(text)
+
+  return text
+}
+
 // Pre-process markdown to convert Notion-specific syntax to HTML
 function preprocessMarkdown(md: string): string {
   // Convert ::: callout {icon="X" color="Y"} ... ::: to HTML div
-  // Convert inline markdown in callout content since it's inside raw HTML
   md = md.replace(
     /^::: callout \{icon="([^"]*)" color="([^"]*)"\}\n([\s\S]*?)^:::\s*$/gm,
     (_match, icon, color, content) => {
@@ -60,9 +92,28 @@ function preprocessMarkdown(md: string): string {
   // Remove <empty-block/> tags
   md = md.replace(/<empty-block\s*\/?>/g, '')
 
-  // Ensure --- (horizontal rules) have blank lines around them
-  // to prevent setext heading interpretation when following HTML tags
-  md = md.replace(/^(---)\s*$/gm, '\n$1\n')
+  // Strip {color="..."} attributes from text (outside HTML blocks)
+  md = md.replace(/\s*\{color="[^"]*"\}/g, '')
+
+  // Convert entire <columns> structure to div-based HTML
+  // Browser HTML parser needs block-level elements; custom element names get restructured
+  md = md.replace(/<columns>([\s\S]*?)<\/columns>/g, (_match, columnsContent) => {
+    const columns = columnsContent.split(/<\/?column>/g)
+      .map(c => c.trim())
+      .filter(c => c.length > 0)
+    const colHtml = columns.map(col =>
+      `<div class="notion-column">${markdownBlockToHtml(col)}</div>`
+    ).join('\n')
+    return `<div class="notion-row">${colHtml}</div>`
+  })
+
+  // Normalize <unknown> self-closing tags to open/close pairs for rehype-raw
+  // (must happen after column processing which converts them to <unsupported>)
+  md = md.replace(/<unknown\s+([^/]*)\/>/g, '<unknown $1></unknown>')
+
+  // Ensure --- has blank lines around it to prevent setext heading interpretation,
+  // but only when not inside HTML blocks (already handled above for columns)
+  md = md.replace(/(<\/[a-z-]+>)\n---/g, '$1\n\n---')
 
   return md
 }
@@ -170,7 +221,7 @@ export function MarkdownRenderer({ markdown, databaseEntriesMap }: MarkdownRende
           summary: ({ children }) => <summary>{children}</summary>,
 
           // Custom Notion elements via rehype-raw
-          // Columns layout
+          // Columns layout (preprocessed to divs, but keep handlers for fallback)
           columns: ({ children }) => (
             <div className="notion-row">{children}</div>
           ),
@@ -244,7 +295,22 @@ export function MarkdownRenderer({ markdown, databaseEntriesMap }: MarkdownRende
             return <span {...props}>{children}</span>
           },
 
-          // Unknown blocks
+          // Custom elements for content inside columns (avoids HTML parser issues)
+          'col-heading': ({ children, ...props }: any) => {
+            const level = props.level || '2'
+            const Tag = `h${level}` as 'h1' | 'h2' | 'h3'
+            return <Tag className={`notion-h${level}`}>{children}</Tag>
+          },
+          'col-hr': () => <hr className="notion-hr" />,
+          'col-img': ({ ...props }: any) => (
+            <figure className="notion-asset-wrapper">
+              <div className="notion-image-wrapper">
+                <img src={props.src} alt={props.alt || ''} loading="lazy" />
+              </div>
+            </figure>
+          ),
+
+          // Unknown/unsupported blocks (both <unknown> and <unsupported> custom elements)
           unknown: ({ ...props }: any) => {
             const alt = props.alt || 'unsupported block'
             return (
@@ -270,7 +336,9 @@ export function extractHeadingsFromMarkdown(markdown: string): Array<{ id: strin
     const match = line.match(/^(#{1,3})\s+(.+)$/)
     if (match) {
       const level = match[1].length
-      const text = match[2].replace(/\*\*|__|[*_`]/g, '') // strip inline formatting
+      const text = match[2]
+        .replace(/\s*\{color="[^"]*"\}/g, '') // strip color attributes
+        .replace(/\*\*|__|[*_`]/g, '') // strip inline formatting
       headings.push({
         id: headingId(text),
         text,
