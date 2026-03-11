@@ -1,0 +1,6 @@
+- heavy rain
+- Try draw money
+- Seasick on the boat
+- Padang characterized by
+	- Admin
+	- Red Hot Chili Peppers

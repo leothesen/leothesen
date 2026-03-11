@@ -1,0 +1,16 @@
+The morning starts slow. I’m in no rush. Oats is made correctly by measuring out a quarter cup and I’m surprised to find that it’s enough. I also determine that 25g of coffee is sufficient and extrapolate that over the length of our run next week to see how much I’m going to have to bring. 
+<empty-block/>
+I finish off the fastpacking travel journal post in the sun outside. We do a load of washing. My body is feeling well rested and the stiffness has faded almost entirely - nice one body.
+<empty-block/>
+I drift between things and the day slides by. I finish writing the fastpacking travel journal and put together the video from the trip. 
+<empty-block/>
+I’m usually able to make any cat I see comfortable enough to come up to me for some love and scratches. I meet a happy little cat (named Luna) in the garden but she keeps her distance, rolling in the grass and scratching herself on sticks - no need for me. 
+![](https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/eaae6380-cb5e-4ba2-9b60-729fb5d16b50/D55D710C-49C2-4853-A8CF-7C860BB9D1B7.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4663RHA4NRW%2F20260311%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260311T140506Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCZOO52yKF80TAcjXTUH88QRDR1ak32TJPXgNqTgyNyWQIhANQ%2Fso%2FnD9QhEbqj62EUVL1exMXU7E0gn%2Bp9ft00YrjXKv8DCF4QABoMNjM3NDIzMTgzODA1IgwBUx6hI9NnMNGduAEq3ANZGI%2Bg3Q31Pxp5tEffgY7eLSAjr1koemuaugyAL9T6ZPstZ9QLEQW83pjMY%2Fk8yBhuf%2BOxmhgQHVlwgeYxblvQYo7aw%2F1%2FiQe%2FFFznvzRCAcdmnMtFON5CPN6XBm4Uxh5FcQV2Gv5UGpQujY1ly1EFnG8rpz8v23kA2%2FzRAazv8aoPVFBsFlnQYgysGxI5uPTyNkSBiw4ZkloGgfNW7aLtQIgxLxYljKPa7vY8xeuVeO4PX772TYNTtYMjcuJnD1y%2B%2Fepf4Bt23APQPO6o5LfFhtQQqfNy0Za9z0Fd9dzbxZw4tFLOo6Y9vW1NE7U4%2FvVTO3SEXnJTh35NmfaeaQme00Rvw0fwzWEg9XMzqrLCPYGxSVK2Wgxy6n7hOBSjD83VBdbCjQ8cZRwqfyYB%2F3KBSq1S6WSW11fcu5aiy3gRR8ze8HxrGCuj%2BFcUp6chEH40YNobAx2%2BO1zyJerDHBFMJu9EwqWUMnj%2BXyJXnVrQLGx1CmkTheY3JLj0%2BWYV%2Bv9P4YI%2FeLKbXwClc91HCT35rjct%2BvelH5Dx6uFHH0PGKWXT8uY4Gw04bO3FHINjZpNRKVcIax2Hvd2H%2FXRUtcIdbPMxsz2Pq5SOsReZporrZvp0z00dQJxUojHsHTCn0MXNBjqkAaCx93MNbZgaZbeXzzReZUnAgWx2827mFCjoQ2WWmDiaZ%2BKCeu0%2B3l5jBGSQfJUM7oxVPTY4ErFDvIk6HJbstPvQVq2gFknNuVMkQUClCllp92pAynORnLIiYaau1B5Z4puN48s6XUvTKmRQTVPKsXYc%2BWqQ9cHoZgxZraMyOxA9Kqru4%2BS8q06iwzKI5PtlMqPp0q8EKO5r1%2BcDLRsOK98EzmCR&X-Amz-Signature=1e26f968695090610a72347b7233cdbcf6e38f3145e3fc472498edd2966e872e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+Nikita starts baking some banana bread and I finally open my cacao macadamia nut butter and coax her incorporating it into the mixture. It’s amazing. 
+<empty-block/>
+Jordan and I go for a little run around the neighborhood. It’s lovely to run with her again. She’s gotten strong and we have a flowing conversation related to our surroundings. 
+<empty-block/>
+<unknown url="https://www.notion.so/f2e255afcf9f42609abf03948bcf90a2#582df0d2aa394aa882aa8659bb3f2971" alt="embed"/>
+<empty-block/>
+Leftover spaghetti bolognese for dinner and banana bread. I begin packing as we’ve decided to go visit Kath at Mbona tomorrow. 
+<empty-block/>

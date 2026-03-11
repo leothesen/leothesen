@@ -1,0 +1,13 @@
+- big work day. Finished almost everything off
+- Made brownies 
+- Suzi birthday dinner 
+- Eat late 
+- Toy toy 
+- Forgot Nic 
+- Arrived 
+- Loose night 
+- 💋
+- Jordan stole a vape
+- Jordan lost her jersey 
+- Shirts with their boets off
+![Jordan’s post party poem ](https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/a08e3c8e-0219-44e2-baa0-5635b51ac856/67012159-BEBD-4903-9FB4-4FE47ABFAB41.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UQ4YS4IH%2F20260311%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260311T140102Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFZfERsUMaBYPg%2BS8blQ3HcyKyYhuS37KTcl0M3ESzkmAiAtHkPeGC4T40uw0OJsFbjuZzP185M9JmpLiQe6CT6f2Sr%2FAwheEAAaDDYzNzQyMzE4MzgwNSIMxrA9zRqpKNtGK2HhKtwDsHRGSTsPTx2zSUNYiG%2BWwpUP5XHPwQLRFIuW%2BAG28owqCqsdhGvWj1MHip578n8mDatOMoROE1lplze2U%2BI67%2F35naa8pTdTA81dmlqA0d0BoAD3DO3f9SXVGyZN2MTGOzckN2hzfbrUTx8nQdKdGnOzE7aQbpQpme7Lb8tUHv9hmWenwlwX8nAiqPcvdPD%2BEBIDEyssHK1%2BWkhySwGe8F43ym6O%2Fdxg64vfMva1%2B1qP0yzp3cD7ib2nLjvf3e7vIPaUut1nHMea%2Fe%2Fo9WLNZhI0ZiNcz6hoK4jDwfwNFty2OyoZiUTP1y8RLEj91in%2FBm7GdZldrRaBA%2FkAJVniK8iEAgy1SyX9T3UTaHyF79dC%2F8YaeRkjttL1fzer8soBSl4jsDChvHlMumMr6qdpRvzOKfSK6hds%2Fr6zdtFHjuqLp5tPtO7HaLev4jwegfHUgij97jntxRTfPhMaZ2BWN9FqWxs%2BtBI0kxPJ%2FbLZMtmvxXmJVXJ%2BDzz0mqkxvnibZDvrxj%2BhoqJ2y0Iy8HT1ytjqEwXKIIp0vaAGjjCJV47OH7z%2B35XNubHVb4yxFsWqAjAnbGcfuKgpsSkOFNw051uA7S0eSvO5ql3EKDJWzdJ2efSE7zsU8%2BFz%2B4cw7c%2FFzQY6pgG0JcT1EckbbCUuwprSoUiXMYZZEQXhW0EJcV%2FHdh6gz5go%2BglyND6rEg%2B5ktMefxBbPSvN%2B5FWFO81WPXCWvuhAv5PHs6L0AsUAQwac%2FTlOwbx6rP5JkSdnOB3jOid%2F3LI%2FxjiDtscPeUlzktMpRll27ixFJ%2BsGVpHULYOzug52HjqQk%2FrNjhcWsZ4%2B1Azghcb1OPOFSX5WBBm03XRbG7UYRjAUOrH&X-Amz-Signature=6a8c244326c862157c7954474f255e78429f488dca71848b41ac11ea53dd9674&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
