@@ -4,7 +4,7 @@ import { getPageWithBlocks, getDatabaseEntries, findDatabaseBlocks } from './not
 import type { DatabaseEntry, SiteMap } from './types'
 
 // Recursively collect all database entries from a page and its nested pages
-async function collectAllEntries(pageUuid: string, depth = 0): Promise<DatabaseEntry[]> {
+async function collectAllEntries(pageUuid: string, parentPath: string[] = [], depth = 0): Promise<DatabaseEntry[]> {
   if (depth > 3) return []
 
   const { blocks } = await getPageWithBlocks(pageUuid)
@@ -12,12 +12,12 @@ async function collectAllEntries(pageUuid: string, depth = 0): Promise<DatabaseE
   const pages: DatabaseEntry[] = []
 
   for (const db of dbBlocks) {
-    const entries = await getDatabaseEntries(db.id)
+    const entries = await getDatabaseEntries(db.id, parentPath)
     pages.push(...entries)
 
     // Recurse into each entry's page to find nested databases
     for (const entry of entries) {
-      const nested = await collectAllEntries(entry.id, depth + 1)
+      const nested = await collectAllEntries(entry.id, entry.path, depth + 1)
       pages.push(...nested)
     }
   }

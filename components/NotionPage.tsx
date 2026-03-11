@@ -99,7 +99,7 @@ export const NotionPage: React.FC<NotionPageProps> = ({
             )}
 
             {databaseEntries && databaseEntries.length > 0 && (
-              <DatabaseView entries={databaseEntries} mapPageUrl={mapPageUrl} />
+              <DatabaseView entries={databaseEntries} />
             )}
 
             {blocks && (

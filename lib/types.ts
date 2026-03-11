@@ -39,6 +39,7 @@ export interface DatabaseEntry {
   cover: string | null
   icon: string | null
   slug: string
+  path: string[]
   published: string | null
   author: string | null
   lastEdited: string

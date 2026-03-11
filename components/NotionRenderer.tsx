@@ -433,13 +433,13 @@ export function NotionBlocks({ blocks, mapPageUrl }: { blocks: NotionBlock[]; ma
 }
 
 // Database gallery view
-export function DatabaseView({ entries, mapPageUrl }: { entries: DatabaseEntry[]; mapPageUrl?: (slug: string) => string }) {
+export function DatabaseView({ entries }: { entries: DatabaseEntry[] }) {
   if (!entries?.length) return null
 
   return (
     <div className="notion-gallery-grid">
       {entries.map((entry) => {
-        const href = mapPageUrl ? mapPageUrl(entry.slug) : `/${entry.slug}`
+        const href = `/${entry.path.join('/')}`
         return (
           <Link key={entry.id} href={href} className="notion-collection-card">
             {entry.cover && (
