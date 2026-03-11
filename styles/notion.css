@@ -582,6 +582,14 @@ th.notion-table-cell {
   margin-right: 6px;
 }
 
+.notion-page-icon-inline {
+  width: 1.2em;
+  height: 1.2em;
+  vertical-align: middle;
+  border-radius: 2px;
+  object-fit: cover;
+}
+
 /* Links */
 .notion-link {
   position: relative;

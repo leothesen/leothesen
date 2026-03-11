@@ -352,7 +352,13 @@ export function NotionBlock({ block, mapPageUrl, databaseEntriesMap, childPageMa
       return (
         <div className="notion-page-link">
           <Link href={href}>
-            {info?.icon && <span className="notion-page-link-icon">{info.icon}</span>}
+            {info?.icon && (
+              <span className="notion-page-link-icon">
+                {info.icon.startsWith('http') ? (
+                  <img src={info.icon} alt="" className="notion-page-icon-inline" />
+                ) : info.icon}
+              </span>
+            )}
             {childPage.title}
           </Link>
         </div>
