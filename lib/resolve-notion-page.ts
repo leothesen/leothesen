@@ -124,14 +124,17 @@ export async function resolveNotionPage(domain: string, rawPageId?: string | str
     const uuid = idToUuid(pageId)
     const { page, blocks } = await getPageWithBlocks(uuid)
 
-    // Check if this page has databases (e.g., root page with blog posts)
-    let databaseEntries: DatabaseEntry[] | undefined
+    // Fetch database entries keyed by database block ID
+    let databaseEntriesMap: Record<string, DatabaseEntry[]> | undefined
     const dbBlocks = findDatabaseBlocks(blocks)
     if (dbBlocks.length > 0) {
       const allEntries = await Promise.all(
         dbBlocks.map((db) => getDatabaseEntries(db.id, segments))
       )
-      databaseEntries = allEntries.flat()
+      databaseEntriesMap = {}
+      dbBlocks.forEach((db, i) => {
+        databaseEntriesMap![db.id] = allEntries[i]
+      })
     }
 
     return {
@@ -140,7 +143,7 @@ export async function resolveNotionPage(domain: string, rawPageId?: string | str
       blocks,
       pageId,
       breadcrumbs,
-      databaseEntries: databaseEntries ?? null,
+      databaseEntriesMap: databaseEntriesMap ?? null,
     }
   } catch (err) {
     console.error('page error', domain, pageId, err)

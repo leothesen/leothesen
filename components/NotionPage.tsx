@@ -9,7 +9,7 @@ import type { NotionBlock as NotionBlockType } from '@/lib/notion-api'
 import type { Breadcrumb, DatabaseEntry, PageError, Site } from '@/lib/types'
 import { formatDate } from '@/lib/notion-utils'
 
-import { NotionBlocks, DatabaseView } from './NotionRenderer'
+import { NotionBlocks } from './NotionRenderer'
 import { TableOfContents } from './TableOfContents'
 import { Footer } from './Footer'
 import { Loading } from './Loading'
@@ -21,7 +21,7 @@ interface NotionPageProps {
   site?: Site
   page?: any
   blocks?: NotionBlockType[]
-  databaseEntries?: DatabaseEntry[]
+  databaseEntriesMap?: Record<string, DatabaseEntry[]> | null
   breadcrumbs?: Breadcrumb[]
   pageId?: string
   error?: PageError
@@ -31,7 +31,7 @@ export const NotionPage: React.FC<NotionPageProps> = ({
   site,
   page,
   blocks,
-  databaseEntries,
+  databaseEntriesMap,
   breadcrumbs,
   error,
   pageId,
@@ -107,13 +107,13 @@ export const NotionPage: React.FC<NotionPageProps> = ({
                 </div>
               )}
 
-              {databaseEntries && databaseEntries.length > 0 && (
-                <DatabaseView entries={databaseEntries} />
-              )}
-
               {blocks && (
                 <div className="notion-page-body">
-                  <NotionBlocks blocks={blocks} mapPageUrl={mapPageUrl} />
+                  <NotionBlocks
+                    blocks={blocks}
+                    mapPageUrl={mapPageUrl}
+                    databaseEntriesMap={databaseEntriesMap}
+                  />
                 </div>
               )}
             </div>
