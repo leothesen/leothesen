@@ -21,8 +21,38 @@ const CONTENT_DIR = path.join(process.cwd(), '.content')
 const IMAGES_DIR = path.join(process.cwd(), 'public', 'notion-images')
 
 const notion = new Client({ auth: NOTION_TOKEN })
-const apiLimit = pLimit(3) // Notion rate limit: 3 req/s
-const imageLimit = pLimit(5)
+const apiLimit = pLimit(8)
+const imageLimit = pLimit(10)
+
+async function withRetry<T>(fn: () => Promise<T>, retries = 3): Promise<T> {
+  for (let attempt = 0; attempt <= retries; attempt++) {
+    try {
+      return await fn()
+    } catch (err: any) {
+      const isRateLimit = err?.status === 429 || err?.code === 'rate_limited'
+      if (!isRateLimit || attempt === retries) throw err
+      const retryAfter = (err?.headers?.['retry-after'] ?? attempt + 1) as number
+      const delay = retryAfter * 1000
+      console.warn(`  Rate limited, retrying in ${retryAfter}s...`)
+      await new Promise((r) => setTimeout(r, delay))
+    }
+  }
+  throw new Error('Unreachable')
+}
+
+// ---------------------------------------------------------------------------
+// CLI argument parsing
+// ---------------------------------------------------------------------------
+
+const args = process.argv.slice(2)
+const forceMode = args.includes('--force')
+const repairIdx = args.indexOf('--repair')
+const repairTarget = repairIdx !== -1 ? args[repairIdx + 1] : null
+const mode: 'force' | 'repair' | 'incremental' = forceMode
+  ? 'force'
+  : repairTarget
+    ? 'repair'
+    : 'incremental'
 
 // ---------------------------------------------------------------------------
 // Types
@@ -59,6 +89,24 @@ interface Manifest {
   syncedAt: string
   slugTree: Record<string, SlugTreeNode>
   pages: Record<string, ManifestPage>
+}
+
+interface DiscoveredPage {
+  cleanId: string
+  uuid: string
+  title: string
+  slug: string
+  icon: string | null
+  cover: string | null
+  description: string | null
+  published: string | null
+  author: string | null
+  lastEdited: string
+  order: number | null
+  slugPath: string[]
+  childDatabases: Array<{ id: string; title: string }>
+  childPages: Array<{ id: string; title: string; slug: string }>
+  dbEntries: Map<string, any[]> // dbId -> entries from fetchDatabaseEntries
 }
 
 // ---------------------------------------------------------------------------
@@ -129,6 +177,36 @@ function getPageIcon(page: any): string | null {
   if (page.icon.type === 'external') return page.icon.external.url
   if (page.icon.type === 'file') return page.icon.file.url
   return null
+}
+
+// ---------------------------------------------------------------------------
+// Persistence helpers
+// ---------------------------------------------------------------------------
+
+function loadExistingManifest(): Manifest | null {
+  const manifestPath = path.join(CONTENT_DIR, 'manifest.json')
+  if (!fs.existsSync(manifestPath)) return null
+  try {
+    return JSON.parse(fs.readFileSync(manifestPath, 'utf-8'))
+  } catch {
+    return null
+  }
+}
+
+function loadExistingMeta(pageId: string): PageMeta | null {
+  const metaPath = path.join(CONTENT_DIR, 'pages', pageId, 'meta.json')
+  if (!fs.existsSync(metaPath)) return null
+  try {
+    return JSON.parse(fs.readFileSync(metaPath, 'utf-8'))
+  } catch {
+    return null
+  }
+}
+
+function pageNeedsUpdate(pageId: string, notionLastEdited: string): boolean {
+  const existingMeta = loadExistingMeta(pageId)
+  if (!existingMeta) return true
+  return notionLastEdited > existingMeta.lastEdited
 }
 
 // ---------------------------------------------------------------------------
@@ -204,18 +282,24 @@ async function downloadImage(url: string): Promise<string> {
 // ---------------------------------------------------------------------------
 
 async function fetchPage(pageId: string): Promise<any> {
-  return apiLimit(() => notion.pages.retrieve({ page_id: pageId }))
+  return apiLimit(() => withRetry(() => notion.pages.retrieve({ page_id: pageId })))
+}
+
+async function fetchBlocks(pageId: string): Promise<any[]> {
+  return apiLimit(() => withRetry(async () => {
+    const response = await notion.blocks.children.list({ block_id: pageId, page_size: 100 })
+    return response.results
+  }))
 }
 
 async function fetchMarkdown(pageId: string): Promise<string> {
-  return apiLimit(async () => {
-    // Use the Notion markdown export endpoint
+  return apiLimit(() => withRetry(async () => {
     const response = await (notion as any).request({
       path: `pages/${pageId}/markdown`,
       method: 'GET',
     })
     return response.markdown || ''
-  })
+  }))
 }
 
 async function fetchDatabaseEntries(databaseId: string): Promise<any[]> {
@@ -224,17 +308,19 @@ async function fetchDatabaseEntries(databaseId: string): Promise<any[]> {
 
   do {
     const response: any = await apiLimit(() =>
-      notion.databases.query({
-        database_id: databaseId,
-        start_cursor: cursor,
-        page_size: 100,
-        sorts: [{ property: 'Order', direction: 'ascending' }],
-      }).catch(() =>
+      withRetry(() =>
         notion.databases.query({
           database_id: databaseId,
           start_cursor: cursor,
           page_size: 100,
-        })
+          sorts: [{ property: 'Order', direction: 'ascending' }],
+        }).catch(() =>
+          notion.databases.query({
+            database_id: databaseId,
+            start_cursor: cursor,
+            page_size: 100,
+          })
+        )
       )
     )
     results.push(...response.results)
@@ -245,7 +331,7 @@ async function fetchDatabaseEntries(databaseId: string): Promise<any[]> {
 }
 
 // ---------------------------------------------------------------------------
-// Crawl
+// State
 // ---------------------------------------------------------------------------
 
 const manifest: Manifest = {
@@ -254,191 +340,121 @@ const manifest: Manifest = {
   pages: {},
 }
 
-// All images to download (collected during crawl, downloaded after)
 const imagesToDownload: Array<{ url: string; pageId: string }> = []
+const discoveredPages = new Map<string, DiscoveredPage>()
+const syncedPageIds = new Set<string>() // pages whose content was written this run
 
 function collectImageUrls(markdown: string, pageId: string) {
-  // Match markdown images: ![...](url)
   const imgRegex = /!\[[^\]]*\]\(([^)]+)\)/g
   let match
   while ((match = imgRegex.exec(markdown)) !== null) {
-    const url = match[1].split(' ')[0] // strip title
+    const url = match[1].split(' ')[0]
     if (url.startsWith('http')) {
       imagesToDownload.push({ url, pageId })
     }
   }
 }
 
-async function crawlPage(
+// ---------------------------------------------------------------------------
+// Phase 1: Discovery (lightweight tree walk)
+// ---------------------------------------------------------------------------
+
+async function discoverPage(
   pageId: string,
-  knownSlugPath: string[] | null, // null = compute from title; set when caller already knows the path
+  knownSlugPath: string[] | null,
   slugTree: Record<string, SlugTreeNode>,
 ): Promise<void> {
   const cleanId = uuidToId(pageId)
   const uuid = idToUuid(cleanId)
-  const pageDir = path.join(CONTENT_DIR, 'pages', cleanId)
-  fs.mkdirSync(pageDir, { recursive: true })
 
-  console.log(`Crawling: ${cleanId}`)
+  console.log(`Discovering: ${cleanId}`)
 
-  // Fetch page metadata and markdown in parallel
-  const [page, markdown] = await Promise.all([
+  // Fetch page metadata and blocks in parallel (single blocks call — fixes duplicate bug)
+  const [page, blocks] = await Promise.all([
     fetchPage(uuid),
-    fetchMarkdown(uuid),
+    fetchBlocks(uuid).catch(() => [] as any[]),
   ])
 
   const title = getPageTitle(page)
   const slug = slugify(title) || cleanId
-  const icon = getPageIcon(page)
-  const cover = getPageCover(page)
-
-  const meta: PageMeta = {
-    id: page.id,
-    title,
-    icon,
-    cover,
-    description: getPagePropertyText(page, 'Description'),
-    published: getPagePropertyText(page, 'Published'),
-    author: getPagePropertyText(page, 'Author'),
-    lastEdited: page.last_edited_time,
-    slug,
-    order: getPagePropertyNumber(page, 'Order'),
-  }
-
-  // Collect image URLs from markdown content
-  collectImageUrls(markdown, cleanId)
-
-  // Collect cover and file-type icon images
-  if (cover?.startsWith('http')) {
-    imagesToDownload.push({ url: cover, pageId: cleanId })
-  }
-  if (icon?.startsWith('http')) {
-    imagesToDownload.push({ url: icon, pageId: cleanId })
-  }
-
-  // Write page files
-  fs.writeFileSync(path.join(pageDir, 'meta.json'), JSON.stringify(meta, null, 2))
-  fs.writeFileSync(path.join(pageDir, 'content.md'), markdown)
-
-  // Build slug path: use known path if provided, otherwise root has [] and others get [slug]
   const isRoot = cleanId === uuidToId(ROOT_PAGE_ID)
   const slugPath = knownSlugPath ?? (isRoot ? [] : [slug])
 
-  // Add to manifest
-  manifest.pages[cleanId] = {
-    slugPath,
-    title,
-    icon,
-    cover,
-    description: meta.description,
-  }
-
-  // Find child databases in markdown (look for <database> tags)
-  const dbRegex = /<database\s+url="[^"]*\/([a-f0-9-]+)"[^>]*>/gi
-  const dbMatches = [...markdown.matchAll(dbRegex)]
-
-  // Also look for child_database blocks by fetching shallow blocks
+  // Extract child databases and child pages from the single blocks call
   const childDatabases: Array<{ id: string; title: string }> = []
-  try {
-    const blocks = await apiLimit(() =>
-      notion.blocks.children.list({ block_id: uuid, page_size: 100 })
-    )
-    for (const block of blocks.results) {
-      if ('type' in block && (block as any).type === 'child_database') {
+  const childPages: Array<{ id: string; title: string; slug: string }> = []
+
+  for (const block of blocks) {
+    if ('type' in block) {
+      if ((block as any).type === 'child_database') {
         childDatabases.push({
           id: block.id,
           title: (block as any).child_database?.title || 'Untitled',
         })
-      }
-    }
-  } catch (err) {
-    // Some pages may not allow block listing
-  }
-
-  // Also add databases found in markdown
-  for (const match of dbMatches) {
-    const dbId = match[1].replace(/-/g, '')
-    const dbUuid = idToUuid(dbId)
-    if (!childDatabases.find((d) => uuidToId(d.id) === dbId)) {
-      childDatabases.push({ id: dbUuid, title: 'Database' })
-    }
-  }
-
-  // Process each database
-  const dbDir = path.join(pageDir, 'databases')
-  const treeNode: SlugTreeNode = { pageId: cleanId, title, children: {} }
-
-  if (childDatabases.length > 0) {
-    fs.mkdirSync(dbDir, { recursive: true })
-
-    for (const db of childDatabases) {
-      const dbId = uuidToId(db.id)
-      console.log(`  Database: ${db.title} (${dbId})`)
-
-      try {
-        const entries = await fetchDatabaseEntries(db.id)
-        const dbEntries = entries.map((entry: any) => {
-          const entryTitle = getPageTitle(entry)
-          const entrySlug = slugify(entryTitle) || uuidToId(entry.id)
-          const entryCover = getPageCover(entry)
-          const entryIcon = getPageIcon(entry)
-
-          if (entryCover?.startsWith('http')) {
-            imagesToDownload.push({ url: entryCover, pageId: uuidToId(entry.id) })
-          }
-          if (entryIcon?.startsWith('http')) {
-            imagesToDownload.push({ url: entryIcon, pageId: uuidToId(entry.id) })
-          }
-
-          return {
-            id: entry.id,
-            title: entryTitle,
-            description: getPagePropertyText(entry, 'Description'),
-            cover: entryCover,
-            icon: entryIcon,
-            slug: entrySlug,
-            path: [...slugPath, entrySlug],
-            published: getPagePropertyText(entry, 'Published'),
-            author: getPagePropertyText(entry, 'Author'),
-            lastEdited: entry.last_edited_time,
-            order: getPagePropertyNumber(entry, 'Order'),
-          }
-        })
-
-        fs.writeFileSync(
-          path.join(dbDir, `${dbId}.json`),
-          JSON.stringify(dbEntries, null, 2)
-        )
-
-        // Recurse into each database entry (entry.path is already correct)
-        for (const entry of dbEntries) {
-          await crawlPage(entry.id, entry.path, treeNode.children)
-        }
-      } catch (err) {
-        console.warn(`  Failed to query database ${dbId}:`, (err as Error).message)
-      }
-    }
-  }
-
-  // Find child pages in blocks
-  try {
-    const blocks = await apiLimit(() =>
-      notion.blocks.children.list({ block_id: uuid, page_size: 100 })
-    )
-    for (const block of blocks.results) {
-      if ('type' in block && (block as any).type === 'child_page') {
+      } else if ((block as any).type === 'child_page') {
         const childTitle = (block as any).child_page?.title || 'Untitled'
         const childSlug = slugify(childTitle) || uuidToId(block.id)
-        await crawlPage(block.id, [...slugPath, childSlug], treeNode.children)
+        childPages.push({ id: block.id, title: childTitle, slug: childSlug })
       }
     }
-  } catch {
-    // ignore
   }
 
-  // Add to slug tree (only for non-root pages)
+  // Query databases for entries (needed for tree structure)
+  const dbEntries = new Map<string, any[]>()
+  for (const db of childDatabases) {
+    const dbId = uuidToId(db.id)
+    console.log(`  Database: ${db.title} (${dbId})`)
+    try {
+      const entries = await fetchDatabaseEntries(db.id)
+      dbEntries.set(dbId, entries)
+    } catch (err) {
+      console.warn(`  Failed to query database ${dbId}:`, (err as Error).message)
+    }
+  }
+
+  const discovered: DiscoveredPage = {
+    cleanId,
+    uuid,
+    title,
+    slug,
+    icon: getPageIcon(page),
+    cover: getPageCover(page),
+    description: getPagePropertyText(page, 'Description'),
+    published: getPagePropertyText(page, 'Published'),
+    author: getPagePropertyText(page, 'Author'),
+    lastEdited: page.last_edited_time,
+    order: getPagePropertyNumber(page, 'Order'),
+    slugPath,
+    childDatabases,
+    childPages,
+    dbEntries,
+  }
+  discoveredPages.set(cleanId, discovered)
+
+  // Build slug tree node
+  const treeNode: SlugTreeNode = { pageId: cleanId, title, children: {} }
+
+  // Recurse into database entries
+  for (const db of childDatabases) {
+    const dbId = uuidToId(db.id)
+    const entries = dbEntries.get(dbId)
+    if (!entries) continue
+
+    for (const entry of entries) {
+      const entryTitle = getPageTitle(entry)
+      const entrySlug = slugify(entryTitle) || uuidToId(entry.id)
+      const entryPath = [...slugPath, entrySlug]
+      await discoverPage(entry.id, entryPath, treeNode.children)
+    }
+  }
+
+  // Recurse into child pages
+  for (const child of childPages) {
+    await discoverPage(child.id, [...slugPath, child.slug], treeNode.children)
+  }
+
+  // Add to slug tree
   if (isRoot) {
-    // Root page: its children become top-level slug tree entries
     Object.assign(slugTree, treeNode.children)
   } else {
     slugTree[slug] = treeNode
@@ -446,17 +462,106 @@ async function crawlPage(
 }
 
 // ---------------------------------------------------------------------------
-// Rewrite image URLs in all files
+// Phase 2: Content sync (only changed pages)
 // ---------------------------------------------------------------------------
 
-function rewriteImageUrls() {
+async function syncPageContent(discovered: DiscoveredPage): Promise<void> {
+  const { cleanId, uuid, title, slug, slugPath, childDatabases, dbEntries } = discovered
+  const pageDir = path.join(CONTENT_DIR, 'pages', cleanId)
+  fs.mkdirSync(pageDir, { recursive: true })
+
+  console.log(`Syncing content: ${cleanId} (${title})`)
+
+  // Fetch markdown
+  const markdown = await fetchMarkdown(uuid)
+
+  const meta: PageMeta = {
+    id: discovered.uuid,
+    title,
+    icon: discovered.icon,
+    cover: discovered.cover,
+    description: discovered.description,
+    published: discovered.published,
+    author: discovered.author,
+    lastEdited: discovered.lastEdited,
+    slug,
+    order: discovered.order,
+  }
+
+  // Collect image URLs from markdown content
+  collectImageUrls(markdown, cleanId)
+
+  // Collect cover and file-type icon images
+  if (discovered.cover?.startsWith('http')) {
+    imagesToDownload.push({ url: discovered.cover, pageId: cleanId })
+  }
+  if (discovered.icon?.startsWith('http')) {
+    imagesToDownload.push({ url: discovered.icon, pageId: cleanId })
+  }
+
+  // Write page files
+  fs.writeFileSync(path.join(pageDir, 'meta.json'), JSON.stringify(meta, null, 2))
+  fs.writeFileSync(path.join(pageDir, 'content.md'), markdown)
+
+  // Process database entries — write DB JSON files and collect entry images
+  if (childDatabases.length > 0) {
+    const dbDir = path.join(pageDir, 'databases')
+    fs.mkdirSync(dbDir, { recursive: true })
+
+    for (const db of childDatabases) {
+      const dbId = uuidToId(db.id)
+      const entries = dbEntries.get(dbId)
+      if (!entries) continue
+
+      const dbEntriesData = entries.map((entry: any) => {
+        const entryTitle = getPageTitle(entry)
+        const entrySlug = slugify(entryTitle) || uuidToId(entry.id)
+        const entryCover = getPageCover(entry)
+        const entryIcon = getPageIcon(entry)
+
+        if (entryCover?.startsWith('http')) {
+          imagesToDownload.push({ url: entryCover, pageId: uuidToId(entry.id) })
+        }
+        if (entryIcon?.startsWith('http')) {
+          imagesToDownload.push({ url: entryIcon, pageId: uuidToId(entry.id) })
+        }
+
+        return {
+          id: entry.id,
+          title: entryTitle,
+          description: getPagePropertyText(entry, 'Description'),
+          cover: entryCover,
+          icon: entryIcon,
+          slug: entrySlug,
+          path: [...slugPath, entrySlug],
+          published: getPagePropertyText(entry, 'Published'),
+          author: getPagePropertyText(entry, 'Author'),
+          lastEdited: entry.last_edited_time,
+          order: getPagePropertyNumber(entry, 'Order'),
+        }
+      })
+
+      fs.writeFileSync(
+        path.join(dbDir, `${dbId}.json`),
+        JSON.stringify(dbEntriesData, null, 2)
+      )
+    }
+  }
+
+  syncedPageIds.add(cleanId)
+}
+
+// ---------------------------------------------------------------------------
+// Rewrite image URLs (only in synced pages)
+// ---------------------------------------------------------------------------
+
+function rewriteImageUrls(pageIds: Set<string>) {
   const pagesDir = path.join(CONTENT_DIR, 'pages')
   if (!fs.existsSync(pagesDir)) return
 
-  const pageDirs = fs.readdirSync(pagesDir)
-  for (const pageDir of pageDirs) {
-    const dir = path.join(pagesDir, pageDir)
-    if (!fs.statSync(dir).isDirectory()) continue
+  for (const pageId of pageIds) {
+    const dir = path.join(pagesDir, pageId)
+    if (!fs.existsSync(dir) || !fs.statSync(dir).isDirectory()) continue
 
     // Rewrite content.md
     const mdPath = path.join(dir, 'content.md')
@@ -493,9 +598,10 @@ function rewriteImageUrls() {
     }
   }
 
-  // Also rewrite in manifest pages
-  for (const pageId of Object.keys(manifest.pages)) {
+  // Also rewrite in manifest pages (only synced ones)
+  for (const pageId of pageIds) {
     const page = manifest.pages[pageId]
+    if (!page) continue
     if (page.cover && imageUrlMap.has(page.cover)) {
       page.cover = imageUrlMap.get(page.cover)!
     }
@@ -506,30 +612,309 @@ function rewriteImageUrls() {
 }
 
 // ---------------------------------------------------------------------------
+// Repair mode
+// ---------------------------------------------------------------------------
+
+async function repairPage(target: string): Promise<void> {
+  const existingManifest = loadExistingManifest()
+  if (!existingManifest) {
+    console.error('No existing manifest found. Run a full sync first.')
+    process.exit(1)
+  }
+
+  // Find page by ID or title
+  const normalizedTarget = target.replace(/-/g, '')
+  const isIdLike = /^[a-f0-9]{32}$/.test(normalizedTarget)
+
+  let matchedIds: string[] = []
+
+  if (isIdLike) {
+    if (existingManifest.pages[normalizedTarget]) {
+      matchedIds = [normalizedTarget]
+    }
+  }
+
+  if (matchedIds.length === 0) {
+    // Case-insensitive substring match on title
+    const lowerTarget = target.toLowerCase()
+    for (const [id, page] of Object.entries(existingManifest.pages)) {
+      if (page.title.toLowerCase().includes(lowerTarget)) {
+        matchedIds.push(id)
+      }
+    }
+  }
+
+  if (matchedIds.length === 0) {
+    console.error(`No page found matching "${target}"`)
+    process.exit(1)
+  }
+
+  if (matchedIds.length > 1) {
+    console.error(`Multiple pages match "${target}":`)
+    for (const id of matchedIds) {
+      const page = existingManifest.pages[id]
+      console.error(`  ${id} — ${page.title}`)
+    }
+    process.exit(1)
+  }
+
+  const pageId = matchedIds[0]
+  const existingEntry = existingManifest.pages[pageId]
+  const uuid = idToUuid(pageId)
+
+  console.log(`Repairing: ${pageId} (${existingEntry.title})\n`)
+
+  fs.mkdirSync(path.join(CONTENT_DIR, 'pages'), { recursive: true })
+  fs.mkdirSync(IMAGES_DIR, { recursive: true })
+
+  // Fetch page metadata, markdown, and blocks
+  const [page, markdown, blocks] = await Promise.all([
+    fetchPage(uuid),
+    fetchMarkdown(uuid),
+    fetchBlocks(uuid).catch(() => [] as any[]),
+  ])
+
+  const title = getPageTitle(page)
+  const slug = slugify(title) || pageId
+  const icon = getPageIcon(page)
+  const cover = getPageCover(page)
+
+  const meta: PageMeta = {
+    id: page.id,
+    title,
+    icon,
+    cover,
+    description: getPagePropertyText(page, 'Description'),
+    published: getPagePropertyText(page, 'Published'),
+    author: getPagePropertyText(page, 'Author'),
+    lastEdited: page.last_edited_time,
+    slug,
+    order: getPagePropertyNumber(page, 'Order'),
+  }
+
+  // Collect images
+  collectImageUrls(markdown, pageId)
+  if (cover?.startsWith('http')) {
+    imagesToDownload.push({ url: cover, pageId })
+  }
+  if (icon?.startsWith('http')) {
+    imagesToDownload.push({ url: icon, pageId })
+  }
+
+  // Write page files
+  const pageDir = path.join(CONTENT_DIR, 'pages', pageId)
+  fs.mkdirSync(pageDir, { recursive: true })
+  fs.writeFileSync(path.join(pageDir, 'meta.json'), JSON.stringify(meta, null, 2))
+  fs.writeFileSync(path.join(pageDir, 'content.md'), markdown)
+
+  // Process child databases
+  const childDatabases: Array<{ id: string; title: string }> = []
+  for (const block of blocks) {
+    if ('type' in block && (block as any).type === 'child_database') {
+      childDatabases.push({
+        id: block.id,
+        title: (block as any).child_database?.title || 'Untitled',
+      })
+    }
+  }
+
+  if (childDatabases.length > 0) {
+    const dbDir = path.join(pageDir, 'databases')
+    fs.mkdirSync(dbDir, { recursive: true })
+
+    for (const db of childDatabases) {
+      const dbId = uuidToId(db.id)
+      try {
+        const entries = await fetchDatabaseEntries(db.id)
+        const dbEntries = entries.map((entry: any) => {
+          const entryTitle = getPageTitle(entry)
+          const entrySlug = slugify(entryTitle) || uuidToId(entry.id)
+          const entryCover = getPageCover(entry)
+          const entryIcon = getPageIcon(entry)
+
+          if (entryCover?.startsWith('http')) {
+            imagesToDownload.push({ url: entryCover, pageId: uuidToId(entry.id) })
+          }
+          if (entryIcon?.startsWith('http')) {
+            imagesToDownload.push({ url: entryIcon, pageId: uuidToId(entry.id) })
+          }
+
+          return {
+            id: entry.id,
+            title: entryTitle,
+            description: getPagePropertyText(entry, 'Description'),
+            cover: entryCover,
+            icon: entryIcon,
+            slug: entrySlug,
+            path: [...existingEntry.slugPath, entrySlug],
+            published: getPagePropertyText(entry, 'Published'),
+            author: getPagePropertyText(entry, 'Author'),
+            lastEdited: entry.last_edited_time,
+            order: getPagePropertyNumber(entry, 'Order'),
+          }
+        })
+
+        fs.writeFileSync(
+          path.join(dbDir, `${dbId}.json`),
+          JSON.stringify(dbEntries, null, 2)
+        )
+      } catch (err) {
+        console.warn(`  Failed to query database ${dbId}:`, (err as Error).message)
+      }
+    }
+  }
+
+  syncedPageIds.add(pageId)
+
+  // Download images
+  const uniqueUrls = [...new Set(imagesToDownload.map((i) => i.url))]
+  if (uniqueUrls.length > 0) {
+    console.log(`\nDownloading ${uniqueUrls.length} images...`)
+    await Promise.all(uniqueUrls.map((url) => imageLimit(() => downloadImage(url))))
+  }
+
+  // Rewrite URLs in repaired page only
+  rewriteImageUrls(syncedPageIds)
+
+  // Update manifest entry in-place (keep existing tree structure)
+  existingManifest.pages[pageId] = {
+    slugPath: existingEntry.slugPath,
+    title,
+    icon: manifest.pages[pageId]?.icon ?? icon,
+    cover: manifest.pages[pageId]?.cover ?? cover,
+    description: meta.description,
+  }
+
+  // Apply image URL rewrites to the manifest entry
+  const entry = existingManifest.pages[pageId]
+  if (entry.cover && imageUrlMap.has(entry.cover)) {
+    entry.cover = imageUrlMap.get(entry.cover)!
+  }
+  if (entry.icon && imageUrlMap.has(entry.icon)) {
+    entry.icon = imageUrlMap.get(entry.icon)!
+  }
+
+  existingManifest.syncedAt = new Date().toISOString()
+  fs.writeFileSync(
+    path.join(CONTENT_DIR, 'manifest.json'),
+    JSON.stringify(existingManifest, null, 2)
+  )
+
+  console.log(`\nRepair complete!`)
+  console.log(`  Page: ${title} (${pageId})`)
+  console.log(`  Images: ${imageUrlMap.size}`)
+}
+
+// ---------------------------------------------------------------------------
 // Main
 // ---------------------------------------------------------------------------
 
 async function main() {
-  console.log('Starting Notion sync...\n')
+  console.log(`Starting Notion sync (mode: ${mode})...\n`)
 
-  // Clean existing content
-  if (fs.existsSync(CONTENT_DIR)) {
-    fs.rmSync(CONTENT_DIR, { recursive: true })
+  // Repair mode: handle separately and exit
+  if (mode === 'repair') {
+    if (!repairTarget) {
+      console.error('Usage: pnpm sync -- --repair <name-or-id>')
+      process.exit(1)
+    }
+    await repairPage(repairTarget)
+    return
   }
+
+  // Force mode: clean slate
+  if (mode === 'force') {
+    if (fs.existsSync(CONTENT_DIR)) {
+      fs.rmSync(CONTENT_DIR, { recursive: true })
+    }
+    if (fs.existsSync(IMAGES_DIR)) {
+      fs.rmSync(IMAGES_DIR, { recursive: true })
+    }
+  }
+
+  // Ensure directories exist
   fs.mkdirSync(path.join(CONTENT_DIR, 'pages'), { recursive: true })
   fs.mkdirSync(IMAGES_DIR, { recursive: true })
 
-  // Crawl pages (null = root, compute path automatically)
-  await crawlPage(idToUuid(ROOT_PAGE_ID), null, manifest.slugTree)
+  // Load existing manifest for incremental comparison
+  const existingManifest = mode === 'incremental' ? loadExistingManifest() : null
 
-  // Download all images
-  console.log(`\nDownloading ${imagesToDownload.length} images...`)
+  // Phase 1: Discover full page tree
+  console.log('Phase 1: Discovering pages...\n')
+  await discoverPage(idToUuid(ROOT_PAGE_ID), null, manifest.slugTree)
+  console.log(`\nDiscovered ${discoveredPages.size} pages.`)
+
+  // Phase 2: Sync content for changed pages
+  console.log('\nPhase 2: Syncing content...\n')
+  let updatedCount = 0
+  let skippedCount = 0
+
+  for (const [cleanId, discovered] of discoveredPages) {
+    const needsUpdate =
+      mode === 'force' ||
+      !existingManifest ||
+      pageNeedsUpdate(cleanId, discovered.lastEdited)
+
+    if (needsUpdate) {
+      await syncPageContent(discovered)
+      updatedCount++
+    } else {
+      skippedCount++
+    }
+
+    // Build manifest entry — use existing cover/icon for unchanged pages (already rewritten)
+    const existingEntry = existingManifest?.pages[cleanId]
+    if (!needsUpdate && existingEntry) {
+      manifest.pages[cleanId] = {
+        slugPath: discovered.slugPath,
+        title: discovered.title,
+        icon: existingEntry.icon,
+        cover: existingEntry.cover,
+        description: discovered.description,
+      }
+    } else {
+      manifest.pages[cleanId] = {
+        slugPath: discovered.slugPath,
+        title: discovered.title,
+        icon: discovered.icon,
+        cover: discovered.cover,
+        description: discovered.description,
+      }
+    }
+  }
+
+  console.log(`\n${updatedCount} pages updated, ${skippedCount} pages unchanged.`)
+
+  // Clean orphaned page directories (incremental only)
+  if (mode === 'incremental') {
+    const pagesDir = path.join(CONTENT_DIR, 'pages')
+    if (fs.existsSync(pagesDir)) {
+      const existingDirs = fs.readdirSync(pagesDir)
+      let removedCount = 0
+      for (const dir of existingDirs) {
+        if (!discoveredPages.has(dir)) {
+          fs.rmSync(path.join(pagesDir, dir), { recursive: true })
+          removedCount++
+        }
+      }
+      if (removedCount > 0) {
+        console.log(`Removed ${removedCount} orphaned page directories.`)
+      }
+    }
+  }
+
+  // Download images (skip existing files — handled by downloadImage)
   const uniqueUrls = [...new Set(imagesToDownload.map((i) => i.url))]
-  await Promise.all(uniqueUrls.map((url) => imageLimit(() => downloadImage(url))))
+  if (uniqueUrls.length > 0) {
+    console.log(`\nDownloading ${uniqueUrls.length} images...`)
+    await Promise.all(uniqueUrls.map((url) => imageLimit(() => downloadImage(url))))
+  }
 
-  // Rewrite URLs
-  console.log('\nRewriting image URLs...')
-  rewriteImageUrls()
+  // Rewrite URLs only in pages synced this run
+  if (syncedPageIds.size > 0) {
+    console.log('\nRewriting image URLs...')
+    rewriteImageUrls(syncedPageIds)
+  }
 
   // Write manifest
   fs.writeFileSync(
@@ -539,6 +924,8 @@ async function main() {
 
   console.log(`\nSync complete!`)
   console.log(`  Pages: ${Object.keys(manifest.pages).length}`)
+  console.log(`  Updated: ${updatedCount}`)
+  console.log(`  Skipped: ${skippedCount}`)
   console.log(`  Images: ${imageUrlMap.size}`)
 }
 

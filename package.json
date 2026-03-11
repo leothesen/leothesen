@@ -14,7 +14,9 @@
     "build": "next build",
     "start": "next start",
     "deploy": "vercel deploy",
-    "sync": "tsx --env-file=.env scripts/sync-notion.ts"
+    "sync": "tsx --env-file=.env scripts/sync-notion.ts",
+    "sync:force": "tsx --env-file=.env scripts/sync-notion.ts --force",
+    "sync:repair": "tsx --env-file=.env scripts/sync-notion.ts --repair"
   },
   "dependencies": {
     "@notionhq/client": "^2.2.15",
