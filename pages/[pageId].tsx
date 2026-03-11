@@ -11,7 +11,8 @@ export const getStaticProps: GetStaticProps = async (context) => {
 
   try {
     const props = await resolveNotionPage(domain, rawPageId)
-    return { props, revalidate: 10 }
+    // JSON roundtrip to convert any undefined values to null (Next.js serialization requirement)
+    return { props: JSON.parse(JSON.stringify(props)), revalidate: 10 }
   } catch (err) {
     console.error('page error', domain, rawPageId, err)
     throw err

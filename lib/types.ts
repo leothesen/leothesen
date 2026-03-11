@@ -35,12 +35,12 @@ export interface DatabasePageProps {
 export interface DatabaseEntry {
   id: string
   title: string
-  description?: string
-  cover?: string
-  icon?: string
+  description: string | null
+  cover: string | null
+  icon: string | null
   slug: string
-  published?: string
-  author?: string
+  published: string | null
+  author: string | null
   lastEdited: string
 }
 
