@@ -11,7 +11,6 @@ import { useDarkMode } from '@/lib/use-dark-mode'
 import { formatDate } from '@/lib/notion-utils'
 
 import { NotionBlocks, DatabaseView } from './NotionRenderer'
-import { Breadcrumbs } from './Breadcrumbs'
 import { Footer } from './Footer'
 import { Loading } from './Loading'
 import { NotionPageHeader } from './NotionPageHeader'
@@ -71,20 +70,16 @@ export const NotionPage: React.FC<NotionPageProps> = ({
       />
 
       <div className={cs('notion-viewport', isDarkMode && 'dark-mode')}>
-        <NotionPageHeader />
+        <NotionPageHeader breadcrumbs={breadcrumbs} />
+
+        {cover && (
+          <div className="notion-page-cover-wrapper">
+            <img src={cover} alt={title} className="notion-page-cover" />
+          </div>
+        )}
 
         <main className={cs('notion-page', isRootPage && 'index-page')}>
-          {cover && (
-            <div className="notion-page-cover-wrapper">
-              <img src={cover} alt={title} className="notion-page-cover" />
-            </div>
-          )}
-
           <div className="notion-page-content">
-            {breadcrumbs?.length > 0 && (
-              <Breadcrumbs items={breadcrumbs} />
-            )}
-
             {icon && (
               <div className="notion-page-icon-hero">
                 {icon.startsWith('http') ? (
