@@ -577,6 +577,60 @@ th.notion-table-cell {
 .dark-mode .notion-color-pink_background { background: #533b4c; }
 .dark-mode .notion-color-red_background { background: #594141; }
 
+/* Breadcrumbs */
+.breadcrumbs {
+  margin-bottom: 16px;
+}
+
+.breadcrumbs ol {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 14px;
+  color: var(--fg-color-1);
+}
+
+.breadcrumbs li {
+  display: flex;
+  align-items: center;
+}
+
+.breadcrumbs a {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  color: var(--fg-color-1);
+  text-decoration: none;
+  padding: 2px 6px;
+  border-radius: 4px;
+  transition: background 100ms ease-out, color 100ms ease-out;
+}
+
+.breadcrumbs a:hover {
+  background: var(--bg-color-1);
+  color: var(--fg-color);
+}
+
+.breadcrumb-separator {
+  margin: 0 2px;
+  color: var(--fg-color-0);
+}
+
+.breadcrumb-icon-emoji {
+  font-size: 14px;
+  line-height: 1;
+}
+
+.breadcrumb-icon-image {
+  width: 16px;
+  height: 16px;
+  border-radius: 2px;
+  object-fit: cover;
+}
+
 /* Responsive */
 @media only screen and (max-width: 920px) {
   .index-page {

@@ -1,16 +1,32 @@
 import { parsePageId, idToUuid, uuidToId } from './notion-utils'
+import { getPageTitle, getPageIcon } from './notion-api'
 import { pageUrlAdditions, pageUrlOverrides, site } from './config'
 import { getPageWithBlocks, getDatabaseEntries, findDatabaseBlocks } from './notion'
-import type { DatabaseEntry } from './types'
+import type { Breadcrumb, DatabaseEntry } from './types'
 
-// Walk path segments through nested databases to find the target page
-// e.g. ["engineering", "opportunity-solving"] -> find "engineering" in root DB, then "opportunity-solving" in engineering's DB
-async function resolvePathSegments(segments: string[], pageUuid: string): Promise<string | undefined> {
+interface ResolveResult {
+  pageId: string
+  breadcrumbs: Breadcrumb[]
+}
+
+// Walk path segments through nested databases, collecting breadcrumbs along the way
+async function resolvePathSegments(segments: string[], pageUuid: string): Promise<ResolveResult | undefined> {
   let currentPageUuid = pageUuid
+  const breadcrumbs: Breadcrumb[] = []
 
-  for (const segment of segments) {
-    const { blocks } = await getPageWithBlocks(currentPageUuid)
+  for (let i = 0; i < segments.length; i++) {
+    const segment = segments[i]
+    const { blocks, page } = await getPageWithBlocks(currentPageUuid)
     const dbBlocks = findDatabaseBlocks(blocks)
+
+    // Add the current page as a breadcrumb (skip root for first iteration — it's always shown)
+    if (i > 0) {
+      breadcrumbs.push({
+        title: getPageTitle(page),
+        icon: getPageIcon(page) ?? null,
+        href: '/' + segments.slice(0, i).join('/'),
+      })
+    }
 
     let found = false
     for (const dbBlock of dbBlocks) {
@@ -26,7 +42,10 @@ async function resolvePathSegments(segments: string[], pageUuid: string): Promis
     if (!found) return undefined
   }
 
-  return uuidToId(currentPageUuid)
+  return {
+    pageId: uuidToId(currentPageUuid),
+    breadcrumbs,
+  }
 }
 
 // Fallback: recursively search all nested databases for a slug (for flat URLs)
@@ -54,6 +73,7 @@ async function findPageBySlug(slug: string, pageUuid: string, depth = 0): Promis
 
 export async function resolveNotionPage(domain: string, rawPageId?: string | string[]) {
   let pageId: string
+  let breadcrumbs: Breadcrumb[] = []
 
   // Normalize to array of path segments
   const segments = Array.isArray(rawPageId) ? rawPageId : rawPageId ? [rawPageId] : []
@@ -73,7 +93,11 @@ export async function resolveNotionPage(domain: string, rawPageId?: string | str
 
     if (!pageId) {
       // Try walking the path segments through nested databases
-      pageId = await resolvePathSegments(segments, idToUuid(site.rootNotionPageId))
+      const result = await resolvePathSegments(segments, idToUuid(site.rootNotionPageId))
+      if (result) {
+        pageId = result.pageId
+        breadcrumbs = result.breadcrumbs
+      }
     }
 
     if (!pageId && segments.length === 1) {
@@ -113,6 +137,7 @@ export async function resolveNotionPage(domain: string, rawPageId?: string | str
       page,
       blocks,
       pageId,
+      breadcrumbs,
       databaseEntries: databaseEntries ?? null,
     }
   } catch (err) {
