@@ -66,12 +66,12 @@ export function RichText({ richText }: { richText: RichTextItem[] }) {
 }
 
 // Individual block renderer
-export function NotionBlock({ block, mapPageUrl }: { block: NotionBlock; mapPageUrl?: (id: string) => string }) {
+export function NotionBlock({ block, mapPageUrl, databaseEntriesMap }: { block: NotionBlock; mapPageUrl?: (id: string) => string; databaseEntriesMap?: Record<string, DatabaseEntry[]> | null }) {
   const renderChildren = () => {
     if (!block.children?.length) return null
     return (
       <div className="notion-block-children">
-        <NotionBlocks blocks={block.children} mapPageUrl={mapPageUrl} />
+        <NotionBlocks blocks={block.children} mapPageUrl={mapPageUrl} databaseEntriesMap={databaseEntriesMap} />
       </div>
     )
   }
@@ -356,9 +356,11 @@ export function NotionBlock({ block, mapPageUrl }: { block: NotionBlock; mapPage
       )
     }
 
-    case 'child_database':
-      // Database blocks are rendered separately via DatabaseView
-      return null
+    case 'child_database': {
+      const entries = databaseEntriesMap?.[block.id]
+      if (!entries?.length) return null
+      return <DatabaseView entries={entries} />
+    }
 
     case 'table_of_contents':
       // Could implement TOC generation from headings
@@ -416,7 +418,7 @@ function groupBlocks(blocks: NotionBlock[]): Array<NotionBlock | { type: 'list_g
 }
 
 // Blocks renderer (handles list grouping)
-export function NotionBlocks({ blocks, mapPageUrl }: { blocks: NotionBlock[]; mapPageUrl?: (id: string) => string }) {
+export function NotionBlocks({ blocks, mapPageUrl, databaseEntriesMap }: { blocks: NotionBlock[]; mapPageUrl?: (id: string) => string; databaseEntriesMap?: Record<string, DatabaseEntry[]> | null }) {
   const grouped = groupBlocks(blocks)
 
   return (
@@ -427,13 +429,13 @@ export function NotionBlocks({ blocks, mapPageUrl }: { blocks: NotionBlock[]; ma
           return (
             <ListTag key={i} className="notion-list">
               {item.items.map((block: NotionBlock) => (
-                <NotionBlock key={block.id} block={block} mapPageUrl={mapPageUrl} />
+                <NotionBlock key={block.id} block={block} mapPageUrl={mapPageUrl} databaseEntriesMap={databaseEntriesMap} />
               ))}
             </ListTag>
           )
         }
 
-        return <NotionBlock key={item.id} block={item} mapPageUrl={mapPageUrl} />
+        return <NotionBlock key={item.id} block={item} mapPageUrl={mapPageUrl} databaseEntriesMap={databaseEntriesMap} />
       })}
     </>
   )
