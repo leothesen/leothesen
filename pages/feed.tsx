@@ -27,7 +27,7 @@ export const getServerSideProps: GetServerSideProps = async ({ req, res }) => {
   })
 
   for (const page of siteMap.pages) {
-    const url = `${config.host}/${page.slug}`
+    const url = `${config.host}/${page.path.join('/')}`
     const date = page.published ? new Date(page.published) : undefined
 
     feed.item({

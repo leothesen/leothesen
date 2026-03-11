@@ -7,7 +7,7 @@ import { getSiteMap } from '@/lib/get-site-map'
 import { resolveNotionPage } from '@/lib/resolve-notion-page'
 
 export const getStaticProps: GetStaticProps = async (context) => {
-  const rawPageId = context.params.pageId as string
+  const rawPageId = context.params.pageId as string[]
 
   try {
     const props = await resolveNotionPage(domain, rawPageId)
@@ -31,7 +31,7 @@ export async function getStaticPaths() {
 
   const staticPaths = {
     paths: siteMap.pages.map((page) => ({
-      params: { pageId: page.slug },
+      params: { pageId: page.path },
     })),
     fallback: true,
   }

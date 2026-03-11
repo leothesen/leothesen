@@ -41,7 +41,7 @@ const createSitemap = (siteMap: SiteMap) =>
       .map(
         (page) => `
           <url>
-            <loc>${host}/${page.slug}</loc>
+            <loc>${host}/${page.path.join('/')}</loc>
           </url>
         `.trim()
       )

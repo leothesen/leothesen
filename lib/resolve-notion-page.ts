@@ -3,9 +3,35 @@ import { pageUrlAdditions, pageUrlOverrides, site } from './config'
 import { getPageWithBlocks, getDatabaseEntries, findDatabaseBlocks } from './notion'
 import type { DatabaseEntry } from './types'
 
-// Recursively search databases within a page (and its child pages) for a matching slug
+// Walk path segments through nested databases to find the target page
+// e.g. ["engineering", "opportunity-solving"] -> find "engineering" in root DB, then "opportunity-solving" in engineering's DB
+async function resolvePathSegments(segments: string[], pageUuid: string): Promise<string | undefined> {
+  let currentPageUuid = pageUuid
+
+  for (const segment of segments) {
+    const { blocks } = await getPageWithBlocks(currentPageUuid)
+    const dbBlocks = findDatabaseBlocks(blocks)
+
+    let found = false
+    for (const dbBlock of dbBlocks) {
+      const entries = await getDatabaseEntries(dbBlock.id)
+      const entry = entries.find((e) => e.slug === segment)
+      if (entry) {
+        currentPageUuid = entry.id
+        found = true
+        break
+      }
+    }
+
+    if (!found) return undefined
+  }
+
+  return uuidToId(currentPageUuid)
+}
+
+// Fallback: recursively search all nested databases for a slug (for flat URLs)
 async function findPageBySlug(slug: string, pageUuid: string, depth = 0): Promise<string | undefined> {
-  if (depth > 3) return undefined // prevent infinite recursion
+  if (depth > 3) return undefined
 
   const { blocks } = await getPageWithBlocks(pageUuid)
   const dbBlocks = findDatabaseBlocks(blocks)
@@ -17,7 +43,6 @@ async function findPageBySlug(slug: string, pageUuid: string, depth = 0): Promis
       return uuidToId(entry.id)
     }
 
-    // Search databases inside each entry's page
     for (const e of entries) {
       const found = await findPageBySlug(slug, e.id, depth + 1)
       if (found) return found
@@ -27,30 +52,40 @@ async function findPageBySlug(slug: string, pageUuid: string, depth = 0): Promis
   return undefined
 }
 
-export async function resolveNotionPage(domain: string, rawPageId?: string) {
+export async function resolveNotionPage(domain: string, rawPageId?: string | string[]) {
   let pageId: string
 
-  if (rawPageId && rawPageId !== 'index') {
-    pageId = parsePageId(rawPageId)
+  // Normalize to array of path segments
+  const segments = Array.isArray(rawPageId) ? rawPageId : rawPageId ? [rawPageId] : []
 
-    if (!pageId) {
-      // check if the site configuration provides an override
-      const override = pageUrlOverrides[rawPageId] || pageUrlAdditions[rawPageId]
-      if (override) {
-        pageId = parsePageId(override)
+  if (segments.length > 0 && segments[0] !== 'index') {
+    // First, try parsing as a direct Notion page ID (single segment only)
+    if (segments.length === 1) {
+      pageId = parsePageId(segments[0])
+
+      if (!pageId) {
+        const override = pageUrlOverrides[segments[0]] || pageUrlAdditions[segments[0]]
+        if (override) {
+          pageId = parsePageId(override)
+        }
       }
     }
 
     if (!pageId) {
-      // Try to find the page by slug in the database (recursively searching nested databases)
-      pageId = await findPageBySlug(rawPageId, idToUuid(site.rootNotionPageId))
+      // Try walking the path segments through nested databases
+      pageId = await resolvePathSegments(segments, idToUuid(site.rootNotionPageId))
+    }
+
+    if (!pageId && segments.length === 1) {
+      // Fallback: deep search for flat URLs (backwards compatibility)
+      pageId = await findPageBySlug(segments[0], idToUuid(site.rootNotionPageId))
     }
 
     if (!pageId) {
       return {
         site,
         error: {
-          message: `Not found "${rawPageId}"`,
+          message: `Not found "${segments.join('/')}"`,
           statusCode: 404,
         },
       }
@@ -68,7 +103,7 @@ export async function resolveNotionPage(domain: string, rawPageId?: string) {
     const dbBlocks = findDatabaseBlocks(blocks)
     if (dbBlocks.length > 0) {
       const allEntries = await Promise.all(
-        dbBlocks.map((db) => getDatabaseEntries(db.id))
+        dbBlocks.map((db) => getDatabaseEntries(db.id, segments))
       )
       databaseEntries = allEntries.flat()
     }
