@@ -41,6 +41,29 @@ export async function getBlocks(blockId: string): Promise<NotionBlock[]> {
   return blocks
 }
 
+export async function getBlocksShallow(blockId: string): Promise<NotionBlock[]> {
+  const blocks: NotionBlock[] = []
+  let cursor: string | undefined
+
+  do {
+    const response = await notion.blocks.children.list({
+      block_id: blockId,
+      start_cursor: cursor,
+      page_size: 100,
+    })
+
+    for (const block of response.results) {
+      if ('type' in block) {
+        blocks.push(block as NotionBlock)
+      }
+    }
+
+    cursor = response.next_cursor ?? undefined
+  } while (cursor)
+
+  return blocks
+}
+
 export async function getPage(pageId: string): Promise<NotionPage> {
   const page = await notion.pages.retrieve({ page_id: pageId })
   return page as NotionPage

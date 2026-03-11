@@ -1,5 +1,6 @@
 import {
   getBlocks,
+  getBlocksShallow,
   getPage,
   getPageCover,
   getPageIcon,
@@ -18,6 +19,14 @@ export async function getPageWithBlocks(pageId: string) {
   const [page, blocks] = await Promise.all([
     getPage(pageId),
     getBlocks(pageId),
+  ])
+  return { page, blocks }
+}
+
+export async function getPageWithShallowBlocks(pageId: string) {
+  const [page, blocks] = await Promise.all([
+    getPage(pageId),
+    getBlocksShallow(pageId),
   ])
   return { page, blocks }
 }

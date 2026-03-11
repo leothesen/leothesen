@@ -1,7 +1,7 @@
 import { parsePageId, idToUuid, uuidToId } from './notion-utils'
 import { getPageTitle, getPageIcon } from './notion-api'
 import { pageUrlAdditions, pageUrlOverrides, site } from './config'
-import { getPageWithBlocks, getDatabaseEntries, findDatabaseBlocks } from './notion'
+import { getPageWithBlocks, getPageWithShallowBlocks, getDatabaseEntries, findDatabaseBlocks } from './notion'
 import type { Breadcrumb, DatabaseEntry } from './types'
 
 interface ResolveResult {
@@ -16,7 +16,7 @@ async function resolvePathSegments(segments: string[], pageUuid: string): Promis
 
   for (let i = 0; i < segments.length; i++) {
     const segment = segments[i]
-    const { blocks, page } = await getPageWithBlocks(currentPageUuid)
+    const { blocks, page } = await getPageWithShallowBlocks(currentPageUuid)
     const dbBlocks = findDatabaseBlocks(blocks)
 
     // Add the current page as a breadcrumb (skip root for first iteration — it's always shown)
@@ -28,9 +28,11 @@ async function resolvePathSegments(segments: string[], pageUuid: string): Promis
       })
     }
 
+    // Fetch all database entries in parallel
+    const allEntries = await Promise.all(dbBlocks.map((db) => getDatabaseEntries(db.id)))
+
     let found = false
-    for (const dbBlock of dbBlocks) {
-      const entries = await getDatabaseEntries(dbBlock.id)
+    for (const entries of allEntries) {
       const entry = entries.find((e) => e.slug === segment)
       if (entry) {
         currentPageUuid = entry.id
@@ -52,7 +54,7 @@ async function resolvePathSegments(segments: string[], pageUuid: string): Promis
 async function findPageBySlug(slug: string, pageUuid: string, depth = 0): Promise<string | undefined> {
   if (depth > 3) return undefined
 
-  const { blocks } = await getPageWithBlocks(pageUuid)
+  const { blocks } = await getPageWithShallowBlocks(pageUuid)
   const dbBlocks = findDatabaseBlocks(blocks)
 
   for (const dbBlock of dbBlocks) {
