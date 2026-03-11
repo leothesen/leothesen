@@ -35,9 +35,40 @@ function extractText(children: React.ReactNode): string {
   return ''
 }
 
+// Convert basic markdown formatting to HTML (for use inside HTML blocks where markdown isn't parsed)
+function markdownInlineToHtml(text: string): string {
+  return text
+    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+    .replace(/\*(.+?)\*/g, '<em>$1</em>')
+    .replace(/__(.+?)__/g, '<strong>$1</strong>')
+    .replace(/_(.+?)_/g, '<em>$1</em>')
+    .replace(/`(.+?)`/g, '<code class="notion-inline-code">$1</code>')
+}
+
+// Pre-process markdown to convert Notion-specific syntax to HTML
+function preprocessMarkdown(md: string): string {
+  // Convert ::: callout {icon="X" color="Y"} ... ::: to HTML div
+  // Convert inline markdown in callout content since it's inside raw HTML
+  md = md.replace(
+    /^::: callout \{icon="([^"]*)" color="([^"]*)"\}\n([\s\S]*?)^:::\s*$/gm,
+    (_match, icon, color, content) => {
+      const htmlContent = markdownInlineToHtml(content.trim())
+      return `<div class="callout" data-icon="${icon}" data-color="${color}">\n${htmlContent}\n</div>`
+    }
+  )
+
+  // Remove <empty-block/> tags
+  md = md.replace(/<empty-block\s*\/?>/g, '')
+
+  // Ensure --- (horizontal rules) have blank lines around them
+  // to prevent setext heading interpretation when following HTML tags
+  md = md.replace(/^(---)\s*$/gm, '\n$1\n')
+
+  return md
+}
+
 export function MarkdownRenderer({ markdown, databaseEntriesMap }: MarkdownRendererProps) {
-  // Pre-process: render database entries inline where <database> tags appear
-  // We'll handle them as custom components via rehype-raw
+  const processed = preprocessMarkdown(markdown)
 
   return (
     <div className="notion-page-body">
@@ -224,7 +255,7 @@ export function MarkdownRenderer({ markdown, databaseEntriesMap }: MarkdownRende
           },
         }) as CustomComponents}
       >
-        {markdown}
+        {processed}
       </ReactMarkdown>
     </div>
   )
