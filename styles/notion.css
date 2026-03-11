@@ -12,7 +12,7 @@
   --bg-color-1: rgba(55, 53, 47, 0.024);
 }
 
-.dark-mode {
+.dark {
   --fg-color: rgba(255, 255, 255, 0.9);
   --fg-color-0: rgba(255, 255, 255, 0.09);
   --fg-color-1: rgba(255, 255, 255, 0.4);
@@ -48,14 +48,14 @@
   transform: translateY(-100%);
 }
 
-.dark-mode .notion-header {
+.dark .notion-header {
   background: transparent;
   box-shadow: inset 0 -1px 0 0 rgba(0, 0, 0, 0.1);
   backdrop-filter: saturate(180%) blur(8px);
 }
 
 @-moz-document url-prefix() {
-  .dark-mode .notion-header {
+  .dark .notion-header {
     background: hsla(203, 8%, 20%, 0.8);
   }
 }
@@ -396,7 +396,7 @@
   overflow-x: auto;
 }
 
-.dark-mode .notion-code {
+.dark .notion-code {
   background: rgba(45, 45, 45, 1);
   border-color: rgba(60, 60, 60, 1);
 }
@@ -420,7 +420,7 @@
   color: #eb5757;
 }
 
-.dark-mode .notion-inline-code {
+.dark .notion-inline-code {
   background: rgba(135, 131, 120, 0.3);
   color: #ff7b72;
 }
@@ -691,25 +691,25 @@ th.notion-table-cell {
 .notion-color-pink_background { background: #f4dfeb; }
 .notion-color-red_background { background: #fbe4e4; }
 
-.dark-mode .notion-color-gray { color: #979a9b; }
-.dark-mode .notion-color-brown { color: #937264; }
-.dark-mode .notion-color-orange { color: #ffa344; }
-.dark-mode .notion-color-yellow { color: #ffdc49; }
-.dark-mode .notion-color-green { color: #4dab9a; }
-.dark-mode .notion-color-blue { color: #529cca; }
-.dark-mode .notion-color-purple { color: #9a6dd7; }
-.dark-mode .notion-color-pink { color: #e255a1; }
-.dark-mode .notion-color-red { color: #ff7369; }
+.dark .notion-color-gray { color: #979a9b; }
+.dark .notion-color-brown { color: #937264; }
+.dark .notion-color-orange { color: #ffa344; }
+.dark .notion-color-yellow { color: #ffdc49; }
+.dark .notion-color-green { color: #4dab9a; }
+.dark .notion-color-blue { color: #529cca; }
+.dark .notion-color-purple { color: #9a6dd7; }
+.dark .notion-color-pink { color: #e255a1; }
+.dark .notion-color-red { color: #ff7369; }
 
-.dark-mode .notion-color-gray_background { background: #454b4e; }
-.dark-mode .notion-color-brown_background { background: #434040; }
-.dark-mode .notion-color-orange_background { background: #594a3a; }
-.dark-mode .notion-color-yellow_background { background: #59563b; }
-.dark-mode .notion-color-green_background { background: #354c4b; }
-.dark-mode .notion-color-blue_background { background: #364954; }
-.dark-mode .notion-color-purple_background { background: #443f57; }
-.dark-mode .notion-color-pink_background { background: #533b4c; }
-.dark-mode .notion-color-red_background { background: #594141; }
+.dark .notion-color-gray_background { background: #454b4e; }
+.dark .notion-color-brown_background { background: #434040; }
+.dark .notion-color-orange_background { background: #594a3a; }
+.dark .notion-color-yellow_background { background: #59563b; }
+.dark .notion-color-green_background { background: #354c4b; }
+.dark .notion-color-blue_background { background: #364954; }
+.dark .notion-color-purple_background { background: #443f57; }
+.dark .notion-color-pink_background { background: #533b4c; }
+.dark .notion-color-red_background { background: #594141; }
 
 /* Breadcrumbs */
 .breadcrumbs {

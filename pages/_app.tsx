@@ -2,6 +2,7 @@ import * as React from 'react'
 import type { AppProps } from 'next/app'
 
 import { Analytics } from '@vercel/analytics/react'
+import { ThemeProvider } from 'next-themes'
 
 import 'styles/global.css'
 import 'styles/notion.css'
@@ -15,9 +16,9 @@ if (!isServer) {
 
 export default function App({ Component, pageProps }: AppProps) {
   return (
-    <>
+    <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
       <Component {...pageProps} />
       <Analytics />
-    </>
+    </ThemeProvider>
   )
 }
