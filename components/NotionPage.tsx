@@ -6,6 +6,7 @@ import cs from 'classnames'
 import * as config from '@/lib/config'
 import { getPageCover, getPageIcon, getPageTitle, getPagePropertyText } from '@/lib/notion-api'
 import type { NotionBlock as NotionBlockType } from '@/lib/notion-api'
+import type { ChildPageInfo } from '@/lib/notion'
 import type { Breadcrumb, DatabaseEntry, PageError, Site } from '@/lib/types'
 import { formatDate } from '@/lib/notion-utils'
 
@@ -22,6 +23,7 @@ interface NotionPageProps {
   page?: any
   blocks?: NotionBlockType[]
   databaseEntriesMap?: Record<string, DatabaseEntry[]> | null
+  childPageMap?: Record<string, ChildPageInfo> | null
   breadcrumbs?: Breadcrumb[]
   pageId?: string
   error?: PageError
@@ -32,6 +34,7 @@ export const NotionPage: React.FC<NotionPageProps> = ({
   page,
   blocks,
   databaseEntriesMap,
+  childPageMap,
   breadcrumbs,
   error,
   pageId,
@@ -113,6 +116,7 @@ export const NotionPage: React.FC<NotionPageProps> = ({
                     blocks={blocks}
                     mapPageUrl={mapPageUrl}
                     databaseEntriesMap={databaseEntriesMap}
+                    childPageMap={childPageMap}
                   />
                 </div>
               )}

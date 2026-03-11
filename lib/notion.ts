@@ -11,6 +11,12 @@ import {
   type NotionPage,
 } from './notion-api'
 import { slugify, uuidToId } from './notion-utils'
+
+function getPagePropertyNumber(page: NotionPage, name: string): number | null {
+  const prop = page.properties[name]
+  if (prop?.type === 'number') return prop.number
+  return null
+}
 import type { DatabaseEntry } from './types'
 
 export { getBlocks, getPage }
@@ -32,7 +38,22 @@ export async function getPageWithShallowBlocks(pageId: string) {
 }
 
 export async function getDatabaseEntries(databaseId: string, parentPath: string[] = []): Promise<DatabaseEntry[]> {
-  const pages = await queryDatabase(databaseId, [{ property: 'Order', direction: 'ascending' }])
+  let pages: NotionPage[]
+  try {
+    pages = await queryDatabase(databaseId, [{ property: 'Order', direction: 'ascending' }])
+  } catch (err: any) {
+    if (err?.code === 'validation_error' && err?.message?.includes('sort property')) {
+      // Database doesn't have an "Order" property — query without sort
+      try {
+        pages = await queryDatabase(databaseId)
+      } catch {
+        return []
+      }
+    } else {
+      // Database inaccessible or other error
+      return []
+    }
+  }
   return pages.map((page) => pageToEntry(page, parentPath))
 }
 
@@ -52,10 +73,49 @@ export function pageToEntry(page: NotionPage, parentPath: string[] = []): Databa
     published: getPagePropertyText(page, 'Published') ?? null,
     author: getPagePropertyText(page, 'Author') ?? null,
     lastEdited: page.last_edited_time,
+    order: getPagePropertyNumber(page, 'Order'),
   }
 }
 
 // Find child_database blocks in a page's blocks
 export function findDatabaseBlocks(blocks: NotionBlock[]): NotionBlock[] {
   return blocks.filter((b) => b.type === 'child_database')
+}
+
+// Find all child_page blocks (including nested in columns, etc.)
+function collectChildPageBlocks(blocks: NotionBlock[]): NotionBlock[] {
+  const result: NotionBlock[] = []
+  for (const block of blocks) {
+    if (block.type === 'child_page') {
+      result.push(block)
+    }
+    if (block.children) {
+      result.push(...collectChildPageBlocks(block.children))
+    }
+  }
+  return result
+}
+
+export interface ChildPageInfo {
+  icon: string | null
+  slug: string
+}
+
+export async function getChildPageMap(blocks: NotionBlock[]): Promise<Record<string, ChildPageInfo>> {
+  const childPageBlocks = collectChildPageBlocks(blocks)
+  if (childPageBlocks.length === 0) return {}
+
+  const pages = await Promise.all(
+    childPageBlocks.map((b) => getPage(b.id))
+  )
+
+  const map: Record<string, ChildPageInfo> = {}
+  pages.forEach((page, i) => {
+    const title = getPageTitle(page)
+    map[childPageBlocks[i].id] = {
+      icon: getPageIcon(page),
+      slug: slugify(title) || uuidToId(page.id),
+    }
+  })
+  return map
 }

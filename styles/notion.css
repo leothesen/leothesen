@@ -578,6 +578,10 @@ th.notion-table-cell {
   border-bottom-color: var(--fg-color);
 }
 
+.notion-page-link-icon {
+  margin-right: 6px;
+}
+
 /* Links */
 .notion-link {
   position: relative;

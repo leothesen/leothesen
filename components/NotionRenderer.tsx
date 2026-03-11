@@ -3,6 +3,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 
 import type { NotionBlock } from '@/lib/notion-api'
+import type { ChildPageInfo } from '@/lib/notion'
 import type { DatabaseEntry } from '@/lib/types'
 
 // Rich text rendering
@@ -66,12 +67,12 @@ export function RichText({ richText }: { richText: RichTextItem[] }) {
 }
 
 // Individual block renderer
-export function NotionBlock({ block, mapPageUrl, databaseEntriesMap }: { block: NotionBlock; mapPageUrl?: (id: string) => string; databaseEntriesMap?: Record<string, DatabaseEntry[]> | null }) {
+export function NotionBlock({ block, mapPageUrl, databaseEntriesMap, childPageMap }: { block: NotionBlock; mapPageUrl?: (id: string) => string; databaseEntriesMap?: Record<string, DatabaseEntry[]> | null; childPageMap?: Record<string, ChildPageInfo> | null }) {
   const renderChildren = () => {
     if (!block.children?.length) return null
     return (
       <div className="notion-block-children">
-        <NotionBlocks blocks={block.children} mapPageUrl={mapPageUrl} databaseEntriesMap={databaseEntriesMap} />
+        <NotionBlocks blocks={block.children} mapPageUrl={mapPageUrl} databaseEntriesMap={databaseEntriesMap} childPageMap={childPageMap} />
       </div>
     )
   }
@@ -333,7 +334,7 @@ export function NotionBlock({ block, mapPageUrl, databaseEntriesMap }: { block: 
           {block.children?.map((column) => (
             <div key={column.id} className="notion-column">
               {column.children && (
-                <NotionBlocks blocks={column.children} mapPageUrl={mapPageUrl} />
+                <NotionBlocks blocks={column.children} mapPageUrl={mapPageUrl} databaseEntriesMap={databaseEntriesMap} childPageMap={childPageMap} />
               )}
             </div>
           ))}
@@ -346,10 +347,12 @@ export function NotionBlock({ block, mapPageUrl, databaseEntriesMap }: { block: 
 
     case 'child_page': {
       const childPage = (block as any).child_page
-      const href = mapPageUrl ? mapPageUrl(block.id) : `/${block.id}`
+      const info = childPageMap?.[block.id]
+      const href = info ? `/${info.slug}` : (mapPageUrl ? mapPageUrl(block.id) : `/${block.id}`)
       return (
         <div className="notion-page-link">
           <Link href={href}>
+            {info?.icon && <span className="notion-page-link-icon">{info.icon}</span>}
             {childPage.title}
           </Link>
         </div>
@@ -418,7 +421,7 @@ function groupBlocks(blocks: NotionBlock[]): Array<NotionBlock | { type: 'list_g
 }
 
 // Blocks renderer (handles list grouping)
-export function NotionBlocks({ blocks, mapPageUrl, databaseEntriesMap }: { blocks: NotionBlock[]; mapPageUrl?: (id: string) => string; databaseEntriesMap?: Record<string, DatabaseEntry[]> | null }) {
+export function NotionBlocks({ blocks, mapPageUrl, databaseEntriesMap, childPageMap }: { blocks: NotionBlock[]; mapPageUrl?: (id: string) => string; databaseEntriesMap?: Record<string, DatabaseEntry[]> | null; childPageMap?: Record<string, ChildPageInfo> | null }) {
   const grouped = groupBlocks(blocks)
 
   return (
@@ -429,13 +432,13 @@ export function NotionBlocks({ blocks, mapPageUrl, databaseEntriesMap }: { block
           return (
             <ListTag key={i} className="notion-list">
               {item.items.map((block: NotionBlock) => (
-                <NotionBlock key={block.id} block={block} mapPageUrl={mapPageUrl} databaseEntriesMap={databaseEntriesMap} />
+                <NotionBlock key={block.id} block={block} mapPageUrl={mapPageUrl} databaseEntriesMap={databaseEntriesMap} childPageMap={childPageMap} />
               ))}
             </ListTag>
           )
         }
 
-        return <NotionBlock key={item.id} block={item} mapPageUrl={mapPageUrl} databaseEntriesMap={databaseEntriesMap} />
+        return <NotionBlock key={item.id} block={item} mapPageUrl={mapPageUrl} databaseEntriesMap={databaseEntriesMap} childPageMap={childPageMap} />
       })}
     </>
   )

@@ -43,6 +43,7 @@ export interface DatabaseEntry {
   published: string | null
   author: string | null
   lastEdited: string
+  order: number | null
 }
 
 export interface SiteMap {

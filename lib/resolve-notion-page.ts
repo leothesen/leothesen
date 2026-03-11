@@ -1,7 +1,7 @@
 import { parsePageId, idToUuid, uuidToId } from './notion-utils'
 import { getPageTitle, getPageIcon } from './notion-api'
 import { pageUrlAdditions, pageUrlOverrides, site } from './config'
-import { getPageWithBlocks, getPageWithShallowBlocks, getDatabaseEntries, findDatabaseBlocks } from './notion'
+import { getPageWithBlocks, getPageWithShallowBlocks, getDatabaseEntries, findDatabaseBlocks, getChildPageMap } from './notion'
 import type { Breadcrumb, DatabaseEntry } from './types'
 
 interface ResolveResult {
@@ -124,16 +124,20 @@ export async function resolveNotionPage(domain: string, rawPageId?: string | str
     const uuid = idToUuid(pageId)
     const { page, blocks } = await getPageWithBlocks(uuid)
 
-    // Fetch database entries keyed by database block ID
-    let databaseEntriesMap: Record<string, DatabaseEntry[]> | undefined
+    // Fetch database entries and child page info in parallel
     const dbBlocks = findDatabaseBlocks(blocks)
+    const [dbEntries, childPageMap] = await Promise.all([
+      dbBlocks.length > 0
+        ? Promise.all(dbBlocks.map((db) => getDatabaseEntries(db.id, segments)))
+        : Promise.resolve([]),
+      getChildPageMap(blocks),
+    ])
+
+    let databaseEntriesMap: Record<string, DatabaseEntry[]> | null = null
     if (dbBlocks.length > 0) {
-      const allEntries = await Promise.all(
-        dbBlocks.map((db) => getDatabaseEntries(db.id, segments))
-      )
       databaseEntriesMap = {}
       dbBlocks.forEach((db, i) => {
-        databaseEntriesMap![db.id] = allEntries[i]
+        databaseEntriesMap![db.id] = dbEntries[i]
       })
     }
 
@@ -143,7 +147,8 @@ export async function resolveNotionPage(domain: string, rawPageId?: string | str
       blocks,
       pageId,
       breadcrumbs,
-      databaseEntriesMap: databaseEntriesMap ?? null,
+      databaseEntriesMap,
+      childPageMap: Object.keys(childPageMap).length > 0 ? childPageMap : null,
     }
   } catch (err) {
     console.error('page error', domain, pageId, err)
