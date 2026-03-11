@@ -121,12 +121,31 @@ export async function resolveNotionPageLocal(domain: string, rawPageId?: string 
       ? localPage.databaseEntries
       : null
 
+  // Rewrite Notion URLs to local paths
+  const rewrittenMarkdown = rewriteNotionUrls(localPage.markdown, manifest)
+
   return {
     site,
     pageMeta: localPage.meta,
-    markdown: localPage.markdown,
+    markdown: rewrittenMarkdown,
     pageId,
     breadcrumbs,
     databaseEntriesMap,
   }
+}
+
+// Replace notion.so URLs with local slug paths using the manifest
+function rewriteNotionUrls(markdown: string, manifest: ReturnType<typeof getManifest>): string {
+  // Match Notion page URLs like https://www.notion.so/<id> or https://www.notion.so/<slug>-<id>
+  return markdown.replace(
+    /https:\/\/(?:www\.)?notion\.so\/(?:[^/]*\/)?(?:[a-zA-Z0-9-]*?)([a-f0-9]{32})/g,
+    (fullMatch, rawId) => {
+      const cleanId = rawId.replace(/-/g, '')
+      const pageInfo = manifest.pages[cleanId]
+      if (pageInfo && pageInfo.slugPath.length > 0) {
+        return '/' + pageInfo.slugPath.join('/')
+      }
+      return fullMatch
+    }
+  )
 }
