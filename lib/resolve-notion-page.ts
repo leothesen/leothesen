@@ -3,6 +3,30 @@ import { pageUrlAdditions, pageUrlOverrides, site } from './config'
 import { getPageWithBlocks, getDatabaseEntries, findDatabaseBlocks } from './notion'
 import type { DatabaseEntry } from './types'
 
+// Recursively search databases within a page (and its child pages) for a matching slug
+async function findPageBySlug(slug: string, pageUuid: string, depth = 0): Promise<string | undefined> {
+  if (depth > 3) return undefined // prevent infinite recursion
+
+  const { blocks } = await getPageWithBlocks(pageUuid)
+  const dbBlocks = findDatabaseBlocks(blocks)
+
+  for (const dbBlock of dbBlocks) {
+    const entries = await getDatabaseEntries(dbBlock.id)
+    const entry = entries.find((e) => e.slug === slug)
+    if (entry) {
+      return uuidToId(entry.id)
+    }
+
+    // Search databases inside each entry's page
+    for (const e of entries) {
+      const found = await findPageBySlug(slug, e.id, depth + 1)
+      if (found) return found
+    }
+  }
+
+  return undefined
+}
+
 export async function resolveNotionPage(domain: string, rawPageId?: string) {
   let pageId: string
 
@@ -18,18 +42,8 @@ export async function resolveNotionPage(domain: string, rawPageId?: string) {
     }
 
     if (!pageId) {
-      // Try to find the page by slug in the database
-      const rootData = await getPageWithBlocks(idToUuid(site.rootNotionPageId))
-      const dbBlocks = findDatabaseBlocks(rootData.blocks)
-
-      for (const dbBlock of dbBlocks) {
-        const entries = await getDatabaseEntries(dbBlock.id)
-        const entry = entries.find((e) => e.slug === rawPageId)
-        if (entry) {
-          pageId = uuidToId(entry.id)
-          break
-        }
-      }
+      // Try to find the page by slug in the database (recursively searching nested databases)
+      pageId = await findPageBySlug(rawPageId, idToUuid(site.rootNotionPageId))
     }
 
     if (!pageId) {
