@@ -276,7 +276,7 @@ export function NotionBlock({ block, mapPageUrl }: { block: NotionBlock; mapPage
       const callout = (block as any).callout
       const icon = callout.icon
       return (
-        <div className={`notion-callout notion-callout-${callout.color || 'default'}`}>
+        <div className={`notion-callout${callout.color && callout.color !== 'default' ? ` notion-color-${callout.color}` : ''}`}>
           {icon && (
             <div className="notion-callout-icon">
               {icon.type === 'emoji' ? icon.emoji : null}
