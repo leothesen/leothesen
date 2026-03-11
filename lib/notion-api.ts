@@ -25,16 +25,23 @@ export async function getBlocks(blockId: string): Promise<NotionBlock[]> {
       page_size: 100,
     })
 
+    const typedBlocks: NotionBlock[] = []
     for (const block of response.results) {
       if ('type' in block) {
-        const typedBlock = block as NotionBlock
-        if (typedBlock.has_children) {
-          typedBlock.children = await getBlocks(typedBlock.id)
-        }
-        blocks.push(typedBlock)
+        typedBlocks.push(block as NotionBlock)
       }
     }
 
+    // Fetch children in parallel for all blocks that have them
+    const childrenNeeded = typedBlocks.filter((b) => b.has_children)
+    if (childrenNeeded.length > 0) {
+      const childResults = await Promise.all(
+        childrenNeeded.map((b) => getBlocks(b.id))
+      )
+      childrenNeeded.forEach((b, i) => { b.children = childResults[i] })
+    }
+
+    blocks.push(...typedBlocks)
     cursor = response.next_cursor ?? undefined
   } while (cursor)
 
