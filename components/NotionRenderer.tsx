@@ -29,7 +29,14 @@ export function RichText({ richText }: { richText: RichTextItem[] }) {
   return (
     <>
       {richText.map((item, i) => {
-        let content: React.ReactNode = item.plain_text
+        let content: React.ReactNode = item.plain_text.includes('\n')
+          ? item.plain_text.split('\n').map((line, j, arr) => (
+              <React.Fragment key={j}>
+                {line}
+                {j < arr.length - 1 && <br />}
+              </React.Fragment>
+            ))
+          : item.plain_text
 
         if (item.href) {
           const isInternal = item.href.startsWith('/')
