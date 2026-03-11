@@ -94,11 +94,18 @@ export const NotionPage: React.FC<NotionPageProps> = ({
 
               <h1 className="notion-title">{title}</h1>
 
-              {publishedDate && !isRootPage && (
+              {!isRootPage && (publishedDate || page.last_edited_time) && (
                 <div className="notion-page-meta">
-                  <span className="notion-page-date">
-                    {formatDate(publishedDate, { month: 'long' })}
-                  </span>
+                  {publishedDate && (
+                    <span className="notion-page-date">
+                      {formatDate(publishedDate, { month: 'long' })}
+                    </span>
+                  )}
+                  {page.last_edited_time && (
+                    <span className="notion-page-date">
+                      Last edited {formatDate(page.last_edited_time, { month: 'long' })}
+                    </span>
+                  )}
                 </div>
               )}
 

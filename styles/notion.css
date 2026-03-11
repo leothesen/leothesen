@@ -192,6 +192,9 @@
   text-align: center;
   color: var(--fg-color-1);
   font-size: 14px;
+  display: flex;
+  justify-content: center;
+  gap: 0.5em;
   margin-bottom: 24px;
 }
 
