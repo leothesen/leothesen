@@ -50,6 +50,12 @@ export interface SiteMap {
   pages: DatabaseEntry[]
 }
 
+export interface Breadcrumb {
+  title: string
+  icon: string | null
+  href: string
+}
+
 export interface PageUrlOverridesMap {
   [pagePath: string]: string
 }

@@ -6,11 +6,12 @@ import cs from 'classnames'
 import * as config from '@/lib/config'
 import { getPageCover, getPageIcon, getPageTitle, getPagePropertyText } from '@/lib/notion-api'
 import type { NotionBlock as NotionBlockType } from '@/lib/notion-api'
-import type { DatabaseEntry, PageError, Site } from '@/lib/types'
+import type { Breadcrumb, DatabaseEntry, PageError, Site } from '@/lib/types'
 import { useDarkMode } from '@/lib/use-dark-mode'
 import { formatDate } from '@/lib/notion-utils'
 
 import { NotionBlocks, DatabaseView } from './NotionRenderer'
+import { Breadcrumbs } from './Breadcrumbs'
 import { Footer } from './Footer'
 import { Loading } from './Loading'
 import { NotionPageHeader } from './NotionPageHeader'
@@ -22,6 +23,7 @@ interface NotionPageProps {
   page?: any
   blocks?: NotionBlockType[]
   databaseEntries?: DatabaseEntry[]
+  breadcrumbs?: Breadcrumb[]
   pageId?: string
   error?: PageError
 }
@@ -31,6 +33,7 @@ export const NotionPage: React.FC<NotionPageProps> = ({
   page,
   blocks,
   databaseEntries,
+  breadcrumbs,
   error,
   pageId,
 }) => {
@@ -78,6 +81,10 @@ export const NotionPage: React.FC<NotionPageProps> = ({
           )}
 
           <div className="notion-page-content">
+            {breadcrumbs?.length > 0 && (
+              <Breadcrumbs items={breadcrumbs} />
+            )}
+
             {icon && (
               <div className="notion-page-icon-hero">
                 {icon.startsWith('http') ? (
