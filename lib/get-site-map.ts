@@ -1,78 +1,36 @@
-import { getAllPagesInSpace, uuidToId } from 'notion-utils'
-import pMemoize from 'p-memoize'
-
 import * as config from './config'
-import * as types from './types'
-import { includeNotionIdInUrls } from './config'
-import { getCanonicalPageId } from './get-canonical-page-id'
-import { notion } from './notion-api'
+import { idToUuid } from './notion-utils'
+import { getPageWithBlocks, getDatabaseEntries, findDatabaseBlocks } from './notion'
+import type { DatabaseEntry, SiteMap } from './types'
 
-const uuid = !!includeNotionIdInUrls
+// Recursively collect all database entries from a page and its nested pages
+async function collectAllEntries(pageUuid: string, parentPath: string[] = [], depth = 0): Promise<DatabaseEntry[]> {
+  if (depth > 3) return []
 
-export async function getSiteMap(): Promise<types.SiteMap> {
-  const partialSiteMap = await getAllPages(
-    config.rootNotionPageId,
-    config.rootNotionSpaceId
-  )
+  const { blocks } = await getPageWithBlocks(pageUuid)
+  const dbBlocks = findDatabaseBlocks(blocks)
+  const pages: DatabaseEntry[] = []
+
+  for (const db of dbBlocks) {
+    const entries = await getDatabaseEntries(db.id, parentPath)
+    pages.push(...entries)
+
+    // Recurse into each entry's page to find nested databases
+    for (const entry of entries) {
+      const nested = await collectAllEntries(entry.id, entry.path, depth + 1)
+      pages.push(...nested)
+    }
+  }
+
+  return pages
+}
+
+export async function getSiteMap(): Promise<SiteMap> {
+  const rootUuid = idToUuid(config.rootNotionPageId)
+  const pages = await collectAllEntries(rootUuid)
 
   return {
     site: config.site,
-    ...partialSiteMap
-  } as types.SiteMap
-}
-
-const getAllPages = pMemoize(getAllPagesImpl, {
-  cacheKey: (...args) => JSON.stringify(args)
-})
-
-async function getAllPagesImpl(
-  rootNotionPageId: string,
-  rootNotionSpaceId: string
-): Promise<Partial<types.SiteMap>> {
-  const getPage = async (pageId: string, ...args) => {
-    console.log('\nnotion getPage', uuidToId(pageId))
-    return notion.getPage(pageId, ...args)
-  }
-
-  const pageMap = await getAllPagesInSpace(
-    rootNotionPageId,
-    rootNotionSpaceId,
-    getPage
-  )
-
-  const canonicalPageMap = Object.keys(pageMap).reduce(
-    (map, pageId: string) => {
-      const recordMap = pageMap[pageId]
-      if (!recordMap) {
-        throw new Error(`Error loading page "${pageId}"`)
-      }
-
-      const canonicalPageId = getCanonicalPageId(pageId, recordMap, {
-        uuid
-      })
-
-      if (map[canonicalPageId]) {
-        // you can have multiple pages in different collections that have the same id
-        // TODO: we may want to error if neither entry is a collection page
-        console.warn('error duplicate canonical page id', {
-          canonicalPageId,
-          pageId,
-          existingPageId: map[canonicalPageId]
-        })
-
-        return map
-      } else {
-        return {
-          ...map,
-          [canonicalPageId]: pageId
-        }
-      }
-    },
-    {}
-  )
-
-  return {
-    pageMap,
-    canonicalPageMap
+    pages,
   }
 }

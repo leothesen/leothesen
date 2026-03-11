@@ -1,91 +1,157 @@
-import { ExtendedRecordMap } from 'notion-types'
-import { parsePageId } from 'notion-utils'
+import { parsePageId, idToUuid, uuidToId } from './notion-utils'
+import { getPageTitle, getPageIcon } from './notion-api'
+import { pageUrlAdditions, pageUrlOverrides, site } from './config'
+import { getPageWithBlocks, getPageWithShallowBlocks, getDatabaseEntries, findDatabaseBlocks, getChildPageMap } from './notion'
+import type { Breadcrumb, DatabaseEntry } from './types'
 
-import * as acl from './acl'
-import { environment, pageUrlAdditions, pageUrlOverrides, site } from './config'
-import { db } from './db'
-import { getSiteMap } from './get-site-map'
-import { getPage } from './notion'
+interface ResolveResult {
+  pageId: string
+  breadcrumbs: Breadcrumb[]
+}
 
-export async function resolveNotionPage(domain: string, rawPageId?: string) {
+// Walk path segments through nested databases, collecting breadcrumbs along the way
+async function resolvePathSegments(segments: string[], pageUuid: string): Promise<ResolveResult | undefined> {
+  let currentPageUuid = pageUuid
+  const breadcrumbs: Breadcrumb[] = []
+
+  for (let i = 0; i < segments.length; i++) {
+    const segment = segments[i]
+    const { blocks, page } = await getPageWithShallowBlocks(currentPageUuid)
+    const dbBlocks = findDatabaseBlocks(blocks)
+
+    // Add the current page as a breadcrumb (skip root for first iteration — it's always shown)
+    if (i > 0) {
+      breadcrumbs.push({
+        title: getPageTitle(page),
+        icon: getPageIcon(page) ?? null,
+        href: '/' + segments.slice(0, i).join('/'),
+      })
+    }
+
+    // Fetch all database entries in parallel
+    const allEntries = await Promise.all(dbBlocks.map((db) => getDatabaseEntries(db.id)))
+
+    let found = false
+    for (const entries of allEntries) {
+      const entry = entries.find((e) => e.slug === segment)
+      if (entry) {
+        currentPageUuid = entry.id
+        found = true
+        break
+      }
+    }
+
+    if (!found) return undefined
+  }
+
+  return {
+    pageId: uuidToId(currentPageUuid),
+    breadcrumbs,
+  }
+}
+
+// Fallback: recursively search all nested databases for a slug (for flat URLs)
+async function findPageBySlug(slug: string, pageUuid: string, depth = 0): Promise<string | undefined> {
+  if (depth > 3) return undefined
+
+  const { blocks } = await getPageWithShallowBlocks(pageUuid)
+  const dbBlocks = findDatabaseBlocks(blocks)
+
+  for (const dbBlock of dbBlocks) {
+    const entries = await getDatabaseEntries(dbBlock.id)
+    const entry = entries.find((e) => e.slug === slug)
+    if (entry) {
+      return uuidToId(entry.id)
+    }
+
+    for (const e of entries) {
+      const found = await findPageBySlug(slug, e.id, depth + 1)
+      if (found) return found
+    }
+  }
+
+  return undefined
+}
+
+export async function resolveNotionPage(domain: string, rawPageId?: string | string[]) {
   let pageId: string
-  let recordMap: ExtendedRecordMap
+  let breadcrumbs: Breadcrumb[] = []
 
-  if (rawPageId && rawPageId !== 'index') {
-    pageId = parsePageId(rawPageId)
+  // Normalize to array of path segments
+  const segments = Array.isArray(rawPageId) ? rawPageId : rawPageId ? [rawPageId] : []
+
+  if (segments.length > 0 && segments[0] !== 'index') {
+    // First, try parsing as a direct Notion page ID (single segment only)
+    if (segments.length === 1) {
+      pageId = parsePageId(segments[0])
+
+      if (!pageId) {
+        const override = pageUrlOverrides[segments[0]] || pageUrlAdditions[segments[0]]
+        if (override) {
+          pageId = parsePageId(override)
+        }
+      }
+    }
 
     if (!pageId) {
-      // check if the site configuration provides an override or a fallback for
-      // the page's URI
-      const override =
-        pageUrlOverrides[rawPageId] || pageUrlAdditions[rawPageId]
-
-      if (override) {
-        pageId = parsePageId(override)
+      // Try walking the path segments through nested databases
+      const result = await resolvePathSegments(segments, idToUuid(site.rootNotionPageId))
+      if (result) {
+        pageId = result.pageId
+        breadcrumbs = result.breadcrumbs
       }
     }
 
-    const useUriToPageIdCache = true
-    const cacheKey = `uri-to-page-id:${domain}:${environment}:${rawPageId}`
-    // TODO: should we use a TTL for these mappings or make them permanent?
-    // const cacheTTL = 8.64e7 // one day in milliseconds
-    const cacheTTL = undefined // disable cache TTL
-
-    if (!pageId && useUriToPageIdCache) {
-      try {
-        // check if the database has a cached mapping of this URI to page ID
-        pageId = await db.get(cacheKey)
-
-        // console.log(`redis get "${cacheKey}"`, pageId)
-      } catch (err) {
-        // ignore redis errors
-        console.warn(`redis error get "${cacheKey}"`, err.message)
-      }
+    if (!pageId && segments.length === 1) {
+      // Fallback: deep search for flat URLs (backwards compatibility)
+      pageId = await findPageBySlug(segments[0], idToUuid(site.rootNotionPageId))
     }
 
-    if (pageId) {
-      recordMap = await getPage(pageId)
-    } else {
-      // handle mapping of user-friendly canonical page paths to Notion page IDs
-      // e.g., /developer-x-entrepreneur versus /71201624b204481f862630ea25ce62fe
-      const siteMap = await getSiteMap()
-      pageId = siteMap?.canonicalPageMap[rawPageId]
-
-      if (pageId) {
-        // TODO: we're not re-using the page recordMap from siteMaps because it is
-        // cached aggressively
-        // recordMap = siteMap.pageMap[pageId]
-
-        recordMap = await getPage(pageId)
-
-        if (useUriToPageIdCache) {
-          try {
-            // update the database mapping of URI to pageId
-            await db.set(cacheKey, pageId, cacheTTL)
-
-            // console.log(`redis set "${cacheKey}"`, pageId, { cacheTTL })
-          } catch (err) {
-            // ignore redis errors
-            console.warn(`redis error set "${cacheKey}"`, err.message)
-          }
-        }
-      } else {
-        // note: we're purposefully not caching URI to pageId mappings for 404s
-        return {
-          error: {
-            message: `Not found "${rawPageId}"`,
-            statusCode: 404
-          }
-        }
+    if (!pageId) {
+      return {
+        site,
+        error: {
+          message: `Not found "${segments.join('/')}"`,
+          statusCode: 404,
+        },
       }
     }
   } else {
     pageId = site.rootNotionPageId
-
-    console.log(site)
-    recordMap = await getPage(pageId)
   }
 
-  const props = { site, recordMap, pageId }
-  return { ...props, ...(await acl.pageAcl(props)) }
+  try {
+    const uuid = idToUuid(pageId)
+    const { page, blocks } = await getPageWithBlocks(uuid)
+
+    // Fetch database entries and child page info in parallel
+    const dbBlocks = findDatabaseBlocks(blocks)
+    const [dbEntries, childPageMap] = await Promise.all([
+      dbBlocks.length > 0
+        ? Promise.all(dbBlocks.map((db) => getDatabaseEntries(db.id, segments)))
+        : Promise.resolve([]),
+      getChildPageMap(blocks),
+    ])
+
+    let databaseEntriesMap: Record<string, DatabaseEntry[]> | null = null
+    if (dbBlocks.length > 0) {
+      databaseEntriesMap = {}
+      dbBlocks.forEach((db, i) => {
+        databaseEntriesMap![db.id] = dbEntries[i]
+      })
+    }
+
+    return {
+      site,
+      page,
+      blocks,
+      pageId,
+      breadcrumbs,
+      databaseEntriesMap,
+      childPageMap: Object.keys(childPageMap).length > 0 ? childPageMap : null,
+    }
+  } catch (err) {
+    console.error('page error', domain, pageId, err)
+    throw err
+  }
 }

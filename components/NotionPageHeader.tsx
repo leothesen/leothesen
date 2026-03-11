@@ -1,87 +1,82 @@
 import * as React from 'react'
+import Link from 'next/link'
 
-import * as types from 'notion-types'
-import { IoMoonSharp } from '@react-icons/all-files/io5/IoMoonSharp'
-import { IoSunnyOutline } from '@react-icons/all-files/io5/IoSunnyOutline'
 import cs from 'classnames'
-import { Breadcrumbs, Header, Search, useNotionContext } from 'react-notion-x'
 
-import { isSearchEnabled, navigationLinks, navigationStyle } from '@/lib/config'
-import { useDarkMode } from '@/lib/use-dark-mode'
+import { navigationLinks, navigationStyle } from '@/lib/config'
+import type { Breadcrumb } from '@/lib/types'
 
 import styles from './styles.module.css'
 
-const ToggleThemeButton = () => {
-  const [hasMounted, setHasMounted] = React.useState(false)
-  const { isDarkMode, toggleDarkMode } = useDarkMode()
-
-  React.useEffect(() => {
-    setHasMounted(true)
-  }, [])
-
-  const onToggleTheme = React.useCallback(() => {
-    toggleDarkMode()
-  }, [toggleDarkMode])
-
-  return (
-    <div
-      className={cs('breadcrumb', 'button', !hasMounted && styles.hidden)}
-      onClick={onToggleTheme}
-    >
-      {hasMounted && isDarkMode ? <IoMoonSharp /> : <IoSunnyOutline />}
-    </div>
-  )
+function BreadcrumbIcon({ icon }: { icon: string }) {
+  if (icon.startsWith('http')) {
+    return <img src={icon} alt="" className="breadcrumb-icon-image" />
+  }
+  return <span className="breadcrumb-icon-emoji">{icon}</span>
 }
 
-export const NotionPageHeader: React.FC<{
-  block: types.CollectionViewPageBlock | types.PageBlock
-}> = ({ block }) => {
-  const { components, mapPageUrl } = useNotionContext()
+function useScrollDirection() {
+  const [hidden, setHidden] = React.useState(false)
 
-  if (navigationStyle === 'default') {
-    return <Header block={block} />
-  }
+  React.useEffect(() => {
+    let lastScrollY = window.scrollY
+
+    const onScroll = () => {
+      const currentScrollY = window.scrollY
+      // Always show header near the top of the page
+      if (currentScrollY < 10) {
+        setHidden(false)
+      } else if (currentScrollY > lastScrollY) {
+        setHidden(true)
+      } else {
+        setHidden(false)
+      }
+      lastScrollY = currentScrollY
+    }
+
+    window.addEventListener('scroll', onScroll, { passive: true })
+    return () => window.removeEventListener('scroll', onScroll)
+  }, [])
+
+  return hidden
+}
+
+export const NotionPageHeader: React.FC<{ breadcrumbs?: Breadcrumb[] }> = ({ breadcrumbs }) => {
+  const hidden = useScrollDirection()
 
   return (
-    <header className='notion-header'>
+    <header className={cs('notion-header', hidden && 'notion-header-hidden')}>
       <div className='notion-nav-header'>
-        <Breadcrumbs block={block} rootOnly={true} />
+        <nav className="notion-nav-breadcrumbs" aria-label="Breadcrumb">
+          <Link href="/" className="breadcrumb button">Home</Link>
+          {breadcrumbs?.map((item) => (
+            <React.Fragment key={item.href}>
+              <span className="breadcrumb-separator" aria-hidden="true">/</span>
+              <Link href={item.href} className="breadcrumb button">
+                {item.icon && <BreadcrumbIcon icon={item.icon} />}
+                {item.title}
+              </Link>
+            </React.Fragment>
+          ))}
+        </nav>
 
-        <div className='notion-nav-header-rhs breadcrumbs'>
-          {navigationLinks
-            ?.map((link, index) => {
-              if (!link.pageId && !link.url) {
-                return null
-              }
-
-              if (link.pageId) {
-                return (
-                  <components.PageLink
-                    href={mapPageUrl(link.pageId)}
-                    key={index}
-                    className={cs(styles.navLink, 'breadcrumb', 'button')}
-                  >
-                    {link.title}
-                  </components.PageLink>
-                )
-              } else {
-                return (
-                  <components.Link
-                    href={link.url}
-                    key={index}
-                    className={cs(styles.navLink, 'breadcrumb', 'button')}
-                  >
-                    {link.title}
-                  </components.Link>
-                )
-              }
-            })
-            .filter(Boolean)}
-
-          <ToggleThemeButton />
-
-          {isSearchEnabled && <Search block={block} title={null} />}
-        </div>
+        {navigationStyle === 'custom' && navigationLinks?.length > 0 && (
+          <div className='notion-nav-header-rhs'>
+            {navigationLinks.map((link, index) => {
+              if (!link?.pageId && !link?.url) return null
+              const href = link.url || `/${link.pageId}`
+              return (
+                <a
+                  href={href}
+                  key={index}
+                  className={cs(styles.navLink, 'breadcrumb', 'button')}
+                >
+                  {link.title}
+                </a>
+              )
+            })}
+          </div>
+        )}
       </div>
     </header>
   )

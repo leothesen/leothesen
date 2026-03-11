@@ -1,7 +1,4 @@
-import { ExtendedRecordMap, PageMap } from 'notion-types'
-import { ParsedUrlQuery } from 'querystring'
-
-export * from 'notion-types'
+import type { NotionBlock, NotionPage } from './notion-api'
 
 export type NavigationStyle = 'default' | 'custom'
 
@@ -10,63 +7,70 @@ export interface PageError {
   statusCode: number
 }
 
+export interface Site {
+  name: string
+  domain: string
+  rootNotionPageId: string
+  rootNotionSpaceId: string | null
+  description?: string
+}
+
 export interface PageProps {
   site?: Site
-  recordMap?: ExtendedRecordMap
+  page?: NotionPage
+  blocks?: NotionBlock[]
   pageId?: string
   error?: PageError
 }
 
-export interface Params extends ParsedUrlQuery {
-  pageId: string
+export interface DatabasePageProps {
+  site?: Site
+  page?: NotionPage
+  blocks?: NotionBlock[]
+  databaseEntries?: DatabaseEntry[]
+  pageId?: string
+  error?: PageError
 }
 
-export interface Site {
-  name: string
-  domain: string
-
-  rootNotionPageId: string
-  rootNotionSpaceId: string
-
-  // settings
-  html?: string
-  fontFamily?: string
-  darkMode?: boolean
-  previewImages?: boolean
-
-  // opengraph metadata
-  description?: string
-  image?: string
+export interface DatabaseEntry {
+  id: string
+  title: string
+  description: string | null
+  cover: string | null
+  icon: string | null
+  slug: string
+  path: string[]
+  published: string | null
+  author: string | null
+  lastEdited: string
+  order: number | null
 }
 
 export interface SiteMap {
   site: Site
-  pageMap: PageMap
-  canonicalPageMap: CanonicalPageMap
+  pages: DatabaseEntry[]
 }
 
-export interface CanonicalPageMap {
-  [canonicalPageId: string]: string
+export interface Breadcrumb {
+  title: string
+  icon: string | null
+  href: string
 }
 
 export interface PageUrlOverridesMap {
-  // maps from a URL path to the notion page id the page should be resolved to
-  // (this overrides the built-in URL path generation for these pages)
   [pagePath: string]: string
 }
 
 export interface PageUrlOverridesInverseMap {
-  // maps from a notion page id to the URL path the page should be resolved to
-  // (this overrides the built-in URL path generation for these pages)
   [pageId: string]: string
 }
 
 export interface NotionPageInfo {
   pageId: string
   title: string
-  image: string
-  imageObjectPosition: string
+  image: string | null
+  imageObjectPosition: string | null
   author: string
-  authorImage: string
+  authorImage: string | null
   detail: string
 }

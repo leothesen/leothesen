@@ -10,14 +10,11 @@ export const getServerSideProps: GetServerSideProps = async ({ req, res }) => {
     res.setHeader('Content-Type', 'application/json')
     res.write(JSON.stringify({ error: 'method not allowed' }))
     res.end()
-    return {
-      props: {}
-    }
+    return { props: {} }
   }
 
   const siteMap = await getSiteMap()
 
-  // cache for up to 8 hours
   res.setHeader(
     'Cache-Control',
     'public, max-age=28800, stale-while-revalidate=28800'
@@ -26,9 +23,7 @@ export const getServerSideProps: GetServerSideProps = async ({ req, res }) => {
   res.write(createSitemap(siteMap))
   res.end()
 
-  return {
-    props: {}
-  }
+  return { props: {} }
 }
 
 const createSitemap = (siteMap: SiteMap) =>
@@ -42,11 +37,11 @@ const createSitemap = (siteMap: SiteMap) =>
       <loc>${host}/</loc>
     </url>
 
-    ${Object.keys(siteMap.canonicalPageMap)
-      .map((canonicalPagePath) =>
-        `
+    ${siteMap.pages
+      .map(
+        (page) => `
           <url>
-            <loc>${host}/${canonicalPagePath}</loc>
+            <loc>${host}/${page.path.join('/')}</loc>
           </url>
         `.trim()
       )
