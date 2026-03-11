@@ -107,6 +107,12 @@
 }
 
 /* Page layout */
+.notion-page-layout {
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
 .notion-page {
   max-width: var(--notion-max-width);
   width: 100%;
@@ -116,6 +122,7 @@
   padding-bottom: calc(max(5vh, 32px));
   line-height: 1.65;
   flex: 1;
+  min-width: 0;
 }
 
 .index-page {
@@ -183,6 +190,106 @@
 /* Page body */
 .notion-page-body {
   margin-top: 16px;
+}
+
+/* Table of contents sidebar */
+.notion-toc {
+  position: fixed;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 16px;
+  width: 220px;
+  max-height: calc(100vh - var(--notion-header-height) * 2 - 32px);
+  overflow-y: auto;
+  overflow-x: hidden;
+  display: none;
+}
+
+@media (min-width: 1280px) {
+  .notion-toc {
+    display: block;
+  }
+}
+
+/* Collapsed dashes (default) */
+.notion-toc-dashes {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 4px;
+  padding: 4px 0;
+}
+
+.notion-toc-dash {
+  display: block;
+  padding: 3px 0;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.notion-toc-dash span {
+  display: block;
+  height: 1.5px;
+  background: var(--fg-color-1);
+  border-radius: 1px;
+  transition: background 150ms ease-out;
+}
+
+.notion-toc-dash-active span {
+  height: 2px;
+  background: var(--fg-color);
+}
+
+/* Expanded labels (on hover) */
+.notion-toc-expanded {
+  display: none;
+  width: 220px;
+}
+
+.notion-toc:hover .notion-toc-dashes {
+  display: none;
+}
+
+.notion-toc:hover .notion-toc-expanded {
+  display: block;
+}
+
+.notion-toc:hover {
+  border: 1px solid var(--fg-color-0);
+  border-radius: 8px;
+  padding: 12px;
+}
+
+.notion-toc-expanded ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.notion-toc-expanded li {
+  margin: 0;
+}
+
+.notion-toc-expanded li a {
+  display: block;
+  font-size: 13px;
+  line-height: 1.4;
+  color: var(--fg-color-1);
+  text-decoration: none;
+  padding: 3px 0;
+  transition: color 100ms ease-out;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.notion-toc-expanded li a:hover {
+  color: var(--fg-color);
+}
+
+.notion-toc-expanded li.notion-toc-active a {
+  color: var(--fg-color);
+  font-weight: 500;
 }
 
 /* Text blocks */
