@@ -11,6 +11,7 @@ import { useDarkMode } from '@/lib/use-dark-mode'
 import { formatDate } from '@/lib/notion-utils'
 
 import { NotionBlocks, DatabaseView } from './NotionRenderer'
+import { TableOfContents } from './TableOfContents'
 import { Footer } from './Footer'
 import { Loading } from './Loading'
 import { NotionPageHeader } from './NotionPageHeader'
@@ -78,39 +79,45 @@ export const NotionPage: React.FC<NotionPageProps> = ({
           </div>
         )}
 
-        <main className={cs('notion-page', isRootPage && 'index-page')}>
-          <div className="notion-page-content">
-            {icon && (
-              <div className="notion-page-icon-hero">
-                {icon.startsWith('http') ? (
-                  <img src={icon} alt="" className="notion-page-icon-image" />
-                ) : (
-                  <span className="notion-page-icon-emoji">{icon}</span>
-                )}
-              </div>
-            )}
+        <div className="notion-page-layout">
+          <main className={cs('notion-page', isRootPage && 'index-page')}>
+            <div className="notion-page-content">
+              {icon && (
+                <div className="notion-page-icon-hero">
+                  {icon.startsWith('http') ? (
+                    <img src={icon} alt="" className="notion-page-icon-image" />
+                  ) : (
+                    <span className="notion-page-icon-emoji">{icon}</span>
+                  )}
+                </div>
+              )}
 
-            <h1 className="notion-title">{title}</h1>
+              <h1 className="notion-title">{title}</h1>
 
-            {publishedDate && !isRootPage && (
-              <div className="notion-page-meta">
-                <span className="notion-page-date">
-                  {formatDate(publishedDate, { month: 'long' })}
-                </span>
-              </div>
-            )}
+              {publishedDate && !isRootPage && (
+                <div className="notion-page-meta">
+                  <span className="notion-page-date">
+                    {formatDate(publishedDate, { month: 'long' })}
+                  </span>
+                </div>
+              )}
 
-            {databaseEntries && databaseEntries.length > 0 && (
-              <DatabaseView entries={databaseEntries} />
-            )}
+              {databaseEntries && databaseEntries.length > 0 && (
+                <DatabaseView entries={databaseEntries} />
+              )}
 
-            {blocks && (
-              <div className="notion-page-body">
-                <NotionBlocks blocks={blocks} mapPageUrl={mapPageUrl} />
-              </div>
-            )}
-          </div>
-        </main>
+              {blocks && (
+                <div className="notion-page-body">
+                  <NotionBlocks blocks={blocks} mapPageUrl={mapPageUrl} />
+                </div>
+              )}
+            </div>
+          </main>
+
+          {blocks && !isRootPage && (
+            <TableOfContents blocks={blocks} />
+          )}
+        </div>
 
         <Footer />
       </div>
