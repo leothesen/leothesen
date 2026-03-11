@@ -6,6 +6,7 @@
     "**/npm-debug.log*": true,
     "**/yarn-debug.log*": true,
     "**/yarn-error.log*": true,
+    "**/pnpm-debug.log*": true,
     "**/pids": true,
     "**/*.pid": true,
     "**/*.seed": true,
