@@ -24,20 +24,28 @@
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  padding-top: var(--notion-header-height);
   background: var(--bg-color);
   color: var(--fg-color);
 }
 
 /* Header */
 .notion-header {
-  position: sticky;
+  position: fixed;
   top: 0;
+  left: 0;
+  right: 0;
   z-index: 100;
   height: var(--notion-header-height);
   background: hsla(0, 0%, 100%, 0.8);
   backdrop-filter: saturate(180%) blur(16px);
   display: flex;
   align-items: center;
+  transition: transform 300ms ease;
+}
+
+.notion-header.notion-header-hidden {
+  transform: translateY(-100%);
 }
 
 .dark-mode .notion-header {
@@ -302,6 +310,12 @@
 }
 
 /* Headings */
+.notion-h1,
+.notion-h2,
+.notion-h3 {
+  scroll-margin-top: calc(var(--notion-header-height) + 16px);
+}
+
 .notion-h1 {
   font-size: 1.875em;
   font-weight: 600;
