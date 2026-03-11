@@ -1,0 +1,132 @@
+import { site, pageUrlOverrides, pageUrlAdditions } from './config'
+import { parsePageId } from './notion-utils'
+import { getManifest, getLocalPage } from './notion-local'
+import type { Breadcrumb, DatabaseEntry } from './types'
+
+interface SlugTreeNode {
+  pageId: string
+  title: string
+  children: Record<string, SlugTreeNode>
+}
+
+function findPageBySlugPath(
+  segments: string[],
+  tree: Record<string, SlugTreeNode>,
+): { pageId: string; breadcrumbs: Breadcrumb[] } | null {
+  const breadcrumbs: Breadcrumb[] = []
+  let currentTree = tree
+
+  for (let i = 0; i < segments.length; i++) {
+    const segment = segments[i]
+    const node = currentTree[segment]
+    if (!node) return null
+
+    if (i < segments.length - 1) {
+      breadcrumbs.push({
+        title: node.title,
+        icon: null,
+        href: '/' + segments.slice(0, i + 1).join('/'),
+      })
+    }
+
+    if (i === segments.length - 1) {
+      return { pageId: node.pageId, breadcrumbs }
+    }
+
+    currentTree = node.children
+  }
+
+  return null
+}
+
+// Flat search: find a slug anywhere in the tree
+function findPageBySlugFlat(
+  slug: string,
+  tree: Record<string, SlugTreeNode>,
+): string | null {
+  for (const [key, node] of Object.entries(tree)) {
+    if (key === slug) return node.pageId
+    const found = findPageBySlugFlat(slug, node.children)
+    if (found) return found
+  }
+  return null
+}
+
+export async function resolveNotionPageLocal(domain: string, rawPageId?: string | string[]) {
+  const manifest = getManifest()
+  const segments = Array.isArray(rawPageId) ? rawPageId : rawPageId ? [rawPageId] : []
+
+  let pageId: string | null = null
+  let breadcrumbs: Breadcrumb[] = []
+
+  if (segments.length > 0 && segments[0] !== 'index') {
+    // Try direct page ID
+    if (segments.length === 1) {
+      const parsed = parsePageId(segments[0])
+      if (parsed && manifest.pages[parsed]) {
+        pageId = parsed
+      }
+      if (!parsed) {
+        const override = pageUrlOverrides[segments[0]] || pageUrlAdditions[segments[0]]
+        if (override) {
+          const overrideId = parsePageId(override)
+          if (overrideId && manifest.pages[overrideId]) {
+            pageId = overrideId
+          }
+        }
+      }
+    }
+
+    // Try walking slug tree
+    if (!pageId) {
+      const result = findPageBySlugPath(segments, manifest.slugTree)
+      if (result) {
+        pageId = result.pageId
+        breadcrumbs = result.breadcrumbs
+      }
+    }
+
+    // Flat fallback for single segments
+    if (!pageId && segments.length === 1) {
+      pageId = findPageBySlugFlat(segments[0], manifest.slugTree)
+    }
+
+    if (!pageId) {
+      return {
+        site,
+        error: {
+          message: `Not found "${segments.join('/')}"`,
+          statusCode: 404,
+        },
+      }
+    }
+  } else {
+    pageId = site.rootNotionPageId
+  }
+
+  const localPage = getLocalPage(pageId)
+  if (!localPage) {
+    return {
+      site,
+      error: {
+        message: `Content not found for page "${pageId}"`,
+        statusCode: 404,
+      },
+    }
+  }
+
+  // Build databaseEntriesMap keyed by database ID (matching old format)
+  const databaseEntriesMap: Record<string, DatabaseEntry[]> | null =
+    Object.keys(localPage.databaseEntries).length > 0
+      ? localPage.databaseEntries
+      : null
+
+  return {
+    site,
+    pageMeta: localPage.meta,
+    markdown: localPage.markdown,
+    pageId,
+    breadcrumbs,
+    databaseEntriesMap,
+  }
+}

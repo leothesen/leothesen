@@ -1,0 +1,27 @@
+The swell is meant to be dropping today - there should be a potential for a wave or two. I hear Lorenzo’s voice in the morning talking about going surfing but I’m in no rush, so I turn over and allow a sleep in to happen. 
+<empty-block/>
+Once up I take a coffee down to the point and watch Jude, Dom and Lorenzo trade a few waves in pretty average conditions. The point is not working but they are sitting on the beach break section getting a few shorter waves. It doesn’t entice me so I opt for some reading and writing instead. 
+<empty-block/>
+![](https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/fd5501e6-bb13-4878-be28-6e3a76e790cd/9BA07DBA-513B-4E6B-9B0E-6BEE766DF531.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TFOZYRP2%2F20260311%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260311T140253Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIAyp%2B62I%2BEuO5rd8SOluZo4i%2FF4%2FVg6B7Fk5n2vDE%2FGTAiAozo6cOcpDta4bZDHAr1D%2BeWInGS%2BnZFVa7DrqVuqSdSr%2FAwheEAAaDDYzNzQyMzE4MzgwNSIMgb0hJFH6fQYESDS0KtwD6AJmISo%2FVpu83SHp6EKRRfZnN7BVEOGYCmPbqn%2BgW0OdfSZxdDaPYNLQreqzGyna3noyVxXgBhk4xCSLF4983qzjjxdHrFDyL61tsmZXVw%2Biu69NgzndRXETkH3aLzgPxp0IPxgPkobmMqjGT7VfE4aFTdH9CxNjbJWMKA1T5y0SSorePRxdey7glt88v%2BobG6Bn77ZnPBPEqqyIdq7mHwptjjjW3z5qCaEcI1XRtqoKZ9CQ5IJr%2BQVUrHMsErIqdVCE1KEBbDLEvEH0rRwprtvbpsS3TEGUO%2B7dhcURnvDCpW6hMQC13ozLqD%2B7nJK3dAArwL1OAcSw9uUZ9Bq5F1ydvvLKTkxmqMy0MOpueommPjdkivWFBdDogyT87RxfmpgsnUQxjsBBR4UNlKylGPvIn01YHrQhIMGm4Obryt3EzbgGlypxvLWvHFQPUbtrhiWHR7fR2bS1Y%2BFgucNmnafYW0q1GaA%2BndaW3yKDaWw7AjB%2BAb0gYKIKzofh7fN7B%2FCa5jMauU2mak7NMuEyehxL0yWOh0dKB2Vh%2FImmD4LMrZT28w2y1Q5MRYXhc7kU8iGLiTdK4Sx8%2BwFpPr7j%2Fj9%2F3kBnlAUujIGQR9%2F5iyuOPWr2DgPel0G7qvYwidDFzQY6pgE%2BtBdkM9254uOdEGQz%2FjLEHOJnaHCK3ITiGmpgNIWc6jATN%2BfiN%2FYanl2S2MfpGCc6aAY8xQf1w%2FSGN9sFTDC7XYXkBqDsp%2BTXCGJWmk%2B6Z%2Fvx6Q8c8cJvJUyM%2BfVjEA9kpffM7GMNUckw68Dg61rr7iWhOS2drVghfZ6DyY%2BGcLWD4Ufl2jv2GTAkXkaYw5cRJOTWOzq%2FyxPWjM2yI7lMzspn65mt&X-Amz-Signature=d1228b92281f6d59e4b212409ed355fef5c334c05f8666861e31b77f76ce1d6f&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+<empty-block/>
+Around lunch time I feel the wind change and take go back to take a look at the point. It’s similar to this morning just maybe slightly cleaner. I paddle out alone and Jude comes to join me in boardshorts a little while later.
+<empty-block/>
+The surf is fun - mostly a Glen Beacheque closeout that offers mostly a floater or two. I do manage to find some rhythm and am quite pleased with my surfing. It’s quite interesting surfing a beach break again after a month or so of only point breaks. You learn to get excited again about a wave that runs for 20m. 
+<empty-block/>
+<unknown url="https://www.notion.so/9dcbea5604914c14be88d10d8cccbc48#5d8ad2e7dcc34ee18af873332dc501c0" alt="embed"/>
+<empty-block/>
+I take a little walk with Dom and Lorenzo to the Cool Bananas spaza shop to stock up. I walk away with a packet of chips, soya mince, some vegetables and a beer. The plan is to make a potjie for dinner. And in classic potjie fashion we only start the fire after dark. We drink some beers and call it the “yes potjie” on the condition that we have to say yes every time somebody suggests another ingredient to add.
+<empty-block/>
+I have a beautiful moment on the sunny grass lying on Eco (the big fluffy white dog), looking up at the sky and giving him a big scratch. Mzanzi comes to join in the cuddles and licks us both indecently.
+<empty-block/>
+Lina, Elly, Keegan and Jeandre join us and start an even later crayfish potjie. We haven’t all really hung out together before but it’s lovely. I play music through the speaker, initially unsure how it was going to go down - but Lina seems to know all my music and gives a lot of compliments. 
+<empty-block/>
+Neil arrives and is immediately a huge character. After a few minutes of his truly ridiculous tales and inappropriate jokes I realise that he has almost exactly the same sense of humor as the rather dubious insurance salesman that I met in Port St Johns named Dean. When I tell him about his resemblance to Dean, he replies with something that I imagine Dean would too: “does Dean also have a great ass?”
+<empty-block/>
+He goes on a ten or so minute tangent about how having a nice ass leads to a comfortable sitting experience he then starts to get a little dark. He’s just had a bit of a meltdown and he says that Mdumbi is his safe space. It takes quite a few questions before I manage to break his spiral and get him talking about more positive things that he enjoys. 
+<empty-block/>
+He lays down some rather inappropriate comments that are met with nervous giggles by the crowd around the baais. I do love it and ensure that I meet his eyes and make sure that I did appreciate the joke even though it might have been a bit offside. 
+<empty-block/>
+He rolls a potently strong hash joint and it discombobulates a few of us - somehow not Neil. He has an assistant dog for his mental health called Charlie that is an absolute angle. After about half an hour he says his farewells and heads off to bed. 
+<empty-block/>
+We call the potjie done at about 9pm and tuck it. It’s absolutely delicious. The sleepiness and night comes in quite soon after that and I head off to bed for a little bit of reading.

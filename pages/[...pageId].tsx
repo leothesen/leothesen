@@ -3,16 +3,15 @@ import { GetStaticProps } from 'next'
 
 import { NotionPage } from '@/components/NotionPage'
 import { domain, isDev } from '@/lib/config'
-import { getSiteMap } from '@/lib/get-site-map'
-import { resolveNotionPage } from '@/lib/resolve-notion-page'
+import { resolveNotionPageLocal } from '@/lib/resolve-notion-page-local'
+import { getAllPages } from '@/lib/notion-local'
 
 export const getStaticProps: GetStaticProps = async (context) => {
   const rawPageId = context.params.pageId as string[]
 
   try {
-    const props = await resolveNotionPage(domain, rawPageId)
-    // JSON roundtrip to convert any undefined values to null (Next.js serialization requirement)
-    return { props: JSON.parse(JSON.stringify(props)), revalidate: 10 }
+    const props = await resolveNotionPageLocal(domain, rawPageId)
+    return { props: JSON.parse(JSON.stringify(props)) }
   } catch (err) {
     console.error('page error', domain, rawPageId, err)
     throw err
@@ -27,16 +26,14 @@ export async function getStaticPaths() {
     }
   }
 
-  const siteMap = await getSiteMap()
+  const pages = getAllPages()
 
-  const staticPaths = {
-    paths: siteMap.pages.map((page) => ({
+  return {
+    paths: pages.map((page) => ({
       params: { pageId: page.path },
     })),
     fallback: true,
   }
-
-  return staticPaths
 }
 
 export default function NotionDomainDynamicPage(props) {

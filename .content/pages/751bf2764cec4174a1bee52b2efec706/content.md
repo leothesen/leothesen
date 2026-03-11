@@ -1,0 +1,17 @@
+I have a great sleep, wake up and take it slow. Then I make Jordan, Nikita and Kate a delicious omelette for Omelette Fest 2022. 
+<empty-block/>
+Jordan heads off to the pharmacy and then takes a meeting. I ready my bags. And check on the staples and dental floss holding my bag together. 
+<empty-block/>
+We Uber to the airport without issue. Although the fuel light was on when we got into the car. Jordan sneaks into the airport lounge and plunders their snack collection. It feels exciting traveling to a first world country with a bag full of clothes. 
+<empty-block/>
+This airport experience is far more pleasant. I am learning to budget when I saw no to a 50g packet of biltong for R95 at the gate. We board the big Boeing 777 and get stuck into all the media that is on offer. 
+<empty-block/>
+The plane is slightly delayed due to a technical check. Then we’re in the air and eating pretty delicious pasta. 
+<empty-block/>
+I am actually really enjoying studying typescript. There’s no rush and it’s beautifully logical - it kind of feels like playing sudoku. Charmaine sitting next to me asks for some advice for her son going into the software world. 
+<empty-block/>
+We land in Doha. It’s big, full of lights and people and we have quite a few hours to kill. We wonder around looking at things, getting progressively more sleepy and less interested in all the expensive things. 
+<empty-block/>
+![](https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/a8e55b08-00e8-4d21-b42e-8e94f51ddf75/F217A2CD-85C6-43E9-9FD0-6B9ECD8DEDF6.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466YNPKXUBM%2F20260311%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260311T140112Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCVHHYNDtKBXRP4MNC4GZZISaw1HAFcyzKm4Rg6pms7DwIhALxdow5aDVXkkg9Wuzm3pIwWjzpjgd36shSUhYexPG1oKv8DCF4QABoMNjM3NDIzMTgzODA1IgwFh8KWfyPyi8dbB04q3AMlbKonyQxVrbEsnLNgkfikDqu1F%2FFuvbpk2ir6vXZlAEDZh0aN%2ByqUHiECF%2BUJPByoKBeLrr99BmF1ShNdYBxzBj602J23F7Reb%2FzDAFXPgDPXplPehhJehDRFbsj4Te43mPZPDwSjjQsCgCDw%2B9fjQD5PgO8%2FPlvETGcsifxQy3KwLAOdywgBklHb2v8ppxkOHiYRSy8o4wRpvTZc65kpIsakhIahKdU3d%2FHnPwoq3b3R3QaFtSn8T7DSF%2F1G1wremBGkDlaRqK%2F4UpK5sQOHqGmhWmglfm0Pp8BNpEMoo3l9bg9lODJ11Evbmidk5YHY591qCr0%2B%2BLKxLXx1lO5Ae%2BJnL1IA1Rr6puWL%2BdQ%2FzRDKM3GzPNa4o3tEdNQO5aQoMTOvP%2FxiUD28VRPtWOrd%2BLsi%2BMUVi72RWWiLUbn3FtVUfCRet87IMF2lN%2FGo39GwzO2GXQVbMVgsLctkqs4fmOH%2BUFvSpUxgueOgv74wn%2BzoY1RNbo3q5vbpCT3zTbrbIOVmN9niuGogWFahrocj2BhGLUu%2F%2FONdBcNbfspug6csm8qzKsiG91rOEddnzstvsXnYl3MxXQQIjd0EWQTqbF8mPsK%2BHyseo0OwX5XS8VeOEjj%2F%2F0kCcD84TDDuz8XNBjqkARjgq4ieupZ0gZtU0mOaM0VHkWlcg75ezOfkfsX6bcBj4eXuZ1%2Fq2iZVZ9YcB8czWI1cRakw7n%2Fn1%2FewNuH3%2Fegl78IhDdYjGGnzxspezzMItFDesqoymwMFLfvbo%2Fz8Wq3aneUMT%2Bk28NQWayLX3JJci2fIMBr1Wht5MrK6i4PU681AGBM5CmRh64yDKuUDDYd6smW2rvSA%2F94%2FImvrtAynTraH&X-Amz-Signature=630b25f0dadcfd383d09764e821d1693fb04992b6226cc8a22a188d47d84ff43&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+<empty-block/>
+We’re tired and there isn’t really enough time to sleep. I go to the toilet and am delighted to find a heated bum gun. Our flight should be boarding soon.

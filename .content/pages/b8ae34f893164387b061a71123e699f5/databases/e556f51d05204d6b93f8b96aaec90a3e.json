@@ -1,0 +1,138 @@
+[
+  {
+    "id": "247163d1-a37f-4895-b27c-8231413f033b",
+    "title": "Bovineiterology",
+    "description": null,
+    "cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/a14563ba-68a8-4feb-8285-ff356c711c9f/AB7B5B9A-9C90-4F6E-85E7-668DC0F4640C.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TYDV5CGY%2F20260311%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260311T135739Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQC1n6NDC4bG6U6BRf9tV2ka2ijmDgUpkzSmblrioi%2BcwAIgYwfN9BQKpc%2FHJFUl%2FXbK7WIxmoy3Xks5KH27TWNdVvAq%2FwMIXhAAGgw2Mzc0MjMxODM4MDUiDFytKDf18DLvemE9DyrcA8mMcs6RCIfp%2F3Cb7LS0nKj2ahIxMYgvaNt8X2iflrLxuL3MMTl%2FDonlsBtNrRSEGvCcdyjhVvglUg2w9Gw3fgD8XcnL635swMGSWmDGCesfX%2B90sbM98bh8l9ieYgNI0c4Wx12ytt%2BJvFLtpPBALe6U51BNF7sba%2ByfrmXSpBp0K%2BEdu48Uy7R%2FHWiVh1oj205EintUeQr5w5xZ0RhlgUvHgY62PMPJWstYNrPvMd26ZlqoY945kdNmQtAIblCYGbdz2hMyaz09Ww5eACCrFISfYHDUMWKei%2F8kZQju0BimPFagcKYdKiGQzt%2Bw0ohjSxK0SuQQ3lDnlGXkFFgSI52crHZMkU5mR5fy2CYpc2a6TIW2JdWC71090RixWEODcix%2Bm%2Fnbp%2BPmE2nlSeHu%2FwYx4hxrTPui%2BaO5UHdc4KdZQRGuMKyrBPngF1XarlkKF0ngDAY8lvRgzj6616SvJKq8jLRTcgiLGIXLFeodrHBPMxbHHpZB9D6KIQ%2F839YzQ0P1fXJPWW6OUhUcFWVfUWjnqIPyJGHvidgZlQOeijSNgDs2z%2Fa6GIY0pQUs5XtjTk8bmtnfSrQ3XQ3to5i2KRKxIrmfkHkEIm5u7RscB%2FF1rTe3BWgKhJBjbRfgMJDSxc0GOqUBv2OtIbb5osT5XNd6YHZifyfmdSEtKoRxmksil40zoP45SBGT8ujMIS4te1SQe8O1wy4ntVeM5YzcxcTba78NJNOm53eGItPndFTL%2FI4DO9Buogh6p0qk%2B%2BkXld9MMvBZgVItuHkeDy0ieewnQbSgWSzAcmeMkoEGa0dK2CsUAM8CzHJtw3iqK%2BQwXKbwfhUa1B9Pmt6qRbHqN9d0yKunvISY7k7A&X-Amz-Signature=ad1fe571d4c0f23ebc90570ceaae5e9969fc65bbf6a091a6ecfa173322079cdd&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "icon": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/7fa3a82a-69e9-43a0-b200-a31b85730acf/A366FB47-649D-44A7-B738-68409322F6A0.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TYDV5CGY%2F20260311%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260311T135739Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQC1n6NDC4bG6U6BRf9tV2ka2ijmDgUpkzSmblrioi%2BcwAIgYwfN9BQKpc%2FHJFUl%2FXbK7WIxmoy3Xks5KH27TWNdVvAq%2FwMIXhAAGgw2Mzc0MjMxODM4MDUiDFytKDf18DLvemE9DyrcA8mMcs6RCIfp%2F3Cb7LS0nKj2ahIxMYgvaNt8X2iflrLxuL3MMTl%2FDonlsBtNrRSEGvCcdyjhVvglUg2w9Gw3fgD8XcnL635swMGSWmDGCesfX%2B90sbM98bh8l9ieYgNI0c4Wx12ytt%2BJvFLtpPBALe6U51BNF7sba%2ByfrmXSpBp0K%2BEdu48Uy7R%2FHWiVh1oj205EintUeQr5w5xZ0RhlgUvHgY62PMPJWstYNrPvMd26ZlqoY945kdNmQtAIblCYGbdz2hMyaz09Ww5eACCrFISfYHDUMWKei%2F8kZQju0BimPFagcKYdKiGQzt%2Bw0ohjSxK0SuQQ3lDnlGXkFFgSI52crHZMkU5mR5fy2CYpc2a6TIW2JdWC71090RixWEODcix%2Bm%2Fnbp%2BPmE2nlSeHu%2FwYx4hxrTPui%2BaO5UHdc4KdZQRGuMKyrBPngF1XarlkKF0ngDAY8lvRgzj6616SvJKq8jLRTcgiLGIXLFeodrHBPMxbHHpZB9D6KIQ%2F839YzQ0P1fXJPWW6OUhUcFWVfUWjnqIPyJGHvidgZlQOeijSNgDs2z%2Fa6GIY0pQUs5XtjTk8bmtnfSrQ3XQ3to5i2KRKxIrmfkHkEIm5u7RscB%2FF1rTe3BWgKhJBjbRfgMJDSxc0GOqUBv2OtIbb5osT5XNd6YHZifyfmdSEtKoRxmksil40zoP45SBGT8ujMIS4te1SQe8O1wy4ntVeM5YzcxcTba78NJNOm53eGItPndFTL%2FI4DO9Buogh6p0qk%2B%2BkXld9MMvBZgVItuHkeDy0ieewnQbSgWSzAcmeMkoEGa0dK2CsUAM8CzHJtw3iqK%2BQwXKbwfhUa1B9Pmt6qRbHqN9d0yKunvISY7k7A&X-Amz-Signature=ebb2a24c58702de8480e69dfd8d0233b2dbd5e954a6f8a4354bfc38fe6a53072&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "slug": "bovineiterology",
+    "path": [
+      "novel-experiences",
+      "sabbatical",
+      "bovineiterology"
+    ],
+    "published": null,
+    "author": null,
+    "lastEdited": "2023-10-06T21:58:00.000Z",
+    "order": null
+  },
+  {
+    "id": "34a5960d-c245-44b9-8760-27c9de5aa739",
+    "title": "Lastly; London. ",
+    "description": null,
+    "cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/a323969b-a18d-4a4f-aeeb-fe7d92499bb3/9DA83A5E-6511-44B7-B9FC-780FB90A7888.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TYDV5CGY%2F20260311%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260311T135739Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQC1n6NDC4bG6U6BRf9tV2ka2ijmDgUpkzSmblrioi%2BcwAIgYwfN9BQKpc%2FHJFUl%2FXbK7WIxmoy3Xks5KH27TWNdVvAq%2FwMIXhAAGgw2Mzc0MjMxODM4MDUiDFytKDf18DLvemE9DyrcA8mMcs6RCIfp%2F3Cb7LS0nKj2ahIxMYgvaNt8X2iflrLxuL3MMTl%2FDonlsBtNrRSEGvCcdyjhVvglUg2w9Gw3fgD8XcnL635swMGSWmDGCesfX%2B90sbM98bh8l9ieYgNI0c4Wx12ytt%2BJvFLtpPBALe6U51BNF7sba%2ByfrmXSpBp0K%2BEdu48Uy7R%2FHWiVh1oj205EintUeQr5w5xZ0RhlgUvHgY62PMPJWstYNrPvMd26ZlqoY945kdNmQtAIblCYGbdz2hMyaz09Ww5eACCrFISfYHDUMWKei%2F8kZQju0BimPFagcKYdKiGQzt%2Bw0ohjSxK0SuQQ3lDnlGXkFFgSI52crHZMkU5mR5fy2CYpc2a6TIW2JdWC71090RixWEODcix%2Bm%2Fnbp%2BPmE2nlSeHu%2FwYx4hxrTPui%2BaO5UHdc4KdZQRGuMKyrBPngF1XarlkKF0ngDAY8lvRgzj6616SvJKq8jLRTcgiLGIXLFeodrHBPMxbHHpZB9D6KIQ%2F839YzQ0P1fXJPWW6OUhUcFWVfUWjnqIPyJGHvidgZlQOeijSNgDs2z%2Fa6GIY0pQUs5XtjTk8bmtnfSrQ3XQ3to5i2KRKxIrmfkHkEIm5u7RscB%2FF1rTe3BWgKhJBjbRfgMJDSxc0GOqUBv2OtIbb5osT5XNd6YHZifyfmdSEtKoRxmksil40zoP45SBGT8ujMIS4te1SQe8O1wy4ntVeM5YzcxcTba78NJNOm53eGItPndFTL%2FI4DO9Buogh6p0qk%2B%2BkXld9MMvBZgVItuHkeDy0ieewnQbSgWSzAcmeMkoEGa0dK2CsUAM8CzHJtw3iqK%2BQwXKbwfhUa1B9Pmt6qRbHqN9d0yKunvISY7k7A&X-Amz-Signature=44cab35369735489b93dc3ef667807898c7609c538807434f676f88a2b2dce9d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "icon": "🚉",
+    "slug": "lastly-london",
+    "path": [
+      "novel-experiences",
+      "sabbatical",
+      "lastly-london"
+    ],
+    "published": null,
+    "author": null,
+    "lastEdited": "2022-12-29T18:29:00.000Z",
+    "order": null
+  },
+  {
+    "id": "4c36b2c3-4ab4-46a2-b4e3-57c7e4d280fc",
+    "title": "Mdumbi magic",
+    "description": null,
+    "cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/17b6dfff-f98f-44ed-9bc6-6d51f4174ff9/2305684C-F71B-4EFF-9EAE-54A7BB68D176.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TYDV5CGY%2F20260311%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260311T135739Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQC1n6NDC4bG6U6BRf9tV2ka2ijmDgUpkzSmblrioi%2BcwAIgYwfN9BQKpc%2FHJFUl%2FXbK7WIxmoy3Xks5KH27TWNdVvAq%2FwMIXhAAGgw2Mzc0MjMxODM4MDUiDFytKDf18DLvemE9DyrcA8mMcs6RCIfp%2F3Cb7LS0nKj2ahIxMYgvaNt8X2iflrLxuL3MMTl%2FDonlsBtNrRSEGvCcdyjhVvglUg2w9Gw3fgD8XcnL635swMGSWmDGCesfX%2B90sbM98bh8l9ieYgNI0c4Wx12ytt%2BJvFLtpPBALe6U51BNF7sba%2ByfrmXSpBp0K%2BEdu48Uy7R%2FHWiVh1oj205EintUeQr5w5xZ0RhlgUvHgY62PMPJWstYNrPvMd26ZlqoY945kdNmQtAIblCYGbdz2hMyaz09Ww5eACCrFISfYHDUMWKei%2F8kZQju0BimPFagcKYdKiGQzt%2Bw0ohjSxK0SuQQ3lDnlGXkFFgSI52crHZMkU5mR5fy2CYpc2a6TIW2JdWC71090RixWEODcix%2Bm%2Fnbp%2BPmE2nlSeHu%2FwYx4hxrTPui%2BaO5UHdc4KdZQRGuMKyrBPngF1XarlkKF0ngDAY8lvRgzj6616SvJKq8jLRTcgiLGIXLFeodrHBPMxbHHpZB9D6KIQ%2F839YzQ0P1fXJPWW6OUhUcFWVfUWjnqIPyJGHvidgZlQOeijSNgDs2z%2Fa6GIY0pQUs5XtjTk8bmtnfSrQ3XQ3to5i2KRKxIrmfkHkEIm5u7RscB%2FF1rTe3BWgKhJBjbRfgMJDSxc0GOqUBv2OtIbb5osT5XNd6YHZifyfmdSEtKoRxmksil40zoP45SBGT8ujMIS4te1SQe8O1wy4ntVeM5YzcxcTba78NJNOm53eGItPndFTL%2FI4DO9Buogh6p0qk%2B%2BkXld9MMvBZgVItuHkeDy0ieewnQbSgWSzAcmeMkoEGa0dK2CsUAM8CzHJtw3iqK%2BQwXKbwfhUa1B9Pmt6qRbHqN9d0yKunvISY7k7A&X-Amz-Signature=f125251b5ce22307991443b944e2a622332a5e689da7c10a7d53ffb6d05f42ab&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "icon": "🌅",
+    "slug": "mdumbi-magic",
+    "path": [
+      "novel-experiences",
+      "sabbatical",
+      "mdumbi-magic"
+    ],
+    "published": null,
+    "author": null,
+    "lastEdited": "2022-08-03T09:34:00.000Z",
+    "order": null
+  },
+  {
+    "id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550",
+    "title": "Bovineiterology preparation ",
+    "description": null,
+    "cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/74b15570-6a69-4d5f-bdc3-456d9bc3d364/268DE593-39A9-44EE-A032-CC0897DAF72A.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TYDV5CGY%2F20260311%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260311T135739Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQC1n6NDC4bG6U6BRf9tV2ka2ijmDgUpkzSmblrioi%2BcwAIgYwfN9BQKpc%2FHJFUl%2FXbK7WIxmoy3Xks5KH27TWNdVvAq%2FwMIXhAAGgw2Mzc0MjMxODM4MDUiDFytKDf18DLvemE9DyrcA8mMcs6RCIfp%2F3Cb7LS0nKj2ahIxMYgvaNt8X2iflrLxuL3MMTl%2FDonlsBtNrRSEGvCcdyjhVvglUg2w9Gw3fgD8XcnL635swMGSWmDGCesfX%2B90sbM98bh8l9ieYgNI0c4Wx12ytt%2BJvFLtpPBALe6U51BNF7sba%2ByfrmXSpBp0K%2BEdu48Uy7R%2FHWiVh1oj205EintUeQr5w5xZ0RhlgUvHgY62PMPJWstYNrPvMd26ZlqoY945kdNmQtAIblCYGbdz2hMyaz09Ww5eACCrFISfYHDUMWKei%2F8kZQju0BimPFagcKYdKiGQzt%2Bw0ohjSxK0SuQQ3lDnlGXkFFgSI52crHZMkU5mR5fy2CYpc2a6TIW2JdWC71090RixWEODcix%2Bm%2Fnbp%2BPmE2nlSeHu%2FwYx4hxrTPui%2BaO5UHdc4KdZQRGuMKyrBPngF1XarlkKF0ngDAY8lvRgzj6616SvJKq8jLRTcgiLGIXLFeodrHBPMxbHHpZB9D6KIQ%2F839YzQ0P1fXJPWW6OUhUcFWVfUWjnqIPyJGHvidgZlQOeijSNgDs2z%2Fa6GIY0pQUs5XtjTk8bmtnfSrQ3XQ3to5i2KRKxIrmfkHkEIm5u7RscB%2FF1rTe3BWgKhJBjbRfgMJDSxc0GOqUBv2OtIbb5osT5XNd6YHZifyfmdSEtKoRxmksil40zoP45SBGT8ujMIS4te1SQe8O1wy4ntVeM5YzcxcTba78NJNOm53eGItPndFTL%2FI4DO9Buogh6p0qk%2B%2BkXld9MMvBZgVItuHkeDy0ieewnQbSgWSzAcmeMkoEGa0dK2CsUAM8CzHJtw3iqK%2BQwXKbwfhUa1B9Pmt6qRbHqN9d0yKunvISY7k7A&X-Amz-Signature=29707bd2afc915295c294a556c3a4282b7c751c81dc9cc5f0fcd30607c73a3a0&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "icon": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/f105f5f3-a527-42fe-811c-3c9c89a3371a/4313AC32-4FD1-45EF-A79F-43980051E9E3.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TYDV5CGY%2F20260311%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260311T135739Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQC1n6NDC4bG6U6BRf9tV2ka2ijmDgUpkzSmblrioi%2BcwAIgYwfN9BQKpc%2FHJFUl%2FXbK7WIxmoy3Xks5KH27TWNdVvAq%2FwMIXhAAGgw2Mzc0MjMxODM4MDUiDFytKDf18DLvemE9DyrcA8mMcs6RCIfp%2F3Cb7LS0nKj2ahIxMYgvaNt8X2iflrLxuL3MMTl%2FDonlsBtNrRSEGvCcdyjhVvglUg2w9Gw3fgD8XcnL635swMGSWmDGCesfX%2B90sbM98bh8l9ieYgNI0c4Wx12ytt%2BJvFLtpPBALe6U51BNF7sba%2ByfrmXSpBp0K%2BEdu48Uy7R%2FHWiVh1oj205EintUeQr5w5xZ0RhlgUvHgY62PMPJWstYNrPvMd26ZlqoY945kdNmQtAIblCYGbdz2hMyaz09Ww5eACCrFISfYHDUMWKei%2F8kZQju0BimPFagcKYdKiGQzt%2Bw0ohjSxK0SuQQ3lDnlGXkFFgSI52crHZMkU5mR5fy2CYpc2a6TIW2JdWC71090RixWEODcix%2Bm%2Fnbp%2BPmE2nlSeHu%2FwYx4hxrTPui%2BaO5UHdc4KdZQRGuMKyrBPngF1XarlkKF0ngDAY8lvRgzj6616SvJKq8jLRTcgiLGIXLFeodrHBPMxbHHpZB9D6KIQ%2F839YzQ0P1fXJPWW6OUhUcFWVfUWjnqIPyJGHvidgZlQOeijSNgDs2z%2Fa6GIY0pQUs5XtjTk8bmtnfSrQ3XQ3to5i2KRKxIrmfkHkEIm5u7RscB%2FF1rTe3BWgKhJBjbRfgMJDSxc0GOqUBv2OtIbb5osT5XNd6YHZifyfmdSEtKoRxmksil40zoP45SBGT8ujMIS4te1SQe8O1wy4ntVeM5YzcxcTba78NJNOm53eGItPndFTL%2FI4DO9Buogh6p0qk%2B%2BkXld9MMvBZgVItuHkeDy0ieewnQbSgWSzAcmeMkoEGa0dK2CsUAM8CzHJtw3iqK%2BQwXKbwfhUa1B9Pmt6qRbHqN9d0yKunvISY7k7A&X-Amz-Signature=d29b31ebd860edd34fb789712de5eb71b750637e6f65dc2d95f7eb98d83eaec8&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "slug": "bovineiterology-preparation",
+    "path": [
+      "novel-experiences",
+      "sabbatical",
+      "bovineiterology-preparation"
+    ],
+    "published": null,
+    "author": null,
+    "lastEdited": "2025-06-07T11:39:00.000Z",
+    "order": null
+  },
+  {
+    "id": "7d5641c8-0006-4f47-b52f-f5fa7d63f946",
+    "title": "Metta Malawi",
+    "description": null,
+    "cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/fd5e7180-29eb-4aba-a615-2475e1ddf9f4/48AA165A-05DC-4087-848C-D6089E642044.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TYDV5CGY%2F20260311%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260311T135739Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQC1n6NDC4bG6U6BRf9tV2ka2ijmDgUpkzSmblrioi%2BcwAIgYwfN9BQKpc%2FHJFUl%2FXbK7WIxmoy3Xks5KH27TWNdVvAq%2FwMIXhAAGgw2Mzc0MjMxODM4MDUiDFytKDf18DLvemE9DyrcA8mMcs6RCIfp%2F3Cb7LS0nKj2ahIxMYgvaNt8X2iflrLxuL3MMTl%2FDonlsBtNrRSEGvCcdyjhVvglUg2w9Gw3fgD8XcnL635swMGSWmDGCesfX%2B90sbM98bh8l9ieYgNI0c4Wx12ytt%2BJvFLtpPBALe6U51BNF7sba%2ByfrmXSpBp0K%2BEdu48Uy7R%2FHWiVh1oj205EintUeQr5w5xZ0RhlgUvHgY62PMPJWstYNrPvMd26ZlqoY945kdNmQtAIblCYGbdz2hMyaz09Ww5eACCrFISfYHDUMWKei%2F8kZQju0BimPFagcKYdKiGQzt%2Bw0ohjSxK0SuQQ3lDnlGXkFFgSI52crHZMkU5mR5fy2CYpc2a6TIW2JdWC71090RixWEODcix%2Bm%2Fnbp%2BPmE2nlSeHu%2FwYx4hxrTPui%2BaO5UHdc4KdZQRGuMKyrBPngF1XarlkKF0ngDAY8lvRgzj6616SvJKq8jLRTcgiLGIXLFeodrHBPMxbHHpZB9D6KIQ%2F839YzQ0P1fXJPWW6OUhUcFWVfUWjnqIPyJGHvidgZlQOeijSNgDs2z%2Fa6GIY0pQUs5XtjTk8bmtnfSrQ3XQ3to5i2KRKxIrmfkHkEIm5u7RscB%2FF1rTe3BWgKhJBjbRfgMJDSxc0GOqUBv2OtIbb5osT5XNd6YHZifyfmdSEtKoRxmksil40zoP45SBGT8ujMIS4te1SQe8O1wy4ntVeM5YzcxcTba78NJNOm53eGItPndFTL%2FI4DO9Buogh6p0qk%2B%2BkXld9MMvBZgVItuHkeDy0ieewnQbSgWSzAcmeMkoEGa0dK2CsUAM8CzHJtw3iqK%2BQwXKbwfhUa1B9Pmt6qRbHqN9d0yKunvISY7k7A&X-Amz-Signature=b370d3e1a3f9a08aeb51d4833e5c1e88fdd6051d7dace4f0ded0237a42565238&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "icon": "🇲🇼",
+    "slug": "metta-malawi",
+    "path": [
+      "novel-experiences",
+      "sabbatical",
+      "metta-malawi"
+    ],
+    "published": null,
+    "author": null,
+    "lastEdited": "2022-12-28T10:56:00.000Z",
+    "order": null
+  },
+  {
+    "id": "c970c4d2-e41d-44b4-b0d1-4fd8e8c53a79",
+    "title": "On smoking and five-way stop streets",
+    "description": null,
+    "cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/42fb154e-8749-4b44-a8e4-f6e3fe65ded7/66937EAC-951A-4A3A-BEC3-AAB601D899A2.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TYDV5CGY%2F20260311%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260311T135739Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQC1n6NDC4bG6U6BRf9tV2ka2ijmDgUpkzSmblrioi%2BcwAIgYwfN9BQKpc%2FHJFUl%2FXbK7WIxmoy3Xks5KH27TWNdVvAq%2FwMIXhAAGgw2Mzc0MjMxODM4MDUiDFytKDf18DLvemE9DyrcA8mMcs6RCIfp%2F3Cb7LS0nKj2ahIxMYgvaNt8X2iflrLxuL3MMTl%2FDonlsBtNrRSEGvCcdyjhVvglUg2w9Gw3fgD8XcnL635swMGSWmDGCesfX%2B90sbM98bh8l9ieYgNI0c4Wx12ytt%2BJvFLtpPBALe6U51BNF7sba%2ByfrmXSpBp0K%2BEdu48Uy7R%2FHWiVh1oj205EintUeQr5w5xZ0RhlgUvHgY62PMPJWstYNrPvMd26ZlqoY945kdNmQtAIblCYGbdz2hMyaz09Ww5eACCrFISfYHDUMWKei%2F8kZQju0BimPFagcKYdKiGQzt%2Bw0ohjSxK0SuQQ3lDnlGXkFFgSI52crHZMkU5mR5fy2CYpc2a6TIW2JdWC71090RixWEODcix%2Bm%2Fnbp%2BPmE2nlSeHu%2FwYx4hxrTPui%2BaO5UHdc4KdZQRGuMKyrBPngF1XarlkKF0ngDAY8lvRgzj6616SvJKq8jLRTcgiLGIXLFeodrHBPMxbHHpZB9D6KIQ%2F839YzQ0P1fXJPWW6OUhUcFWVfUWjnqIPyJGHvidgZlQOeijSNgDs2z%2Fa6GIY0pQUs5XtjTk8bmtnfSrQ3XQ3to5i2KRKxIrmfkHkEIm5u7RscB%2FF1rTe3BWgKhJBjbRfgMJDSxc0GOqUBv2OtIbb5osT5XNd6YHZifyfmdSEtKoRxmksil40zoP45SBGT8ujMIS4te1SQe8O1wy4ntVeM5YzcxcTba78NJNOm53eGItPndFTL%2FI4DO9Buogh6p0qk%2B%2BkXld9MMvBZgVItuHkeDy0ieewnQbSgWSzAcmeMkoEGa0dK2CsUAM8CzHJtw3iqK%2BQwXKbwfhUa1B9Pmt6qRbHqN9d0yKunvISY7k7A&X-Amz-Signature=38dccc3672045b9cd782acfa2ba1c12ff3adf1197922679df96e45de143d23eb&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "icon": "🚭",
+    "slug": "on-smoking-and-five-way-stop-streets",
+    "path": [
+      "novel-experiences",
+      "sabbatical",
+      "on-smoking-and-five-way-stop-streets"
+    ],
+    "published": null,
+    "author": null,
+    "lastEdited": "2022-07-30T08:20:00.000Z",
+    "order": null
+  },
+  {
+    "id": "f5206650-6c3b-4133-811c-015859a1460f",
+    "title": "Introduction",
+    "description": null,
+    "cover": "https://www.notion.so/images/page-cover/met_winslow_homer_maine_coast.jpg",
+    "icon": "📖",
+    "slug": "introduction",
+    "path": [
+      "novel-experiences",
+      "sabbatical",
+      "introduction"
+    ],
+    "published": null,
+    "author": null,
+    "lastEdited": "2022-07-18T08:42:00.000Z",
+    "order": null
+  },
+  {
+    "id": "fd1d0aa0-1fc2-4a34-9bf7-80b11ce139c4",
+    "title": "Jozi Jordan ",
+    "description": null,
+    "cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/3eab4f66-c7e0-481a-bb87-88ec38f74366/F4FE38EC-13E3-4C60-AF87-B77C7657BF4A.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TYDV5CGY%2F20260311%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260311T135739Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQC1n6NDC4bG6U6BRf9tV2ka2ijmDgUpkzSmblrioi%2BcwAIgYwfN9BQKpc%2FHJFUl%2FXbK7WIxmoy3Xks5KH27TWNdVvAq%2FwMIXhAAGgw2Mzc0MjMxODM4MDUiDFytKDf18DLvemE9DyrcA8mMcs6RCIfp%2F3Cb7LS0nKj2ahIxMYgvaNt8X2iflrLxuL3MMTl%2FDonlsBtNrRSEGvCcdyjhVvglUg2w9Gw3fgD8XcnL635swMGSWmDGCesfX%2B90sbM98bh8l9ieYgNI0c4Wx12ytt%2BJvFLtpPBALe6U51BNF7sba%2ByfrmXSpBp0K%2BEdu48Uy7R%2FHWiVh1oj205EintUeQr5w5xZ0RhlgUvHgY62PMPJWstYNrPvMd26ZlqoY945kdNmQtAIblCYGbdz2hMyaz09Ww5eACCrFISfYHDUMWKei%2F8kZQju0BimPFagcKYdKiGQzt%2Bw0ohjSxK0SuQQ3lDnlGXkFFgSI52crHZMkU5mR5fy2CYpc2a6TIW2JdWC71090RixWEODcix%2Bm%2Fnbp%2BPmE2nlSeHu%2FwYx4hxrTPui%2BaO5UHdc4KdZQRGuMKyrBPngF1XarlkKF0ngDAY8lvRgzj6616SvJKq8jLRTcgiLGIXLFeodrHBPMxbHHpZB9D6KIQ%2F839YzQ0P1fXJPWW6OUhUcFWVfUWjnqIPyJGHvidgZlQOeijSNgDs2z%2Fa6GIY0pQUs5XtjTk8bmtnfSrQ3XQ3to5i2KRKxIrmfkHkEIm5u7RscB%2FF1rTe3BWgKhJBjbRfgMJDSxc0GOqUBv2OtIbb5osT5XNd6YHZifyfmdSEtKoRxmksil40zoP45SBGT8ujMIS4te1SQe8O1wy4ntVeM5YzcxcTba78NJNOm53eGItPndFTL%2FI4DO9Buogh6p0qk%2B%2BkXld9MMvBZgVItuHkeDy0ieewnQbSgWSzAcmeMkoEGa0dK2CsUAM8CzHJtw3iqK%2BQwXKbwfhUa1B9Pmt6qRbHqN9d0yKunvISY7k7A&X-Amz-Signature=006bba5344252d74bac5c76ed586fd7316920823f02f98e94ad73aeee5e0070b&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "icon": "💌",
+    "slug": "jozi-jordan",
+    "path": [
+      "novel-experiences",
+      "sabbatical",
+      "jozi-jordan"
+    ],
+    "published": null,
+    "author": null,
+    "lastEdited": "2022-07-18T14:42:00.000Z",
+    "order": null
+  }
+]
