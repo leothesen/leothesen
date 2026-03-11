@@ -7,7 +7,6 @@ import * as config from '@/lib/config'
 import { getPageCover, getPageIcon, getPageTitle, getPagePropertyText } from '@/lib/notion-api'
 import type { NotionBlock as NotionBlockType } from '@/lib/notion-api'
 import type { Breadcrumb, DatabaseEntry, PageError, Site } from '@/lib/types'
-import { useDarkMode } from '@/lib/use-dark-mode'
 import { formatDate } from '@/lib/notion-utils'
 
 import { NotionBlocks, DatabaseView } from './NotionRenderer'
@@ -38,7 +37,6 @@ export const NotionPage: React.FC<NotionPageProps> = ({
   pageId,
 }) => {
   const router = useRouter()
-  const { isDarkMode } = useDarkMode()
 
   const mapPageUrl = React.useCallback(
     (slugOrId: string) => `/${slugOrId}`,
@@ -70,7 +68,7 @@ export const NotionPage: React.FC<NotionPageProps> = ({
         image={cover}
       />
 
-      <div className={cs('notion-viewport', isDarkMode && 'dark-mode')}>
+      <div className="notion-viewport">
         <NotionPageHeader breadcrumbs={breadcrumbs} />
 
         {cover && (
