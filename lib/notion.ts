@@ -35,12 +35,12 @@ export function pageToEntry(page: NotionPage): DatabaseEntry {
   return {
     id: page.id,
     title,
-    description: getPagePropertyText(page, 'Description'),
-    cover: getPageCover(page),
-    icon: getPageIcon(page),
+    description: getPagePropertyText(page, 'Description') ?? null,
+    cover: getPageCover(page) ?? null,
+    icon: getPageIcon(page) ?? null,
     slug,
-    published: getPagePropertyText(page, 'Published'),
-    author: getPagePropertyText(page, 'Author'),
+    published: getPagePropertyText(page, 'Published') ?? null,
+    author: getPagePropertyText(page, 'Author') ?? null,
     lastEdited: page.last_edited_time,
   }
 }
