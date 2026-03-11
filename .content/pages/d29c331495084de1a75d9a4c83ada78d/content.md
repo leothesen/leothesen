@@ -1,9 +1,7 @@
 <columns>
 	<column>
 		# Spotify {color="green_bg"}
-		---
 		<span underline="true">S</span><span underline="true">**ongs**</span>. Usually performed by humans and have singing in them. Things I listen to in the car. {color="green"}
-		<empty-block/>
 		This is a playlist of all songs that I’ve liked at one point or another:
 		<unknown url="https://www.notion.so/d29c331495084de1a75d9a4c83ada78d#542b848f4d8b4548a9ea5e8a617f9981" alt="embed"/>
 		<empty-block/>
@@ -18,9 +16,7 @@
 	</column>
 	<column>
 		# Soundcloud {color="orange_bg"}
-		---
 		<span underline="true">S</span><span underline="true">**ets**</span>. Longer pieces, around an hour or two. Things I listen to at work. {color="orange"}
-		<empty-block/>
 		Softer things. Nice sounds. Relaxed:
 		<unknown url="https://www.notion.so/d29c331495084de1a75d9a4c83ada78d#6a4d1419c4124501939dbb1645192252" alt="embed"/>
 		<empty-block/>
