@@ -64,7 +64,7 @@ export async function resolveNotionPage(domain: string, rawPageId?: string) {
       page,
       blocks,
       pageId,
-      databaseEntries,
+      databaseEntries: databaseEntries ?? null,
     }
   } catch (err) {
     console.error('page error', domain, pageId, err)
