@@ -44,8 +44,10 @@
   transition: transform 300ms ease;
 }
 
-.notion-header.notion-header-hidden {
-  transform: translateY(-100%);
+@media (max-width: 768px) {
+  .notion-header.notion-header-hidden {
+    transform: translateY(-100%);
+  }
 }
 
 .dark .notion-header {
