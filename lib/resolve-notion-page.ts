@@ -1,7 +1,7 @@
-import { parsePageId, idToUuid, uuidToId } from './notion-utils'
-import { getPageTitle, getPageIcon } from './notion-api'
+import { parsePageId, idToUuid, uuidToId, slugify } from './notion-utils'
+import { getPageTitle, getPageIcon, getBlocksShallow } from './notion-api'
 import { pageUrlAdditions, pageUrlOverrides, site } from './config'
-import { getPageWithBlocks, getPageWithShallowBlocks, getDatabaseEntries, findDatabaseBlocks, getChildPageMap } from './notion'
+import { getPageWithBlocks, getPageWithShallowBlocks, getPage, getDatabaseEntries, findDatabaseBlocks, getChildPageMap } from './notion'
 import type { Breadcrumb, DatabaseEntry } from './types'
 
 interface ResolveResult {
@@ -50,13 +50,48 @@ async function resolvePathSegments(segments: string[], pageUuid: string): Promis
   }
 }
 
-// Fallback: recursively search all nested databases for a slug (for flat URLs)
+// Collect child_page blocks from shallow blocks, including inside columns
+async function collectChildPageBlocksShallow(blocks: import('./notion-api').NotionBlock[]): Promise<import('./notion-api').NotionBlock[]> {
+  const childPages = blocks.filter((b) => b.type === 'child_page')
+
+  // Also check inside column_list blocks (need to fetch column children)
+  const columnLists = blocks.filter((b) => b.type === 'column_list')
+  if (columnLists.length > 0) {
+    const columnChildrenArrays = await Promise.all(
+      columnLists.map((cl) => getBlocksShallow(cl.id))
+    )
+    for (const columns of columnChildrenArrays) {
+      const columnContentArrays = await Promise.all(
+        columns.map((col) => getBlocksShallow(col.id))
+      )
+      for (const content of columnContentArrays) {
+        childPages.push(...content.filter((b) => b.type === 'child_page'))
+      }
+    }
+  }
+
+  return childPages
+}
+
+// Fallback: recursively search all nested databases and child pages for a slug
 async function findPageBySlug(slug: string, pageUuid: string, depth = 0): Promise<string | undefined> {
   if (depth > 3) return undefined
 
   const { blocks } = await getPageWithShallowBlocks(pageUuid)
-  const dbBlocks = findDatabaseBlocks(blocks)
 
+  // Check child_page blocks (including inside columns)
+  const childPageBlocks = await collectChildPageBlocksShallow(blocks)
+  for (const block of childPageBlocks) {
+    const page = await getPage(block.id)
+    const title = getPageTitle(page)
+    const pageSlug = slugify(title) || uuidToId(block.id)
+    if (pageSlug === slug) {
+      return uuidToId(block.id)
+    }
+  }
+
+  // Check databases
+  const dbBlocks = findDatabaseBlocks(blocks)
   for (const dbBlock of dbBlocks) {
     const entries = await getDatabaseEntries(dbBlock.id)
     const entry = entries.find((e) => e.slug === slug)
