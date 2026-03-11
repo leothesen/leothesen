@@ -32,7 +32,7 @@ export async function getPageWithShallowBlocks(pageId: string) {
 }
 
 export async function getDatabaseEntries(databaseId: string, parentPath: string[] = []): Promise<DatabaseEntry[]> {
-  const pages = await queryDatabase(databaseId)
+  const pages = await queryDatabase(databaseId, [{ property: 'Order', direction: 'ascending' }])
   return pages.map((page) => pageToEntry(page, parentPath))
 }
 
