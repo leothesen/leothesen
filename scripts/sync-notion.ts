@@ -341,7 +341,7 @@ async function uploadImage(url: string): Promise<string> {
       return existing.url
     }
 
-    // Upload to Vercel Blob with retry
+    // Upload to Vercel Blob with retry (only retries transient errors)
     for (let attempt = 0; attempt < 3; attempt++) {
       try {
         const buffer = await downloadToBuffer(url)
@@ -357,8 +357,11 @@ async function uploadImage(url: string): Promise<string> {
         console.log(`  Uploaded to blob: ${filename}`)
         return servedUrl
       } catch (err) {
-        if (attempt === 2) {
-          console.warn(`  Failed to upload image after 3 attempts: ${url}`, (err as Error).message)
+        const msg = (err as Error).message || ''
+        // Don't retry on HTTP client errors (403 expired URL, 404 not found, etc.)
+        const isHttpClientError = /: 4\d{2}$/.test(msg)
+        if (isHttpClientError || attempt === 2) {
+          console.warn(`  Failed to upload image: ${url}`, msg)
           imageUrlMap.set(url, url)
           return url
         }
