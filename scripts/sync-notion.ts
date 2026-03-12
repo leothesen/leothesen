@@ -52,11 +52,14 @@ const args = process.argv.slice(2)
 const forceMode = args.includes('--force')
 const repairIdx = args.indexOf('--repair')
 const repairTarget = repairIdx !== -1 ? args[repairIdx + 1] : null
-const mode: 'force' | 'repair' | 'incremental' = forceMode
+const imagesMode = args.includes('--images')
+const mode: 'force' | 'repair' | 'images' | 'incremental' = forceMode
   ? 'force'
   : repairTarget
     ? 'repair'
-    : 'incremental'
+    : imagesMode
+      ? 'images'
+      : 'incremental'
 
 // ---------------------------------------------------------------------------
 // Types
@@ -292,6 +295,15 @@ function downloadToBuffer(url: string): Promise<Buffer> {
 // Persistent map: hash -> served URL (survives across runs)
 let persistedImageMap: Record<string, string> = {}
 
+async function blobHead(urlOrPathname: string): Promise<{ url: string } | null> {
+  const { head } = await import('@vercel/blob')
+  try {
+    return await head(urlOrPathname, { token: BLOB_TOKEN! })
+  } catch {
+    return null
+  }
+}
+
 async function uploadImage(url: string): Promise<string> {
   if (imageUrlMap.has(url)) return imageUrlMap.get(url)!
 
@@ -301,30 +313,62 @@ async function uploadImage(url: string): Promise<string> {
 
   // Check if already uploaded in a previous run
   if (persistedImageMap[hash]) {
-    imageUrlMap.set(url, persistedImageMap[hash])
-    return persistedImageMap[hash]
+    const cachedUrl = persistedImageMap[hash]
+    if (useBlob && cachedUrl.startsWith('https://')) {
+      // Validate the blob still exists
+      const existing = await blobHead(cachedUrl)
+      if (existing) {
+        imageUrlMap.set(url, cachedUrl)
+        return cachedUrl
+      }
+      // Gone from store — delete stale entry and re-upload below
+      console.warn(`  Blob missing for ${filename}, re-uploading...`)
+      delete persistedImageMap[hash]
+    } else {
+      // Local path — trust it (or could add fs.existsSync check)
+      imageUrlMap.set(url, cachedUrl)
+      return cachedUrl
+    }
   }
 
   if (useBlob) {
-    // Upload to Vercel Blob
-    try {
-      const buffer = await downloadToBuffer(url)
-      const { put } = await import('@vercel/blob')
-      const blob = await put(`notion-images/${filename}`, buffer, {
-        access: 'public',
-        token: BLOB_TOKEN,
-        addRandomSuffix: false,
-      })
-      const servedUrl = blob.url
-      imageUrlMap.set(url, servedUrl)
-      persistedImageMap[hash] = servedUrl
-      console.log(`  Uploaded to blob: ${filename}`)
-      return servedUrl
-    } catch (err) {
-      console.warn(`  Failed to upload image: ${url}`, (err as Error).message)
-      imageUrlMap.set(url, url)
-      return url
+    // Check if blob already exists at this pathname (avoids collision)
+    const existing = await blobHead(`notion-images/${filename}`)
+    if (existing) {
+      imageUrlMap.set(url, existing.url)
+      persistedImageMap[hash] = existing.url
+      console.log(`  Blob exists: ${filename}`)
+      return existing.url
     }
+
+    // Upload to Vercel Blob with retry
+    for (let attempt = 0; attempt < 3; attempt++) {
+      try {
+        const buffer = await downloadToBuffer(url)
+        const { put } = await import('@vercel/blob')
+        const blob = await put(`notion-images/${filename}`, buffer, {
+          access: 'public',
+          token: BLOB_TOKEN,
+          addRandomSuffix: false,
+        })
+        const servedUrl = blob.url
+        imageUrlMap.set(url, servedUrl)
+        persistedImageMap[hash] = servedUrl
+        console.log(`  Uploaded to blob: ${filename}`)
+        return servedUrl
+      } catch (err) {
+        if (attempt === 2) {
+          console.warn(`  Failed to upload image after 3 attempts: ${url}`, (err as Error).message)
+          imageUrlMap.set(url, url)
+          return url
+        }
+        console.warn(`  Upload attempt ${attempt + 1} failed, retrying in ${(attempt + 1)}s...`)
+        await new Promise((r) => setTimeout(r, (attempt + 1) * 1000))
+      }
+    }
+    // Unreachable but satisfies TS
+    imageUrlMap.set(url, url)
+    return url
   } else {
     // Local download fallback
     const localPath = `/notion-images/${filename}`
@@ -896,6 +940,265 @@ async function repairPage(target: string): Promise<void> {
 }
 
 // ---------------------------------------------------------------------------
+// Images mode: validate and repair images without re-syncing from Notion
+// ---------------------------------------------------------------------------
+
+async function imagesRepair(): Promise<void> {
+  console.log('Images mode: validating and repairing image references...\n')
+
+  persistedImageMap = loadExistingImageMap()
+  const existingManifest = loadExistingManifest()
+  if (!existingManifest) {
+    console.error('No existing manifest found. Run a full sync first.')
+    process.exit(1)
+  }
+
+  const pagesDir = path.join(CONTENT_DIR, 'pages')
+  if (!fs.existsSync(pagesDir)) {
+    console.error('No pages directory found. Run a full sync first.')
+    process.exit(1)
+  }
+
+  // Step 1: Validate all entries in persistedImageMap
+  let staleCount = 0
+  let validCount = 0
+  const staleHashes = new Set<string>()
+
+  if (useBlob) {
+    console.log('Validating blob URLs in image-map.json...')
+    const entries = Object.entries(persistedImageMap)
+    const validationLimit = pLimit(10)
+
+    await Promise.all(
+      entries.map(([hash, url]) =>
+        validationLimit(async () => {
+          if (!url.startsWith('https://')) return
+          const exists = await blobHead(url)
+          if (exists) {
+            validCount++
+          } else {
+            console.warn(`  Stale: ${hash} -> ${url}`)
+            staleHashes.add(hash)
+            delete persistedImageMap[hash]
+            staleCount++
+          }
+        })
+      )
+    )
+    console.log(`  ${validCount} valid, ${staleCount} stale blobs removed.\n`)
+  } else {
+    console.log('Validating local image files...')
+    for (const [hash, localPath] of Object.entries(persistedImageMap)) {
+      if (!localPath.startsWith('/notion-images/')) continue
+      const destPath = path.join(process.cwd(), 'public', localPath)
+      if (fs.existsSync(destPath)) {
+        validCount++
+      } else {
+        console.warn(`  Missing: ${hash} -> ${localPath}`)
+        staleHashes.add(hash)
+        delete persistedImageMap[hash]
+        staleCount++
+      }
+    }
+    console.log(`  ${validCount} valid, ${staleCount} missing files.\n`)
+  }
+
+  // Step 2: Scan all content files for unrewritten Notion image URLs
+  // (these are from failed prior syncs where the URL was never replaced)
+  const notionUrlPattern = /https:\/\/(?:prod-files-secure\.s3\.us-west-2\.amazonaws\.com|s3\.us-west-2\.amazonaws\.com\/secure\.notion-static\.com)[^\s"')]+/g
+  const unrewrittenUrls = new Map<string, Set<string>>() // url -> set of page IDs
+  const pageDirs = fs.readdirSync(pagesDir).filter((d) => {
+    const stat = fs.statSync(path.join(pagesDir, d))
+    return stat.isDirectory()
+  })
+
+  console.log('Scanning content files for unrewritten Notion URLs...')
+  for (const pageId of pageDirs) {
+    const dir = path.join(pagesDir, pageId)
+    const filesToScan = ['blocks.json', 'meta.json']
+    const dbDir = path.join(dir, 'databases')
+    if (fs.existsSync(dbDir)) {
+      const dbFiles = fs.readdirSync(dbDir).filter((f) => f.endsWith('.json'))
+      filesToScan.push(...dbFiles.map((f) => `databases/${f}`))
+    }
+
+    for (const file of filesToScan) {
+      const filePath = path.join(dir, file)
+      if (!fs.existsSync(filePath)) continue
+      const content = fs.readFileSync(filePath, 'utf-8')
+      const matches = content.match(notionUrlPattern)
+      if (matches) {
+        for (const url of matches) {
+          if (!unrewrittenUrls.has(url)) unrewrittenUrls.set(url, new Set())
+          unrewrittenUrls.get(url)!.add(pageId)
+        }
+      }
+    }
+  }
+
+  if (unrewrittenUrls.size > 0) {
+    console.log(`  Found ${unrewrittenUrls.size} unrewritten Notion URLs.`)
+  } else {
+    console.log('  No unrewritten Notion URLs found.')
+  }
+
+  // Step 3: Identify pages that need fresh blocks fetched (for stale blobs)
+  // Build reverse map: blob URL -> hash, then find which pages reference stale URLs
+  const pagesNeedingRefresh = new Set<string>()
+
+  if (staleHashes.size > 0) {
+    console.log('\nIdentifying pages affected by stale blob URLs...')
+    // We need to scan files for the stale blob URLs to find affected pages
+    // But the files already have the blob URLs written in them, so we need to
+    // re-fetch blocks from Notion to get fresh signed URLs
+    for (const pageId of pageDirs) {
+      const dir = path.join(pagesDir, pageId)
+      const filesToScan = ['blocks.json', 'meta.json']
+      const dbDir = path.join(dir, 'databases')
+      if (fs.existsSync(dbDir)) {
+        const dbFiles = fs.readdirSync(dbDir).filter((f) => f.endsWith('.json'))
+        filesToScan.push(...dbFiles.map((f) => `databases/${f}`))
+      }
+
+      for (const file of filesToScan) {
+        const filePath = path.join(dir, file)
+        if (!fs.existsSync(filePath)) continue
+        const content = fs.readFileSync(filePath, 'utf-8')
+        // Check if any stale blob URL appears in this file
+        // We don't have the old URLs anymore, but we can check for stale hashes
+        // by looking for the hash pattern in filenames
+        for (const hash of staleHashes) {
+          if (content.includes(hash)) {
+            pagesNeedingRefresh.add(pageId)
+            break
+          }
+        }
+      }
+    }
+    if (pagesNeedingRefresh.size > 0) {
+      console.log(`  ${pagesNeedingRefresh.size} pages need re-fetching from Notion.`)
+    }
+  }
+
+  // Step 4: Attempt to download+upload unrewritten URLs directly
+  if (unrewrittenUrls.size > 0) {
+    console.log('\nAttempting to upload unrewritten images...')
+    const allUnrewritten = [...unrewrittenUrls.keys()]
+    const failedUrls = new Map<string, Set<string>>() // url -> page IDs
+
+    await Promise.all(
+      allUnrewritten.map((url) =>
+        imageLimit(async () => {
+          const result = await uploadImage(url)
+          if (result === url) {
+            // Failed — likely expired signed URL
+            failedUrls.set(url, unrewrittenUrls.get(url)!)
+          }
+        })
+      )
+    )
+
+    // Rewrite successfully uploaded URLs in affected files
+    if (imageUrlMap.size > 0) {
+      const affectedPages = new Set<string>()
+      for (const [, pageIds] of unrewrittenUrls) {
+        for (const pid of pageIds) affectedPages.add(pid)
+      }
+      rewriteImageUrls(affectedPages)
+    }
+
+    if (failedUrls.size > 0) {
+      // Add pages with failed URLs to the refresh set
+      for (const [, pageIds] of failedUrls) {
+        for (const pid of pageIds) pagesNeedingRefresh.add(pid)
+      }
+      console.log(`  ${failedUrls.size} URLs failed (likely expired). Pages will be re-fetched.`)
+    }
+  }
+
+  // Step 5: Re-fetch blocks from Notion for pages with stale/failed images
+  if (pagesNeedingRefresh.size > 0) {
+    console.log(`\nRe-fetching ${pagesNeedingRefresh.size} pages from Notion for fresh image URLs...`)
+
+    for (const pageId of pagesNeedingRefresh) {
+      const uuid = idToUuid(pageId)
+      const pageEntry = existingManifest.pages[pageId]
+      if (!pageEntry) continue
+
+      console.log(`  Re-fetching: ${pageId} (${pageEntry.title})`)
+      try {
+        const [page, blocks] = await Promise.all([
+          fetchPage(uuid),
+          fetchBlocksDeep(uuid),
+        ])
+
+        const title = getPageTitle(page)
+        const icon = getPageIcon(page)
+        const cover = getPageCover(page)
+
+        // Collect fresh image URLs
+        const freshImages: string[] = []
+        collectImageUrlsFromBlocks(blocks)
+        if (cover?.startsWith('http')) freshImages.push(cover)
+        if (icon?.startsWith('http')) freshImages.push(icon)
+
+        // Write fresh blocks
+        const pageDir = path.join(pagesDir, pageId)
+        fs.mkdirSync(pageDir, { recursive: true })
+
+        const meta: PageMeta = {
+          id: page.id,
+          title,
+          icon,
+          cover,
+          description: getPagePropertyText(page, 'Description'),
+          published: getPagePropertyText(page, 'Published'),
+          author: getPagePropertyText(page, 'Author'),
+          lastEdited: page.last_edited_time,
+          slug: slugify(title) || pageId,
+          order: getPagePropertyNumber(page, 'Order'),
+        }
+
+        fs.writeFileSync(path.join(pageDir, 'meta.json'), JSON.stringify(meta, null, 2))
+        fs.writeFileSync(path.join(pageDir, 'blocks.json'), JSON.stringify(blocks, null, 2))
+
+        // Upload fresh images
+        const uniqueFresh = [...new Set(freshImages)]
+        if (uniqueFresh.length > 0) {
+          await Promise.all(uniqueFresh.map((url) => imageLimit(() => uploadImage(url))))
+        }
+
+        syncedPageIds.add(pageId)
+      } catch (err) {
+        console.warn(`  Failed to re-fetch page ${pageId}:`, (err as Error).message)
+        console.warn(`  Run 'pnpm sync:repair "${pageEntry.title}"' to fix this page.`)
+      }
+    }
+
+    // Process any newly collected images from collectImageUrlsFromBlocks
+    const uniqueUrls = [...new Set(imagesToProcess)]
+    if (uniqueUrls.length > 0) {
+      console.log(`\nProcessing ${uniqueUrls.length} collected images...`)
+      await Promise.all(uniqueUrls.map((url) => imageLimit(() => uploadImage(url))))
+    }
+
+    // Rewrite URLs in re-fetched pages
+    if (syncedPageIds.size > 0) {
+      rewriteImageUrls(syncedPageIds)
+    }
+  }
+
+  // Step 6: Save updated image map
+  fs.writeFileSync(IMAGE_MAP_PATH, JSON.stringify(persistedImageMap, null, 2))
+
+  console.log(`\nImages repair complete!`)
+  console.log(`  Validated: ${validCount}`)
+  console.log(`  Stale removed: ${staleCount}`)
+  console.log(`  Newly uploaded: ${imageUrlMap.size}`)
+  console.log(`  Pages re-fetched: ${pagesNeedingRefresh.size}`)
+}
+
+// ---------------------------------------------------------------------------
 // Main
 // ---------------------------------------------------------------------------
 
@@ -903,6 +1206,12 @@ async function main() {
   console.log(`Starting Notion sync (mode: ${mode})...\n`)
   if (useBlob) console.log('Using Vercel Blob for image storage.\n')
   else console.log('Using local image storage (set BLOB_READ_WRITE_TOKEN for Vercel Blob).\n')
+
+  // Images mode: handle separately and exit
+  if (mode === 'images') {
+    await imagesRepair()
+    return
+  }
 
   // Repair mode: handle separately and exit
   if (mode === 'repair') {

@@ -77,7 +77,7 @@ Edit [site.config.ts](./site.config.ts) to set:
 
 ### 6. Sync content from Notion
 
-The sync script pulls all pages, databases, and images from Notion into `.content/` and `public/notion-images/`. There are three sync modes:
+The sync script pulls all pages, databases, and images from Notion into `.content/` and `public/notion-images/`. There are four sync modes:
 
 ```bash
 # Incremental sync (default) — only re-fetches pages that changed since last sync
@@ -89,6 +89,9 @@ pnpm sync:force
 # Repair a single page — re-fetches one page by title or ID without re-crawling the full tree
 pnpm sync:repair "Music"
 pnpm sync:repair d29c331495084de1a75d9a4c83ada78d
+
+# Images repair — validates and fixes image references without re-syncing page content
+pnpm sync:images
 ```
 
 | Mode | When to use |
@@ -96,6 +99,7 @@ pnpm sync:repair d29c331495084de1a75d9a4c83ada78d
 | `sync` | Day-to-day use. Fast when only a few pages changed. |
 | `sync:force` | After structural changes, or to fix corrupted local content. |
 | `sync:repair` | Quick fix for a single page without waiting for a full crawl. |
+| `sync:images` | Fix missing/broken images after a failed sync or cleared blob store. |
 
 ### 7. Run locally
 
