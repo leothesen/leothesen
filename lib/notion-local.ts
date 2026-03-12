@@ -1,5 +1,6 @@
 import * as fs from 'fs'
 import * as path from 'path'
+import type { NotionBlock } from './notion-api'
 import type { DatabaseEntry } from './types'
 
 const CONTENT_DIR = path.join(process.cwd(), '.content')
@@ -17,7 +18,7 @@ export interface LocalPageData {
     slug: string
     order: number | null
   }
-  markdown: string
+  blocks: NotionBlock[]
   databaseEntries: Record<string, DatabaseEntry[]>
 }
 
@@ -55,12 +56,12 @@ export function getLocalPage(pageId: string): LocalPageData | null {
   if (!fs.existsSync(pageDir)) return null
 
   const metaPath = path.join(pageDir, 'meta.json')
-  const mdPath = path.join(pageDir, 'content.md')
+  const blocksPath = path.join(pageDir, 'blocks.json')
 
-  if (!fs.existsSync(metaPath) || !fs.existsSync(mdPath)) return null
+  if (!fs.existsSync(metaPath) || !fs.existsSync(blocksPath)) return null
 
   const meta = JSON.parse(fs.readFileSync(metaPath, 'utf-8'))
-  const markdown = fs.readFileSync(mdPath, 'utf-8')
+  const blocks = JSON.parse(fs.readFileSync(blocksPath, 'utf-8'))
 
   // Load database entries
   const databaseEntries: Record<string, DatabaseEntry[]> = {}
@@ -73,14 +74,13 @@ export function getLocalPage(pageId: string): LocalPageData | null {
     }
   }
 
-  return { meta, markdown, databaseEntries }
+  return { meta, blocks, databaseEntries }
 }
 
 export function getAllPages(): DatabaseEntry[] {
   const manifest = getManifest()
   const entries: DatabaseEntry[] = []
 
-  // Walk all pages in the manifest and collect ones that have a non-empty slug path
   for (const [pageId, pageInfo] of Object.entries(manifest.pages)) {
     if (pageInfo.slugPath.length === 0) continue // skip root
     entries.push({

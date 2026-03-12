@@ -16,9 +16,13 @@ if (!NOTION_TOKEN) {
   process.exit(1)
 }
 
+const BLOB_TOKEN = process.env.BLOB_READ_WRITE_TOKEN
+const useBlob = !!BLOB_TOKEN
+
 const ROOT_PAGE_ID = '2a9bf7526da84f7daa846a866faf1799'
 const CONTENT_DIR = path.join(process.cwd(), '.content')
 const IMAGES_DIR = path.join(process.cwd(), 'public', 'notion-images')
+const IMAGE_MAP_PATH = path.join(CONTENT_DIR, 'image-map.json')
 
 const notion = new Client({ auth: NOTION_TOKEN })
 const apiLimit = pLimit(8)
@@ -106,7 +110,7 @@ interface DiscoveredPage {
   slugPath: string[]
   childDatabases: Array<{ id: string; title: string }>
   childPages: Array<{ id: string; title: string; slug: string }>
-  dbEntries: Map<string, any[]> // dbId -> entries from fetchDatabaseEntries
+  dbEntries: Map<string, any[]>
 }
 
 // ---------------------------------------------------------------------------
@@ -203,6 +207,15 @@ function loadExistingMeta(pageId: string): PageMeta | null {
   }
 }
 
+function loadExistingImageMap(): Record<string, string> {
+  if (!fs.existsSync(IMAGE_MAP_PATH)) return {}
+  try {
+    return JSON.parse(fs.readFileSync(IMAGE_MAP_PATH, 'utf-8'))
+  } catch {
+    return {}
+  }
+}
+
 function pageNeedsUpdate(pageId: string, notionLastEdited: string): boolean {
   const existingMeta = loadExistingMeta(pageId)
   if (!existingMeta) return true
@@ -210,13 +223,13 @@ function pageNeedsUpdate(pageId: string, notionLastEdited: string): boolean {
 }
 
 // ---------------------------------------------------------------------------
-// Image downloading
+// Image handling
 // ---------------------------------------------------------------------------
 
-const imageUrlMap = new Map<string, string>() // original URL -> local path
+// Maps original URL (without query params) hash -> final served URL
+const imageUrlMap = new Map<string, string>() // original URL -> served path/url
 
 function hashUrl(url: string): string {
-  // Strip query params for hashing (S3 signed URLs change)
   const clean = url.split('?')[0]
   return crypto.createHash('sha256').update(clean).digest('hex').slice(0, 16)
 }
@@ -227,7 +240,7 @@ function getExtFromUrl(url: string): string {
   if (['.jpg', '.jpeg', '.png', '.gif', '.webp', '.svg', '.ico', '.bmp', '.avif'].includes(ext)) {
     return ext
   }
-  return '.jpg' // default
+  return '.jpg'
 }
 
 function downloadFile(url: string, dest: string): Promise<void> {
@@ -253,28 +266,85 @@ function downloadFile(url: string, dest: string): Promise<void> {
   })
 }
 
-async function downloadImage(url: string): Promise<string> {
+function downloadToBuffer(url: string): Promise<Buffer> {
+  return new Promise((resolve, reject) => {
+    const get = url.startsWith('https') ? https.get : http.get
+    get(url, { headers: { 'User-Agent': 'notion-sync' } }, (res) => {
+      if (res.statusCode === 301 || res.statusCode === 302) {
+        const location = res.headers.location
+        if (location) {
+          downloadToBuffer(location).then(resolve, reject)
+          return
+        }
+      }
+      if (res.statusCode !== 200) {
+        reject(new Error(`Failed to download ${url}: ${res.statusCode}`))
+        return
+      }
+      const chunks: Buffer[] = []
+      res.on('data', (chunk) => chunks.push(chunk))
+      res.on('end', () => resolve(Buffer.concat(chunks)))
+      res.on('error', reject)
+    }).on('error', reject)
+  })
+}
+
+// Persistent map: hash -> served URL (survives across runs)
+let persistedImageMap: Record<string, string> = {}
+
+async function uploadImage(url: string): Promise<string> {
   if (imageUrlMap.has(url)) return imageUrlMap.get(url)!
 
   const hash = hashUrl(url)
   const ext = getExtFromUrl(url)
   const filename = `${hash}${ext}`
-  const localPath = `/notion-images/${filename}`
-  const destPath = path.join(IMAGES_DIR, filename)
 
-  imageUrlMap.set(url, localPath)
-
-  if (!fs.existsSync(destPath)) {
-    try {
-      await downloadFile(url, destPath)
-      console.log(`  Downloaded: ${filename}`)
-    } catch (err) {
-      console.warn(`  Failed to download image: ${url}`, (err as Error).message)
-      return url // fallback to original URL
-    }
+  // Check if already uploaded in a previous run
+  if (persistedImageMap[hash]) {
+    imageUrlMap.set(url, persistedImageMap[hash])
+    return persistedImageMap[hash]
   }
 
-  return localPath
+  if (useBlob) {
+    // Upload to Vercel Blob
+    try {
+      const buffer = await downloadToBuffer(url)
+      const { put } = await import('@vercel/blob')
+      const blob = await put(`notion-images/${filename}`, buffer, {
+        access: 'public',
+        token: BLOB_TOKEN,
+        addRandomSuffix: false,
+      })
+      const servedUrl = blob.url
+      imageUrlMap.set(url, servedUrl)
+      persistedImageMap[hash] = servedUrl
+      console.log(`  Uploaded to blob: ${filename}`)
+      return servedUrl
+    } catch (err) {
+      console.warn(`  Failed to upload image: ${url}`, (err as Error).message)
+      imageUrlMap.set(url, url)
+      return url
+    }
+  } else {
+    // Local download fallback
+    const localPath = `/notion-images/${filename}`
+    const destPath = path.join(IMAGES_DIR, filename)
+
+    imageUrlMap.set(url, localPath)
+    persistedImageMap[hash] = localPath
+
+    if (!fs.existsSync(destPath)) {
+      try {
+        await downloadFile(url, destPath)
+        console.log(`  Downloaded: ${filename}`)
+      } catch (err) {
+        console.warn(`  Failed to download image: ${url}`, (err as Error).message)
+        return url
+      }
+    }
+
+    return localPath
+  }
 }
 
 // ---------------------------------------------------------------------------
@@ -285,21 +355,43 @@ async function fetchPage(pageId: string): Promise<any> {
   return apiLimit(() => withRetry(() => notion.pages.retrieve({ page_id: pageId })))
 }
 
-async function fetchBlocks(pageId: string): Promise<any[]> {
+async function fetchBlocksShallow(pageId: string): Promise<any[]> {
   return apiLimit(() => withRetry(async () => {
     const response = await notion.blocks.children.list({ block_id: pageId, page_size: 100 })
     return response.results
   }))
 }
 
-async function fetchMarkdown(pageId: string): Promise<string> {
-  return apiLimit(() => withRetry(async () => {
-    const response = await (notion as any).request({
-      path: `pages/${pageId}/markdown`,
-      method: 'GET',
-    })
-    return response.markdown || ''
+async function fetchBlocksDeep(blockId: string): Promise<any[]> {
+  const blocks = await apiLimit(() => withRetry(async () => {
+    const allBlocks: any[] = []
+    let cursor: string | undefined
+    do {
+      const response = await notion.blocks.children.list({
+        block_id: blockId,
+        start_cursor: cursor,
+        page_size: 100,
+      })
+      for (const block of response.results) {
+        if ('type' in block) {
+          allBlocks.push(block)
+        }
+      }
+      cursor = response.next_cursor ?? undefined
+    } while (cursor)
+    return allBlocks
   }))
+
+  // Recursively fetch children for blocks that have them
+  const childrenNeeded = blocks.filter((b: any) => b.has_children && b.type !== 'child_page' && b.type !== 'child_database')
+  if (childrenNeeded.length > 0) {
+    const childResults = await Promise.all(
+      childrenNeeded.map((b: any) => fetchBlocksDeep(b.id))
+    )
+    childrenNeeded.forEach((b: any, i: number) => { b.children = childResults[i] })
+  }
+
+  return blocks
 }
 
 async function fetchDatabaseEntries(databaseId: string): Promise<any[]> {
@@ -331,6 +423,31 @@ async function fetchDatabaseEntries(databaseId: string): Promise<any[]> {
 }
 
 // ---------------------------------------------------------------------------
+// Image URL collection from blocks
+// ---------------------------------------------------------------------------
+
+const imagesToProcess: string[] = []
+
+function collectImageUrlsFromBlocks(blocks: any[]) {
+  for (const block of blocks) {
+    const type = block.type
+    if (type === 'image') {
+      const img = block.image
+      const src = img?.type === 'external' ? img.external?.url : img?.file?.url
+      if (src?.startsWith('http')) imagesToProcess.push(src)
+    }
+    if (type === 'video') {
+      const vid = block.video
+      const src = vid?.type === 'file' ? vid.file?.url : null
+      if (src?.startsWith('http')) imagesToProcess.push(src)
+    }
+    if (block.children) {
+      collectImageUrlsFromBlocks(block.children)
+    }
+  }
+}
+
+// ---------------------------------------------------------------------------
 // State
 // ---------------------------------------------------------------------------
 
@@ -340,20 +457,8 @@ const manifest: Manifest = {
   pages: {},
 }
 
-const imagesToDownload: Array<{ url: string; pageId: string }> = []
 const discoveredPages = new Map<string, DiscoveredPage>()
-const syncedPageIds = new Set<string>() // pages whose content was written this run
-
-function collectImageUrls(markdown: string, pageId: string) {
-  const imgRegex = /!\[[^\]]*\]\(([^)]+)\)/g
-  let match
-  while ((match = imgRegex.exec(markdown)) !== null) {
-    const url = match[1].split(' ')[0]
-    if (url.startsWith('http')) {
-      imagesToDownload.push({ url, pageId })
-    }
-  }
-}
+const syncedPageIds = new Set<string>()
 
 // ---------------------------------------------------------------------------
 // Phase 1: Discovery (lightweight tree walk)
@@ -369,10 +474,9 @@ async function discoverPage(
 
   console.log(`Discovering: ${cleanId}`)
 
-  // Fetch page metadata and blocks in parallel (single blocks call — fixes duplicate bug)
   const [page, blocks] = await Promise.all([
     fetchPage(uuid),
-    fetchBlocks(uuid).catch(() => [] as any[]),
+    fetchBlocksShallow(uuid).catch(() => [] as any[]),
   ])
 
   const title = getPageTitle(page)
@@ -380,7 +484,6 @@ async function discoverPage(
   const isRoot = cleanId === uuidToId(ROOT_PAGE_ID)
   const slugPath = knownSlugPath ?? (isRoot ? [] : [slug])
 
-  // Extract child databases and child pages from the single blocks call
   const childDatabases: Array<{ id: string; title: string }> = []
   const childPages: Array<{ id: string; title: string; slug: string }> = []
 
@@ -399,7 +502,6 @@ async function discoverPage(
     }
   }
 
-  // Query databases for entries (needed for tree structure)
   const dbEntries = new Map<string, any[]>()
   for (const db of childDatabases) {
     const dbId = uuidToId(db.id)
@@ -431,10 +533,8 @@ async function discoverPage(
   }
   discoveredPages.set(cleanId, discovered)
 
-  // Build slug tree node
   const treeNode: SlugTreeNode = { pageId: cleanId, title, children: {} }
 
-  // Recurse into database entries
   for (const db of childDatabases) {
     const dbId = uuidToId(db.id)
     const entries = dbEntries.get(dbId)
@@ -448,12 +548,10 @@ async function discoverPage(
     }
   }
 
-  // Recurse into child pages
   for (const child of childPages) {
     await discoverPage(child.id, [...slugPath, child.slug], treeNode.children)
   }
 
-  // Add to slug tree
   if (isRoot) {
     Object.assign(slugTree, treeNode.children)
   } else {
@@ -462,7 +560,7 @@ async function discoverPage(
 }
 
 // ---------------------------------------------------------------------------
-// Phase 2: Content sync (only changed pages)
+// Phase 2: Content sync (fetch deep blocks for changed pages)
 // ---------------------------------------------------------------------------
 
 async function syncPageContent(discovered: DiscoveredPage): Promise<void> {
@@ -472,8 +570,8 @@ async function syncPageContent(discovered: DiscoveredPage): Promise<void> {
 
   console.log(`Syncing content: ${cleanId} (${title})`)
 
-  // Fetch markdown
-  const markdown = await fetchMarkdown(uuid)
+  // Fetch full recursive block tree
+  const blocks = await fetchBlocksDeep(uuid)
 
   const meta: PageMeta = {
     id: discovered.uuid,
@@ -488,20 +586,20 @@ async function syncPageContent(discovered: DiscoveredPage): Promise<void> {
     order: discovered.order,
   }
 
-  // Collect image URLs from markdown content
-  collectImageUrls(markdown, cleanId)
+  // Collect image URLs from blocks
+  collectImageUrlsFromBlocks(blocks)
 
   // Collect cover and file-type icon images
   if (discovered.cover?.startsWith('http')) {
-    imagesToDownload.push({ url: discovered.cover, pageId: cleanId })
+    imagesToProcess.push(discovered.cover)
   }
   if (discovered.icon?.startsWith('http')) {
-    imagesToDownload.push({ url: discovered.icon, pageId: cleanId })
+    imagesToProcess.push(discovered.icon)
   }
 
   // Write page files
   fs.writeFileSync(path.join(pageDir, 'meta.json'), JSON.stringify(meta, null, 2))
-  fs.writeFileSync(path.join(pageDir, 'content.md'), markdown)
+  fs.writeFileSync(path.join(pageDir, 'blocks.json'), JSON.stringify(blocks, null, 2))
 
   // Process database entries — write DB JSON files and collect entry images
   if (childDatabases.length > 0) {
@@ -520,10 +618,10 @@ async function syncPageContent(discovered: DiscoveredPage): Promise<void> {
         const entryIcon = getPageIcon(entry)
 
         if (entryCover?.startsWith('http')) {
-          imagesToDownload.push({ url: entryCover, pageId: uuidToId(entry.id) })
+          imagesToProcess.push(entryCover)
         }
         if (entryIcon?.startsWith('http')) {
-          imagesToDownload.push({ url: entryIcon, pageId: uuidToId(entry.id) })
+          imagesToProcess.push(entryIcon)
         }
 
         return {
@@ -552,7 +650,7 @@ async function syncPageContent(discovered: DiscoveredPage): Promise<void> {
 }
 
 // ---------------------------------------------------------------------------
-// Rewrite image URLs (only in synced pages)
+// Rewrite image URLs in synced pages' JSON files
 // ---------------------------------------------------------------------------
 
 function rewriteImageUrls(pageIds: Set<string>) {
@@ -563,14 +661,14 @@ function rewriteImageUrls(pageIds: Set<string>) {
     const dir = path.join(pagesDir, pageId)
     if (!fs.existsSync(dir) || !fs.statSync(dir).isDirectory()) continue
 
-    // Rewrite content.md
-    const mdPath = path.join(dir, 'content.md')
-    if (fs.existsSync(mdPath)) {
-      let content = fs.readFileSync(mdPath, 'utf-8')
+    // Rewrite blocks.json
+    const blocksPath = path.join(dir, 'blocks.json')
+    if (fs.existsSync(blocksPath)) {
+      let content = fs.readFileSync(blocksPath, 'utf-8')
       for (const [originalUrl, localPath] of imageUrlMap) {
         content = content.split(originalUrl).join(localPath)
       }
-      fs.writeFileSync(mdPath, content)
+      fs.writeFileSync(blocksPath, content)
     }
 
     // Rewrite meta.json
@@ -622,7 +720,6 @@ async function repairPage(target: string): Promise<void> {
     process.exit(1)
   }
 
-  // Find page by ID or title
   const normalizedTarget = target.replace(/-/g, '')
   const isIdLike = /^[a-f0-9]{32}$/.test(normalizedTarget)
 
@@ -635,7 +732,6 @@ async function repairPage(target: string): Promise<void> {
   }
 
   if (matchedIds.length === 0) {
-    // Case-insensitive substring match on title
     const lowerTarget = target.toLowerCase()
     for (const [id, page] of Object.entries(existingManifest.pages)) {
       if (page.title.toLowerCase().includes(lowerTarget)) {
@@ -665,13 +761,14 @@ async function repairPage(target: string): Promise<void> {
   console.log(`Repairing: ${pageId} (${existingEntry.title})\n`)
 
   fs.mkdirSync(path.join(CONTENT_DIR, 'pages'), { recursive: true })
-  fs.mkdirSync(IMAGES_DIR, { recursive: true })
+  if (!useBlob) fs.mkdirSync(IMAGES_DIR, { recursive: true })
 
-  // Fetch page metadata, markdown, and blocks
-  const [page, markdown, blocks] = await Promise.all([
+  persistedImageMap = loadExistingImageMap()
+
+  // Fetch page metadata and deep blocks
+  const [page, blocks] = await Promise.all([
     fetchPage(uuid),
-    fetchMarkdown(uuid),
-    fetchBlocks(uuid).catch(() => [] as any[]),
+    fetchBlocksDeep(uuid),
   ])
 
   const title = getPageTitle(page)
@@ -693,19 +790,15 @@ async function repairPage(target: string): Promise<void> {
   }
 
   // Collect images
-  collectImageUrls(markdown, pageId)
-  if (cover?.startsWith('http')) {
-    imagesToDownload.push({ url: cover, pageId })
-  }
-  if (icon?.startsWith('http')) {
-    imagesToDownload.push({ url: icon, pageId })
-  }
+  collectImageUrlsFromBlocks(blocks)
+  if (cover?.startsWith('http')) imagesToProcess.push(cover)
+  if (icon?.startsWith('http')) imagesToProcess.push(icon)
 
   // Write page files
   const pageDir = path.join(CONTENT_DIR, 'pages', pageId)
   fs.mkdirSync(pageDir, { recursive: true })
   fs.writeFileSync(path.join(pageDir, 'meta.json'), JSON.stringify(meta, null, 2))
-  fs.writeFileSync(path.join(pageDir, 'content.md'), markdown)
+  fs.writeFileSync(path.join(pageDir, 'blocks.json'), JSON.stringify(blocks, null, 2))
 
   // Process child databases
   const childDatabases: Array<{ id: string; title: string }> = []
@@ -732,12 +825,8 @@ async function repairPage(target: string): Promise<void> {
           const entryCover = getPageCover(entry)
           const entryIcon = getPageIcon(entry)
 
-          if (entryCover?.startsWith('http')) {
-            imagesToDownload.push({ url: entryCover, pageId: uuidToId(entry.id) })
-          }
-          if (entryIcon?.startsWith('http')) {
-            imagesToDownload.push({ url: entryIcon, pageId: uuidToId(entry.id) })
-          }
+          if (entryCover?.startsWith('http')) imagesToProcess.push(entryCover)
+          if (entryIcon?.startsWith('http')) imagesToProcess.push(entryIcon)
 
           return {
             id: entry.id,
@@ -766,22 +855,22 @@ async function repairPage(target: string): Promise<void> {
 
   syncedPageIds.add(pageId)
 
-  // Download images
-  const uniqueUrls = [...new Set(imagesToDownload.map((i) => i.url))]
+  // Upload/download images
+  const uniqueUrls = [...new Set(imagesToProcess)]
   if (uniqueUrls.length > 0) {
-    console.log(`\nDownloading ${uniqueUrls.length} images...`)
-    await Promise.all(uniqueUrls.map((url) => imageLimit(() => downloadImage(url))))
+    console.log(`\nProcessing ${uniqueUrls.length} images...`)
+    await Promise.all(uniqueUrls.map((url) => imageLimit(() => uploadImage(url))))
   }
 
   // Rewrite URLs in repaired page only
   rewriteImageUrls(syncedPageIds)
 
-  // Update manifest entry in-place (keep existing tree structure)
+  // Update manifest entry in-place
   existingManifest.pages[pageId] = {
     slugPath: existingEntry.slugPath,
     title,
-    icon: manifest.pages[pageId]?.icon ?? icon,
-    cover: manifest.pages[pageId]?.cover ?? cover,
+    icon,
+    cover,
     description: meta.description,
   }
 
@@ -799,6 +888,7 @@ async function repairPage(target: string): Promise<void> {
     path.join(CONTENT_DIR, 'manifest.json'),
     JSON.stringify(existingManifest, null, 2)
   )
+  fs.writeFileSync(IMAGE_MAP_PATH, JSON.stringify(persistedImageMap, null, 2))
 
   console.log(`\nRepair complete!`)
   console.log(`  Page: ${title} (${pageId})`)
@@ -811,6 +901,8 @@ async function repairPage(target: string): Promise<void> {
 
 async function main() {
   console.log(`Starting Notion sync (mode: ${mode})...\n`)
+  if (useBlob) console.log('Using Vercel Blob for image storage.\n')
+  else console.log('Using local image storage (set BLOB_READ_WRITE_TOKEN for Vercel Blob).\n')
 
   // Repair mode: handle separately and exit
   if (mode === 'repair') {
@@ -827,17 +919,18 @@ async function main() {
     if (fs.existsSync(CONTENT_DIR)) {
       fs.rmSync(CONTENT_DIR, { recursive: true })
     }
-    if (fs.existsSync(IMAGES_DIR)) {
+    if (!useBlob && fs.existsSync(IMAGES_DIR)) {
       fs.rmSync(IMAGES_DIR, { recursive: true })
     }
   }
 
   // Ensure directories exist
   fs.mkdirSync(path.join(CONTENT_DIR, 'pages'), { recursive: true })
-  fs.mkdirSync(IMAGES_DIR, { recursive: true })
+  if (!useBlob) fs.mkdirSync(IMAGES_DIR, { recursive: true })
 
-  // Load existing manifest for incremental comparison
+  // Load existing state
   const existingManifest = mode === 'incremental' ? loadExistingManifest() : null
+  persistedImageMap = mode === 'force' ? {} : loadExistingImageMap()
 
   // Phase 1: Discover full page tree
   console.log('Phase 1: Discovering pages...\n')
@@ -862,7 +955,7 @@ async function main() {
       skippedCount++
     }
 
-    // Build manifest entry — use existing cover/icon for unchanged pages (already rewritten)
+    // Build manifest entry
     const existingEntry = existingManifest?.pages[cleanId]
     if (!needsUpdate && existingEntry) {
       manifest.pages[cleanId] = {
@@ -903,11 +996,11 @@ async function main() {
     }
   }
 
-  // Download images (skip existing files — handled by downloadImage)
-  const uniqueUrls = [...new Set(imagesToDownload.map((i) => i.url))]
+  // Upload/download images
+  const uniqueUrls = [...new Set(imagesToProcess)]
   if (uniqueUrls.length > 0) {
-    console.log(`\nDownloading ${uniqueUrls.length} images...`)
-    await Promise.all(uniqueUrls.map((url) => imageLimit(() => downloadImage(url))))
+    console.log(`\nProcessing ${uniqueUrls.length} images...`)
+    await Promise.all(uniqueUrls.map((url) => imageLimit(() => uploadImage(url))))
   }
 
   // Rewrite URLs only in pages synced this run
@@ -916,11 +1009,12 @@ async function main() {
     rewriteImageUrls(syncedPageIds)
   }
 
-  // Write manifest
+  // Write manifest and image map
   fs.writeFileSync(
     path.join(CONTENT_DIR, 'manifest.json'),
     JSON.stringify(manifest, null, 2)
   )
+  fs.writeFileSync(IMAGE_MAP_PATH, JSON.stringify(persistedImageMap, null, 2))
 
   console.log(`\nSync complete!`)
   console.log(`  Pages: ${Object.keys(manifest.pages).length}`)

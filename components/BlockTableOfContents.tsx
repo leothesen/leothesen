@@ -1,12 +1,37 @@
 import * as React from 'react'
 
+import type { NotionBlock } from '@/lib/notion-api'
+
 interface TocItem {
   id: string
   text: string
   level: number
 }
 
-export function MarkdownTableOfContents({ headings }: { headings: TocItem[] }) {
+export function extractHeadingsFromBlocks(blocks: NotionBlock[]): TocItem[] {
+  const headings: TocItem[] = []
+
+  function walk(blocks: NotionBlock[]) {
+    for (const block of blocks) {
+      if (block.type === 'heading_1' || block.type === 'heading_2' || block.type === 'heading_3') {
+        const richText = (block as any)[block.type]?.rich_text
+        if (richText) {
+          const text = richText.map((t: any) => t.plain_text).join('')
+          const level = block.type === 'heading_1' ? 1 : block.type === 'heading_2' ? 2 : 3
+          headings.push({ id: block.id, text, level })
+        }
+      }
+      if ((block as any).children) {
+        walk((block as any).children)
+      }
+    }
+  }
+
+  walk(blocks)
+  return headings
+}
+
+export function BlockTableOfContents({ headings }: { headings: TocItem[] }) {
   const [activeId, setActiveId] = React.useState<string | null>(null)
 
   React.useEffect(() => {

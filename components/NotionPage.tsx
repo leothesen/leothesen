@@ -4,11 +4,13 @@ import { useRouter } from 'next/router'
 import cs from 'classnames'
 
 import * as config from '@/lib/config'
+import type { NotionBlock } from '@/lib/notion-api'
 import type { Breadcrumb, DatabaseEntry, PageError, Site } from '@/lib/types'
+import type { ChildPageInfo } from '@/lib/notion'
 import { formatDate } from '@/lib/notion-utils'
 
-import { MarkdownRenderer, extractHeadingsFromMarkdown } from './MarkdownRenderer'
-import { MarkdownTableOfContents } from './MarkdownTableOfContents'
+import { NotionBlocks } from './NotionRenderer'
+import { BlockTableOfContents, extractHeadingsFromBlocks } from './BlockTableOfContents'
 import { Footer } from './Footer'
 import { Loading } from './Loading'
 import { NotionPageHeader } from './NotionPageHeader'
@@ -29,8 +31,9 @@ interface NotionPageProps {
     slug: string
     order: number | null
   }
-  markdown?: string
+  blocks?: NotionBlock[]
   databaseEntriesMap?: Record<string, DatabaseEntry[]> | null
+  childPageMap?: Record<string, ChildPageInfo> | null
   breadcrumbs?: Breadcrumb[]
   pageId?: string
   error?: PageError
@@ -39,8 +42,9 @@ interface NotionPageProps {
 export const NotionPage: React.FC<NotionPageProps> = ({
   site,
   pageMeta,
-  markdown,
+  blocks,
   databaseEntriesMap,
+  childPageMap,
   breadcrumbs,
   error,
   pageId,
@@ -63,8 +67,8 @@ export const NotionPage: React.FC<NotionPageProps> = ({
   const publishedDate = pageMeta.published
 
   const headings = React.useMemo(
-    () => markdown ? extractHeadingsFromMarkdown(markdown) : [],
-    [markdown]
+    () => blocks ? extractHeadingsFromBlocks(blocks) : [],
+    [blocks]
   )
 
   return (
@@ -116,17 +120,20 @@ export const NotionPage: React.FC<NotionPageProps> = ({
                 </div>
               )}
 
-              {markdown && (
-                <MarkdownRenderer
-                  markdown={markdown}
-                  databaseEntriesMap={databaseEntriesMap}
-                />
+              {blocks && (
+                <div className="notion-page-body">
+                  <NotionBlocks
+                    blocks={blocks}
+                    databaseEntriesMap={databaseEntriesMap}
+                    childPageMap={childPageMap}
+                  />
+                </div>
               )}
             </div>
           </main>
 
-          {markdown && !isRootPage && (
-            <MarkdownTableOfContents headings={headings} />
+          {blocks && !isRootPage && (
+            <BlockTableOfContents headings={headings} />
           )}
         </div>
 
