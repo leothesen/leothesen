@@ -492,7 +492,13 @@ export function DatabaseView({ entries }: { entries: DatabaseEntry[] }) {
           <Link key={entry.id} href={href} className="notion-collection-card">
             {entry.cover && (
               <div className="notion-collection-card-cover">
-                <img src={entry.cover} alt={entry.title} loading="lazy" />
+                <img
+                  src={entry.cover}
+                  alt={entry.title}
+                  loading="lazy"
+                  className="notion-image-loading"
+                  onLoad={(e) => e.currentTarget.classList.remove('notion-image-loading')}
+                />
               </div>
             )}
             <div className="notion-collection-card-body">

@@ -86,7 +86,12 @@ export const NotionPage: React.FC<NotionPageProps> = ({
 
         {cover && (
           <div className="notion-page-cover-wrapper">
-            <img src={cover} alt={title} className="notion-page-cover" />
+            <img
+              src={cover}
+              alt={title}
+              className="notion-page-cover notion-image-loading"
+              onLoad={(e) => e.currentTarget.classList.remove('notion-image-loading')}
+            />
           </div>
         )}
 
@@ -96,7 +101,12 @@ export const NotionPage: React.FC<NotionPageProps> = ({
               {icon && (
                 <div className="notion-page-icon-hero">
                   {icon.startsWith('http') || icon.startsWith('/') ? (
-                    <img src={icon} alt="" className="notion-page-icon-image" />
+                    <img
+                      src={icon}
+                      alt=""
+                      className="notion-page-icon-image notion-image-loading"
+                      onLoad={(e) => e.currentTarget.classList.remove('notion-image-loading')}
+                    />
                   ) : (
                     <span className="notion-page-icon-emoji">{icon}</span>
                   )}
