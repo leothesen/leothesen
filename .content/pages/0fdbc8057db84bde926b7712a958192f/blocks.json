@@ -1,0 +1,606 @@
+[
+  {
+    "object": "block",
+    "id": "23625ed4-52a7-42b9-9685-6f2c491f0de9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0fdbc805-7db8-4bde-926b-7712a958192f"
+    },
+    "created_time": "2024-05-26T01:49:00.000Z",
+    "last_edited_time": "2024-05-26T01:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Padang is a strange place, but it has a certain magic to it. Previously a thriving city with a large South East Asian tourism route focussed purely around it’s incredible food. Ravaged by an earthquake it is quietly rebuilding. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Padang is a strange place, but it has a certain magic to it. Previously a thriving city with a large South East Asian tourism route focussed purely around it’s incredible food. Ravaged by an earthquake it is quietly rebuilding. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "32b9bb0a-dad0-4ff4-bbe5-aadc1ec5b178",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0fdbc805-7db8-4bde-926b-7712a958192f"
+    },
+    "created_time": "2024-05-26T01:54:00.000Z",
+    "last_edited_time": "2024-05-26T01:54:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "50b72079-ce28-4505-b1e6-b6a4e8f62f8d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0fdbc805-7db8-4bde-926b-7712a958192f"
+    },
+    "created_time": "2024-05-26T01:54:00.000Z",
+    "last_edited_time": "2024-05-26T01:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We arrive at night. The dense warm air comforts and relaxes. The travelling brain slows down a few notches as it knows that the end of the journey is near. Our drivers from the airport to the accommodation are gentle and interested in us. My neglected Indonesian manages to make a resurgence and we chat quietly about how the city has changed in the last six years. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We arrive at night. The dense warm air comforts and relaxes. The travelling brain slows down a few notches as it knows that the end of the journey is near. Our drivers from the airport to the accommodation are gentle and interested in us. My neglected Indonesian manages to make a resurgence and we chat quietly about how the city has changed in the last six years. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a8242aaa-013a-481c-9277-30a1f5d0ffd2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0fdbc805-7db8-4bde-926b-7712a958192f"
+    },
+    "created_time": "2024-05-26T01:56:00.000Z",
+    "last_edited_time": "2024-05-26T01:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ae75e9e9-d00b-4606-8a02-f9d365eb7ef9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0fdbc805-7db8-4bde-926b-7712a958192f"
+    },
+    "created_time": "2024-05-26T01:56:00.000Z",
+    "last_edited_time": "2024-05-26T01:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Jay meets us at Kokos hostel with more exuberance than a puppy left home alone for a few hours. He shows us our rooms with pride. There’s a certain charm to the white tiled flooring of Westernised Indonesian homes. Yet it could be something as simple as having cool feet. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Jay meets us at Kokos hostel with more exuberance than a puppy left home alone for a few hours. He shows us our rooms with pride. There’s a certain charm to the white tiled flooring of Westernised Indonesian homes. Yet it could be something as simple as having cool feet. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3ebab639-8763-4677-999e-b022787ca247",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0fdbc805-7db8-4bde-926b-7712a958192f"
+    },
+    "created_time": "2024-05-26T01:59:00.000Z",
+    "last_edited_time": "2024-05-26T01:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c3a8e83d-0d1f-4ca7-80cd-bc219a32c455",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0fdbc805-7db8-4bde-926b-7712a958192f"
+    },
+    "created_time": "2024-05-26T01:59:00.000Z",
+    "last_edited_time": "2024-05-26T02:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We spend two nights in Padang with a full day on Monday to do admin. And that was barely enough time. We sleep in on Monday morning, and head down to the local Warung for lunch. Mi Goreng with some coffees while we wait. Jess and Cait opt for Kopi Milo - think coffee with Milo and half a kilogram of condensed milk. It’s delicious but nauseatingly sweet. The Indonesian sugar pilgrimage begins!",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We spend two nights in Padang with a full day on Monday to do admin. And that was barely enough time. We sleep in on Monday morning, and head down to the local Warung for lunch. Mi Goreng with some coffees while we wait. Jess and Cait opt for Kopi Milo - think coffee with Milo and half a kilogram of condensed milk. It’s delicious but nauseatingly sweet. The Indonesian sugar pilgrimage begins!",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a96ce91c-6f08-4b5a-a27e-54e8e59060f7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0fdbc805-7db8-4bde-926b-7712a958192f"
+    },
+    "created_time": "2024-05-26T02:01:00.000Z",
+    "last_edited_time": "2024-05-26T02:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "acf61a2b-581c-4fdc-8860-ece4449a2875",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0fdbc805-7db8-4bde-926b-7712a958192f"
+    },
+    "created_time": "2024-05-26T02:01:00.000Z",
+    "last_edited_time": "2024-05-26T02:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Nik’s plane lands shortly after lunch and the driver takes him to get a sim card. Some laws have changed and now it’s a whole ordeal to register to get a sim as a foreigner. Nik takes one for the team by getting extra tickets in the queue for Cait, Jess and I. We arrive to an exhausted Nik who has been travelling for close on 48 hours and wants nothing more than to leave the artificial lighting of the telecom shop that resembles a cross between a hospital and home affairs office. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Nik’s plane lands shortly after lunch and the driver takes him to get a sim card. Some laws have changed and now it’s a whole ordeal to register to get a sim as a foreigner. Nik takes one for the team by getting extra tickets in the queue for Cait, Jess and I. We arrive to an exhausted Nik who has been travelling for close on 48 hours and wants nothing more than to leave the artificial lighting of the telecom shop that resembles a cross between a hospital and home affairs office. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d47e6ab2-f92e-45b6-98b3-1b8666ca0613",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0fdbc805-7db8-4bde-926b-7712a958192f"
+    },
+    "created_time": "2024-05-26T02:03:00.000Z",
+    "last_edited_time": "2024-05-26T02:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "424a7ba8-f651-43d0-b971-454a7cb28d24",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0fdbc805-7db8-4bde-926b-7712a958192f"
+    },
+    "created_time": "2024-05-26T02:03:00.000Z",
+    "last_edited_time": "2024-05-26T02:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "An hour or two later, with sim cards in phones, we head home. Stop via the Mentawai fast ferry to buy tickets and then settle into Kokos. Two pieces of admin left: drawing cash and buying antiseptic powder. The drawing of money proves to be an issue with invisible limits appearing here and there imposed by banks far away. We manage to get about half of what we need, we will figure out the rest on the islands. Antiseptic powder is equally unsuccessful. We pop into a mall to buy a cheap second hand camera to film some nonsense on the islands. The people in full body suits outside wave eerily, strange ghosts of the developed world beckoning in unsuspecting culprits to the bright lights of consumerism. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "An hour or two later, with sim cards in phones, we head home. Stop via the Mentawai fast ferry to buy tickets and then settle into Kokos. Two pieces of admin left: drawing cash and buying antiseptic powder. The drawing of money proves to be an issue with invisible limits appearing here and there imposed by banks far away. We manage to get about half of what we need, we will figure out the rest on the islands. Antiseptic powder is equally unsuccessful. We pop into a mall to buy a cheap second hand camera to film some nonsense on the islands. The people in full body suits outside wave eerily, strange ghosts of the developed world beckoning in unsuspecting culprits to the bright lights of consumerism. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "2ae6ba8f-121a-46e0-895c-4ade5298845c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0fdbc805-7db8-4bde-926b-7712a958192f"
+    },
+    "created_time": "2024-05-26T02:06:00.000Z",
+    "last_edited_time": "2024-05-26T02:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1f8c7aa6-6ecf-442b-b149-59b67ffff66d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0fdbc805-7db8-4bde-926b-7712a958192f"
+    },
+    "created_time": "2024-05-26T02:06:00.000Z",
+    "last_edited_time": "2024-05-26T02:48:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "All failed administrative missions are forgotten when we sit down in a restaurant as per Jay’s recommendation to eat the fabled Beef Rentang. Slow cooked in a coconut sauce, this dish is what put Padang on the map - and helped ensure that it would not be erased from the map due to natural disaster (a slight hyperboleo, there’s obviously a lot more to Padang than Rendang). ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "All failed administrative missions are forgotten when we sit down in a restaurant as per Jay’s recommendation to eat the fabled Beef Rentang. Slow cooked in a coconut sauce, this dish is what put Padang on the map - and helped ensure that it would not be erased from the map due to natural disaster (a slight hyperboleo, there’s obviously a lot more to Padang than Rendang). ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3b3a9979-d1d0-4b5c-9ce5-d954ce2c1198",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0fdbc805-7db8-4bde-926b-7712a958192f"
+    },
+    "created_time": "2024-05-26T02:48:00.000Z",
+    "last_edited_time": "2024-05-26T02:48:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c2a75f96-ab57-4375-abda-ed3d01186a53",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0fdbc805-7db8-4bde-926b-7712a958192f"
+    },
+    "created_time": "2024-05-26T02:48:00.000Z",
+    "last_edited_time": "2024-05-26T02:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Our table is loaded with various dishes with delicious sauces, mountains of rice and six beautiful pieces of Rentang. We wobble out of there into the damp evening air and try to draw some more money. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Our table is loaded with various dishes with delicious sauces, mountains of rice and six beautiful pieces of Rentang. We wobble out of there into the damp evening air and try to draw some more money. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f8facfa9-01e8-4a9b-8330-d4baf7fb48f0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0fdbc805-7db8-4bde-926b-7712a958192f"
+    },
+    "created_time": "2024-05-26T02:49:00.000Z",
+    "last_edited_time": "2024-05-26T02:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1c4e8e0a-9e69-4be3-b753-771d7f336600",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0fdbc805-7db8-4bde-926b-7712a958192f"
+    },
+    "created_time": "2024-05-26T02:49:00.000Z",
+    "last_edited_time": "2024-05-26T02:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "An air-conditioned room, squeaky bed and cool shower sends us off to sleep. We wake early for the Mentawai fast ferry. Try draw some money en-route with mild success. Our boards are loaded and we board the ship with our takeaway nasi goreng breakfasts what Jay ordered for us. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "An air-conditioned room, squeaky bed and cool shower sends us off to sleep. We wake early for the Mentawai fast ferry. Try draw some money en-route with mild success. Our boards are loaded and we board the ship with our takeaway nasi goreng breakfasts what Jay ordered for us. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

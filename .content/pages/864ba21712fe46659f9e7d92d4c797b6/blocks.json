@@ -1,0 +1,1232 @@
+[
+  {
+    "object": "block",
+    "id": "0261cdac-4d95-49aa-bd35-3ed81a6435eb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-02T07:36:00.000Z",
+    "last_edited_time": "2022-10-02T07:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/60374d3d-19e3-4c37-9bb3-eb26db6d2e24/A3661705-EDD3-472E-9056-88349413534A.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4664XGL45JN%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084723Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIHio849M36yU5n%2BdSj7Fsye3INl%2Bc%2Bay%2F4VXMZv5blqMAiEAyfUl9R3r3jOac6lxkPvxZ2Ps%2BS4w8ikv8V8AQ5Xds%2BAq%2FwMIchAAGgw2Mzc0MjMxODM4MDUiDKGenBhRcfayUmGIeircAxUjYjET%2B9tL1jleFX9EO9wkaH%2F26FuMnR%2B%2B7uWlw6VNKKmPBdhS5EClpxHiFFuCRsF%2BJgq9L%2BtfOFnQjGoFbhEZBzB5hml48UoY%2FZYscmanGuyr42%2FEw1%2B611I13zzeTW0Cloh606kHqhroN%2B%2BZ9flGjpIHnycxEB6Q4x4W%2BT%2Fr91%2F2QOUuntF76RKPt3TAvURPdNCE2HDKqsd%2B9bpc%2FNAFbQsuR0b9UsxQb%2Fj1FKJIOnZ0%2BnhzvqhMeyJag%2BI0a%2FnJoZWAhhM9hUCynjgpXU6qA8pQ1wgC3zZYQHjULvRtUNH2VoCdp3pCDuuzn4P%2FuV8jyCvF8K8ste1Nwfat7xoH29%2Bs0gDfWUwNii3jFVcAeVrXileF1tl8%2FHohLOAyXCoUp9L5CEKKPpo3JyBBJDsIJ91A4vInq3y8MlZMHpt5XKnJoHBsec67sAUACejyphM%2F5f8Xw%2ByYvNsaqoRkEGKyoiMWc%2FgFvUej7uPUMWc6Y%2Bjqf%2Bi8Mk1jCu2kI2c2UETo4GDYjmqRiXQOhFdgcdD7Kh3YWP62OYK%2BHr78JFdhn43TFbELEuESGwXkrxPDzVLhaq2mpdCJl4i99CQsBZR1b5qfBh9joNmIkkzbYw%2F84FJjAUPsk91fFfTqMND4yc0GOqUBuJrGnV6A5ZnAk5nSNlJnkl97lSrWBwuhua69w%2FrevBww9UIZhLtfwKeeLfiQWVkpq8MJeV%2FBkjkDAuA%2FZVgmgFKAYlxxE3uW6YUW3rA3EFbuFtsQCOZvJ2qER6OKfXboNV5hdAmnTD%2FBSwGaAKyKyXGTJ39NqzbRwIgb9Rbz08YnpQR%2Fg38Y7zDJNm8UE%2FdCnNLp33kWg4O%2BaBwit%2BdylXumsOTf&X-Amz-Signature=3305e1e3f9917f2c51cc06e270f3dce965e44eb7b67ed91692abdd1468d9a8e9&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:47:23.333Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "40032dd9-75c4-4da8-9c28-5cc2b2bb6ec4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-02T07:37:00.000Z",
+    "last_edited_time": "2022-10-02T07:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f92f934d-f51d-4337-9201-a3538111747d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-02T07:33:00.000Z",
+    "last_edited_time": "2022-10-02T07:35:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Our flight is at 2am to Nairobi. We both get minimal sleep. Nothing truly exciting happens - just the usual international airport shuffle and sitting around. I find some nice music:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Our flight is at 2am to Nairobi. We both get minimal sleep. Nothing truly exciting happens - just the usual international airport shuffle and sitting around. I find some nice music:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "90bd6728-f4f0-4739-b02b-97609f48b9e1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-02T07:34:00.000Z",
+    "last_edited_time": "2022-10-02T07:35:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "embed",
+    "embed": {
+      "caption": [],
+      "url": "https://soundcloud.com/silent-season/campfire-stories-19?si=dfd2bf482b30474b9263c51a93d7cde3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0bd3d4c9-ae8d-4433-9ef2-b4ee2ebf9ecd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-02T07:37:00.000Z",
+    "last_edited_time": "2022-10-02T07:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e74d689b-d723-428a-8778-578daff8b7d1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-02T07:36:00.000Z",
+    "last_edited_time": "2022-10-02T07:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/94c057df-de9e-4b97-879d-66b7bb906576/20DE5937-92FF-44BC-8426-18A754CBEDA3.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4664XGL45JN%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084723Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIHio849M36yU5n%2BdSj7Fsye3INl%2Bc%2Bay%2F4VXMZv5blqMAiEAyfUl9R3r3jOac6lxkPvxZ2Ps%2BS4w8ikv8V8AQ5Xds%2BAq%2FwMIchAAGgw2Mzc0MjMxODM4MDUiDKGenBhRcfayUmGIeircAxUjYjET%2B9tL1jleFX9EO9wkaH%2F26FuMnR%2B%2B7uWlw6VNKKmPBdhS5EClpxHiFFuCRsF%2BJgq9L%2BtfOFnQjGoFbhEZBzB5hml48UoY%2FZYscmanGuyr42%2FEw1%2B611I13zzeTW0Cloh606kHqhroN%2B%2BZ9flGjpIHnycxEB6Q4x4W%2BT%2Fr91%2F2QOUuntF76RKPt3TAvURPdNCE2HDKqsd%2B9bpc%2FNAFbQsuR0b9UsxQb%2Fj1FKJIOnZ0%2BnhzvqhMeyJag%2BI0a%2FnJoZWAhhM9hUCynjgpXU6qA8pQ1wgC3zZYQHjULvRtUNH2VoCdp3pCDuuzn4P%2FuV8jyCvF8K8ste1Nwfat7xoH29%2Bs0gDfWUwNii3jFVcAeVrXileF1tl8%2FHohLOAyXCoUp9L5CEKKPpo3JyBBJDsIJ91A4vInq3y8MlZMHpt5XKnJoHBsec67sAUACejyphM%2F5f8Xw%2ByYvNsaqoRkEGKyoiMWc%2FgFvUej7uPUMWc6Y%2Bjqf%2Bi8Mk1jCu2kI2c2UETo4GDYjmqRiXQOhFdgcdD7Kh3YWP62OYK%2BHr78JFdhn43TFbELEuESGwXkrxPDzVLhaq2mpdCJl4i99CQsBZR1b5qfBh9joNmIkkzbYw%2F84FJjAUPsk91fFfTqMND4yc0GOqUBuJrGnV6A5ZnAk5nSNlJnkl97lSrWBwuhua69w%2FrevBww9UIZhLtfwKeeLfiQWVkpq8MJeV%2FBkjkDAuA%2FZVgmgFKAYlxxE3uW6YUW3rA3EFbuFtsQCOZvJ2qER6OKfXboNV5hdAmnTD%2FBSwGaAKyKyXGTJ39NqzbRwIgb9Rbz08YnpQR%2Fg38Y7zDJNm8UE%2FdCnNLp33kWg4O%2BaBwit%2BdylXumsOTf&X-Amz-Signature=2f9ccebef6203c13279908239891a860c4cd0aebfc8681e7344dac27500c52f3&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:47:23.334Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "873b37c0-0e9d-4ff9-be15-3397c0767a93",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-02T07:35:00.000Z",
+    "last_edited_time": "2022-10-02T07:35:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d0fd3c24-e8a5-4873-8c3b-820046d189d9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-02T07:35:00.000Z",
+    "last_edited_time": "2022-10-02T07:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We find reclining chairs and get a couple more hours sleep. Coffee is calling - we sit down at a restaurant and I order a coffee and omelette that makes my morning. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We find reclining chairs and get a couple more hours sleep. Coffee is calling - we sit down at a restaurant and I order a coffee and omelette that makes my morning. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "2a677562-ff5b-4815-92c0-c67f51b208e0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-02T10:41:00.000Z",
+    "last_edited_time": "2022-10-02T10:41:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4a13eb2c-10d7-4f06-bc33-750e832271a0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-02T10:41:00.000Z",
+    "last_edited_time": "2022-10-02T10:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/613e79fa-1290-4e75-9fcd-ab24d51ea7cd/9C8B98CC-0D6B-4478-8BA5-46191F1BAACE.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4664XGL45JN%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084723Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIHio849M36yU5n%2BdSj7Fsye3INl%2Bc%2Bay%2F4VXMZv5blqMAiEAyfUl9R3r3jOac6lxkPvxZ2Ps%2BS4w8ikv8V8AQ5Xds%2BAq%2FwMIchAAGgw2Mzc0MjMxODM4MDUiDKGenBhRcfayUmGIeircAxUjYjET%2B9tL1jleFX9EO9wkaH%2F26FuMnR%2B%2B7uWlw6VNKKmPBdhS5EClpxHiFFuCRsF%2BJgq9L%2BtfOFnQjGoFbhEZBzB5hml48UoY%2FZYscmanGuyr42%2FEw1%2B611I13zzeTW0Cloh606kHqhroN%2B%2BZ9flGjpIHnycxEB6Q4x4W%2BT%2Fr91%2F2QOUuntF76RKPt3TAvURPdNCE2HDKqsd%2B9bpc%2FNAFbQsuR0b9UsxQb%2Fj1FKJIOnZ0%2BnhzvqhMeyJag%2BI0a%2FnJoZWAhhM9hUCynjgpXU6qA8pQ1wgC3zZYQHjULvRtUNH2VoCdp3pCDuuzn4P%2FuV8jyCvF8K8ste1Nwfat7xoH29%2Bs0gDfWUwNii3jFVcAeVrXileF1tl8%2FHohLOAyXCoUp9L5CEKKPpo3JyBBJDsIJ91A4vInq3y8MlZMHpt5XKnJoHBsec67sAUACejyphM%2F5f8Xw%2ByYvNsaqoRkEGKyoiMWc%2FgFvUej7uPUMWc6Y%2Bjqf%2Bi8Mk1jCu2kI2c2UETo4GDYjmqRiXQOhFdgcdD7Kh3YWP62OYK%2BHr78JFdhn43TFbELEuESGwXkrxPDzVLhaq2mpdCJl4i99CQsBZR1b5qfBh9joNmIkkzbYw%2F84FJjAUPsk91fFfTqMND4yc0GOqUBuJrGnV6A5ZnAk5nSNlJnkl97lSrWBwuhua69w%2FrevBww9UIZhLtfwKeeLfiQWVkpq8MJeV%2FBkjkDAuA%2FZVgmgFKAYlxxE3uW6YUW3rA3EFbuFtsQCOZvJ2qER6OKfXboNV5hdAmnTD%2FBSwGaAKyKyXGTJ39NqzbRwIgb9Rbz08YnpQR%2Fg38Y7zDJNm8UE%2FdCnNLp33kWg4O%2BaBwit%2BdylXumsOTf&X-Amz-Signature=fab9ac7b212c3e3076883bf5de06bfbb8c738aa35b03d634b6a92473e3452f58&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:47:23.334Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "01a6ee58-5d34-4a6c-acab-a50e90517b16",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-02T10:41:00.000Z",
+    "last_edited_time": "2022-10-02T10:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/576bc0ce-cafb-4f55-ac7d-03b78fc4ef1f/21D6EA44-6FEB-4FB8-9A77-EE2007AB94A2.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4664XGL45JN%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084723Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIHio849M36yU5n%2BdSj7Fsye3INl%2Bc%2Bay%2F4VXMZv5blqMAiEAyfUl9R3r3jOac6lxkPvxZ2Ps%2BS4w8ikv8V8AQ5Xds%2BAq%2FwMIchAAGgw2Mzc0MjMxODM4MDUiDKGenBhRcfayUmGIeircAxUjYjET%2B9tL1jleFX9EO9wkaH%2F26FuMnR%2B%2B7uWlw6VNKKmPBdhS5EClpxHiFFuCRsF%2BJgq9L%2BtfOFnQjGoFbhEZBzB5hml48UoY%2FZYscmanGuyr42%2FEw1%2B611I13zzeTW0Cloh606kHqhroN%2B%2BZ9flGjpIHnycxEB6Q4x4W%2BT%2Fr91%2F2QOUuntF76RKPt3TAvURPdNCE2HDKqsd%2B9bpc%2FNAFbQsuR0b9UsxQb%2Fj1FKJIOnZ0%2BnhzvqhMeyJag%2BI0a%2FnJoZWAhhM9hUCynjgpXU6qA8pQ1wgC3zZYQHjULvRtUNH2VoCdp3pCDuuzn4P%2FuV8jyCvF8K8ste1Nwfat7xoH29%2Bs0gDfWUwNii3jFVcAeVrXileF1tl8%2FHohLOAyXCoUp9L5CEKKPpo3JyBBJDsIJ91A4vInq3y8MlZMHpt5XKnJoHBsec67sAUACejyphM%2F5f8Xw%2ByYvNsaqoRkEGKyoiMWc%2FgFvUej7uPUMWc6Y%2Bjqf%2Bi8Mk1jCu2kI2c2UETo4GDYjmqRiXQOhFdgcdD7Kh3YWP62OYK%2BHr78JFdhn43TFbELEuESGwXkrxPDzVLhaq2mpdCJl4i99CQsBZR1b5qfBh9joNmIkkzbYw%2F84FJjAUPsk91fFfTqMND4yc0GOqUBuJrGnV6A5ZnAk5nSNlJnkl97lSrWBwuhua69w%2FrevBww9UIZhLtfwKeeLfiQWVkpq8MJeV%2FBkjkDAuA%2FZVgmgFKAYlxxE3uW6YUW3rA3EFbuFtsQCOZvJ2qER6OKfXboNV5hdAmnTD%2FBSwGaAKyKyXGTJ39NqzbRwIgb9Rbz08YnpQR%2Fg38Y7zDJNm8UE%2FdCnNLp33kWg4O%2BaBwit%2BdylXumsOTf&X-Amz-Signature=5ca4dde43721fab0800616bf2e83a7ae5815821862622dcf47542aefefd996e9&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:47:23.341Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f46a1d72-9999-46b9-a35f-46c3e5595436",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-02T12:36:00.000Z",
+    "last_edited_time": "2022-10-02T12:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "18910662-be4b-4c1b-b1cb-08c8ee1fe38d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-02T12:36:00.000Z",
+    "last_edited_time": "2022-10-02T12:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The hours pass. We take a walk: try on sunglasses and perfume. My stomach isn’t doing too great but it’ll be ok. We sit back down for a lunch and another coffee. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The hours pass. We take a walk: try on sunglasses and perfume. My stomach isn’t doing too great but it’ll be ok. We sit back down for a lunch and another coffee. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0407ada1-9493-41ca-b3b8-3a1a402ba357",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-02T12:37:00.000Z",
+    "last_edited_time": "2022-10-02T12:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "470f166c-f207-4707-b1b9-9d312c3e07dd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-02T12:37:00.000Z",
+    "last_edited_time": "2022-10-02T12:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/1783f1bd-c5de-4b10-8646-ddb6612481bb/207DB858-B27E-4A7D-83BA-6444A9E2BFEA.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4664XGL45JN%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084723Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIHio849M36yU5n%2BdSj7Fsye3INl%2Bc%2Bay%2F4VXMZv5blqMAiEAyfUl9R3r3jOac6lxkPvxZ2Ps%2BS4w8ikv8V8AQ5Xds%2BAq%2FwMIchAAGgw2Mzc0MjMxODM4MDUiDKGenBhRcfayUmGIeircAxUjYjET%2B9tL1jleFX9EO9wkaH%2F26FuMnR%2B%2B7uWlw6VNKKmPBdhS5EClpxHiFFuCRsF%2BJgq9L%2BtfOFnQjGoFbhEZBzB5hml48UoY%2FZYscmanGuyr42%2FEw1%2B611I13zzeTW0Cloh606kHqhroN%2B%2BZ9flGjpIHnycxEB6Q4x4W%2BT%2Fr91%2F2QOUuntF76RKPt3TAvURPdNCE2HDKqsd%2B9bpc%2FNAFbQsuR0b9UsxQb%2Fj1FKJIOnZ0%2BnhzvqhMeyJag%2BI0a%2FnJoZWAhhM9hUCynjgpXU6qA8pQ1wgC3zZYQHjULvRtUNH2VoCdp3pCDuuzn4P%2FuV8jyCvF8K8ste1Nwfat7xoH29%2Bs0gDfWUwNii3jFVcAeVrXileF1tl8%2FHohLOAyXCoUp9L5CEKKPpo3JyBBJDsIJ91A4vInq3y8MlZMHpt5XKnJoHBsec67sAUACejyphM%2F5f8Xw%2ByYvNsaqoRkEGKyoiMWc%2FgFvUej7uPUMWc6Y%2Bjqf%2Bi8Mk1jCu2kI2c2UETo4GDYjmqRiXQOhFdgcdD7Kh3YWP62OYK%2BHr78JFdhn43TFbELEuESGwXkrxPDzVLhaq2mpdCJl4i99CQsBZR1b5qfBh9joNmIkkzbYw%2F84FJjAUPsk91fFfTqMND4yc0GOqUBuJrGnV6A5ZnAk5nSNlJnkl97lSrWBwuhua69w%2FrevBww9UIZhLtfwKeeLfiQWVkpq8MJeV%2FBkjkDAuA%2FZVgmgFKAYlxxE3uW6YUW3rA3EFbuFtsQCOZvJ2qER6OKfXboNV5hdAmnTD%2FBSwGaAKyKyXGTJ39NqzbRwIgb9Rbz08YnpQR%2Fg38Y7zDJNm8UE%2FdCnNLp33kWg4O%2BaBwit%2BdylXumsOTf&X-Amz-Signature=56799b1641296d7eda2abf1c3ad6c20925a17cc8485d599df7bb6204efb3f0ff&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:47:23.334Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "25818e08-2465-4587-aa33-4dc0085d96bc",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-02T12:37:00.000Z",
+    "last_edited_time": "2022-10-02T12:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1cd920a0-5d19-4703-8e97-8177c5fe00f3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-02T12:37:00.000Z",
+    "last_edited_time": "2022-10-02T12:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I get stuck into the long overdue task of going through the basics of Typescript. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I get stuck into the long overdue task of going through the basics of Typescript. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "dfb86c6b-21a4-47ef-95b7-c6fde4ed5a72",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-03T09:56:00.000Z",
+    "last_edited_time": "2022-10-03T09:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "bb4e16f8-dd31-4f44-b280-20e7fa947727",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-02T12:37:00.000Z",
+    "last_edited_time": "2022-10-02T12:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/93341363-07ca-44e2-b4f8-f3dc1cde6ee3/68A94116-BBD0-4951-9A81-E680885FE3F0.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4664XGL45JN%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084723Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIHio849M36yU5n%2BdSj7Fsye3INl%2Bc%2Bay%2F4VXMZv5blqMAiEAyfUl9R3r3jOac6lxkPvxZ2Ps%2BS4w8ikv8V8AQ5Xds%2BAq%2FwMIchAAGgw2Mzc0MjMxODM4MDUiDKGenBhRcfayUmGIeircAxUjYjET%2B9tL1jleFX9EO9wkaH%2F26FuMnR%2B%2B7uWlw6VNKKmPBdhS5EClpxHiFFuCRsF%2BJgq9L%2BtfOFnQjGoFbhEZBzB5hml48UoY%2FZYscmanGuyr42%2FEw1%2B611I13zzeTW0Cloh606kHqhroN%2B%2BZ9flGjpIHnycxEB6Q4x4W%2BT%2Fr91%2F2QOUuntF76RKPt3TAvURPdNCE2HDKqsd%2B9bpc%2FNAFbQsuR0b9UsxQb%2Fj1FKJIOnZ0%2BnhzvqhMeyJag%2BI0a%2FnJoZWAhhM9hUCynjgpXU6qA8pQ1wgC3zZYQHjULvRtUNH2VoCdp3pCDuuzn4P%2FuV8jyCvF8K8ste1Nwfat7xoH29%2Bs0gDfWUwNii3jFVcAeVrXileF1tl8%2FHohLOAyXCoUp9L5CEKKPpo3JyBBJDsIJ91A4vInq3y8MlZMHpt5XKnJoHBsec67sAUACejyphM%2F5f8Xw%2ByYvNsaqoRkEGKyoiMWc%2FgFvUej7uPUMWc6Y%2Bjqf%2Bi8Mk1jCu2kI2c2UETo4GDYjmqRiXQOhFdgcdD7Kh3YWP62OYK%2BHr78JFdhn43TFbELEuESGwXkrxPDzVLhaq2mpdCJl4i99CQsBZR1b5qfBh9joNmIkkzbYw%2F84FJjAUPsk91fFfTqMND4yc0GOqUBuJrGnV6A5ZnAk5nSNlJnkl97lSrWBwuhua69w%2FrevBww9UIZhLtfwKeeLfiQWVkpq8MJeV%2FBkjkDAuA%2FZVgmgFKAYlxxE3uW6YUW3rA3EFbuFtsQCOZvJ2qER6OKfXboNV5hdAmnTD%2FBSwGaAKyKyXGTJ39NqzbRwIgb9Rbz08YnpQR%2Fg38Y7zDJNm8UE%2FdCnNLp33kWg4O%2BaBwit%2BdylXumsOTf&X-Amz-Signature=fb7f2669b1daf9f4c34e8a1e60a448fbf6124e9b08eb967be64467d0a191fdab&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:47:23.333Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4cc376f3-d8d7-48cc-8330-f2c71589d4a8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-02T15:12:00.000Z",
+    "last_edited_time": "2022-10-02T15:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "16d065b0-c6e4-45cc-890d-74ad1aeb1055",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-02T15:12:00.000Z",
+    "last_edited_time": "2022-10-02T15:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We’re sitting around bored. My stomach isn’t doing great, Jordan has a UTI and week-early period. We have realized that we both going to be going to the airplane bathroom about once an hour; and hence will be joining the mile ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We’re sitting around bored. My stomach isn’t doing great, Jordan has a UTI and week-early period. We have realized that we both going to be going to the airplane bathroom about once an hour; and hence will be joining the mile ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "high",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": true,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "high",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " cry club. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " cry club. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ac38c08d-a476-465e-b504-f8ab9629403d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-03T09:56:00.000Z",
+    "last_edited_time": "2022-10-03T09:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "efa4d343-1560-4313-a0e3-a7ed3bf8f28f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-03T09:56:00.000Z",
+    "last_edited_time": "2022-10-03T09:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "My stomach gets quite a bit worse and the really rough toilet paper of the airport doesn’t help much. There is some confusion around which gate we’re going to be leaving from. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "My stomach gets quite a bit worse and the really rough toilet paper of the airport doesn’t help much. There is some confusion around which gate we’re going to be leaving from. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e73c9aae-e5be-4971-aca4-6b0bb9a48ee6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-03T10:22:00.000Z",
+    "last_edited_time": "2022-10-03T10:22:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3e6bf42c-920b-458f-8b9e-b554edb7b2cb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-03T10:21:00.000Z",
+    "last_edited_time": "2022-10-03T10:22:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Fresh sock euphoria ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Fresh sock euphoria ",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/ede7df4a-01d4-4517-ba06-08f205386400/CB722657-FBA7-4B6D-9617-FD38F69404B3.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4664XGL45JN%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084723Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIHio849M36yU5n%2BdSj7Fsye3INl%2Bc%2Bay%2F4VXMZv5blqMAiEAyfUl9R3r3jOac6lxkPvxZ2Ps%2BS4w8ikv8V8AQ5Xds%2BAq%2FwMIchAAGgw2Mzc0MjMxODM4MDUiDKGenBhRcfayUmGIeircAxUjYjET%2B9tL1jleFX9EO9wkaH%2F26FuMnR%2B%2B7uWlw6VNKKmPBdhS5EClpxHiFFuCRsF%2BJgq9L%2BtfOFnQjGoFbhEZBzB5hml48UoY%2FZYscmanGuyr42%2FEw1%2B611I13zzeTW0Cloh606kHqhroN%2B%2BZ9flGjpIHnycxEB6Q4x4W%2BT%2Fr91%2F2QOUuntF76RKPt3TAvURPdNCE2HDKqsd%2B9bpc%2FNAFbQsuR0b9UsxQb%2Fj1FKJIOnZ0%2BnhzvqhMeyJag%2BI0a%2FnJoZWAhhM9hUCynjgpXU6qA8pQ1wgC3zZYQHjULvRtUNH2VoCdp3pCDuuzn4P%2FuV8jyCvF8K8ste1Nwfat7xoH29%2Bs0gDfWUwNii3jFVcAeVrXileF1tl8%2FHohLOAyXCoUp9L5CEKKPpo3JyBBJDsIJ91A4vInq3y8MlZMHpt5XKnJoHBsec67sAUACejyphM%2F5f8Xw%2ByYvNsaqoRkEGKyoiMWc%2FgFvUej7uPUMWc6Y%2Bjqf%2Bi8Mk1jCu2kI2c2UETo4GDYjmqRiXQOhFdgcdD7Kh3YWP62OYK%2BHr78JFdhn43TFbELEuESGwXkrxPDzVLhaq2mpdCJl4i99CQsBZR1b5qfBh9joNmIkkzbYw%2F84FJjAUPsk91fFfTqMND4yc0GOqUBuJrGnV6A5ZnAk5nSNlJnkl97lSrWBwuhua69w%2FrevBww9UIZhLtfwKeeLfiQWVkpq8MJeV%2FBkjkDAuA%2FZVgmgFKAYlxxE3uW6YUW3rA3EFbuFtsQCOZvJ2qER6OKfXboNV5hdAmnTD%2FBSwGaAKyKyXGTJ39NqzbRwIgb9Rbz08YnpQR%2Fg38Y7zDJNm8UE%2FdCnNLp33kWg4O%2BaBwit%2BdylXumsOTf&X-Amz-Signature=12688b91f94828fd67f610d6f40fda289cdf679270bf67fba49fe195033660d1&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:47:23.334Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b8869e3a-bba5-4f0d-afd4-d5f67ed0a6da",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-03T09:57:00.000Z",
+    "last_edited_time": "2022-10-03T09:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f721c021-6898-4761-81e7-11a237ea4f31",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-03T09:57:00.000Z",
+    "last_edited_time": "2022-10-03T09:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Then finally it’s time to go. I go to the toilet three million times and it looks like it’s going to persist on the plane which is less than ideal. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Then finally it’s time to go. I go to the toilet three million times and it looks like it’s going to persist on the plane which is less than ideal. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a24a69c1-9a51-4ee1-b2e7-d1fe56eb7f29",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-03T09:58:00.000Z",
+    "last_edited_time": "2022-10-03T09:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c5734b45-8aba-4627-b049-b55bc05746c7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-03T09:58:00.000Z",
+    "last_edited_time": "2022-10-03T09:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "When we’re in the line to scan our passes there is a huge commotion with a large group of people yelling at the check in staff. It turns out that the plane has changed and they’ve had to kick thirty people off the flight. We hold thumbs that’s we aren’t included in that. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "When we’re in the line to scan our passes there is a huge commotion with a large group of people yelling at the check in staff. It turns out that the plane has changed and they’ve had to kick thirty people off the flight. We hold thumbs that’s we aren’t included in that. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3bbc4914-8beb-4035-adeb-403313e40068",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-03T10:22:00.000Z",
+    "last_edited_time": "2022-10-03T10:22:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6d25f04b-ff8a-47f3-897e-291fd5264a8b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-03T10:21:00.000Z",
+    "last_edited_time": "2022-10-03T10:22:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/aac2dab8-8898-44a5-b17d-5c05fb85128f/D916D36A-31BB-4DE6-A99A-56B8D5751C63.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4664XGL45JN%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084723Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIHio849M36yU5n%2BdSj7Fsye3INl%2Bc%2Bay%2F4VXMZv5blqMAiEAyfUl9R3r3jOac6lxkPvxZ2Ps%2BS4w8ikv8V8AQ5Xds%2BAq%2FwMIchAAGgw2Mzc0MjMxODM4MDUiDKGenBhRcfayUmGIeircAxUjYjET%2B9tL1jleFX9EO9wkaH%2F26FuMnR%2B%2B7uWlw6VNKKmPBdhS5EClpxHiFFuCRsF%2BJgq9L%2BtfOFnQjGoFbhEZBzB5hml48UoY%2FZYscmanGuyr42%2FEw1%2B611I13zzeTW0Cloh606kHqhroN%2B%2BZ9flGjpIHnycxEB6Q4x4W%2BT%2Fr91%2F2QOUuntF76RKPt3TAvURPdNCE2HDKqsd%2B9bpc%2FNAFbQsuR0b9UsxQb%2Fj1FKJIOnZ0%2BnhzvqhMeyJag%2BI0a%2FnJoZWAhhM9hUCynjgpXU6qA8pQ1wgC3zZYQHjULvRtUNH2VoCdp3pCDuuzn4P%2FuV8jyCvF8K8ste1Nwfat7xoH29%2Bs0gDfWUwNii3jFVcAeVrXileF1tl8%2FHohLOAyXCoUp9L5CEKKPpo3JyBBJDsIJ91A4vInq3y8MlZMHpt5XKnJoHBsec67sAUACejyphM%2F5f8Xw%2ByYvNsaqoRkEGKyoiMWc%2FgFvUej7uPUMWc6Y%2Bjqf%2Bi8Mk1jCu2kI2c2UETo4GDYjmqRiXQOhFdgcdD7Kh3YWP62OYK%2BHr78JFdhn43TFbELEuESGwXkrxPDzVLhaq2mpdCJl4i99CQsBZR1b5qfBh9joNmIkkzbYw%2F84FJjAUPsk91fFfTqMND4yc0GOqUBuJrGnV6A5ZnAk5nSNlJnkl97lSrWBwuhua69w%2FrevBww9UIZhLtfwKeeLfiQWVkpq8MJeV%2FBkjkDAuA%2FZVgmgFKAYlxxE3uW6YUW3rA3EFbuFtsQCOZvJ2qER6OKfXboNV5hdAmnTD%2FBSwGaAKyKyXGTJ39NqzbRwIgb9Rbz08YnpQR%2Fg38Y7zDJNm8UE%2FdCnNLp33kWg4O%2BaBwit%2BdylXumsOTf&X-Amz-Signature=757001f6a16099ec895819c41e1e683ac5bea38abe88f8d2a1b7de2184104d8f&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:47:23.537Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "61005e31-c59b-455c-8501-454f9a070689",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-03T09:59:00.000Z",
+    "last_edited_time": "2022-10-03T09:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "059b4b65-6382-4ba4-a683-a3aaa60101a0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-03T09:59:00.000Z",
+    "last_edited_time": "2022-10-03T10:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We get to scan our passes and, we get the green light! We wait and watch the chaos of people being rejected and then board the plane. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We get to scan our passes and, we get the green light! We wait and watch the chaos of people being rejected and then board the plane. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "53490481-25f9-4fd1-9c7c-ac1bd5a6367a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-03T10:00:00.000Z",
+    "last_edited_time": "2022-10-03T10:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "cb610c51-47be-4cae-b749-b07dd54ff541",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-03T10:00:00.000Z",
+    "last_edited_time": "2022-10-03T10:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I’m really not feeling too good but Jordan takes on full mother mode and makes it all better. I manage to sleep soundly all the way to Joburg. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I’m really not feeling too good but Jordan takes on full mother mode and makes it all better. I manage to sleep soundly all the way to Joburg. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "daf78f07-1cfd-4572-be24-bbbd904bf92d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-03T10:02:00.000Z",
+    "last_edited_time": "2022-10-03T10:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "83f142e1-06cb-44e8-a45a-04dcecdd99ae",
+    "parent": {
+      "type": "page_id",
+      "page_id": "864ba217-12fe-4665-9f9e-7d92d4c797b6"
+    },
+    "created_time": "2022-10-03T10:21:00.000Z",
+    "last_edited_time": "2022-10-03T10:22:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/0e39d65c-a475-4749-9527-6f474c7c7855/65A938EB-DDC2-4E29-910B-220D84506B7B.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4664XGL45JN%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084723Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIHio849M36yU5n%2BdSj7Fsye3INl%2Bc%2Bay%2F4VXMZv5blqMAiEAyfUl9R3r3jOac6lxkPvxZ2Ps%2BS4w8ikv8V8AQ5Xds%2BAq%2FwMIchAAGgw2Mzc0MjMxODM4MDUiDKGenBhRcfayUmGIeircAxUjYjET%2B9tL1jleFX9EO9wkaH%2F26FuMnR%2B%2B7uWlw6VNKKmPBdhS5EClpxHiFFuCRsF%2BJgq9L%2BtfOFnQjGoFbhEZBzB5hml48UoY%2FZYscmanGuyr42%2FEw1%2B611I13zzeTW0Cloh606kHqhroN%2B%2BZ9flGjpIHnycxEB6Q4x4W%2BT%2Fr91%2F2QOUuntF76RKPt3TAvURPdNCE2HDKqsd%2B9bpc%2FNAFbQsuR0b9UsxQb%2Fj1FKJIOnZ0%2BnhzvqhMeyJag%2BI0a%2FnJoZWAhhM9hUCynjgpXU6qA8pQ1wgC3zZYQHjULvRtUNH2VoCdp3pCDuuzn4P%2FuV8jyCvF8K8ste1Nwfat7xoH29%2Bs0gDfWUwNii3jFVcAeVrXileF1tl8%2FHohLOAyXCoUp9L5CEKKPpo3JyBBJDsIJ91A4vInq3y8MlZMHpt5XKnJoHBsec67sAUACejyphM%2F5f8Xw%2ByYvNsaqoRkEGKyoiMWc%2FgFvUej7uPUMWc6Y%2Bjqf%2Bi8Mk1jCu2kI2c2UETo4GDYjmqRiXQOhFdgcdD7Kh3YWP62OYK%2BHr78JFdhn43TFbELEuESGwXkrxPDzVLhaq2mpdCJl4i99CQsBZR1b5qfBh9joNmIkkzbYw%2F84FJjAUPsk91fFfTqMND4yc0GOqUBuJrGnV6A5ZnAk5nSNlJnkl97lSrWBwuhua69w%2FrevBww9UIZhLtfwKeeLfiQWVkpq8MJeV%2FBkjkDAuA%2FZVgmgFKAYlxxE3uW6YUW3rA3EFbuFtsQCOZvJ2qER6OKfXboNV5hdAmnTD%2FBSwGaAKyKyXGTJ39NqzbRwIgb9Rbz08YnpQR%2Fg38Y7zDJNm8UE%2FdCnNLp33kWg4O%2BaBwit%2BdylXumsOTf&X-Amz-Signature=4c0d9b43a322f01ad3e2e90756afe27f059c24c4f4a01934e92deb135b5fff71&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:47:23.542Z"
+      }
+    },
+    "archived": false
+  }
+]

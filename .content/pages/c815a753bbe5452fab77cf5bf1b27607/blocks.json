@@ -1,0 +1,987 @@
+[
+  {
+    "object": "block",
+    "id": "e1e073e9-100c-4572-bbec-1539e38d91b1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c815a753-bbe5-452f-ab77-cf5bf1b27607"
+    },
+    "created_time": "2022-07-22T05:46:00.000Z",
+    "last_edited_time": "2022-07-22T05:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/6e732d30-8066-40be-bc8e-49e90789779b/75B8809F-F88D-4DBB-8F35-733E9510DF72.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466RFBY5XSJ%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084827Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCE5XsN%2BGFo7vKE6rCX0FIRCY01b1TVP9apGd%2Fao6myaQIhAOEsxQQ3l%2FvKScT3zwJJkK8EcXLLxDCT4DUZm6ioBzcMKv8DCHIQABoMNjM3NDIzMTgzODA1IgzHL5lCXT8mL7Wyegoq3AOUYVwiU7yPAydW1sJYsk3jmfxBNh9tWiCtbbRMe1pMUpMyHOAtptf0qtZqM06CF%2F16wk%2Bd6lbztMcM8wTuxZhPO780tPiCtwrGxFzDe1KQJH%2F63mgS7b5mi1TBVu%2Fjr%2Fh1W3MVcTvI6eE0RBgdkbe4y6LVGgb6hodSLvQ6QkCc5G0brZ06ap5o3SVfptX03enUf3m6l%2Fu%2FGCk8m1N5G%2FtR3K%2B7F0XaS3luGGqn7xC7mlGwk4%2FpuKZe%2BezlgrsV3zQqgTnfmFdD3a1jHo4rqRW7xZlU%2BCWTRhlzHjlpZQ%2BNFTF%2BH4meYAslo3k61sjB%2BfEVxZgxxikcL9fj2GuK83oT92IdLzP%2Fl0b1d3z6LsKR%2FWA5DX9l28Ltc4d%2BM1GQU01H58VNQA%2Fg6ILsr5PxEwSDR7nLVBYBIYFqiwSJQ33Lev2sjruOv8yj68%2FBa8vGCq2zPncgwHKo2cDrEWuVNRXk8C%2FvbaZp1ztLjXlqtjo0N3MVv9k0JhBwk7CEl9M099vrsF0kzgRkIyLhjAcRFUVtAIqRcEuwEpp6%2BAs1Wkw5aaJUXndzx%2B%2BIKKO3ftfDnegKgaikGf5wzlC38d%2BGQZYYqWYvcM%2FmbOqcUKrJU2f01HTbecdxMlxcsmQlZTDu%2BcnNBjqkASNnmr2VtIZV0AQyE5CF5hmib4jsSB1MhXf4WSwy4r6903xLFPwy%2BHVxGJ77an92ixmyGgetVM6GUo2ssFSYveAeKriqR%2F44E7ZonepN6xqiJiJICNUMhhDkFs7A73WzvHYG29b57XUy8NLshATr2nDno6%2FnDM62XglWRgSNizQsCWC3vgbkZVrn5wXijYA%2BPv4GxjcXwigBPv51VCZzqQ%2FydP4u&X-Amz-Signature=3f659a5392e81f9e71b6aa33ea8a2577fa9a31a876c846a6204a1d3286ed8922&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:48:27.449Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "43e9fd59-05be-4d65-af07-e0fdaf8f59cb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c815a753-bbe5-452f-ab77-cf5bf1b27607"
+    },
+    "created_time": "2022-07-22T05:46:00.000Z",
+    "last_edited_time": "2022-07-22T07:41:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I wake up with minimal congestion and a clear head, yay! “It’s a beautiful day”, the birds say. I make a simple breakfast of rice cakes, peanut butter and banana and a coffee. After posting the “On smoking and five-way stop streets” article I hit the road!",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I wake up with minimal congestion and a clear head, yay! “It’s a beautiful day”, the birds say. I make a simple breakfast of rice cakes, peanut butter and banana and a coffee. After posting the “On smoking and five-way stop streets” article I hit the road!",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ad927c4e-23b3-4463-ac90-56f6e14ce44b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c815a753-bbe5-452f-ab77-cf5bf1b27607"
+    },
+    "created_time": "2022-07-22T08:52:00.000Z",
+    "last_edited_time": "2022-07-22T08:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6eaa880b-b7a0-4186-be84-744d2c686280",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c815a753-bbe5-452f-ab77-cf5bf1b27607"
+    },
+    "created_time": "2022-07-22T08:51:00.000Z",
+    "last_edited_time": "2022-07-22T08:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Beautiful roads. Tropical vegetation and listening to: ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Beautiful roads. Tropical vegetation and listening to: ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "bc8f2018-7f34-4691-b572-ebe7d61244c6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c815a753-bbe5-452f-ab77-cf5bf1b27607"
+    },
+    "created_time": "2022-07-22T08:52:00.000Z",
+    "last_edited_time": "2022-07-22T08:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "https://dynamic.wakingup.com/course/C7211F?source=content share&share_id=057BE023&pack=PK7E71C",
+            "link": {
+              "url": "https://dynamic.wakingup.com/course/C7211F?share_id=057BE023&pack=PK7E71C"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "https://dynamic.wakingup.com/course/C7211F?source=content share&share_id=057BE023&pack=PK7E71C",
+          "href": "https://dynamic.wakingup.com/course/C7211F?share_id=057BE023&pack=PK7E71C"
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "21f73994-604c-464c-9d8a-ec065d3cee9b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c815a753-bbe5-452f-ab77-cf5bf1b27607"
+    },
+    "created_time": "2022-07-22T08:52:00.000Z",
+    "last_edited_time": "2022-07-22T15:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": " which is great. I am beginning to feel like I’ve relaxed to a point where I am wanting to learn things again. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " which is great. I am beginning to feel like I’ve relaxed to a point where I am wanting to learn things again. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5671df69-bd00-4d22-ada5-3d8530c1a36c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c815a753-bbe5-452f-ab77-cf5bf1b27607"
+    },
+    "created_time": "2022-07-22T08:52:00.000Z",
+    "last_edited_time": "2022-07-22T08:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b01c5673-f2ee-4c2e-89a7-076861db1531",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c815a753-bbe5-452f-ab77-cf5bf1b27607"
+    },
+    "created_time": "2022-07-22T08:52:00.000Z",
+    "last_edited_time": "2022-07-22T15:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I stop at the big Shell garage that is always playing great local house over shitty speakers and a little child is enamoured but me. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I stop at the big Shell garage that is always playing great local house over shitty speakers and a little child is enamoured but me. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ba652e88-5f5d-445e-badc-bec032afb3c2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c815a753-bbe5-452f-ab77-cf5bf1b27607"
+    },
+    "created_time": "2022-07-22T15:47:00.000Z",
+    "last_edited_time": "2022-07-22T19:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I hit that pothole right after taking this photo. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I hit that pothole right after taking this photo. ",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/9533d08e-fa2c-4b06-b29f-472ebaa6daff/29DFD141-40D4-4C6F-B264-F42680000D94.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466RFBY5XSJ%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084827Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCE5XsN%2BGFo7vKE6rCX0FIRCY01b1TVP9apGd%2Fao6myaQIhAOEsxQQ3l%2FvKScT3zwJJkK8EcXLLxDCT4DUZm6ioBzcMKv8DCHIQABoMNjM3NDIzMTgzODA1IgzHL5lCXT8mL7Wyegoq3AOUYVwiU7yPAydW1sJYsk3jmfxBNh9tWiCtbbRMe1pMUpMyHOAtptf0qtZqM06CF%2F16wk%2Bd6lbztMcM8wTuxZhPO780tPiCtwrGxFzDe1KQJH%2F63mgS7b5mi1TBVu%2Fjr%2Fh1W3MVcTvI6eE0RBgdkbe4y6LVGgb6hodSLvQ6QkCc5G0brZ06ap5o3SVfptX03enUf3m6l%2Fu%2FGCk8m1N5G%2FtR3K%2B7F0XaS3luGGqn7xC7mlGwk4%2FpuKZe%2BezlgrsV3zQqgTnfmFdD3a1jHo4rqRW7xZlU%2BCWTRhlzHjlpZQ%2BNFTF%2BH4meYAslo3k61sjB%2BfEVxZgxxikcL9fj2GuK83oT92IdLzP%2Fl0b1d3z6LsKR%2FWA5DX9l28Ltc4d%2BM1GQU01H58VNQA%2Fg6ILsr5PxEwSDR7nLVBYBIYFqiwSJQ33Lev2sjruOv8yj68%2FBa8vGCq2zPncgwHKo2cDrEWuVNRXk8C%2FvbaZp1ztLjXlqtjo0N3MVv9k0JhBwk7CEl9M099vrsF0kzgRkIyLhjAcRFUVtAIqRcEuwEpp6%2BAs1Wkw5aaJUXndzx%2B%2BIKKO3ftfDnegKgaikGf5wzlC38d%2BGQZYYqWYvcM%2FmbOqcUKrJU2f01HTbecdxMlxcsmQlZTDu%2BcnNBjqkASNnmr2VtIZV0AQyE5CF5hmib4jsSB1MhXf4WSwy4r6903xLFPwy%2BHVxGJ77an92ixmyGgetVM6GUo2ssFSYveAeKriqR%2F44E7ZonepN6xqiJiJICNUMhhDkFs7A73WzvHYG29b57XUy8NLshATr2nDno6%2FnDM62XglWRgSNizQsCWC3vgbkZVrn5wXijYA%2BPv4GxjcXwigBPv51VCZzqQ%2FydP4u&X-Amz-Signature=af3f7551eccd655d7d5398b71bf0c62f78936d2f0010c965f54423599230887e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:48:27.449Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d12c26f1-2257-456a-a126-9669258352a7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c815a753-bbe5-452f-ab77-cf5bf1b27607"
+    },
+    "created_time": "2022-07-22T15:01:00.000Z",
+    "last_edited_time": "2022-07-22T15:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Safe slow driving. The lack of a rush is palpable. I rarely hit 40km/h, am shifting down to first fairly often and the last 20 kilometres of dirt take me almost as long as the tar section. But I love it, it’s what I’m here for. The kids are yelling sweets as always, life bustles. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Safe slow driving. The lack of a rush is palpable. I rarely hit 40km/h, am shifting down to first fairly often and the last 20 kilometres of dirt take me almost as long as the tar section. But I love it, it’s what I’m here for. The kids are yelling sweets as always, life bustles. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "013de9af-5ca1-47e1-83f4-0bed66740fb4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c815a753-bbe5-452f-ab77-cf5bf1b27607"
+    },
+    "created_time": "2022-07-22T15:50:00.000Z",
+    "last_edited_time": "2022-07-22T15:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "326ddcdd-aa0e-4ad7-9acd-3c60b93d8f9c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c815a753-bbe5-452f-ab77-cf5bf1b27607"
+    },
+    "created_time": "2022-07-22T15:50:00.000Z",
+    "last_edited_time": "2022-07-22T19:07:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Gareth meets me at Mdumbi backpackers and we have a chat about horse poo. Siya is volunteering here. I meet Isipileh and his broken bicycle, we fix it together. He helped me find a campsite and then he cycled along with me on my run down to the beach. \n",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Gareth meets me at Mdumbi backpackers and we have a chat about horse poo. Siya is volunteering here. I meet Isipileh and his broken bicycle, we fix it together. He helped me find a campsite and then he cycled along with me on my run down to the beach. \n",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3347a3f6-a465-44fd-9668-93a46a4216e0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c815a753-bbe5-452f-ab77-cf5bf1b27607"
+    },
+    "created_time": "2022-07-22T15:54:00.000Z",
+    "last_edited_time": "2022-07-22T15:54:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bookmark",
+    "bookmark": {
+      "caption": [],
+      "url": "https://connect.garmin.com/modern/activity/9253072875"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f1a2c838-0d4e-462f-9069-afd976df05c2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c815a753-bbe5-452f-ab77-cf5bf1b27607"
+    },
+    "created_time": "2022-07-22T15:31:00.000Z",
+    "last_edited_time": "2022-07-22T15:41:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ef874d46-a5a0-462d-9a89-4e76e0062b9a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c815a753-bbe5-452f-ab77-cf5bf1b27607"
+    },
+    "created_time": "2022-07-22T15:31:00.000Z",
+    "last_edited_time": "2022-07-22T19:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "quote",
+    "quote": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Gas gysers \n",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": true,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Gas gysers \n",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Never how I want;\nalways too hot or too cold. \nIs it a lesson? ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Never how I want;\nalways too hot or too cold. \nIs it a lesson? ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "bb78fad0-12ba-4a71-a732-3800b2e3d1d2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c815a753-bbe5-452f-ab77-cf5bf1b27607"
+    },
+    "created_time": "2022-07-22T15:54:00.000Z",
+    "last_edited_time": "2022-07-22T15:54:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "83210807-96b8-42b0-b9f2-6ebc1b3500fb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c815a753-bbe5-452f-ab77-cf5bf1b27607"
+    },
+    "created_time": "2022-07-22T15:40:00.000Z",
+    "last_edited_time": "2022-07-22T15:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I have a weird situation whereby I am daydreaming about someone coming up to me and saying - “Oh I heard from our mutual friend that you would be here today and they told me to give you a hug” and then I hear “Leo!” and Bas De Vos comes and gives me a hug. Haha. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I have a weird situation whereby I am daydreaming about someone coming up to me and saying - “Oh I heard from our mutual friend that you would be here today and they told me to give you a hug” and then I hear “Leo!” and Bas De Vos comes and gives me a hug. Haha. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "41f62066-b244-4f8d-a23e-95ead3e88073",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c815a753-bbe5-452f-ab77-cf5bf1b27607"
+    },
+    "created_time": "2022-07-22T16:00:00.000Z",
+    "last_edited_time": "2022-07-22T16:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1df339b5-c149-4109-a6a2-666a6bf42fce",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c815a753-bbe5-452f-ab77-cf5bf1b27607"
+    },
+    "created_time": "2022-07-22T16:00:00.000Z",
+    "last_edited_time": "2022-07-22T16:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "My lack of Xhosa is obvious, and I vouch to change it.  ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "My lack of Xhosa is obvious, and I vouch to change it.  ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "430e4105-9590-474a-8596-875a09487173",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c815a753-bbe5-452f-ab77-cf5bf1b27607"
+    },
+    "created_time": "2022-07-23T10:10:00.000Z",
+    "last_edited_time": "2022-07-23T10:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "cec90a4f-95b1-4765-9d8e-b48d1ae0988c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c815a753-bbe5-452f-ab77-cf5bf1b27607"
+    },
+    "created_time": "2022-07-23T10:10:00.000Z",
+    "last_edited_time": "2022-07-23T10:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Jemma gives me a bit of tabacco.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Jemma gives me a bit of tabacco.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "2d8129cd-2139-4798-b011-9d367a8b5a5e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c815a753-bbe5-452f-ab77-cf5bf1b27607"
+    },
+    "created_time": "2022-07-22T19:04:00.000Z",
+    "last_edited_time": "2022-07-22T19:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "60c47d7a-81f0-44d5-a8b2-e828bd3b4be7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c815a753-bbe5-452f-ab77-cf5bf1b27607"
+    },
+    "created_time": "2022-07-22T19:04:00.000Z",
+    "last_edited_time": "2022-07-22T19:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Bad and Cam cooked crayfish and a mud crab they had caught (named Murdock). It was as delicious.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Bad and Cam cooked crayfish and a mud crab they had caught (named Murdock). It was as delicious.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a8996d58-cd0b-4c8b-96ea-faaa0df9dfa2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c815a753-bbe5-452f-ab77-cf5bf1b27607"
+    },
+    "created_time": "2022-07-22T19:04:00.000Z",
+    "last_edited_time": "2022-07-22T19:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/983a14f1-2e42-48e9-a2cf-e9b7392e9421/E17F9AED-826F-41AF-A7BB-6379CB2BF75E.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466RFBY5XSJ%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084827Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCE5XsN%2BGFo7vKE6rCX0FIRCY01b1TVP9apGd%2Fao6myaQIhAOEsxQQ3l%2FvKScT3zwJJkK8EcXLLxDCT4DUZm6ioBzcMKv8DCHIQABoMNjM3NDIzMTgzODA1IgzHL5lCXT8mL7Wyegoq3AOUYVwiU7yPAydW1sJYsk3jmfxBNh9tWiCtbbRMe1pMUpMyHOAtptf0qtZqM06CF%2F16wk%2Bd6lbztMcM8wTuxZhPO780tPiCtwrGxFzDe1KQJH%2F63mgS7b5mi1TBVu%2Fjr%2Fh1W3MVcTvI6eE0RBgdkbe4y6LVGgb6hodSLvQ6QkCc5G0brZ06ap5o3SVfptX03enUf3m6l%2Fu%2FGCk8m1N5G%2FtR3K%2B7F0XaS3luGGqn7xC7mlGwk4%2FpuKZe%2BezlgrsV3zQqgTnfmFdD3a1jHo4rqRW7xZlU%2BCWTRhlzHjlpZQ%2BNFTF%2BH4meYAslo3k61sjB%2BfEVxZgxxikcL9fj2GuK83oT92IdLzP%2Fl0b1d3z6LsKR%2FWA5DX9l28Ltc4d%2BM1GQU01H58VNQA%2Fg6ILsr5PxEwSDR7nLVBYBIYFqiwSJQ33Lev2sjruOv8yj68%2FBa8vGCq2zPncgwHKo2cDrEWuVNRXk8C%2FvbaZp1ztLjXlqtjo0N3MVv9k0JhBwk7CEl9M099vrsF0kzgRkIyLhjAcRFUVtAIqRcEuwEpp6%2BAs1Wkw5aaJUXndzx%2B%2BIKKO3ftfDnegKgaikGf5wzlC38d%2BGQZYYqWYvcM%2FmbOqcUKrJU2f01HTbecdxMlxcsmQlZTDu%2BcnNBjqkASNnmr2VtIZV0AQyE5CF5hmib4jsSB1MhXf4WSwy4r6903xLFPwy%2BHVxGJ77an92ixmyGgetVM6GUo2ssFSYveAeKriqR%2F44E7ZonepN6xqiJiJICNUMhhDkFs7A73WzvHYG29b57XUy8NLshATr2nDno6%2FnDM62XglWRgSNizQsCWC3vgbkZVrn5wXijYA%2BPv4GxjcXwigBPv51VCZzqQ%2FydP4u&X-Amz-Signature=4b43f6baf2869ec4caf969a3ed55d663788c813fb3ee874d41d49767fa576a4e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:48:27.450Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a4862531-27b3-45c7-80b6-47e683a8f11c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c815a753-bbe5-452f-ab77-cf5bf1b27607"
+    },
+    "created_time": "2022-07-22T19:05:00.000Z",
+    "last_edited_time": "2022-07-22T19:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e9b3f583-d576-490c-b249-e9b6f23614e3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c815a753-bbe5-452f-ab77-cf5bf1b27607"
+    },
+    "created_time": "2022-07-22T19:05:00.000Z",
+    "last_edited_time": "2022-07-22T19:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We chatted for a few hours while some other people pulled in and played some very loud but respectable old hits. Dogs keep coming into the kitchen trying to get lucky with some leftovers. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We chatted for a few hours while some other people pulled in and played some very loud but respectable old hits. Dogs keep coming into the kitchen trying to get lucky with some leftovers. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e06b36b3-698b-4aee-acb5-ceba54567224",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c815a753-bbe5-452f-ab77-cf5bf1b27607"
+    },
+    "created_time": "2022-07-22T19:05:00.000Z",
+    "last_edited_time": "2022-07-22T19:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

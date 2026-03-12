@@ -1,0 +1,451 @@
+[
+  {
+    "object": "block",
+    "id": "56c847fd-5e3e-4cf1-8274-4acf14a7b3f9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "20a18681-6bfe-4fad-819c-0894b9f205e2"
+    },
+    "created_time": "2022-09-13T13:40:00.000Z",
+    "last_edited_time": "2022-09-13T16:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Fred picks me up at 7:30am. We head over to bean there coffee shop and begin talking excitedly. We catch up after the run around all things and head over to a lovely little coffee shop in a nice shopping centre. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Fred picks me up at 7:30am. We head over to bean there coffee shop and begin talking excitedly. We catch up after the run around all things and head over to a lovely little coffee shop in a nice shopping centre. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1ec7ba7b-1ecb-4128-9fd7-09e6fa8aff6f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "20a18681-6bfe-4fad-819c-0894b9f205e2"
+    },
+    "created_time": "2022-09-13T16:51:00.000Z",
+    "last_edited_time": "2022-09-13T16:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0a1f39c1-456d-4433-a0e8-b6bd8367fca8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "20a18681-6bfe-4fad-819c-0894b9f205e2"
+    },
+    "created_time": "2022-09-13T16:51:00.000Z",
+    "last_edited_time": "2022-09-13T16:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We set up laptops and get stuck into chatting about a little product idea that Fred and I have been speaking to for quite a while now. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We set up laptops and get stuck into chatting about a little product idea that Fred and I have been speaking to for quite a while now. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f74a784b-da4a-4f38-a3c9-4c9187704960",
+    "parent": {
+      "type": "page_id",
+      "page_id": "20a18681-6bfe-4fad-819c-0894b9f205e2"
+    },
+    "created_time": "2022-09-13T13:41:00.000Z",
+    "last_edited_time": "2022-09-13T13:41:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c8119b35-4a5c-44f4-bc51-e019eb8e255f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "20a18681-6bfe-4fad-819c-0894b9f205e2"
+    },
+    "created_time": "2022-09-13T13:41:00.000Z",
+    "last_edited_time": "2022-09-13T13:41:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/c0a82325-d37e-4678-9f8b-b31394a36d97/F0D2065C-F63D-45DC-9519-6F86446EE701.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466ZIQZCT2W%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084559Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIB5dmPdZ1gRgRDX%2BFgXQ%2BC0BEOafqdVR6hBPdlEKZqmyAiBzpOslXnWdsXxKGXtHBv5K41dV5ypTU1HQC9FFVxdXDSr%2FAwhxEAAaDDYzNzQyMzE4MzgwNSIMdGxhDQYnhbU47d80KtwDbjBfv0bBs5oLvKynk2RGuaKMT6qhCq%2BmFe%2BCH0MJIGM3E7zNJwTY6XfdFs7k%2BmPbKPn8dzkWrsh%2BVnZ%2FtFxZv%2B%2FU2WxopjqcX9a0BAw4rA0xDPPg1%2FRodSnM8lseHt0zqgWGH7j4IaI4rM0V1aMdhaHIW8h5E22iZzN7lf5K5QWIsHsI0u0uBt5jzA23SwQqXF0giB1f5hyXUH%2FhP81KYo5rILxRXgMF%2BOhvEUYRAXY%2Bg9nPEsBC9KyRC2E63UZUTFbxifh6HS6p4%2FcYeIdYmuh4j66aBUZKtZFynfCKLYXmh5yms5QpVtEAhGNRk5cjS4Rx%2BNXxDaDd%2FLkI8%2FNarXLY%2Fns7HdvgAg9ggx9s%2BUJSq9%2BaT7TkPGrSRWuZ4cOroNRSBt%2BQluXg4sonwby9AqwB3%2BvWYPPLDsZEEd7dWt0%2Fo%2F2t7tuwq7eineBUDy%2BG2WTzjkS6kQt52V2MKIi8xp%2FN8C%2FqFYR68OsSROrv0KsoIEJ8R5cJ0TyWAKPNSL2Lcvw0w20bOfJLM%2BdlW47OlKCDqvWCIF%2Fy3y5o%2FW8TNfIPPT%2FXic67KCG%2BiQuZUyGWLzptG4LzyXM8npOYEsP2D98gNo2eMhozd9ZGwJh6pkFxBtXZB48SB1lpjSMw6NvJzQY6pgGS%2FL%2BhYeLP%2BW8IdFnolO3DpwpdXIvWwDwTT58YA098QklVJjNmydfmgg%2FuaTlNlW5AoOHP4c9IeFHQa%2FymhZruXl3zvpH5rcKIq8ayncAnZ2rPeZcUOcyTL1nwmsCEEoAO5LXy7kIXrq7KSsmgHVlGy8sCYedxRuziGdUgvhO94ka0Cm8qKrgVuejgItWKdVv3dZl%2FKd7VWVCgOGrr4w7l6ihlzO0m&X-Amz-Signature=207ec9eafd61cbeaf64356e549a4294ad22586ba8dabea307e9705cd04f25e55&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:45:59.206Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b65fbbd2-405a-4666-8c59-f7583dad602b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "20a18681-6bfe-4fad-819c-0894b9f205e2"
+    },
+    "created_time": "2022-09-13T16:53:00.000Z",
+    "last_edited_time": "2022-09-13T16:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "90d15fc8-a282-4632-8adb-470d551eab1a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "20a18681-6bfe-4fad-819c-0894b9f205e2"
+    },
+    "created_time": "2022-09-13T16:53:00.000Z",
+    "last_edited_time": "2022-09-13T16:54:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "It’s all very exciting stuff, but not something that I’m going to be writing about at length in the travel journal. We find a little fire escape staircase that leads up onto the roof. It’s a pretty magical place to smoke a rollie.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "It’s all very exciting stuff, but not something that I’m going to be writing about at length in the travel journal. We find a little fire escape staircase that leads up onto the roof. It’s a pretty magical place to smoke a rollie.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f6c6f70c-80ea-4df0-9693-547b24e39adf",
+    "parent": {
+      "type": "page_id",
+      "page_id": "20a18681-6bfe-4fad-819c-0894b9f205e2"
+    },
+    "created_time": "2022-09-13T16:54:00.000Z",
+    "last_edited_time": "2022-09-13T16:54:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "440f2cec-54a8-4fab-a8b8-88aed71e74f9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "20a18681-6bfe-4fad-819c-0894b9f205e2"
+    },
+    "created_time": "2022-09-13T16:54:00.000Z",
+    "last_edited_time": "2022-09-13T16:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Lunch time arrives suddenly. Maybe it’s the many coffees that we’ve consumed or maybe we’re having fun. Fred drops me at Jordan’s and comes in to admire her new hair do. I make a pretty fantastic eggy toast and spend some time just clearing out unread messages and whatnot. I continue digging around to try and find a motorcycle to rend in Malawi.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Lunch time arrives suddenly. Maybe it’s the many coffees that we’ve consumed or maybe we’re having fun. Fred drops me at Jordan’s and comes in to admire her new hair do. I make a pretty fantastic eggy toast and spend some time just clearing out unread messages and whatnot. I continue digging around to try and find a motorcycle to rend in Malawi.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ae462da7-76cd-435e-bb39-1a2a586c8906",
+    "parent": {
+      "type": "page_id",
+      "page_id": "20a18681-6bfe-4fad-819c-0894b9f205e2"
+    },
+    "created_time": "2022-09-13T16:55:00.000Z",
+    "last_edited_time": "2022-09-13T16:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "80ff03d4-9664-491d-85a0-6d744040ef9c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "20a18681-6bfe-4fad-819c-0894b9f205e2"
+    },
+    "created_time": "2022-09-13T16:55:00.000Z",
+    "last_edited_time": "2022-09-13T16:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "It’s then Malawi fever as Jordan and I get really stuck into planning our trip. We find places along the bank of the lake that we could get to if it works out. That too flies by and suddenly it’s getting dark. We reflect on some lovely times over the last four years and then tackle what I find to be the hardest and most unenjoyable Wordle ever - ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "It’s then Malawi fever as Jordan and I get really stuck into planning our trip. We find places along the bank of the lake that we could get to if it works out. That too flies by and suddenly it’s getting dark. We reflect on some lovely times over the last four years and then tackle what I find to be the hardest and most unenjoyable Wordle ever - ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "alpha",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "alpha",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a1552891-c15f-4787-9e5c-b63b88720d59",
+    "parent": {
+      "type": "page_id",
+      "page_id": "20a18681-6bfe-4fad-819c-0894b9f205e2"
+    },
+    "created_time": "2022-09-13T16:57:00.000Z",
+    "last_edited_time": "2022-09-13T16:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "911725c7-11c0-4a23-8789-225bf61fef02",
+    "parent": {
+      "type": "page_id",
+      "page_id": "20a18681-6bfe-4fad-819c-0894b9f205e2"
+    },
+    "created_time": "2022-09-13T16:57:00.000Z",
+    "last_edited_time": "2022-09-13T16:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

@@ -1,0 +1,942 @@
+[
+  {
+    "object": "block",
+    "id": "bbe03940-1050-4584-9b10-f1f81b646ddd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0c32aad4-b747-436d-955a-1cd944b3dddd"
+    },
+    "created_time": "2022-09-15T07:26:00.000Z",
+    "last_edited_time": "2022-09-15T07:41:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I’m up at 6:30am without really trying and feeling ok about that. It’s reminiscent of my early working mornings during the life that seems so far away now. I go through the normal coffee and morning routine and then get stuck into my laptop.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I’m up at 6:30am without really trying and feeling ok about that. It’s reminiscent of my early working mornings during the life that seems so far away now. I go through the normal coffee and morning routine and then get stuck into my laptop.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "17bb42e5-794f-47a7-9fe6-81ae3ed78b3c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0c32aad4-b747-436d-955a-1cd944b3dddd"
+    },
+    "created_time": "2022-09-15T07:28:00.000Z",
+    "last_edited_time": "2022-09-15T07:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1328f32f-5029-4dfa-8a95-232298649dea",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0c32aad4-b747-436d-955a-1cd944b3dddd"
+    },
+    "created_time": "2022-09-15T07:28:00.000Z",
+    "last_edited_time": "2022-09-15T07:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I had edited a video of the whole Bovineiterology run and it turned into a 55 minute beast. It was done and when I clicked export I was faced with the fact that iMovie says no. It had to do with the fact that I hadn’t imported the videos correctly and they were still on my phone. I had kind of put it off a few days and now I’d come to terms with starting again.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I had edited a video of the whole Bovineiterology run and it turned into a 55 minute beast. It was done and when I clicked export I was faced with the fact that iMovie says no. It had to do with the fact that I hadn’t imported the videos correctly and they were still on my phone. I had kind of put it off a few days and now I’d come to terms with starting again.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "fb9323ef-2ffd-473e-99a5-018031f3d285",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0c32aad4-b747-436d-955a-1cd944b3dddd"
+    },
+    "created_time": "2022-09-15T07:29:00.000Z",
+    "last_edited_time": "2022-09-15T07:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "40c61f41-1006-44d6-810f-a9067ab7bed3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0c32aad4-b747-436d-955a-1cd944b3dddd"
+    },
+    "created_time": "2022-09-15T07:29:00.000Z",
+    "last_edited_time": "2022-09-15T07:30:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "It’s easier this time - I know all the clips and kind of understand the story that I want to tell. I’m also going to try and condense it a lot this time. I do love the footage - it really throws me back and I think that this video is going to be a source of joy for Damo, Fred and I forever.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "It’s easier this time - I know all the clips and kind of understand the story that I want to tell. I’m also going to try and condense it a lot this time. I do love the footage - it really throws me back and I think that this video is going to be a source of joy for Damo, Fred and I forever.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "583857fb-8d8e-4c33-9fe3-a59f72fd4ee8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0c32aad4-b747-436d-955a-1cd944b3dddd"
+    },
+    "created_time": "2022-09-15T07:30:00.000Z",
+    "last_edited_time": "2022-09-15T07:30:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1fbe2283-6572-418b-8694-9d1bd7400597",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0c32aad4-b747-436d-955a-1cd944b3dddd"
+    },
+    "created_time": "2022-09-15T07:30:00.000Z",
+    "last_edited_time": "2022-09-15T07:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I head over to Fred’s house at about 9:30am and look around the place that is far more furnished than the last time that I was there. Another big Joburg apartment block with a nice garden. We go and sit by the pool and bounce some ideas around. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I head over to Fred’s house at about 9:30am and look around the place that is far more furnished than the last time that I was there. Another big Joburg apartment block with a nice garden. We go and sit by the pool and bounce some ideas around. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c85c4d59-24fd-4c7f-8caa-616490f8bdea",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0c32aad4-b747-436d-955a-1cd944b3dddd"
+    },
+    "created_time": "2022-09-15T07:31:00.000Z",
+    "last_edited_time": "2022-09-15T07:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8ed6c64a-55a0-4201-9a47-a75c8edd16e7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0c32aad4-b747-436d-955a-1cd944b3dddd"
+    },
+    "created_time": "2022-09-15T07:31:00.000Z",
+    "last_edited_time": "2022-09-15T07:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We work well together, we are afraid to call an idea out for being unfounded or lacking substance. I get the phone out and start taking notes in our beautiful Notion teamspace and honestly we come up with some really brilliant ideas and a plan that seems pretty great. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We work well together, we are afraid to call an idea out for being unfounded or lacking substance. I get the phone out and start taking notes in our beautiful Notion teamspace and honestly we come up with some really brilliant ideas and a plan that seems pretty great. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e4ee85b3-0b2c-41da-86a9-a224cf07f125",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0c32aad4-b747-436d-955a-1cd944b3dddd"
+    },
+    "created_time": "2022-09-15T07:32:00.000Z",
+    "last_edited_time": "2022-09-15T07:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5689ec4b-58e9-4e26-b2f0-4c8b2847807d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0c32aad4-b747-436d-955a-1cd944b3dddd"
+    },
+    "created_time": "2022-09-15T07:32:00.000Z",
+    "last_edited_time": "2022-09-15T07:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Inside we go. Kirsty is still on a meeting and it brings a wave of gratitude over me for this sabbatical void of five hours talking to a computer a day. We get some big old pieces of paper out and Fred busts out all his stationary and we draw. Once again we come away with really good insights and an even better plan.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Inside we go. Kirsty is still on a meeting and it brings a wave of gratitude over me for this sabbatical void of five hours talking to a computer a day. We get some big old pieces of paper out and Fred busts out all his stationary and we draw. Once again we come away with really good insights and an even better plan.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0e7ed895-7153-49e5-a4ae-c1f43ac37a42",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0c32aad4-b747-436d-955a-1cd944b3dddd"
+    },
+    "created_time": "2022-09-15T07:33:00.000Z",
+    "last_edited_time": "2022-09-15T07:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a5677e31-6097-49b5-b064-21cc04c916b7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0c32aad4-b747-436d-955a-1cd944b3dddd"
+    },
+    "created_time": "2022-09-15T07:33:00.000Z",
+    "last_edited_time": "2022-09-15T07:34:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We talk through various aspects and determine educational pieces that will be required for each. Lunch time has come and Fred makes a pretty spectacular stir fry and yes - he uses a lot of Miso paste. Kirst ends her call and we all have a fat chat. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We talk through various aspects and determine educational pieces that will be required for each. Lunch time has come and Fred makes a pretty spectacular stir fry and yes - he uses a lot of Miso paste. Kirst ends her call and we all have a fat chat. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d1979660-4e8e-44f8-ace8-fae4ab511abf",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0c32aad4-b747-436d-955a-1cd944b3dddd"
+    },
+    "created_time": "2022-09-15T07:34:00.000Z",
+    "last_edited_time": "2022-09-15T07:34:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b3a8f97b-07cf-4287-af5f-2491101585b6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0c32aad4-b747-436d-955a-1cd944b3dddd"
+    },
+    "created_time": "2022-09-15T07:34:00.000Z",
+    "last_edited_time": "2022-09-15T07:35:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "After lunch we get into cementing everything in words and that takes us through to about 5pm. I say my farewell and drive through the suburban streets back to Jordan’s house. It’s Spaghetti Bolognaise time! And I get the bottle of wine out of the car that has been subjected to temperature variations that no wine should ever go through. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "After lunch we get into cementing everything in words and that takes us through to about 5pm. I say my farewell and drive through the suburban streets back to Jordan’s house. It’s Spaghetti Bolognaise time! And I get the bottle of wine out of the car that has been subjected to temperature variations that no wine should ever go through. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b991589b-dbcc-4fac-a309-d83287751fa0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0c32aad4-b747-436d-955a-1cd944b3dddd"
+    },
+    "created_time": "2022-09-15T07:39:00.000Z",
+    "last_edited_time": "2022-09-15T07:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "49eae9c8-183c-42d1-ae01-40e191a2b02e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0c32aad4-b747-436d-955a-1cd944b3dddd"
+    },
+    "created_time": "2022-09-15T07:39:00.000Z",
+    "last_edited_time": "2022-09-15T07:41:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Brilliant news! We have a motorbike confirmed in Malawi! I speak with the person and discuss some things about it. It’s a Yamaha DT175 and looks like it should have enough space for the two of us. I was getting a little worried that we wouldn’t find a bike after quite a few dead ends.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Brilliant news! We have a motorbike confirmed in Malawi! I speak with the person and discuss some things about it. It’s a Yamaha DT175 and looks like it should have enough space for the two of us. I was getting a little worried that we wouldn’t find a bike after quite a few dead ends.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4f0d23cd-4e24-4e59-8ab8-c066182dc75d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0c32aad4-b747-436d-955a-1cd944b3dddd"
+    },
+    "created_time": "2022-09-15T07:41:00.000Z",
+    "last_edited_time": "2022-09-15T07:41:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "50efe643-cb95-47b1-9a42-bee96f79c385",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0c32aad4-b747-436d-955a-1cd944b3dddd"
+    },
+    "created_time": "2022-09-15T07:42:00.000Z",
+    "last_edited_time": "2022-09-15T07:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/0a35ff8f-40e9-415a-b498-f608566c679d/B265B98B-F3C9-47B0-81F8-875C56ADF175.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466WYJKTCGO%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084530Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDhrp4CXo0i2w4bYjeGqMMwO%2B4ORRFV9ql5yrccrqfiQwIgWP6mRiRE3ZqTJwroJHmR3mVb70v%2FMkOOj6anWIpSkCAq%2FwMIcRAAGgw2Mzc0MjMxODM4MDUiDCF3xXpNlyESLtSrrircAxmdXOdUW9VPazNzlwAVlpwubxOi4YQaZ4KTSZutwIlcCEl8wIxDe7SUOgOa%2FMBNpRGVd4dflPfkaW2RaJAoiFa9kJ1qFj60PFtaQoDhiNaIbwF4q%2BXDqiNwtsTl3xQKwH0vp6wE3v3wonE8gXxP9lcn6K3W3jUkSi7WAQ%2BEvvhZMbEpDP2bTwFmIqrsVLwEj2443XcGnk6nz0NAJw5iobWLF5qXq7tj9O57%2B%2BoKDvTmXJv8w8t7zKlJvnfR8oyFFWoGqXQOyZ6jEfJtLQ3UzVcxq0X2EzDzCV%2BRV9qNSOWwLkKFkumw3ZaMHC7C%2FPKamHSxzo4o7sWfM1eer4PyJaabc%2BkNw0cRruv%2FVzpPq7X31bf5okwfchzPNfNj1BmyJd%2FkWMDz7rSJQBcDNkEkzPzowFrFZD6Y0Ywp0GidVzedTMu0%2F8G48DLF7u6n7kacdFZFhxqCihMtWrsu7BBU6c6J%2Faj78MZNBIptBkZXmNdjn2q9WEgKPIJyMW%2BFp85DqGpQfnjCbX9rxw8Vu%2F0KDXnszqFn02CNrOg1VJWcUztbIJtP9V2AoV1tLy631gmx8V0cbOTbhC1oub2M0f%2ByCOkca0WEq3XY%2FPAvF2PZDoh8059myBLXB3RAzD5WMNPcyc0GOqUBNNIXNClOsOAHSOwwuazan3R88WPFnjLAG3jcXWWnvtn0bE95Plz8w4pgA%2BUtqnaSe5U7%2BSPmQQeSgui349qYVz9spkqGkAABet%2FwaM%2BiJ%2BAp6ERxhhsuOengdHHu6ydGBCk1VRSEdDFBB%2BXdbYYOxjlH4xJMGETj5VK7e9xs%2Bpy4UvKGRiPx3QAlpaasJNHH066U44BN1GgWH%2F5uJw6CwFZhcj4W&X-Amz-Signature=7e17466bc3ab8669029bd671afbb073f07bcedbe2a6479805cabfbfe49e38de4&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:45:30.043Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1870956a-3d66-48b1-b110-6176159312e0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0c32aad4-b747-436d-955a-1cd944b3dddd"
+    },
+    "created_time": "2022-09-15T07:35:00.000Z",
+    "last_edited_time": "2022-09-15T07:35:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3370647b-bc28-4b27-96d4-027082c1fe32",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0c32aad4-b747-436d-955a-1cd944b3dddd"
+    },
+    "created_time": "2022-09-15T07:35:00.000Z",
+    "last_edited_time": "2022-09-15T07:35:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The wine is ok though. And I pay homage to my aunt and have a glass with a cigarette outside and catch up on the day’s happenings with Jordan. We get stuck into making dinner and have some lovely conversations.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The wine is ok though. And I pay homage to my aunt and have a glass with a cigarette outside and catch up on the day’s happenings with Jordan. We get stuck into making dinner and have some lovely conversations.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a65f8426-9a0c-48e0-8458-e006f94871c9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0c32aad4-b747-436d-955a-1cd944b3dddd"
+    },
+    "created_time": "2022-09-15T07:35:00.000Z",
+    "last_edited_time": "2022-09-15T07:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e584e4d5-5a2f-4aed-909a-993e7686eec2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0c32aad4-b747-436d-955a-1cd944b3dddd"
+    },
+    "created_time": "2022-09-15T07:35:00.000Z",
+    "last_edited_time": "2022-09-15T07:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "When the Bolognaise is made and reducing we have a bath and reflect on all the lovely holidays that the two of us have gone on together. And, just like that - we’re starving. Nikita arrives home at the perfect time and we all enjoy a pretty incredible dinner.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "When the Bolognaise is made and reducing we have a bath and reflect on all the lovely holidays that the two of us have gone on together. And, just like that - we’re starving. Nikita arrives home at the perfect time and we all enjoy a pretty incredible dinner.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "294e40ed-d940-45e5-be33-d8bca6a57504",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0c32aad4-b747-436d-955a-1cd944b3dddd"
+    },
+    "created_time": "2022-09-15T07:36:00.000Z",
+    "last_edited_time": "2022-09-15T07:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6fa428c3-e3f0-4754-84e9-70d891c302d6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0c32aad4-b747-436d-955a-1cd944b3dddd"
+    },
+    "created_time": "2022-09-15T07:36:00.000Z",
+    "last_edited_time": "2022-09-15T07:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Jordan suggests that we sleep on the double sleeper couch for some extra space. Jordan and Nikita only have a small glass of wine each and I notice that the bottle is almost finished, so I think it wise to have a rehydrate and a lot of water.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Jordan suggests that we sleep on the double sleeper couch for some extra space. Jordan and Nikita only have a small glass of wine each and I notice that the bottle is almost finished, so I think it wise to have a rehydrate and a lot of water.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "439e6505-94e8-428f-9d31-d066b5e1738e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0c32aad4-b747-436d-955a-1cd944b3dddd"
+    },
+    "created_time": "2022-09-15T07:37:00.000Z",
+    "last_edited_time": "2022-09-15T07:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b69c8b12-d0f1-4fd4-9ad9-5bf0ffee6fda",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0c32aad4-b747-436d-955a-1cd944b3dddd"
+    },
+    "created_time": "2022-09-15T07:37:00.000Z",
+    "last_edited_time": "2022-09-15T07:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "My sleep is disrupted by good thoughts that I have to get up and make notes of from time to time. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "My sleep is disrupted by good thoughts that I have to get up and make notes of from time to time. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

@@ -1,0 +1,1090 @@
+[
+  {
+    "object": "block",
+    "id": "35fc5aa0-dc76-4e5d-9f43-4223bcbd78eb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b3472e76-371f-4f8c-9f40-8194c5452c1f"
+    },
+    "created_time": "2022-07-20T05:05:00.000Z",
+    "last_edited_time": "2022-07-20T05:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I wake up the the sound of the ocean and a light rain. I excitedly open up the back of the canopy and look out over the beautiful yellow sands mouth. There are fun little waves! It’s not enormous, just far more consistent than last night. Health-wise I’m feeling almost 100% again which is lovely. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I wake up the the sound of the ocean and a light rain. I excitedly open up the back of the canopy and look out over the beautiful yellow sands mouth. There are fun little waves! It’s not enormous, just far more consistent than last night. Health-wise I’m feeling almost 100% again which is lovely. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "aa227aa1-0792-4c94-ae8d-bfeacb9fd945",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b3472e76-371f-4f8c-9f40-8194c5452c1f"
+    },
+    "created_time": "2022-07-20T05:19:00.000Z",
+    "last_edited_time": "2022-07-20T05:19:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ad9318c3-6b54-4c2b-9f08-f4a73de41f60",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b3472e76-371f-4f8c-9f40-8194c5452c1f"
+    },
+    "created_time": "2022-07-20T05:19:00.000Z",
+    "last_edited_time": "2022-07-20T11:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I’m also feeling less pressure on getting solidly fit for the Transkei run with Damo; I’m going to be as ready as I’m going to be ready. And I’ll take it from there. I will definitely still do my strengthening exercises, but I won’t force any runs. At least I’m not smoking now, right? ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I’m also feeling less pressure on getting solidly fit for the Transkei run with Damo; I’m going to be as ready as I’m going to be ready. And I’ll take it from there. I will definitely still do my strengthening exercises, but I won’t force any runs. At least I’m not smoking now, right? ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9eff885a-dc0d-4903-b010-7448c320e547",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b3472e76-371f-4f8c-9f40-8194c5452c1f"
+    },
+    "created_time": "2022-07-20T05:21:00.000Z",
+    "last_edited_time": "2022-07-20T05:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4f4de23d-9181-400c-9c08-d34aeb069a51",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b3472e76-371f-4f8c-9f40-8194c5452c1f"
+    },
+    "created_time": "2022-07-20T05:40:00.000Z",
+    "last_edited_time": "2022-07-20T05:41:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "On its day the point at yellow sands would cook. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "On its day the point at yellow sands would cook. ",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/1a29bfc4-7198-4a81-a76b-8bbfd57f2261/3DB62A68-1AB4-41AD-AC6D-3A602F7B7AC0.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4665242Y63N%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084800Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDxUvlfejDjtJpjL0fNLWwIRFcYM2w7cfnUfUFfYmulaAIgac8EgfbEcoj3FGgMwSqjX0%2FOzqIBlHs8G4t7keW1HKYq%2FwMIchAAGgw2Mzc0MjMxODM4MDUiDK4WZz4U7pZjqq5vySrcA1HWUB8Sq5SXXxS0xA4Af8FSMxYPmQgpAYXFnsnBBBDOnOHYI43TLvfCWe%2Bw8GFXvFDMKH%2FdTg1fBFtiJah52dVEfeWwlN9v1rHu%2Fc4Kc1Rn6gWmvnnj5E3sogRgM9JSYa8IBpPGX5cj7GhI254PJvf7eDjURD4iWteCEZWWRuCUR21VSbQi7SlBnBGk2U%2BTwr6dcWsQULUbs5lyJhGHmsg%2BnuiF%2FVjD7cxqrDdTH6isjKeC2rnx5hbTEADxmjqkyjrUoBFWH68W9UTAl0ThUKNLHUwUljDRCmofCkPI5b5Lerj9rDbDBPvbKtYr4yTHTjddz9jztPcmhGKHdqgWc3nJiaAwqaNPWgo%2BJmT3vf6K%2BwqXoB2ItG8Od0VXlU5G1%2BeCbW851a08biYJNR3ygLkkHJ%2FYCjyW6Udk%2FdPTyjqegX9uPV9EtjAEjT%2FaDyOaQEdfs8CAH%2BxMxFq1IlhDKzSTN5PbDR2uL4Y9QZI1U2MZroPqU4DD1azvCUm0PVkhyVK0LLQrWaGxhmdzMH79fM7Em5ZG%2Fqnhu3WYGuICcRnRQr4V4NGkn0SWtgbbo5NBrmH%2FPfqq6hzcw5Ld0EnVtUPReIVbR4JoUw1dEUYMQ%2B6RY%2BR%2FbRJDoPk3hi0XMJb6yc0GOqUBqG3UmoTs%2BOD9GUM%2Fva57dJxElVIwTzsn2F%2FQ6IgictyLHe%2BEbCxBBn%2Bb1eW17L5X7W3TDz0ULl012bjamTO0Q0IrdsMsJqFgtimmfTqxy8O4uO9ASmySdvDh64DCRFGU9pA9NW%2BAgqxZttUNBcj8GS3PAms7r9LEb6obcLD9CX7K5z5QaQMlwQ33pzc5%2FAXmzpXIe7hRUG6yFl5mPseuhhgoWHe6&X-Amz-Signature=ea4796b932a155c05d00bb689ae1191ec332b5209121604cf2b015f01f72e566&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:48:00.166Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f520bf35-0a08-4bdb-a55c-90f7a15ef163",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b3472e76-371f-4f8c-9f40-8194c5452c1f"
+    },
+    "created_time": "2022-07-20T05:41:00.000Z",
+    "last_edited_time": "2022-07-20T05:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The tide is high in an hour and I.e heard that Nahoon likes the lower and mid tide. I’m watching lovely little peeling waves at the point opposite my campsite while I make coffee and breakfast. Deliberating whether I should get on the long board and give it a paddle. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The tide is high in an hour and I.e heard that Nahoon likes the lower and mid tide. I’m watching lovely little peeling waves at the point opposite my campsite while I make coffee and breakfast. Deliberating whether I should get on the long board and give it a paddle. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a0829e02-40eb-448f-918b-2696c98eae44",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b3472e76-371f-4f8c-9f40-8194c5452c1f"
+    },
+    "created_time": "2022-07-20T06:12:00.000Z",
+    "last_edited_time": "2022-07-20T06:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f25214b0-c0d7-4589-b86b-289f9bce4586",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b3472e76-371f-4f8c-9f40-8194c5452c1f"
+    },
+    "created_time": "2022-07-20T06:12:00.000Z",
+    "last_edited_time": "2022-07-20T06:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "A car rocks up. Another car arrives. They both have surfboards in them! I excitedly make coffee in the back of the bakkie while it rains a bit eager to see what they find. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "A car rocks up. Another car arrives. They both have surfboards in them! I excitedly make coffee in the back of the bakkie while it rains a bit eager to see what they find. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "eb278bdb-8f7e-4b73-bc01-15d9333373d4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b3472e76-371f-4f8c-9f40-8194c5452c1f"
+    },
+    "created_time": "2022-07-20T06:18:00.000Z",
+    "last_edited_time": "2022-07-20T06:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "dbf3d983-8c24-45a6-8b3b-7e82aa4344bd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b3472e76-371f-4f8c-9f40-8194c5452c1f"
+    },
+    "created_time": "2022-07-20T06:18:00.000Z",
+    "last_edited_time": "2022-07-20T06:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "False alarm 🚨 it’s just a paddle ski (this is just a problematic 🚩joke for me Dad). Lets see what he gets into anyway. It’s small and playful. He gets a few rights to the beach. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "False alarm 🚨 it’s just a paddle ski (this is just a problematic 🚩joke for me Dad). Lets see what he gets into anyway. It’s small and playful. He gets a few rights to the beach. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5ab409ee-b788-45f5-baed-7fb28dd3ba62",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b3472e76-371f-4f8c-9f40-8194c5452c1f"
+    },
+    "created_time": "2022-07-20T06:32:00.000Z",
+    "last_edited_time": "2022-07-20T06:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5af0c712-cc66-4956-8d09-d0e555e6a3c3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b3472e76-371f-4f8c-9f40-8194c5452c1f"
+    },
+    "created_time": "2022-07-20T06:32:00.000Z",
+    "last_edited_time": "2022-07-20T06:34:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I’m so grateful that I don’t have my grom froth anymore. As a child, simply seeing someone else in the water would send me into a chaotic anxiety ridden experience of needing to surf. Today I can quite comfortably watch others surf with no need to do so myself. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I’m so grateful that I don’t have my grom froth anymore. As a child, simply seeing someone else in the water would send me into a chaotic anxiety ridden experience of needing to surf. Today I can quite comfortably watch others surf with no need to do so myself. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6c5f2da7-7fca-4d08-b5e6-4bb94ca7c75a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b3472e76-371f-4f8c-9f40-8194c5452c1f"
+    },
+    "created_time": "2022-07-20T07:46:00.000Z",
+    "last_edited_time": "2022-07-20T07:46:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a0730376-3edc-40b7-909b-59eb6402fbc5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b3472e76-371f-4f8c-9f40-8194c5452c1f"
+    },
+    "created_time": "2022-07-20T06:18:00.000Z",
+    "last_edited_time": "2022-07-20T07:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Graham calls and tells me to stay at swell eco lodge area and you can access both waves with ease. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Graham calls and tells me to stay at swell eco lodge area and you can access both waves with ease. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "371e1dfd-00aa-4548-9cf0-3c670b939769",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b3472e76-371f-4f8c-9f40-8194c5452c1f"
+    },
+    "created_time": "2022-07-20T08:14:00.000Z",
+    "last_edited_time": "2022-07-20T08:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f7543716-16bf-43aa-afa7-a6384883ffef",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b3472e76-371f-4f8c-9f40-8194c5452c1f"
+    },
+    "created_time": "2022-07-20T08:14:00.000Z",
+    "last_edited_time": "2022-07-20T10:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I feel like I’ve lived a whole day yet it’s only ten in the morning. So I decide to be a hypocrite and take Angelica (my long board) out for a couple of waves. Hold the phone. Someone is surfing the point. I immediately need to poo with excitement. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I feel like I’ve lived a whole day yet it’s only ten in the morning. So I decide to be a hypocrite and take Angelica (my long board) out for a couple of waves. Hold the phone. Someone is surfing the point. I immediately need to poo with excitement. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f6a497b3-9034-42ee-ac80-cddc553ac8e6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b3472e76-371f-4f8c-9f40-8194c5452c1f"
+    },
+    "created_time": "2022-07-20T10:12:00.000Z",
+    "last_edited_time": "2022-07-20T10:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "95c333f5-f849-4b37-9a02-523d60a406e2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b3472e76-371f-4f8c-9f40-8194c5452c1f"
+    },
+    "created_time": "2022-07-20T08:20:00.000Z",
+    "last_edited_time": "2022-07-20T10:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I rush out there on Kim V3 and paddle tentatively over the rocks. The other surfer is sitting high up on the point looking for the waves that double up and run through the inside. I rather opt for the inside bowl that is a wedgey punchy running right, about shoulder high. I surf so well! Some lovely whips off the top and carved. I’m so happy to see that I’ve still got a backhand in my after all these years of going left. My last wave is the best; about head high with a solid wall. I take off late and manage to sneak half a bottom turn in. I do a beautiful down carve back into the whitewater that immediately shoots me back up to the lip for two more snaps and a strong kick out. I paddle back to the campsite for a shower. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I rush out there on Kim V3 and paddle tentatively over the rocks. The other surfer is sitting high up on the point looking for the waves that double up and run through the inside. I rather opt for the inside bowl that is a wedgey punchy running right, about shoulder high. I surf so well! Some lovely whips off the top and carved. I’m so happy to see that I’ve still got a backhand in my after all these years of going left. My last wave is the best; about head high with a solid wall. I take off late and manage to sneak half a bottom turn in. I do a beautiful down carve back into the whitewater that immediately shoots me back up to the lip for two more snaps and a strong kick out. I paddle back to the campsite for a shower. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a3d10cf6-3372-4b8f-82fd-073b4eb0a51c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b3472e76-371f-4f8c-9f40-8194c5452c1f"
+    },
+    "created_time": "2022-07-20T10:33:00.000Z",
+    "last_edited_time": "2022-07-20T10:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bookmark",
+    "bookmark": {
+      "caption": [],
+      "url": "https://connect.garmin.com/modern/activity/9238801990"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "70d356dd-337d-455f-9ed6-11e46fa12ea0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b3472e76-371f-4f8c-9f40-8194c5452c1f"
+    },
+    "created_time": "2022-07-20T11:30:00.000Z",
+    "last_edited_time": "2022-07-20T11:30:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/d67fa27b-8463-417f-bdbe-0ef7ac2e9b7a/8828D64C-C1E5-4DE0-ABE8-533FE174C0D4.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4665242Y63N%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084800Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDxUvlfejDjtJpjL0fNLWwIRFcYM2w7cfnUfUFfYmulaAIgac8EgfbEcoj3FGgMwSqjX0%2FOzqIBlHs8G4t7keW1HKYq%2FwMIchAAGgw2Mzc0MjMxODM4MDUiDK4WZz4U7pZjqq5vySrcA1HWUB8Sq5SXXxS0xA4Af8FSMxYPmQgpAYXFnsnBBBDOnOHYI43TLvfCWe%2Bw8GFXvFDMKH%2FdTg1fBFtiJah52dVEfeWwlN9v1rHu%2Fc4Kc1Rn6gWmvnnj5E3sogRgM9JSYa8IBpPGX5cj7GhI254PJvf7eDjURD4iWteCEZWWRuCUR21VSbQi7SlBnBGk2U%2BTwr6dcWsQULUbs5lyJhGHmsg%2BnuiF%2FVjD7cxqrDdTH6isjKeC2rnx5hbTEADxmjqkyjrUoBFWH68W9UTAl0ThUKNLHUwUljDRCmofCkPI5b5Lerj9rDbDBPvbKtYr4yTHTjddz9jztPcmhGKHdqgWc3nJiaAwqaNPWgo%2BJmT3vf6K%2BwqXoB2ItG8Od0VXlU5G1%2BeCbW851a08biYJNR3ygLkkHJ%2FYCjyW6Udk%2FdPTyjqegX9uPV9EtjAEjT%2FaDyOaQEdfs8CAH%2BxMxFq1IlhDKzSTN5PbDR2uL4Y9QZI1U2MZroPqU4DD1azvCUm0PVkhyVK0LLQrWaGxhmdzMH79fM7Em5ZG%2Fqnhu3WYGuICcRnRQr4V4NGkn0SWtgbbo5NBrmH%2FPfqq6hzcw5Ld0EnVtUPReIVbR4JoUw1dEUYMQ%2B6RY%2BR%2FbRJDoPk3hi0XMJb6yc0GOqUBqG3UmoTs%2BOD9GUM%2Fva57dJxElVIwTzsn2F%2FQ6IgictyLHe%2BEbCxBBn%2Bb1eW17L5X7W3TDz0ULl012bjamTO0Q0IrdsMsJqFgtimmfTqxy8O4uO9ASmySdvDh64DCRFGU9pA9NW%2BAgqxZttUNBcj8GS3PAms7r9LEb6obcLD9CX7K5z5QaQMlwQ33pzc5%2FAXmzpXIe7hRUG6yFl5mPseuhhgoWHe6&X-Amz-Signature=42b1770a75a7d55e5f1689559c05893dfc8a2bf73d042ffc9daeb11711116f38&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:48:00.166Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e2c25fd0-f595-4295-8807-1d3fc5f73607",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b3472e76-371f-4f8c-9f40-8194c5452c1f"
+    },
+    "created_time": "2022-07-20T11:22:00.000Z",
+    "last_edited_time": "2022-07-20T11:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I go check Nahoon and it’s pretty good. I have mixed feelings about this as I’m feeling pretty tired. I watch where people get out and in and the head off to get some lunch and a coffee. I’ve decided to spend another night in east London as there should be waves here again tomorrow. Maybe I’ll go and do a hike on Friday? ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I go check Nahoon and it’s pretty good. I have mixed feelings about this as I’m feeling pretty tired. I watch where people get out and in and the head off to get some lunch and a coffee. I’ve decided to spend another night in east London as there should be waves here again tomorrow. Maybe I’ll go and do a hike on Friday? ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0876c6ea-8bc1-43bb-bce9-b10b55467c68",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b3472e76-371f-4f8c-9f40-8194c5452c1f"
+    },
+    "created_time": "2022-07-20T11:30:00.000Z",
+    "last_edited_time": "2022-07-20T11:30:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8d15e57c-b5fd-4365-9c70-6d20530f21fc",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b3472e76-371f-4f8c-9f40-8194c5452c1f"
+    },
+    "created_time": "2022-07-20T11:30:00.000Z",
+    "last_edited_time": "2022-07-20T12:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I’ve been looking for those black and white stripy leashes but cannot find them anywhere. I see the first person with shark repellant band on. I head off to “The Kitchen Table” on my friend Jess’ recommendation. I brave ordering a Cortado in the Eastern Cape - the risk pays off. If I feel energised after lunch I’m going to give Nahoon a paddle. I’m going to drive back to Nahoon and see how it’s looking.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I’ve been looking for those black and white stripy leashes but cannot find them anywhere. I see the first person with shark repellant band on. I head off to “The Kitchen Table” on my friend Jess’ recommendation. I brave ordering a Cortado in the Eastern Cape - the risk pays off. If I feel energised after lunch I’m going to give Nahoon a paddle. I’m going to drive back to Nahoon and see how it’s looking.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ed412604-9bdb-4034-a687-8a74421f9115",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b3472e76-371f-4f8c-9f40-8194c5452c1f"
+    },
+    "created_time": "2022-07-20T15:04:00.000Z",
+    "last_edited_time": "2022-07-20T15:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ddb50288-8bca-4bbc-855f-170433685f19",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b3472e76-371f-4f8c-9f40-8194c5452c1f"
+    },
+    "created_time": "2022-07-20T15:04:00.000Z",
+    "last_edited_time": "2022-07-20T15:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I’m back at the Yellow Sands campsite. There are three people surfing the beach break and a whale in the bay. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I’m back at the Yellow Sands campsite. There are three people surfing the beach break and a whale in the bay. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "35432abb-43bc-4213-929d-bcf4231ead79",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b3472e76-371f-4f8c-9f40-8194c5452c1f"
+    },
+    "created_time": "2022-07-20T16:19:00.000Z",
+    "last_edited_time": "2022-07-20T16:19:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b0926939-b876-40aa-a42b-8bb3d8a2b907",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b3472e76-371f-4f8c-9f40-8194c5452c1f"
+    },
+    "created_time": "2022-07-20T16:19:00.000Z",
+    "last_edited_time": "2022-07-20T16:19:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/de85c3c2-a4b3-4f67-84f6-6bfa57439f2c/073E978F-00E1-4262-9B54-1EA84CF8030E.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4665242Y63N%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084800Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDxUvlfejDjtJpjL0fNLWwIRFcYM2w7cfnUfUFfYmulaAIgac8EgfbEcoj3FGgMwSqjX0%2FOzqIBlHs8G4t7keW1HKYq%2FwMIchAAGgw2Mzc0MjMxODM4MDUiDK4WZz4U7pZjqq5vySrcA1HWUB8Sq5SXXxS0xA4Af8FSMxYPmQgpAYXFnsnBBBDOnOHYI43TLvfCWe%2Bw8GFXvFDMKH%2FdTg1fBFtiJah52dVEfeWwlN9v1rHu%2Fc4Kc1Rn6gWmvnnj5E3sogRgM9JSYa8IBpPGX5cj7GhI254PJvf7eDjURD4iWteCEZWWRuCUR21VSbQi7SlBnBGk2U%2BTwr6dcWsQULUbs5lyJhGHmsg%2BnuiF%2FVjD7cxqrDdTH6isjKeC2rnx5hbTEADxmjqkyjrUoBFWH68W9UTAl0ThUKNLHUwUljDRCmofCkPI5b5Lerj9rDbDBPvbKtYr4yTHTjddz9jztPcmhGKHdqgWc3nJiaAwqaNPWgo%2BJmT3vf6K%2BwqXoB2ItG8Od0VXlU5G1%2BeCbW851a08biYJNR3ygLkkHJ%2FYCjyW6Udk%2FdPTyjqegX9uPV9EtjAEjT%2FaDyOaQEdfs8CAH%2BxMxFq1IlhDKzSTN5PbDR2uL4Y9QZI1U2MZroPqU4DD1azvCUm0PVkhyVK0LLQrWaGxhmdzMH79fM7Em5ZG%2Fqnhu3WYGuICcRnRQr4V4NGkn0SWtgbbo5NBrmH%2FPfqq6hzcw5Ld0EnVtUPReIVbR4JoUw1dEUYMQ%2B6RY%2BR%2FbRJDoPk3hi0XMJb6yc0GOqUBqG3UmoTs%2BOD9GUM%2Fva57dJxElVIwTzsn2F%2FQ6IgictyLHe%2BEbCxBBn%2Bb1eW17L5X7W3TDz0ULl012bjamTO0Q0IrdsMsJqFgtimmfTqxy8O4uO9ASmySdvDh64DCRFGU9pA9NW%2BAgqxZttUNBcj8GS3PAms7r9LEb6obcLD9CX7K5z5QaQMlwQ33pzc5%2FAXmzpXIe7hRUG6yFl5mPseuhhgoWHe6&X-Amz-Signature=b0ba5436f260d8dd1956a192ad6f78af8097f6342f3a99c0abd1a5bd18a04be5&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:48:00.266Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "84436be3-3cf9-4480-9d08-b09e03c27c90",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b3472e76-371f-4f8c-9f40-8194c5452c1f"
+    },
+    "created_time": "2022-07-20T16:19:00.000Z",
+    "last_edited_time": "2022-07-20T16:19:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c64f049e-7e2a-40eb-ae37-2397757e3331",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b3472e76-371f-4f8c-9f40-8194c5452c1f"
+    },
+    "created_time": "2022-07-20T15:27:00.000Z",
+    "last_edited_time": "2022-07-20T16:19:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Making soup, watching waves and listening to the very faint rain on the canopy. I’m so happy right now. I realize that this is the longest that I’ve been alone in years, something that was much more regular in the Indonesia days. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Making soup, watching waves and listening to the very faint rain on the canopy. I’m so happy right now. I realize that this is the longest that I’ve been alone in years, something that was much more regular in the Indonesia days. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "81ace9cb-1b36-4f41-806a-98b40e0051ac",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b3472e76-371f-4f8c-9f40-8194c5452c1f"
+    },
+    "created_time": "2022-07-20T16:17:00.000Z",
+    "last_edited_time": "2022-07-20T16:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4882852d-d352-4970-8af3-0e2057448287",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b3472e76-371f-4f8c-9f40-8194c5452c1f"
+    },
+    "created_time": "2022-07-20T16:17:00.000Z",
+    "last_edited_time": "2022-07-20T16:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Made myself a fuuucking strong cayenne pepper, ginger, honey and rooibos tea; feeling cleansed. Listen to a Joseph Goldstein episode. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Made myself a fuuucking strong cayenne pepper, ginger, honey and rooibos tea; feeling cleansed. Listen to a Joseph Goldstein episode. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

@@ -1,0 +1,330 @@
+[
+  {
+    "object": "block",
+    "id": "7e68e60e-0bbf-45a3-a42a-ab6587f2acb9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "101a5de3-0b60-4418-9f03-755ca84562f9"
+    },
+    "created_time": "2022-09-16T05:51:00.000Z",
+    "last_edited_time": "2022-09-19T04:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I wake up before my alarm and get stuck into editing V2 of the Bovineiterology video. The first iteration suffered from a technical malfunction preventing it from being exported, but it also suffered from being an hour long. Watching it with Jordan I realised that it was indeed a little too long. So this time I aim to keep it down to half an hour, and I definitely think that it is better for it. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I wake up before my alarm and get stuck into editing V2 of the Bovineiterology video. The first iteration suffered from a technical malfunction preventing it from being exported, but it also suffered from being an hour long. Watching it with Jordan I realised that it was indeed a little too long. So this time I aim to keep it down to half an hour, and I definitely think that it is better for it. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d3084474-2636-4115-ab71-fd17694f6509",
+    "parent": {
+      "type": "page_id",
+      "page_id": "101a5de3-0b60-4418-9f03-755ca84562f9"
+    },
+    "created_time": "2022-09-19T04:16:00.000Z",
+    "last_edited_time": "2022-09-19T04:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "07f409d2-09eb-4174-9254-272bc22c293a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "101a5de3-0b60-4418-9f03-755ca84562f9"
+    },
+    "created_time": "2022-09-19T04:16:00.000Z",
+    "last_edited_time": "2022-09-19T04:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I head over to Fred’s house again and basically show myself into the block of flats - the security seemingly to recognise me. We power through a fun day of creating logos and setting up a simple landing page. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I head over to Fred’s house again and basically show myself into the block of flats - the security seemingly to recognise me. We power through a fun day of creating logos and setting up a simple landing page. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1d117477-17ea-4b08-b7ed-2319b06a0bfb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "101a5de3-0b60-4418-9f03-755ca84562f9"
+    },
+    "created_time": "2022-09-19T04:22:00.000Z",
+    "last_edited_time": "2022-09-19T04:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/c9c61644-ee31-4ff3-9083-b19c96750a1a/F8BD2596-5051-4769-9A83-203EE41100DD.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4662PROYGBO%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084530Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIB2DRa2bkqHOPW1HdQIQRzOJkWkkkDE1%2BPOc1YSH6xnzAiEAwNkLmQBIK8Tnq7%2BNx15xy0VbnfQ2kahXmL8OuYNBZIIq%2FwMIcRAAGgw2Mzc0MjMxODM4MDUiDLyfctl1OVm6M7KTSCrcAzXuhWxKxxHIXQsenO0pknpC29WSALGMWYg4klBxA1t7ATufCYeRVZC%2FwaLFuE0XJcz1VU7QyWMTxcxBWGDaMqrnAAZYXHE2pKHkh8AJr4afhW4ixAvvTn5lYDES0QlOQnMMI8Vw4u%2BMVn1COxtPwWl%2F2H1D9DBiI1gp3xPYN28RbT%2BwECmFZonE6vK%2F%2F0V%2FH3z2A26hPI937i7l44ExIrwQpNrrAbPzk1c%2BaD06GDLVoUnAG8txhFn2bWhZqL9WRuxzKPQYxRsX6UHmLzN%2B1OIKwZIOAb0LWeG9W0GpsWd3FV1rGKT8BFu%2Bo%2FXBTbc33eGyRytG0kFKbVwlRgZnTGRILHZRkpnxwAE%2FvPExlukCI2VOtTPI9K%2BDnsqIQgQ3Ig8oe1s7r2KUT%2B7jw%2BcOzm9kNbhb0tgIUEOpD84AeDZUqyXy7JUdaZoX6H9TmZdAilims8g9LMqOi7OmHFl22Gk%2BPhw6BRNcZzqx6S16WWwCqulhlwCzzegaPk%2Ba0PWngU8VYiXHZb54dAv%2Bs3Q%2B5mDvzUf0svXeubLAQwucUKqPFZCg5brVxo4FuifFXM8GpSc2JziTaf5xHmNXQ%2FV5hPPgZw10F%2FPuIv6PktEXGeIRbd9fnFlEEjjaKH%2F1MN%2Fayc0GOqUBfuaAKkJR24ST50BwEymQV7ZQBDDXFuRLhbZMHjOZFFDyZ8vY17gi98WGTvABD4rkhj9n8ff1406Y5qfar7YbG8c1udszB16w1%2FhSU19mPPduiI7O9iLTdrJfa6WqYvvRm7d5PH6Ou4JmWgl815PQFs6vE4706J1dsNUfeLRB5NYHhO7NCL7Qgmxn%2BcLWeUTVSHuLOfIT6Ib7oDXd39ep6WV%2FpjC9&X-Amz-Signature=30596d1d192616cda86140ebc54e2fefc6962d37da5a6e4bd6c937acc7a1156c&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:45:30.604Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d61bd084-79da-437a-824b-1f7bb1c9ad19",
+    "parent": {
+      "type": "page_id",
+      "page_id": "101a5de3-0b60-4418-9f03-755ca84562f9"
+    },
+    "created_time": "2022-09-19T04:18:00.000Z",
+    "last_edited_time": "2022-09-19T04:20:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The day passes in a flash and I’m feeling pretty tired. Fred runs off at 5pm and I head home. We are going to go to visit Josh Hartford at Misha’s house after dinner. It’s Friday night and we don’t feel like cooking. We flex a Bolt Food voucher and devour two curries that even while being medium still pack quite a punch.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The day passes in a flash and I’m feeling pretty tired. Fred runs off at 5pm and I head home. We are going to go to visit Josh Hartford at Misha’s house after dinner. It’s Friday night and we don’t feel like cooking. We flex a Bolt Food voucher and devour two curries that even while being medium still pack quite a punch.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0ee97fcb-58fb-46ed-b628-e310aa73a5e9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "101a5de3-0b60-4418-9f03-755ca84562f9"
+    },
+    "created_time": "2022-09-19T04:20:00.000Z",
+    "last_edited_time": "2022-09-19T04:20:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7c37f9eb-c8ee-4d7c-b0f9-1df5afd3d763",
+    "parent": {
+      "type": "page_id",
+      "page_id": "101a5de3-0b60-4418-9f03-755ca84562f9"
+    },
+    "created_time": "2022-09-19T04:20:00.000Z",
+    "last_edited_time": "2022-09-19T04:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Hopping into an Uber and engaging in a pretty classic conversation with the driver around the challenges of life. We get to the beautiful flat and meet a friend of my cousin Kirsten. All the Cape Town homies are there and it’s a bit of a party. They’re cooking a liquid on the stove and pizza is flying around. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Hopping into an Uber and engaging in a pretty classic conversation with the driver around the challenges of life. We get to the beautiful flat and meet a friend of my cousin Kirsten. All the Cape Town homies are there and it’s a bit of a party. They’re cooking a liquid on the stove and pizza is flying around. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "78dbc613-ae33-408c-8122-ba4370c353db",
+    "parent": {
+      "type": "page_id",
+      "page_id": "101a5de3-0b60-4418-9f03-755ca84562f9"
+    },
+    "created_time": "2022-09-19T04:21:00.000Z",
+    "last_edited_time": "2022-09-19T04:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0ce829df-724e-48cc-9f86-0df4db18435c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "101a5de3-0b60-4418-9f03-755ca84562f9"
+    },
+    "created_time": "2022-09-19T04:21:00.000Z",
+    "last_edited_time": "2022-09-19T04:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Jordan and I share a beer, eat some KitKats and talk a bunch of lovely nonsense with them all. I’m absolutely exhausted - maybe from the quasi-work week and we head home at about tenish. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Jordan and I share a beer, eat some KitKats and talk a bunch of lovely nonsense with them all. I’m absolutely exhausted - maybe from the quasi-work week and we head home at about tenish. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

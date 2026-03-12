@@ -1,0 +1,118 @@
+[
+  {
+    "object": "block",
+    "id": "27bdeabd-9164-80d2-8c88-c74f95a2046a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "27bdeabd-9164-80b2-b075-deb85befb2dd"
+    },
+    "created_time": "2025-09-27T07:27:00.000Z",
+    "last_edited_time": "2025-09-27T07:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "This was part of the ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "This was part of the ",
+          "href": null
+        },
+        {
+          "type": "mention",
+          "mention": {
+            "type": "page",
+            "page": {
+              "id": "20fdeabd-9164-8003-a005-c2c5da4ca05a"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Camino-ish",
+          "href": "https://www.notion.so/20fdeabd91648003a005c2c5da4ca05a"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " adventure - read the story in ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " adventure - read the story in ",
+          "href": null
+        },
+        {
+          "type": "mention",
+          "mention": {
+            "type": "page",
+            "page": {
+              "id": "232deabd-9164-80a4-8986-e0e4c027ea5d"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Haute Route - Chamonix to Zermatt",
+          "href": "https://www.notion.so/232deabd916480a48986e0e4c027ea5d"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

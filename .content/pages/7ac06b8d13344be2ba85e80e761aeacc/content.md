@@ -1,3 +1,0 @@
-Listening to [Rob Walker](https://robwalker.substack.com/)’s section on the Waking Up app titled [The Art of Noticing](https://dynamic.wakingup.com/pack/PKB005A); he suggested an exercise whereby one should write recollections of things that you paid attention to and deemed special. Things that normally pass you by, and could even be labelled as mundane or normal. 
-<empty-block/>
-It’s stuck with me for some time, and I’ve had (one of many) reminders continuously popping up and being snoozed until today. I aspire to keep this little section of the website going over time, even just with small little anecdotes or descriptions of things that I noticed while moving through life.

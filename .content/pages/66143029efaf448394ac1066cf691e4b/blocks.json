@@ -1,0 +1,1529 @@
+[
+  {
+    "object": "block",
+    "id": "14c8d4b5-0dd0-4603-8d43-d32eac738f18",
+    "parent": {
+      "type": "page_id",
+      "page_id": "66143029-efaf-4483-94ac-1066cf691e4b"
+    },
+    "created_time": "2022-01-20T05:13:00.000Z",
+    "last_edited_time": "2022-01-20T06:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_1",
+    "heading_1": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "About",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "About",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "yellow_background"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "982aef8f-e1be-4eca-8088-da2401cc9cd6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "66143029-efaf-4483-94ac-1066cf691e4b"
+    },
+    "created_time": "2022-01-20T05:15:00.000Z",
+    "last_edited_time": "2022-01-20T06:11:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "There have been some interesting conversations over the past few years. They were philosophical and curious, yet directed and focused. These conversations have mostly been one on ones. And during a particularly beautiful sunset in Noordhoek, Julian and Leo decided that it would be interesting to try a similar format with a group of people.\n\nWe tried to define what was different about these conversations when compared to the other chit chat that happens throughout life. It was hard to pin down, but we think that it is:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "There have been some interesting conversations over the past few years. They were philosophical and curious, yet directed and focused. These conversations have mostly been one on ones. And during a particularly beautiful sunset in Noordhoek, Julian and Leo decided that it would be interesting to try a similar format with a group of people.\n\nWe tried to define what was different about these conversations when compared to the other chit chat that happens throughout life. It was hard to pin down, but we think that it is:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "541faea2-49f5-453d-83e0-0f89dbc449e5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "66143029-efaf-4483-94ac-1066cf691e4b"
+    },
+    "created_time": "2022-12-28T12:12:00.000Z",
+    "last_edited_time": "2022-12-28T12:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "bc5f9a75-d0e6-4044-9b7d-b91a21d88c9d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "66143029-efaf-4483-94ac-1066cf691e4b"
+    },
+    "created_time": "2022-01-20T05:25:00.000Z",
+    "last_edited_time": "2022-12-28T12:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "A conversation that has pauses in it. Not because there is nothing to say, but because everyone is deeply thinking about what was just said. A conversation where where changing your mind is something to celebrate.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "A conversation that has pauses in it. Not because there is nothing to say, but because everyone is deeply thinking about what was just said. A conversation where where changing your mind is something to celebrate.",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "emoji",
+        "emoji": "💬"
+      },
+      "color": "pink_background"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "bd50db42-698d-4d8d-9163-e10afc41766e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "66143029-efaf-4483-94ac-1066cf691e4b"
+    },
+    "created_time": "2022-01-20T05:29:00.000Z",
+    "last_edited_time": "2022-01-20T05:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "column_list",
+    "column_list": {},
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "a5f9fd3a-f190-4e08-b8c7-5ba31a5bfd07",
+        "parent": {
+          "type": "block_id",
+          "block_id": "bd50db42-698d-4d8d-9163-e10afc41766e"
+        },
+        "created_time": "2022-01-20T05:29:00.000Z",
+        "last_edited_time": "2022-01-20T05:30:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "df5d26af-1961-49b1-8302-b16420e901e5",
+            "parent": {
+              "type": "block_id",
+              "block_id": "a5f9fd3a-f190-4e08-b8c7-5ba31a5bfd07"
+            },
+            "created_time": "2022-01-20T05:21:00.000Z",
+            "last_edited_time": "2022-01-20T06:12:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "heading_1",
+            "heading_1": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "What it is",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "What it is",
+                  "href": null
+                }
+              ],
+              "is_toggleable": false,
+              "color": "green_background"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "6d18e052-8509-4513-af9f-51a81f828256",
+            "parent": {
+              "type": "block_id",
+              "block_id": "a5f9fd3a-f190-4e08-b8c7-5ba31a5bfd07"
+            },
+            "created_time": "2022-01-20T05:29:00.000Z",
+            "last_edited_time": "2022-01-20T05:29:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "divider",
+            "divider": {},
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "7d811e7a-6414-440b-a4fe-16608437175c",
+            "parent": {
+              "type": "block_id",
+              "block_id": "a5f9fd3a-f190-4e08-b8c7-5ba31a5bfd07"
+            },
+            "created_time": "2022-01-20T05:22:00.000Z",
+            "last_edited_time": "2022-01-20T05:29:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Simply a dinner with a conversation topic. Everyone will be informed to what the topic is before, and they will have time to think about it or do some research. ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Simply a dinner with a conversation topic. Everyone will be informed to what the topic is before, and they will have time to think about it or do some research. ",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          }
+        ]
+      },
+      {
+        "object": "block",
+        "id": "0fcad60b-13b0-4eab-9482-3cb508eb3895",
+        "parent": {
+          "type": "block_id",
+          "block_id": "bd50db42-698d-4d8d-9163-e10afc41766e"
+        },
+        "created_time": "2022-01-20T05:29:00.000Z",
+        "last_edited_time": "2022-01-20T05:30:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "9a185d1f-7b96-4415-a1e7-229d1a57d874",
+            "parent": {
+              "type": "block_id",
+              "block_id": "0fcad60b-13b0-4eab-9482-3cb508eb3895"
+            },
+            "created_time": "2022-01-20T05:27:00.000Z",
+            "last_edited_time": "2022-01-20T06:12:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "heading_1",
+            "heading_1": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "How it works",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "How it works",
+                  "href": null
+                }
+              ],
+              "is_toggleable": false,
+              "color": "blue_background"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "25c3da2c-502e-4fb6-9e4d-ae16e7ec2897",
+            "parent": {
+              "type": "block_id",
+              "block_id": "0fcad60b-13b0-4eab-9482-3cb508eb3895"
+            },
+            "created_time": "2022-01-20T05:30:00.000Z",
+            "last_edited_time": "2022-01-20T05:30:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "divider",
+            "divider": {},
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "bef54d9f-9762-41aa-9876-b223baccc461",
+            "parent": {
+              "type": "block_id",
+              "block_id": "0fcad60b-13b0-4eab-9482-3cb508eb3895"
+            },
+            "created_time": "2022-01-20T05:28:00.000Z",
+            "last_edited_time": "2022-01-20T05:29:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "numbered_list_item",
+            "numbered_list_item": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "A host’s house and date is selected for the dinner.",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "A host’s house and date is selected for the dinner.",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "364430bd-4e4f-4b01-8a41-57568abe8f2a",
+            "parent": {
+              "type": "block_id",
+              "block_id": "0fcad60b-13b0-4eab-9482-3cb508eb3895"
+            },
+            "created_time": "2022-01-20T05:28:00.000Z",
+            "last_edited_time": "2022-01-20T05:29:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "numbered_list_item",
+            "numbered_list_item": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "The host chooses the topic.",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "The host chooses the topic.",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "02034a7d-9cf7-452b-82d7-1923ed066e6f",
+            "parent": {
+              "type": "block_id",
+              "block_id": "0fcad60b-13b0-4eab-9482-3cb508eb3895"
+            },
+            "created_time": "2022-01-20T05:28:00.000Z",
+            "last_edited_time": "2022-01-20T05:29:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "numbered_list_item",
+            "numbered_list_item": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "An email is sent out with the date, location and topic.",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "An email is sent out with the date, location and topic.",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "e55c5292-f4ae-4f59-b0f7-67543211a4b7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "66143029-efaf-4483-94ac-1066cf691e4b"
+    },
+    "created_time": "2022-01-20T05:33:00.000Z",
+    "last_edited_time": "2022-01-20T05:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "column_list",
+    "column_list": {},
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "c1b28a87-b74b-4020-beb1-b4bfad47f871",
+        "parent": {
+          "type": "block_id",
+          "block_id": "e55c5292-f4ae-4f59-b0f7-67543211a4b7"
+        },
+        "created_time": "2022-01-20T05:33:00.000Z",
+        "last_edited_time": "2022-12-28T12:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "5325b010-f1df-4c8e-a3f0-998e46eb99ae",
+            "parent": {
+              "type": "block_id",
+              "block_id": "c1b28a87-b74b-4020-beb1-b4bfad47f871"
+            },
+            "created_time": "2022-01-20T05:16:00.000Z",
+            "last_edited_time": "2022-01-20T06:12:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "heading_1",
+            "heading_1": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Manifesto",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Manifesto",
+                  "href": null
+                }
+              ],
+              "is_toggleable": false,
+              "color": "purple_background"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "29abb590-e223-429e-83e1-93aa7582f1b3",
+            "parent": {
+              "type": "block_id",
+              "block_id": "c1b28a87-b74b-4020-beb1-b4bfad47f871"
+            },
+            "created_time": "2022-01-20T05:33:00.000Z",
+            "last_edited_time": "2022-01-20T05:33:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "divider",
+            "divider": {},
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "29779766-bb2c-4eb2-9e32-c6473f19567e",
+            "parent": {
+              "type": "block_id",
+              "block_id": "c1b28a87-b74b-4020-beb1-b4bfad47f871"
+            },
+            "created_time": "2022-01-20T05:24:00.000Z",
+            "last_edited_time": "2022-01-20T05:34:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "numbered_list_item",
+            "numbered_list_item": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Prioritise listening over speaking.",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Prioritise listening over speaking.",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "7731a878-5990-447f-a8fd-d06d5f9eac75",
+            "parent": {
+              "type": "block_id",
+              "block_id": "c1b28a87-b74b-4020-beb1-b4bfad47f871"
+            },
+            "created_time": "2022-01-20T05:26:00.000Z",
+            "last_edited_time": "2022-12-28T12:13:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "numbered_list_item",
+            "numbered_list_item": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Having your mind changed is something to celebrate.",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Having your mind changed is something to celebrate.",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "f2885283-7ff0-4175-af93-9fdd0050af2b",
+            "parent": {
+              "type": "block_id",
+              "block_id": "c1b28a87-b74b-4020-beb1-b4bfad47f871"
+            },
+            "created_time": "2022-12-28T12:13:00.000Z",
+            "last_edited_time": "2022-12-28T12:13:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "numbered_list_item",
+            "numbered_list_item": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Debate over argument.",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Debate over argument.",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          }
+        ]
+      },
+      {
+        "object": "block",
+        "id": "a7b6f072-4fd3-4eb3-91a0-ceac8e327d9f",
+        "parent": {
+          "type": "block_id",
+          "block_id": "e55c5292-f4ae-4f59-b0f7-67543211a4b7"
+        },
+        "created_time": "2022-01-20T05:33:00.000Z",
+        "last_edited_time": "2022-11-24T08:22:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "e28ad029-4841-4b88-960c-d347d071048c",
+            "parent": {
+              "type": "block_id",
+              "block_id": "a7b6f072-4fd3-4eb3-91a0-ceac8e327d9f"
+            },
+            "created_time": "2022-01-20T05:34:00.000Z",
+            "last_edited_time": "2022-01-20T06:12:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "heading_1",
+            "heading_1": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Guidelines",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Guidelines",
+                  "href": null
+                }
+              ],
+              "is_toggleable": false,
+              "color": "pink_background"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "75cc161e-2d82-4856-854b-30381a8ef873",
+            "parent": {
+              "type": "block_id",
+              "block_id": "a7b6f072-4fd3-4eb3-91a0-ceac8e327d9f"
+            },
+            "created_time": "2022-01-20T05:34:00.000Z",
+            "last_edited_time": "2022-01-20T05:34:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "divider",
+            "divider": {},
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "73e88c26-f8f0-4832-a6f9-a7d2008a7f9b",
+            "parent": {
+              "type": "block_id",
+              "block_id": "a7b6f072-4fd3-4eb3-91a0-ceac8e327d9f"
+            },
+            "created_time": "2022-01-20T05:34:00.000Z",
+            "last_edited_time": "2022-01-21T06:55:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "numbered_list_item",
+            "numbered_list_item": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Respect the speaker.",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Respect the speaker.",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "1bfa83fc-c4cb-49e0-a39c-20292de0a8e2",
+            "parent": {
+              "type": "block_id",
+              "block_id": "a7b6f072-4fd3-4eb3-91a0-ceac8e327d9f"
+            },
+            "created_time": "2022-01-20T05:35:00.000Z",
+            "last_edited_time": "2022-01-20T05:35:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "numbered_list_item",
+            "numbered_list_item": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Allow the conversation to go ebb and flow, but if the conversation strays far from the topic; bring it back.",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Allow the conversation to go ebb and flow, but if the conversation strays far from the topic; bring it back.",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "7297f090-eea1-468f-8c25-44a3348b9419",
+            "parent": {
+              "type": "block_id",
+              "block_id": "a7b6f072-4fd3-4eb3-91a0-ceac8e327d9f"
+            },
+            "created_time": "2022-11-24T08:22:00.000Z",
+            "last_edited_time": "2023-07-02T19:54:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "numbered_list_item",
+            "numbered_list_item": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "If your mind is changed - celebrate the fact. ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "If your mind is changed - celebrate the fact. ",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "10798234-0ab0-4f69-b272-80f2b6ce0caa",
+    "parent": {
+      "type": "page_id",
+      "page_id": "66143029-efaf-4483-94ac-1066cf691e4b"
+    },
+    "created_time": "2022-01-20T06:10:00.000Z",
+    "last_edited_time": "2022-01-20T06:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7ddcd57a-a22f-49a0-b57f-3348ac600b83",
+    "parent": {
+      "type": "page_id",
+      "page_id": "66143029-efaf-4483-94ac-1066cf691e4b"
+    },
+    "created_time": "2022-01-20T05:34:00.000Z",
+    "last_edited_time": "2022-11-24T08:22:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_1",
+    "heading_1": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Administration ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Administration ",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "red_background"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a831fb85-f436-44e0-ab72-2abdd7edf3cb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "66143029-efaf-4483-94ac-1066cf691e4b"
+    },
+    "created_time": "2022-01-20T06:10:00.000Z",
+    "last_edited_time": "2022-01-20T06:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Toggle the drop down sections below to propose topics or sign up.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Toggle the drop down sections below to propose topics or sign up.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "dbdf8d15-1482-4978-a2bc-fbe07d2a2d55",
+    "parent": {
+      "type": "page_id",
+      "page_id": "66143029-efaf-4483-94ac-1066cf691e4b"
+    },
+    "created_time": "2022-01-20T05:30:00.000Z",
+    "last_edited_time": "2022-01-20T06:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "toggle",
+    "toggle": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Schedule",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Schedule",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "ac18dc29-8838-439f-aa56-f854ac10fb1d",
+        "parent": {
+          "type": "block_id",
+          "block_id": "dbdf8d15-1482-4978-a2bc-fbe07d2a2d55"
+        },
+        "created_time": "2022-01-20T05:31:00.000Z",
+        "last_edited_time": "2022-12-28T12:14:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "child_database",
+        "child_database": {
+          "title": "Dinners and topics"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "0c0fb694-8d0e-4302-89dc-1b269f240d09",
+        "parent": {
+          "type": "block_id",
+          "block_id": "dbdf8d15-1482-4978-a2bc-fbe07d2a2d55"
+        },
+        "created_time": "2022-01-20T06:00:00.000Z",
+        "last_edited_time": "2022-01-20T06:14:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Propose a future topic",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Propose a future topic",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "47ab6511-e66e-47b2-b7b1-c87ad647c927",
+        "parent": {
+          "type": "block_id",
+          "block_id": "dbdf8d15-1482-4978-a2bc-fbe07d2a2d55"
+        },
+        "created_time": "2022-01-20T06:09:00.000Z",
+        "last_edited_time": "2022-01-20T06:09:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "embed",
+        "embed": {
+          "caption": [],
+          "url": "https://chilipepper.io/form/insane-darkbrown-serranos-b354f7ff-26ae-4acc-b056-66deaa78e431"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "9b4791cf-d3ef-42a2-9bd8-0874bfec7ba7",
+        "parent": {
+          "type": "block_id",
+          "block_id": "dbdf8d15-1482-4978-a2bc-fbe07d2a2d55"
+        },
+        "created_time": "2022-01-20T06:00:00.000Z",
+        "last_edited_time": "2022-01-20T06:09:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "child_database",
+        "child_database": {
+          "title": "Future topics"
+        },
+        "archived": false
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "33240d2e-4754-40c6-b6a6-929c22069ce0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "66143029-efaf-4483-94ac-1066cf691e4b"
+    },
+    "created_time": "2022-01-20T05:42:00.000Z",
+    "last_edited_time": "2022-01-20T06:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "toggle",
+    "toggle": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "People",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "People",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "c6c86f13-cc5e-4a48-93f9-a2c1d0683eab",
+        "parent": {
+          "type": "block_id",
+          "block_id": "33240d2e-4754-40c6-b6a6-929c22069ce0"
+        },
+        "created_time": "2022-01-20T05:43:00.000Z",
+        "last_edited_time": "2022-01-20T06:09:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Sign up",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Sign up",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "c88efe3d-73e5-46cf-b607-8b635e96cf4e",
+        "parent": {
+          "type": "block_id",
+          "block_id": "33240d2e-4754-40c6-b6a6-929c22069ce0"
+        },
+        "created_time": "2022-01-20T05:44:00.000Z",
+        "last_edited_time": "2022-01-20T06:09:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Anyone is welcome. Sign up with the form below:",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Anyone is welcome. Sign up with the form below:",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "8b7e481c-bfcf-4d7e-99f3-ed82a7c425e9",
+        "parent": {
+          "type": "block_id",
+          "block_id": "33240d2e-4754-40c6-b6a6-929c22069ce0"
+        },
+        "created_time": "2022-01-20T05:55:00.000Z",
+        "last_edited_time": "2022-01-20T06:09:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "embed",
+        "embed": {
+          "caption": [],
+          "url": "https://chilipepper.io/form/xhot-yellowgreen-shishito-a7a33511-fab5-4ffe-9b33-aaeacb04952d"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "02be7503-8f49-43f8-86ca-d88bbc3bdeb9",
+        "parent": {
+          "type": "block_id",
+          "block_id": "33240d2e-4754-40c6-b6a6-929c22069ce0"
+        },
+        "created_time": "2022-01-20T05:36:00.000Z",
+        "last_edited_time": "2022-12-28T12:14:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "child_database",
+        "child_database": {
+          "title": "Members"
+        },
+        "archived": false
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "8c50e210-2951-450a-8747-e86ea3d34018",
+    "parent": {
+      "type": "page_id",
+      "page_id": "66143029-efaf-4483-94ac-1066cf691e4b"
+    },
+    "created_time": "2022-01-20T05:37:00.000Z",
+    "last_edited_time": "2022-01-20T05:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

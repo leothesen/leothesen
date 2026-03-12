@@ -1,0 +1,1165 @@
+[
+  {
+    "object": "block",
+    "id": "e523eced-5c73-4743-96af-c4f5b9148516",
+    "parent": {
+      "type": "page_id",
+      "page_id": "d29c3314-9508-4de1-a75d-9a4c83ada78d"
+    },
+    "created_time": "2022-02-13T18:17:00.000Z",
+    "last_edited_time": "2022-02-13T18:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "column_list",
+    "column_list": {},
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "0a1cab40-61a8-471e-99b3-a46f780ea07e",
+        "parent": {
+          "type": "block_id",
+          "block_id": "e523eced-5c73-4743-96af-c4f5b9148516"
+        },
+        "created_time": "2022-02-13T18:17:00.000Z",
+        "last_edited_time": "2026-03-11T20:39:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "c00c1c8b-e7bf-4361-926b-5e62f232fd2a",
+            "parent": {
+              "type": "block_id",
+              "block_id": "0a1cab40-61a8-471e-99b3-a46f780ea07e"
+            },
+            "created_time": "2022-02-06T17:28:00.000Z",
+            "last_edited_time": "2026-03-11T20:39:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "heading_1",
+            "heading_1": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Spotify",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Spotify",
+                  "href": null
+                }
+              ],
+              "is_toggleable": false,
+              "color": "green_background"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "a67ab0b2-e617-4122-ac05-b3049b0cb925",
+            "parent": {
+              "type": "block_id",
+              "block_id": "0a1cab40-61a8-471e-99b3-a46f780ea07e"
+            },
+            "created_time": "2022-02-07T09:38:00.000Z",
+            "last_edited_time": "2026-03-11T20:39:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "S",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": true,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "S",
+                  "href": null
+                },
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "ongs",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": true,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "ongs",
+                  "href": null
+                },
+                {
+                  "type": "text",
+                  "text": {
+                    "content": ". Usually performed by humans and have singing in them. Things I listen to in the car.",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": ". Usually performed by humans and have singing in them. Things I listen to in the car.",
+                  "href": null
+                }
+              ],
+              "color": "green"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "44ca03fe-fe2b-4c98-a73a-569168b1d63b",
+            "parent": {
+              "type": "block_id",
+              "block_id": "0a1cab40-61a8-471e-99b3-a46f780ea07e"
+            },
+            "created_time": "2022-02-07T09:35:00.000Z",
+            "last_edited_time": "2023-10-11T15:24:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "This is a playlist of all songs that I’ve liked at one point or another:",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "This is a playlist of all songs that I’ve liked at one point or another:",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "542b848f-4d8b-4548-a9ea-5e8a617f9981",
+            "parent": {
+              "type": "block_id",
+              "block_id": "0a1cab40-61a8-471e-99b3-a46f780ea07e"
+            },
+            "created_time": "2022-02-06T17:31:00.000Z",
+            "last_edited_time": "2022-02-13T18:17:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "embed",
+            "embed": {
+              "caption": [],
+              "url": "https://open.spotify.com/playlist/5MiWhWTaFebuwQh7ZOn3EH?si=0f747288a536421e"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "d87d4126-74f9-4324-b1d1-1c516b20fc0a",
+            "parent": {
+              "type": "block_id",
+              "block_id": "0a1cab40-61a8-471e-99b3-a46f780ea07e"
+            },
+            "created_time": "2022-02-07T09:36:00.000Z",
+            "last_edited_time": "2023-10-11T15:24:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "6d8a799c-18b0-4660-9a61-efd371ef5cc8",
+            "parent": {
+              "type": "block_id",
+              "block_id": "0a1cab40-61a8-471e-99b3-a46f780ea07e"
+            },
+            "created_time": "2022-02-07T09:36:00.000Z",
+            "last_edited_time": "2023-10-11T15:24:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "An iconic work playlist:",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "An iconic work playlist:",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "fcc76746-e4a8-4073-967e-a4a7adfcbf19",
+            "parent": {
+              "type": "block_id",
+              "block_id": "0a1cab40-61a8-471e-99b3-a46f780ea07e"
+            },
+            "created_time": "2022-02-06T17:35:00.000Z",
+            "last_edited_time": "2022-02-13T18:17:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "embed",
+            "embed": {
+              "caption": [],
+              "url": "https://open.spotify.com/playlist/2xKWpMUac3HBrju8pSQGo0?si=6dfe86c1f52d4f36"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "4f5ad517-ddbe-4eb3-b305-9d3b5233e1d1",
+            "parent": {
+              "type": "block_id",
+              "block_id": "0a1cab40-61a8-471e-99b3-a46f780ea07e"
+            },
+            "created_time": "2022-02-07T09:36:00.000Z",
+            "last_edited_time": "2023-10-11T15:24:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "c8832c1e-b5ea-4305-8341-de764ea0519b",
+            "parent": {
+              "type": "block_id",
+              "block_id": "0a1cab40-61a8-471e-99b3-a46f780ea07e"
+            },
+            "created_time": "2022-02-07T09:36:00.000Z",
+            "last_edited_time": "2023-10-11T15:24:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Psychedelic rock, indie stuff, girls singing over guitar. All the good things:",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Psychedelic rock, indie stuff, girls singing over guitar. All the good things:",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "e8175376-794d-4cf1-ba4f-388ad12aee03",
+            "parent": {
+              "type": "block_id",
+              "block_id": "0a1cab40-61a8-471e-99b3-a46f780ea07e"
+            },
+            "created_time": "2022-02-06T17:33:00.000Z",
+            "last_edited_time": "2022-02-13T18:17:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "embed",
+            "embed": {
+              "caption": [],
+              "url": "https://open.spotify.com/playlist/7hvjJB6TQvMJRjdtTSNKio?si=f30e9a04310f4975"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "2af2e229-817d-4af0-a37c-9d834599fad1",
+            "parent": {
+              "type": "block_id",
+              "block_id": "0a1cab40-61a8-471e-99b3-a46f780ea07e"
+            },
+            "created_time": "2022-02-07T09:36:00.000Z",
+            "last_edited_time": "2023-10-11T15:24:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "474095f1-a58d-409f-b394-81cc90336af3",
+            "parent": {
+              "type": "block_id",
+              "block_id": "0a1cab40-61a8-471e-99b3-a46f780ea07e"
+            },
+            "created_time": "2022-02-07T09:36:00.000Z",
+            "last_edited_time": "2023-10-11T15:24:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Relaxed things:",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Relaxed things:",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "bd5c09b6-c31b-4b3b-842a-1f1dc245a260",
+            "parent": {
+              "type": "block_id",
+              "block_id": "0a1cab40-61a8-471e-99b3-a46f780ea07e"
+            },
+            "created_time": "2022-02-06T17:34:00.000Z",
+            "last_edited_time": "2022-02-13T18:17:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "embed",
+            "embed": {
+              "caption": [],
+              "url": "https://open.spotify.com/playlist/6lmM4GuNyDUIiWvil7ttIR?si=c2192ce50c9442f5"
+            },
+            "archived": false
+          }
+        ]
+      },
+      {
+        "object": "block",
+        "id": "6a86ddfc-1bbb-4583-bebf-22a6857fd0d6",
+        "parent": {
+          "type": "block_id",
+          "block_id": "e523eced-5c73-4743-96af-c4f5b9148516"
+        },
+        "created_time": "2022-02-13T18:17:00.000Z",
+        "last_edited_time": "2026-03-11T20:39:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "1dc230c3-114f-4946-82a3-51bcf6966404",
+            "parent": {
+              "type": "block_id",
+              "block_id": "6a86ddfc-1bbb-4583-bebf-22a6857fd0d6"
+            },
+            "created_time": "2022-02-06T17:36:00.000Z",
+            "last_edited_time": "2022-06-21T16:07:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "heading_1",
+            "heading_1": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Soundcloud",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Soundcloud",
+                  "href": null
+                }
+              ],
+              "is_toggleable": false,
+              "color": "orange_background"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "6ac7ff97-1ba8-44c8-85e5-dc51d4b4c33c",
+            "parent": {
+              "type": "block_id",
+              "block_id": "6a86ddfc-1bbb-4583-bebf-22a6857fd0d6"
+            },
+            "created_time": "2022-02-07T09:38:00.000Z",
+            "last_edited_time": "2022-02-13T18:24:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "S",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": true,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "S",
+                  "href": null
+                },
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "ets",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": true,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "ets",
+                  "href": null
+                },
+                {
+                  "type": "text",
+                  "text": {
+                    "content": ". Longer pieces, around an hour or two. Things I listen to at work.",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": ". Longer pieces, around an hour or two. Things I listen to at work.",
+                  "href": null
+                }
+              ],
+              "color": "orange"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "e669231a-d971-4991-928b-f9a5fc738b93",
+            "parent": {
+              "type": "block_id",
+              "block_id": "6a86ddfc-1bbb-4583-bebf-22a6857fd0d6"
+            },
+            "created_time": "2022-02-07T09:36:00.000Z",
+            "last_edited_time": "2023-10-11T15:24:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Softer things. Nice sounds. Relaxed:",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Softer things. Nice sounds. Relaxed:",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "6a4d1419-c412-4501-939d-bb1645192252",
+            "parent": {
+              "type": "block_id",
+              "block_id": "6a86ddfc-1bbb-4583-bebf-22a6857fd0d6"
+            },
+            "created_time": "2022-02-06T17:37:00.000Z",
+            "last_edited_time": "2022-02-13T18:17:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "embed",
+            "embed": {
+              "caption": [],
+              "url": "https://soundcloud.com/leo-thesen/sets/dings?si=60ac265508e749d2a6d11ef2e5606d21&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "a2d97bb6-60dd-4a14-848c-ccedbe98ac26",
+            "parent": {
+              "type": "block_id",
+              "block_id": "6a86ddfc-1bbb-4583-bebf-22a6857fd0d6"
+            },
+            "created_time": "2022-02-07T09:37:00.000Z",
+            "last_edited_time": "2023-10-11T15:24:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "a5aaabdd-ba4d-44f6-9b77-39eb30c16ab1",
+            "parent": {
+              "type": "block_id",
+              "block_id": "6a86ddfc-1bbb-4583-bebf-22a6857fd0d6"
+            },
+            "created_time": "2022-02-07T09:37:00.000Z",
+            "last_edited_time": "2023-10-11T15:24:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Think Hans Zimmer at Berghain:",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Think Hans Zimmer at Berghain:",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "08aa4689-1d8d-453e-829c-1f2836a0b4ff",
+            "parent": {
+              "type": "block_id",
+              "block_id": "6a86ddfc-1bbb-4583-bebf-22a6857fd0d6"
+            },
+            "created_time": "2022-02-06T17:37:00.000Z",
+            "last_edited_time": "2022-02-13T18:18:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "embed",
+            "embed": {
+              "caption": [],
+              "url": "https://soundcloud.com/leo-thesen/sets/womps?si=beda884418474c1bab8db5c5d9e8037a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "f25649a7-5afb-4b41-afa0-2a787c70f7bf",
+            "parent": {
+              "type": "block_id",
+              "block_id": "6a86ddfc-1bbb-4583-bebf-22a6857fd0d6"
+            },
+            "created_time": "2022-02-07T09:37:00.000Z",
+            "last_edited_time": "2023-10-11T15:24:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "76371839-b41d-4ff4-af2c-e45d559b37cd",
+            "parent": {
+              "type": "block_id",
+              "block_id": "6a86ddfc-1bbb-4583-bebf-22a6857fd0d6"
+            },
+            "created_time": "2022-02-07T09:37:00.000Z",
+            "last_edited_time": "2023-10-11T15:24:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Ambient:",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Ambient:",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "21efa88a-0052-4467-a9e0-629d2bf77d5e",
+            "parent": {
+              "type": "block_id",
+              "block_id": "6a86ddfc-1bbb-4583-bebf-22a6857fd0d6"
+            },
+            "created_time": "2022-02-06T17:40:00.000Z",
+            "last_edited_time": "2022-02-13T18:18:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "embed",
+            "embed": {
+              "caption": [],
+              "url": "https://soundcloud.com/leo-thesen/sets/synths?si=61f4dec95a9b416d832bd41a63151336&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "8175cebc-1ca4-469a-90e9-b8097b0776ad",
+            "parent": {
+              "type": "block_id",
+              "block_id": "6a86ddfc-1bbb-4583-bebf-22a6857fd0d6"
+            },
+            "created_time": "2022-02-07T09:37:00.000Z",
+            "last_edited_time": "2023-10-11T15:24:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "cbc18cad-2ba4-4a35-9c69-1d307ca2998d",
+            "parent": {
+              "type": "block_id",
+              "block_id": "6a86ddfc-1bbb-4583-bebf-22a6857fd0d6"
+            },
+            "created_time": "2022-02-07T09:37:00.000Z",
+            "last_edited_time": "2023-10-11T15:24:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Cute house:",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Cute house:",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "77aeda50-6849-4d0e-8d61-243ef8b94a8c",
+            "parent": {
+              "type": "block_id",
+              "block_id": "6a86ddfc-1bbb-4583-bebf-22a6857fd0d6"
+            },
+            "created_time": "2022-02-06T17:39:00.000Z",
+            "last_edited_time": "2022-02-13T18:18:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "embed",
+            "embed": {
+              "caption": [],
+              "url": "https://soundcloud.com/leo-thesen/sets/romanian-minimal?si=a3c0b362210042a1a0fcada68d0f6ae8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "bf223562-d768-4271-997c-bbd161be3997",
+            "parent": {
+              "type": "block_id",
+              "block_id": "6a86ddfc-1bbb-4583-bebf-22a6857fd0d6"
+            },
+            "created_time": "2023-10-11T15:08:00.000Z",
+            "last_edited_time": "2023-10-11T15:24:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "9c18bff6-c6e2-4a60-b896-0f2d71318336",
+            "parent": {
+              "type": "block_id",
+              "block_id": "6a86ddfc-1bbb-4583-bebf-22a6857fd0d6"
+            },
+            "created_time": "2023-10-11T15:08:00.000Z",
+            "last_edited_time": "2023-10-11T15:24:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Different house, smoother and more gentle (for the most part):",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Different house, smoother and more gentle (for the most part):",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "4b85ec3b-f3e6-404b-a04a-ac95c88dcf66",
+            "parent": {
+              "type": "block_id",
+              "block_id": "6a86ddfc-1bbb-4583-bebf-22a6857fd0d6"
+            },
+            "created_time": "2023-10-11T15:09:00.000Z",
+            "last_edited_time": "2023-10-11T15:09:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "embed",
+            "embed": {
+              "caption": [],
+              "url": "https://soundcloud.com/leo-thesen/sets/dream-house?si=b8aa8dd2f4f94945936f572d9319d9c0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+            },
+            "archived": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "a4710b14-decd-4bf7-b2df-475ace5d1239",
+    "parent": {
+      "type": "page_id",
+      "page_id": "d29c3314-9508-4de1-a75d-9a4c83ada78d"
+    },
+    "created_time": "2022-02-07T09:37:00.000Z",
+    "last_edited_time": "2022-02-07T09:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

@@ -1,0 +1,462 @@
+[
+  {
+    "object": "block",
+    "id": "24dbf116-d7d1-4882-95ba-bedf0705b9e4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9318fa1b-52af-4ef3-a66d-927f8478d050"
+    },
+    "created_time": "2024-01-04T15:18:00.000Z",
+    "last_edited_time": "2024-01-04T16:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The only certainty in a relationship with another human is that everything is going to change:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The only certainty in a relationship with another human is that everything is going to change:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c275c0ef-5718-4ecf-8c09-6f1d78b0da8a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9318fa1b-52af-4ef3-a66d-927f8478d050"
+    },
+    "created_time": "2024-01-04T15:18:00.000Z",
+    "last_edited_time": "2024-01-04T15:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Our personalities will change",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Our personalities will change",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6a10f671-90b1-4f3a-89c8-2bd6fcaccd95",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9318fa1b-52af-4ef3-a66d-927f8478d050"
+    },
+    "created_time": "2024-01-04T15:18:00.000Z",
+    "last_edited_time": "2024-01-04T15:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Our interests will change",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Our interests will change",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c23b10c8-f7c5-4c5c-987a-ef2cb4b15876",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9318fa1b-52af-4ef3-a66d-927f8478d050"
+    },
+    "created_time": "2024-01-04T15:18:00.000Z",
+    "last_edited_time": "2024-01-04T15:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Our physical appearance will change",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Our physical appearance will change",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "12459992-7200-4103-a763-8d1167d3d9d5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9318fa1b-52af-4ef3-a66d-927f8478d050"
+    },
+    "created_time": "2024-01-04T15:18:00.000Z",
+    "last_edited_time": "2024-01-04T15:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The world will change",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The world will change",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9cf28a58-d5c0-4813-8633-e75d4179cdc9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9318fa1b-52af-4ef3-a66d-927f8478d050"
+    },
+    "created_time": "2024-01-04T15:18:00.000Z",
+    "last_edited_time": "2024-01-04T15:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Societal norms will change",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Societal norms will change",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "35d71498-3c03-4ea1-9bdc-b911405eecde",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9318fa1b-52af-4ef3-a66d-927f8478d050"
+    },
+    "created_time": "2024-01-04T15:18:00.000Z",
+    "last_edited_time": "2024-01-04T15:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "08572648-cefc-441e-beb4-6fcd66bdd05f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9318fa1b-52af-4ef3-a66d-927f8478d050"
+    },
+    "created_time": "2024-01-04T15:18:00.000Z",
+    "last_edited_time": "2024-01-04T15:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "A partner is not someone who you find and try and lock in time, preserving their personality traits or youthful looks. A partner is someone who will accompany you through time on a journey where everything slowly changes until even the memory of who you both where when you met is different from the truth. I don’t mean to make it sound scary - nature is change, we are change, we will go through this change alone whether we like it or not; how beautiful to be able to do it with someone else. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "A partner is not someone who you find and try and lock in time, preserving their personality traits or youthful looks. A partner is someone who will accompany you through time on a journey where everything slowly changes until even the memory of who you both where when you met is different from the truth. I don’t mean to make it sound scary - nature is change, we are change, we will go through this change alone whether we like it or not; how beautiful to be able to do it with someone else. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "67e376e8-c833-4c0d-953f-9976b9af6a75",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9318fa1b-52af-4ef3-a66d-927f8478d050"
+    },
+    "created_time": "2024-01-04T15:18:00.000Z",
+    "last_edited_time": "2024-01-04T15:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "03b35d74-f970-4ac8-a8d9-3be8998f544a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9318fa1b-52af-4ef3-a66d-927f8478d050"
+    },
+    "created_time": "2024-01-04T15:18:00.000Z",
+    "last_edited_time": "2024-01-04T15:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Change can incite fear. The antidote for fear is often clarity. Clarity, in a partnership, is brought about through communication. I’ve kind of landed on communication being the absolute cornerstone of a relationship. Not all communication has to be verbal and linguistic, yet if two people are able to clearly communicate thoughts, ideas, emotions, sensations, biases, fears and triumphs - then I think that they have what it takes to embark on the adventure that is the transience of life, together. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Change can incite fear. The antidote for fear is often clarity. Clarity, in a partnership, is brought about through communication. I’ve kind of landed on communication being the absolute cornerstone of a relationship. Not all communication has to be verbal and linguistic, yet if two people are able to clearly communicate thoughts, ideas, emotions, sensations, biases, fears and triumphs - then I think that they have what it takes to embark on the adventure that is the transience of life, together. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1f3e9ed2-beee-4094-93d0-756db87f1813",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9318fa1b-52af-4ef3-a66d-927f8478d050"
+    },
+    "created_time": "2024-01-04T16:00:00.000Z",
+    "last_edited_time": "2024-01-04T16:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f09dae7a-9091-4ff3-bc88-750785263a5b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9318fa1b-52af-4ef3-a66d-927f8478d050"
+    },
+    "created_time": "2024-01-04T16:00:00.000Z",
+    "last_edited_time": "2024-01-04T16:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/dc85ce00-d061-4d4c-af3c-79760a4a78da/IMG_0018.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466T72H6B6R%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T085113Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDxXEDKlJOzexe4iEeTMV6dOjP0MpNljYhwbWV2C9eBugIgDlFpoBydhLsNtTh93By9fIUMpwrxFCdfosbo9Yce%2BUUq%2FwMIchAAGgw2Mzc0MjMxODM4MDUiDJx1EoH2%2F%2FtVLw1IfyrcA1nEbAKhhO09uDUmfkAIiDpDOiJ0n6s7DrPh%2F%2B987uHlVQEllBXlYpSxiTCXDZ06Ubv0zBoXNTICCd5c6lNHSLWWaJ%2FxxqAFrpcdF0iJ13wk6ucewUFJRZaZc9wDDhzYMsmDFdkZLzaZsdfazlEFXlQvqg4%2F36FHrORMrX8%2BX7z0mhk5USZTlM843hblTRQoLMrAHa5BxZ5I5j5m4kRbLwkQNPxFhiZDzKEFHS6h7see2at0W2QMLkNNYTfToqrpEXn%2B9KXtK9XfNIMhBJe3xaICpha3hY5N%2FJeeoBLd1%2B9CfSvLAsicZQzG7LhD6ju4N6hwa3cWmkUy%2Bjd0GfeVPDcya8ZiFH5naVoGBH1K9gkxUOiTqGgWwWqG%2FL%2FtQtapaJIZlLq0nILsblm99V5M4QVRt6t%2FbP%2FyRYJgsgJfM0x5ds7w9U3L8nyiK8qTMXxJKeF1V0NJUTSH%2BTLaEowJAgZz6VtaHc6WRsVIaSx%2BJp2FLYCIUK0ISnqFKwQs6sEuVlGnFh2RQaxiOuCRlVYmLLNyVtWt5dkJ3v3ofPeHV9M25U7tcX5HlzwflJ2ukjcthIuKA1gjBTRwsH8l7T6IlIC4%2B7DpxX9xBAR%2BWovNHP8ywGUNvDTjskoCMekkMK%2F6yc0GOqUB0LnMmY2OF9oCeUBMkYR%2FWLs14pBjkU5%2BR5JjlC32h%2FwhAdAaJwZojBVf%2FyYXfPJVZdKB7ATdTUXFHrShbQ9X2zTEyMcEzVvKy3xpqAgQUfCO38ep30Rc%2FrDUKk9Rt7hmo6S1RpJ7gNUk1z%2BzAof3qYks6kXljSfX7GnBToyz5JxKmZV%2B8IqT97%2BczPxHdLE3CLdUcFgT6TuZtBnDsSttj9KbIbHv&X-Amz-Signature=5266163ef7fcbbd606560f7dcad32584e2973340d86c0ab25cbde7c1c1a5738d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:51:13.156Z"
+      }
+    },
+    "archived": false
+  }
+]

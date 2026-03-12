@@ -1,0 +1,986 @@
+[
+  {
+    "object": "block",
+    "id": "90f015cc-4ec7-490d-818b-fe92badff15c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b10dd4f1-e123-4957-bde6-11bbd6059133"
+    },
+    "created_time": "2022-07-29T08:08:00.000Z",
+    "last_edited_time": "2022-07-29T15:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The 7am yoga plan is not enough to get me out of bed this morning. I turn off all the alarms and just let the morning lie in dominate. At about 8am I find myself in the kitchen making breakfast. Jabs and his adorable son Zingi are on a similar mission. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The 7am yoga plan is not enough to get me out of bed this morning. I turn off all the alarms and just let the morning lie in dominate. At about 8am I find myself in the kitchen making breakfast. Jabs and his adorable son Zingi are on a similar mission. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c88f2840-6cb9-40c8-94e1-a9744649ba69",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b10dd4f1-e123-4957-bde6-11bbd6059133"
+    },
+    "created_time": "2022-07-29T15:51:00.000Z",
+    "last_edited_time": "2022-07-29T15:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/ea848fc0-abce-44e3-9d36-e1418077ab95/FDE3F05B-9570-4139-9F64-025465D79636.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4663CTV4V7V%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084759Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCNTpYFISc%2FOnnkfJ70Kd1jmKtGd8J6%2FSv7oJd4L%2BD3pgIhAPxXZ8qcz0cMI4WtnqLOn%2Fcc2SNgxH2Tidw8nLBV%2FWTeKv8DCHIQABoMNjM3NDIzMTgzODA1Igw1GSjQRTdR6ma5QUkq3APc3apZV4TM%2BxaeXwQzjh2psdiKtKyDo7BNzek8BLmwbhLLqB895u0CfctUEyiOds9BJV5cPy%2BnYGahYQY%2BjBt1sdTU1HKynqsrN1yixBDwG89wrUwG79Y3Okn7JDElbQ3G4MDFeSLUlMHyJIoxKZHruQ3O98BtOpn0QCsucvr2VRaibLxHBUibdvD9nipTRtNEOMfdw7fS26AlsVB4EhTjJ2xQA8OCMvO0XLCCnsgQGNKJfp5TYE4Lzr%2FGP%2F2jVOhCco07HwGmg1hoOIMd2UXPnLVarFO%2FHOafIaT6Emj4Uo1q%2B1Wy7Sz34MLER%2FepiALxH8QAWEq9%2BwLSFlJpU%2Fc3Cm4KiCW8q0YmHAeSkobf%2FnRdOMdnHmKTJnFsT8fAEWu%2Bq432L2CzoVF%2Fa8hEKNwz0Fi6BY9UzPu2PiIdp9W1pjqq%2BsUQnAZeTscBKzFJ0rWsb12u4Wz8Bsaw7CBqsMOWhC2sg7d2OKL3MVrDd%2FZVqkQt8gro%2BunR7rn%2BpEBNO8ZgfxDGPqQWxf9H5OCYALLz2vpn3ed3GTaNSHtgf2Ib52%2FUiVEP0PCrwTYKbHo2WLT4wOmoy2euePNwyCbSKxsIcMPzhsucM1cVuF3nsxxcWJwLfsExRZYDyfhPETCG%2BsnNBjqkAYIroAAZy%2BiGvAr4a7yYBnBtBMLprgqZldhhp9CoeQt7fIEEMQ6hiLr7hvJSf5KMMTJh9ZjxEU%2BuvqxrUBI3R%2FZ6tPrBFTiu1%2F33BEFflnk07%2F0aZTxrmWH7SkeOuwcR05a1u%2FlsBS0XJRu2ZCsamzjVyFxKUBnkS2%2FrHMgQ%2F1X4gH7JWKx%2FtKu%2FBli5v4CSsdbkMOAz5akDkanYVHriyni%2BJr1l&X-Amz-Signature=18744f8322ca766e1e13a8b6f4d9202041a7edc7065a17589377178ecbff0372&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:47:59.075Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9090c267-a72a-419b-a27f-a89557923a84",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b10dd4f1-e123-4957-bde6-11bbd6059133"
+    },
+    "created_time": "2022-07-29T15:12:00.000Z",
+    "last_edited_time": "2022-07-29T15:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Zingi is flying around the kitchen mumbling sweet nothings at us. He uses the salt shaker as an instrument and we chase him around the kitchen. When my oats is ready he designates himself as my personal feeder and slowly spoon feeds me my entire bowl of oats - it takes close on half an hour. Around the fifteen minute mark he decides that he too is hungry and starts feeding himself two spoons for each of my one. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Zingi is flying around the kitchen mumbling sweet nothings at us. He uses the salt shaker as an instrument and we chase him around the kitchen. When my oats is ready he designates himself as my personal feeder and slowly spoon feeds me my entire bowl of oats - it takes close on half an hour. Around the fifteen minute mark he decides that he too is hungry and starts feeding himself two spoons for each of my one. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a8deb2a8-000f-46c1-aea1-b5ced43ffa60",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b10dd4f1-e123-4957-bde6-11bbd6059133"
+    },
+    "created_time": "2022-07-29T15:15:00.000Z",
+    "last_edited_time": "2022-07-29T15:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3e6039aa-9540-44fb-aa26-b5bd8423865a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b10dd4f1-e123-4957-bde6-11bbd6059133"
+    },
+    "created_time": "2022-07-29T15:15:00.000Z",
+    "last_edited_time": "2022-08-03T08:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I’m on the beach with Doro and Bryan. It’s an immaculate day - dolphins in the bay, tiny waves, blue water and a windless, sunny sky. They do some surfing in the shallows and I laze around the sand attempting to read a book, but just getting distracted by interesting things around me: lifeguards training on the beach, dogs chasing seagulls and people walking through the hills.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I’m on the beach with Doro and Bryan. It’s an immaculate day - dolphins in the bay, tiny waves, blue water and a windless, sunny sky. They do some surfing in the shallows and I laze around the sand attempting to read a book, but just getting distracted by interesting things around me: lifeguards training on the beach, dogs chasing seagulls and people walking through the hills.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "251e0938-b3a3-43f8-9c9d-5c9aad21f4eb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b10dd4f1-e123-4957-bde6-11bbd6059133"
+    },
+    "created_time": "2022-07-29T15:17:00.000Z",
+    "last_edited_time": "2022-07-29T15:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3a9e0d9a-db82-4e77-a3de-9b5b2b526b6c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b10dd4f1-e123-4957-bde6-11bbd6059133"
+    },
+    "created_time": "2022-07-29T15:17:00.000Z",
+    "last_edited_time": "2022-07-29T15:34:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "A child comes up to me, he has a constant stream of spit dripping from his mouth; his bottom lip permanently curled forwards. He doesn’t respond to my welcoming Xhosa phrases. He gestures rather randomly and makes some voices that resemble a car driving. He has warm eyes and sits down next to me. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "A child comes up to me, he has a constant stream of spit dripping from his mouth; his bottom lip permanently curled forwards. He doesn’t respond to my welcoming Xhosa phrases. He gestures rather randomly and makes some voices that resemble a car driving. He has warm eyes and sits down next to me. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0ebf4f84-7082-4fc7-8fb7-8346c8b0b619",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b10dd4f1-e123-4957-bde6-11bbd6059133"
+    },
+    "created_time": "2022-07-30T07:27:00.000Z",
+    "last_edited_time": "2022-07-30T07:35:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Friends",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Friends",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/28b4f99f-ca2d-4572-940a-8ef7f2c8377d/9DFD47EE-D6A3-4DC2-810E-E9D66239FE2A.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4663CTV4V7V%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084759Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCNTpYFISc%2FOnnkfJ70Kd1jmKtGd8J6%2FSv7oJd4L%2BD3pgIhAPxXZ8qcz0cMI4WtnqLOn%2Fcc2SNgxH2Tidw8nLBV%2FWTeKv8DCHIQABoMNjM3NDIzMTgzODA1Igw1GSjQRTdR6ma5QUkq3APc3apZV4TM%2BxaeXwQzjh2psdiKtKyDo7BNzek8BLmwbhLLqB895u0CfctUEyiOds9BJV5cPy%2BnYGahYQY%2BjBt1sdTU1HKynqsrN1yixBDwG89wrUwG79Y3Okn7JDElbQ3G4MDFeSLUlMHyJIoxKZHruQ3O98BtOpn0QCsucvr2VRaibLxHBUibdvD9nipTRtNEOMfdw7fS26AlsVB4EhTjJ2xQA8OCMvO0XLCCnsgQGNKJfp5TYE4Lzr%2FGP%2F2jVOhCco07HwGmg1hoOIMd2UXPnLVarFO%2FHOafIaT6Emj4Uo1q%2B1Wy7Sz34MLER%2FepiALxH8QAWEq9%2BwLSFlJpU%2Fc3Cm4KiCW8q0YmHAeSkobf%2FnRdOMdnHmKTJnFsT8fAEWu%2Bq432L2CzoVF%2Fa8hEKNwz0Fi6BY9UzPu2PiIdp9W1pjqq%2BsUQnAZeTscBKzFJ0rWsb12u4Wz8Bsaw7CBqsMOWhC2sg7d2OKL3MVrDd%2FZVqkQt8gro%2BunR7rn%2BpEBNO8ZgfxDGPqQWxf9H5OCYALLz2vpn3ed3GTaNSHtgf2Ib52%2FUiVEP0PCrwTYKbHo2WLT4wOmoy2euePNwyCbSKxsIcMPzhsucM1cVuF3nsxxcWJwLfsExRZYDyfhPETCG%2BsnNBjqkAYIroAAZy%2BiGvAr4a7yYBnBtBMLprgqZldhhp9CoeQt7fIEEMQ6hiLr7hvJSf5KMMTJh9ZjxEU%2BuvqxrUBI3R%2FZ6tPrBFTiu1%2F33BEFflnk07%2F0aZTxrmWH7SkeOuwcR05a1u%2FlsBS0XJRu2ZCsamzjVyFxKUBnkS2%2FrHMgQ%2F1X4gH7JWKx%2FtKu%2FBli5v4CSsdbkMOAz5akDkanYVHriyni%2BJr1l&X-Amz-Signature=bb428dc1678310855c68a45048109f0199c489c9f3fa174e109373f0a80077e4&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:47:59.075Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "359b21db-17e2-48cd-aaf8-07f610926d3c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b10dd4f1-e123-4957-bde6-11bbd6059133"
+    },
+    "created_time": "2022-07-29T15:34:00.000Z",
+    "last_edited_time": "2022-07-29T15:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We attempt communication a few more times - without success, but not lacking passion. He does some pointing and makes a few grunts and I think he is asking me to go for a walk. Although he doesn’t pursue the thought. I cut a grapefruit and we share piece for piece He’s delighted when I give him the two halves to squeeze and drink. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We attempt communication a few more times - without success, but not lacking passion. He does some pointing and makes a few grunts and I think he is asking me to go for a walk. Although he doesn’t pursue the thought. I cut a grapefruit and we share piece for piece He’s delighted when I give him the two halves to squeeze and drink. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "cf04cf7e-54f9-4f12-b201-4d6e0fe35af9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b10dd4f1-e123-4957-bde6-11bbd6059133"
+    },
+    "created_time": "2022-07-29T15:38:00.000Z",
+    "last_edited_time": "2022-07-29T15:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ed1af9cb-7827-4086-9c2e-f0ecc01bed72",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b10dd4f1-e123-4957-bde6-11bbd6059133"
+    },
+    "created_time": "2022-07-29T15:38:00.000Z",
+    "last_edited_time": "2022-07-29T15:40:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I watch how his mind drifts from thought to thought and he passionately acts out intentions, without having any specific plan - so the actions quickly are abandoned. He drinks my flask dry with noises of pleasure. We hold each other’s space gently and he plays with sand contently. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I watch how his mind drifts from thought to thought and he passionately acts out intentions, without having any specific plan - so the actions quickly are abandoned. He drinks my flask dry with noises of pleasure. We hold each other’s space gently and he plays with sand contently. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "35b7d2ff-3083-47d7-addb-b9ab7741ccfd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b10dd4f1-e123-4957-bde6-11bbd6059133"
+    },
+    "created_time": "2022-07-29T15:40:00.000Z",
+    "last_edited_time": "2022-07-29T15:40:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "244accdc-0b48-4b76-b292-044b4e9f209f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b10dd4f1-e123-4957-bde6-11bbd6059133"
+    },
+    "created_time": "2022-07-29T15:40:00.000Z",
+    "last_edited_time": "2022-08-03T08:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Bryan and Dolo return and we all soak up the mid-Winter sun. We say goodbye to the child and head up to the backpackers again. I make a pretty delicious pasta using canned vegetables in curry sauce, a tomato and onion mix and the kotto kotto mix that I had leftover from Sri Lanka years ago. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Bryan and Dolo return and we all soak up the mid-Winter sun. We say goodbye to the child and head up to the backpackers again. I make a pretty delicious pasta using canned vegetables in curry sauce, a tomato and onion mix and the kotto kotto mix that I had leftover from Sri Lanka years ago. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0f782611-4ad0-47d4-9899-402b303b5356",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b10dd4f1-e123-4957-bde6-11bbd6059133"
+    },
+    "created_time": "2022-07-29T15:44:00.000Z",
+    "last_edited_time": "2022-07-29T15:44:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "dc181f75-4dba-46ff-9f33-bf6fa425843e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b10dd4f1-e123-4957-bde6-11bbd6059133"
+    },
+    "created_time": "2022-07-29T13:11:00.000Z",
+    "last_edited_time": "2022-07-30T07:35:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Went to check the surf and bumped into Isipileh who had come to get his bicycle fixed again. He weaves around me on the walk to the point like an excited dog; captured by little things here and there and is not deterred by the extra distance. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Went to check the surf and bumped into Isipileh who had come to get his bicycle fixed again. He weaves around me on the walk to the point like an excited dog; captured by little things here and there and is not deterred by the extra distance. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "268fff2f-40ae-4440-9a07-a2c8a57127ab",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b10dd4f1-e123-4957-bde6-11bbd6059133"
+    },
+    "created_time": "2022-07-30T07:27:00.000Z",
+    "last_edited_time": "2022-07-30T07:35:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Isipileh",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Isipileh",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/c551b201-a96a-475e-aa9a-0e3ec793cd45/D75E5095-2720-4CE9-AC12-A17EAF7C9C63.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4663CTV4V7V%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084759Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCNTpYFISc%2FOnnkfJ70Kd1jmKtGd8J6%2FSv7oJd4L%2BD3pgIhAPxXZ8qcz0cMI4WtnqLOn%2Fcc2SNgxH2Tidw8nLBV%2FWTeKv8DCHIQABoMNjM3NDIzMTgzODA1Igw1GSjQRTdR6ma5QUkq3APc3apZV4TM%2BxaeXwQzjh2psdiKtKyDo7BNzek8BLmwbhLLqB895u0CfctUEyiOds9BJV5cPy%2BnYGahYQY%2BjBt1sdTU1HKynqsrN1yixBDwG89wrUwG79Y3Okn7JDElbQ3G4MDFeSLUlMHyJIoxKZHruQ3O98BtOpn0QCsucvr2VRaibLxHBUibdvD9nipTRtNEOMfdw7fS26AlsVB4EhTjJ2xQA8OCMvO0XLCCnsgQGNKJfp5TYE4Lzr%2FGP%2F2jVOhCco07HwGmg1hoOIMd2UXPnLVarFO%2FHOafIaT6Emj4Uo1q%2B1Wy7Sz34MLER%2FepiALxH8QAWEq9%2BwLSFlJpU%2Fc3Cm4KiCW8q0YmHAeSkobf%2FnRdOMdnHmKTJnFsT8fAEWu%2Bq432L2CzoVF%2Fa8hEKNwz0Fi6BY9UzPu2PiIdp9W1pjqq%2BsUQnAZeTscBKzFJ0rWsb12u4Wz8Bsaw7CBqsMOWhC2sg7d2OKL3MVrDd%2FZVqkQt8gro%2BunR7rn%2BpEBNO8ZgfxDGPqQWxf9H5OCYALLz2vpn3ed3GTaNSHtgf2Ib52%2FUiVEP0PCrwTYKbHo2WLT4wOmoy2euePNwyCbSKxsIcMPzhsucM1cVuF3nsxxcWJwLfsExRZYDyfhPETCG%2BsnNBjqkAYIroAAZy%2BiGvAr4a7yYBnBtBMLprgqZldhhp9CoeQt7fIEEMQ6hiLr7hvJSf5KMMTJh9ZjxEU%2BuvqxrUBI3R%2FZ6tPrBFTiu1%2F33BEFflnk07%2F0aZTxrmWH7SkeOuwcR05a1u%2FlsBS0XJRu2ZCsamzjVyFxKUBnkS2%2FrHMgQ%2F1X4gH7JWKx%2FtKu%2FBli5v4CSsdbkMOAz5akDkanYVHriyni%2BJr1l&X-Amz-Signature=2d1b408d75683e3cadd298e65f6aeb45159ede0383084247871bbd469a679342&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:47:59.075Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "babfa0b5-39ec-4464-9df7-5dc68e8b9f31",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b10dd4f1-e123-4957-bde6-11bbd6059133"
+    },
+    "created_time": "2022-07-29T15:45:00.000Z",
+    "last_edited_time": "2022-07-29T15:48:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We sit on the point watching small waves wrap into the bay - not worth putting on a wetsuit though. Isipileh looks through the photos on my phone with wonder and sometimes confusion. We cruise back towards the backpackers and I notice that he isn’t using the gears on his bike correctly - often changing into lower gears on an uphill and having to get off and push. We flip the bike over and I explained with a demonstration how the gears work. I then set him off for a series of games involving hills and different gears and he quickly works out which gears are easier to ride up hills in. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We sit on the point watching small waves wrap into the bay - not worth putting on a wetsuit though. Isipileh looks through the photos on my phone with wonder and sometimes confusion. We cruise back towards the backpackers and I notice that he isn’t using the gears on his bike correctly - often changing into lower gears on an uphill and having to get off and push. We flip the bike over and I explained with a demonstration how the gears work. I then set him off for a series of games involving hills and different gears and he quickly works out which gears are easier to ride up hills in. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9da888f0-6e15-42a9-891d-bec3ee0c4cef",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b10dd4f1-e123-4957-bde6-11bbd6059133"
+    },
+    "created_time": "2022-07-29T15:48:00.000Z",
+    "last_edited_time": "2022-07-29T15:48:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "db5418bf-2ae6-481e-aec7-df99c3e42c6c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b10dd4f1-e123-4957-bde6-11bbd6059133"
+    },
+    "created_time": "2022-07-29T15:48:00.000Z",
+    "last_edited_time": "2022-07-29T15:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "There are some leftover Weetbix in the kitchen, I tentatively help myself to two. I borrow a little bit of milk from the fridge. I haven’t smelled milk in so long that I’m unable to pick up with a sniff the fact that it is closer to yogurt. I chow some peanut butter instead. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "There are some leftover Weetbix in the kitchen, I tentatively help myself to two. I borrow a little bit of milk from the fridge. I haven’t smelled milk in so long that I’m unable to pick up with a sniff the fact that it is closer to yogurt. I chow some peanut butter instead. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b7867104-d589-44da-acfa-3ceb1c585689",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b10dd4f1-e123-4957-bde6-11bbd6059133"
+    },
+    "created_time": "2022-07-29T15:49:00.000Z",
+    "last_edited_time": "2022-07-29T15:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "51a70626-46eb-4049-9159-8daedaa8d102",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b10dd4f1-e123-4957-bde6-11bbd6059133"
+    },
+    "created_time": "2022-07-29T15:49:00.000Z",
+    "last_edited_time": "2022-07-29T15:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "A nap turns into listing to the Doing Good podcast by Sam Harris and am pretty inspired. Donations to charity can be thought of as equivalent (to a degree) as helping “teach” the human race; by providing positive affirmation to the solutions to ethical issues in our society. Your money earned is your vote in steering the direction of our future. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "A nap turns into listing to the Doing Good podcast by Sam Harris and am pretty inspired. Donations to charity can be thought of as equivalent (to a degree) as helping “teach” the human race; by providing positive affirmation to the solutions to ethical issues in our society. Your money earned is your vote in steering the direction of our future. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7ca3a5df-3d5d-4e66-8f32-5cec6388a24a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b10dd4f1-e123-4957-bde6-11bbd6059133"
+    },
+    "created_time": "2022-07-29T15:50:00.000Z",
+    "last_edited_time": "2022-07-29T15:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1eaf1f85-6028-45d7-a884-091df7fb402f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b10dd4f1-e123-4957-bde6-11bbd6059133"
+    },
+    "created_time": "2022-07-29T15:50:00.000Z",
+    "last_edited_time": "2022-07-29T15:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Isipileh pops his head into my car twice and we have some chats. The weather is coming in and I dress out to go to Vukani for a pizza with some of the others.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Isipileh pops his head into my car twice and we have some chats. The weather is coming in and I dress out to go to Vukani for a pizza with some of the others.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5c184ac5-97fc-4547-bd1d-637cf4599fb5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b10dd4f1-e123-4957-bde6-11bbd6059133"
+    },
+    "created_time": "2022-07-29T14:41:00.000Z",
+    "last_edited_time": "2022-07-29T14:41:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "74a32b5b-d5e6-4511-9c8e-23100af8f818",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b10dd4f1-e123-4957-bde6-11bbd6059133"
+    },
+    "created_time": "2022-07-29T17:42:00.000Z",
+    "last_edited_time": "2022-07-30T07:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Comilo - an excited Brazilian - talks to me about the significance of being twenty eight. He says that it takes 27 years to for Saturn to reach the same point as it was in when you were born. Therefore when you turn 28 it’s time to reinvent yourself. His argument skirts the border between solid advice and fantasy, but I really engage in the conversation and it’s a lot of fun. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Comilo - an excited Brazilian - talks to me about the significance of being twenty eight. He says that it takes 27 years to for Saturn to reach the same point as it was in when you were born. Therefore when you turn 28 it’s time to reinvent yourself. His argument skirts the border between solid advice and fantasy, but I really engage in the conversation and it’s a lot of fun. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f94eed4b-a578-4210-a8cf-75d99aceccaa",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b10dd4f1-e123-4957-bde6-11bbd6059133"
+    },
+    "created_time": "2022-07-29T17:42:00.000Z",
+    "last_edited_time": "2022-07-29T17:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7f46b12f-1ad1-4aa5-b13a-67a5c35dcf59",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b10dd4f1-e123-4957-bde6-11bbd6059133"
+    },
+    "created_time": "2022-07-29T14:41:00.000Z",
+    "last_edited_time": "2022-07-29T17:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

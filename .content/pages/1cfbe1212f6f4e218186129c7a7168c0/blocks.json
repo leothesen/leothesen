@@ -1,0 +1,324 @@
+[
+  {
+    "object": "block",
+    "id": "86e23ed4-b28e-4e34-b99e-a542370d1b5c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1cfbe121-2f6f-4e21-8186-129c7a7168c0"
+    },
+    "created_time": "2024-05-20T06:04:00.000Z",
+    "last_edited_time": "2024-05-20T06:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "It’s hot. Jet lag is present. We take the morning slow. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "It’s hot. Jet lag is present. We take the morning slow. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a7ac5b3b-a407-47e2-8996-047209ec3f97",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1cfbe121-2f6f-4e21-8186-129c7a7168c0"
+    },
+    "created_time": "2024-05-20T07:40:00.000Z",
+    "last_edited_time": "2024-05-20T07:41:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/033cdc40-f610-48a9-8a33-755375382aec/IMG_7423.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4662TFM24CT%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084857Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDuwhLgaZ7NhfLHmgD7zhd4ikK6EGK6NdXrufIJhZtIKQIhAL%2F%2FuZd3dHXxRXt7zVx7Ny39FQbP9q9ktp8Y14LESt9oKv8DCHIQABoMNjM3NDIzMTgzODA1Igwo4IxdgCVMMdPZDP0q3AP3jKCmuN0TglaPQJR%2BRiM7zWmTdtw0Q%2Bl8ZV5IuCSIO7fmOhg8e6jfq9vQt1AItxYK3EFdSAzJqDJFVU48Szsf0lE2%2B%2BNsnuWblgxm9CAwzBbB5%2FXDA7ocWDZAO7nG1PRlOx68%2BoSttu5hieOjBo4bLliOX9fMF%2FpDxoPY0CYbvfz1F8NfCvo95Q0ULtSHGkSSmrHBLARxstArf5j%2F28snMEFsYJzqcZGR3nJ15mFeBkP4p9sw51cKvpCM4xcz1Ieo4kY4wcdeZbQTWYhS1tAc2w4oyPBEXbuDtAQf35B6CMk9sYXTezw6pG2Aku%2FDEgiTUKWi4mSZFOcrEa0KbuJc0timHodCIZ%2B1%2BoAHh%2B8PuD1BV38l09UtkK6HtfachdmXBEddQbgBpb9RStTmVDG9%2BX4uHY93c6FpRUoj12aG02g4V3zP5qBc3aCVkGWJsI%2BMvcmdsVIjD9VmNMXJEl%2BpwIIiQjfdkGDNkx5WGOavkeyvMHYomkPLO0SDdxbPT2ONiLQaKqifdzxJ%2FXqO9WZHz%2F0c09x6hfuh6bBIyJpCAZAKVwBVC0l4YwBdOpRYwvO7cb5Auz5WBzSf08DhNpiN%2FD7929SQIDqfz9p2XRqJNYm%2BAswo5qNUQhyp6TDu%2BcnNBjqkAcWWZL6MkIEHWAxfAuUJX4kErJ1PYeDoL5YBtYGnUvcgLyiFE4ne6xUtZx1U%2Bjhj2cAT62fNisqKr%2Fn6P%2B6DfZ2rrpHFOBQgYm0In%2FDH60YNhp6bUZkS0PRwBoYimjE%2B%2FI5qMMKQJJsmZAGNfTOXJqifYg0tDhkl%2BzAYMQIRMJvi0Ik8tY86q%2BUa77IyfyxZKO2WnjQn%2FyB4eoBM%2B0bOxitlK0PZ&X-Amz-Signature=dac03b8497efcdadd36479ee0e3b01496f2f91f1cdeef2874da548822d8b5189&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:48:57.743Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4a0ecdd0-1af8-4edd-aa0b-c6f21be14f6d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1cfbe121-2f6f-4e21-8186-129c7a7168c0"
+    },
+    "created_time": "2024-05-20T06:05:00.000Z",
+    "last_edited_time": "2024-05-20T06:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4488a0fd-59a1-4e70-8fbc-bd3463c98d88",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1cfbe121-2f6f-4e21-8186-129c7a7168c0"
+    },
+    "created_time": "2024-05-20T06:05:00.000Z",
+    "last_edited_time": "2024-05-20T06:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "embed",
+    "embed": {
+      "caption": [],
+      "url": ""
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1330aa40-be44-44ec-a838-62be815329ae",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1cfbe121-2f6f-4e21-8186-129c7a7168c0"
+    },
+    "created_time": "2024-05-20T06:05:00.000Z",
+    "last_edited_time": "2024-05-20T06:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c5e7f46a-09cd-41ee-8d6b-af29633f86db",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1cfbe121-2f6f-4e21-8186-129c7a7168c0"
+    },
+    "created_time": "2024-05-20T06:05:00.000Z",
+    "last_edited_time": "2024-05-20T07:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Nasi goreng for lunch is imperative. Along with very sweet Milo coffee. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Nasi goreng for lunch is imperative. Along with very sweet Milo coffee. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "be5c9fcf-a2df-45ca-99d2-58d945a7a765",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1cfbe121-2f6f-4e21-8186-129c7a7168c0"
+    },
+    "created_time": "2024-05-20T07:42:00.000Z",
+    "last_edited_time": "2024-05-20T07:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "faf320f6-cfaf-405c-b3a7-c478b83b551b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1cfbe121-2f6f-4e21-8186-129c7a7168c0"
+    },
+    "created_time": "2024-05-20T07:42:00.000Z",
+    "last_edited_time": "2024-05-20T07:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Haris comes to take us to get SIM cards. It’s an elaborate process these days with a long queue. Bless Niklas as he got our tickets for us. We arrived to a Nik who has been traveling for close to 48 hours and wants nothing more than to arrive at the hostel. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Haris comes to take us to get SIM cards. It’s an elaborate process these days with a long queue. Bless Niklas as he got our tickets for us. We arrived to a Nik who has been traveling for close to 48 hours and wants nothing more than to arrive at the hostel. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1438e82f-fb11-4356-b3d6-e6722a515d0f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1cfbe121-2f6f-4e21-8186-129c7a7168c0"
+    },
+    "created_time": "2024-05-20T07:40:00.000Z",
+    "last_edited_time": "2024-05-20T07:41:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/b41d472b-a7d4-4b33-ae87-9c0b21522345/IMG_7428.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4662TFM24CT%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084857Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDuwhLgaZ7NhfLHmgD7zhd4ikK6EGK6NdXrufIJhZtIKQIhAL%2F%2FuZd3dHXxRXt7zVx7Ny39FQbP9q9ktp8Y14LESt9oKv8DCHIQABoMNjM3NDIzMTgzODA1Igwo4IxdgCVMMdPZDP0q3AP3jKCmuN0TglaPQJR%2BRiM7zWmTdtw0Q%2Bl8ZV5IuCSIO7fmOhg8e6jfq9vQt1AItxYK3EFdSAzJqDJFVU48Szsf0lE2%2B%2BNsnuWblgxm9CAwzBbB5%2FXDA7ocWDZAO7nG1PRlOx68%2BoSttu5hieOjBo4bLliOX9fMF%2FpDxoPY0CYbvfz1F8NfCvo95Q0ULtSHGkSSmrHBLARxstArf5j%2F28snMEFsYJzqcZGR3nJ15mFeBkP4p9sw51cKvpCM4xcz1Ieo4kY4wcdeZbQTWYhS1tAc2w4oyPBEXbuDtAQf35B6CMk9sYXTezw6pG2Aku%2FDEgiTUKWi4mSZFOcrEa0KbuJc0timHodCIZ%2B1%2BoAHh%2B8PuD1BV38l09UtkK6HtfachdmXBEddQbgBpb9RStTmVDG9%2BX4uHY93c6FpRUoj12aG02g4V3zP5qBc3aCVkGWJsI%2BMvcmdsVIjD9VmNMXJEl%2BpwIIiQjfdkGDNkx5WGOavkeyvMHYomkPLO0SDdxbPT2ONiLQaKqifdzxJ%2FXqO9WZHz%2F0c09x6hfuh6bBIyJpCAZAKVwBVC0l4YwBdOpRYwvO7cb5Auz5WBzSf08DhNpiN%2FD7929SQIDqfz9p2XRqJNYm%2BAswo5qNUQhyp6TDu%2BcnNBjqkAcWWZL6MkIEHWAxfAuUJX4kErJ1PYeDoL5YBtYGnUvcgLyiFE4ne6xUtZx1U%2Bjhj2cAT62fNisqKr%2Fn6P%2B6DfZ2rrpHFOBQgYm0In%2FDH60YNhp6bUZkS0PRwBoYimjE%2B%2FI5qMMKQJJsmZAGNfTOXJqifYg0tDhkl%2BzAYMQIRMJvi0Ik8tY86q%2BUa77IyfyxZKO2WnjQn%2FyB4eoBM%2B0bOxitlK0PZ&X-Amz-Signature=ff7c329eafe9deeff65dbdda709df13a2354576583d38ad5ecab5c2c5c13f223&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:48:57.743Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0dfb92ec-2d19-482e-99bf-46b8a16f1030",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1cfbe121-2f6f-4e21-8186-129c7a7168c0"
+    },
+    "created_time": "2024-05-20T07:42:00.000Z",
+    "last_edited_time": "2024-05-20T07:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

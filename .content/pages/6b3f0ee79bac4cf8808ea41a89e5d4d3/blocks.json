@@ -1,0 +1,1274 @@
+[
+  {
+    "object": "block",
+    "id": "f6f1e650-8bcd-4e9a-bf37-40f7100a4479",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6b3f0ee7-9bac-4cf8-808e-a41a89e5d4d3"
+    },
+    "created_time": "2022-08-15T11:53:00.000Z",
+    "last_edited_time": "2022-08-16T09:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "It’s hard to wake up this morning. I slowly get out of bed and find that the power is off. After a bowl of oats - which again I make too much of - me and Jordan head over to her favourite ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "It’s hard to wake up this morning. I slowly get out of bed and find that the power is off. After a bowl of oats - which again I make too much of - me and Jordan head over to her favourite ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "coffee shop",
+            "link": {
+              "url": "https://niceon4th.co.za/"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "coffee shop",
+          "href": "https://niceon4th.co.za/"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " called Nice to do some work. It’s nice.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " called Nice to do some work. It’s nice.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ef4acdd6-919c-424d-8e6f-7900ed415669",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6b3f0ee7-9bac-4cf8-808e-a41a89e5d4d3"
+    },
+    "created_time": "2022-08-15T11:54:00.000Z",
+    "last_edited_time": "2022-08-15T11:54:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "732f5ac9-c39e-427d-97a2-68f7ea657752",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6b3f0ee7-9bac-4cf8-808e-a41a89e5d4d3"
+    },
+    "created_time": "2022-08-15T11:54:00.000Z",
+    "last_edited_time": "2022-08-16T09:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Jordan has a working week and I have quite a lot of writing that I want to do from the weekend’s adventure. We order a tea and scone and get stuck in.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Jordan has a working week and I have quite a lot of writing that I want to do from the weekend’s adventure. We order a tea and scone and get stuck in.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "254f200b-5cd8-4ff1-b7f7-946e4c0903fe",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6b3f0ee7-9bac-4cf8-808e-a41a89e5d4d3"
+    },
+    "created_time": "2022-08-16T09:31:00.000Z",
+    "last_edited_time": "2022-08-16T09:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "20e2fee2-055c-4df1-b122-d5362e230a2b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6b3f0ee7-9bac-4cf8-808e-a41a89e5d4d3"
+    },
+    "created_time": "2022-08-15T09:32:00.000Z",
+    "last_edited_time": "2022-08-16T09:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Head judge Jordan regards consistency",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Head judge Jordan regards consistency",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/d1d75dcc-c76a-4f31-816c-7fbfe053767c/2842250A-7AFB-4814-8699-82576FDBEC54.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466ZGNCTM6P%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084659Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCICF0FvnEm%2FstDWU4SEWuQrGZXncv7zOVLajGUYyyowcUAiAWF%2BYV8IYf%2FjzwlSTUn3KqL7eIhqGFYkKhSc%2BJ%2FT%2B%2FVSr%2FAwhxEAAaDDYzNzQyMzE4MzgwNSIMiqefa47VexahheZaKtwD53E31L14mnyyVQRvoXGwIPTwMrE337ONJ5GUvNtZ%2BKPRmjwxcH%2FDCAYHgDulXQd31Fal9G8CNfWDs1YgYD9vvdd0YovUwG7uAti4WsBsSI9axF6nUyibIBnBZMunJgDJnTylra8vF7pzVUKqWGYzmborju%2BFFxwvxl4C9%2FGcigxSXSXUD8rU5LkKYUw3PQcjBJYLTVL5HETWh4J2fZtg%2Byj5CZaMBbMdVlEN4uFf279ljg1PPElPYJtWcOf5Yvwg6np4v5Us03M64DsI2LJ%2FYuOySaoAQRsuzaNfPMHeMcMXFuZDzLpIh32N6rXs9QebzNTp%2Fi6Pxu0UzYckI6t%2FmFwz%2BIXYk%2F7ltyJ02%2F3C7qwyA6Ymnjsb8VnLalo25cJUVJD7NqMnIerZElZa4kciTZTjNlpg5AtQ0dBsuZ8u8Yzlf7R3zzXp5ISDZbjgLx1SCeSaGN5YlEDg%2BHzA17pJYVJ17SdzdABQcuHIA1c8lzIhzeDdN93LxdmQqD22z%2Bon2p7ByzGJXVP3TMFpuTdErEBKgPnhGKpfyK9v5FyetY6lpRB0faGV7Uc6%2BYp325WvJyrVaaCfFtJMbw%2FND%2Bje7%2FWtEDMIphiLn8d%2BYhedQzttn%2BdWDkSDIz4%2F6oQwjd3JzQY6pgHiCqnsYTwxENqabyCL1SoLAq9tJ3yrDTjsa%2B5lnYVQltJek15hWsLvzoA%2BkWsJzxXK25BsknXQ9YENSMeODmRTqDjPJK0utztJsSIdEhvNhvjqQNLpkfSSp%2FjmWqaEQ7PKNk4rpo2n3oet%2BNXSgojNoCokffnlfhrOAyumork3hzQPD3Df4Lz0lU4MWhiVtQdQRusAAOX0gfzqdDZvB%2FSJGmqqyaXO&X-Amz-Signature=67c4060237b2aa3f7271039f61f00a65bf64a2301e32108d4e5964b5bf010133&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:46:59.848Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b1ba923f-f12b-4475-a105-60dad529737c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6b3f0ee7-9bac-4cf8-808e-a41a89e5d4d3"
+    },
+    "created_time": "2022-08-15T11:55:00.000Z",
+    "last_edited_time": "2022-08-15T11:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c0f19a50-a28c-45da-8487-889a8ecd2c5d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6b3f0ee7-9bac-4cf8-808e-a41a89e5d4d3"
+    },
+    "created_time": "2022-08-15T11:55:00.000Z",
+    "last_edited_time": "2022-08-16T09:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The scone is incredible, we deliberate whether it is better than the Little Church’s famous scones. So we asses the two:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The scone is incredible, we deliberate whether it is better than the Little Church’s famous scones. So we asses the two:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "abe7d6dc-5c04-4bc1-8288-970e8e2cd799",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6b3f0ee7-9bac-4cf8-808e-a41a89e5d4d3"
+    },
+    "created_time": "2022-08-15T14:17:00.000Z",
+    "last_edited_time": "2022-08-15T14:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "table",
+    "table": {
+      "table_width": 2,
+      "has_column_header": true,
+      "has_row_header": false
+    },
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "24cd8851-09fa-47bf-8079-b4c1367c40a8",
+        "parent": {
+          "type": "block_id",
+          "block_id": "abe7d6dc-5c04-4bc1-8288-970e8e2cd799"
+        },
+        "created_time": "2022-08-15T14:17:00.000Z",
+        "last_edited_time": "2022-08-15T14:17:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "table_row",
+        "table_row": {
+          "cells": [
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Property",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Property",
+                "href": null
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Winner",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Winner",
+                "href": null
+              }
+            ]
+          ]
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "1d6de894-75e1-40bd-a541-c4c37e18152c",
+        "parent": {
+          "type": "block_id",
+          "block_id": "abe7d6dc-5c04-4bc1-8288-970e8e2cd799"
+        },
+        "created_time": "2022-08-15T14:17:00.000Z",
+        "last_edited_time": "2022-08-15T14:18:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "table_row",
+        "table_row": {
+          "cells": [
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Consistency",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Consistency",
+                "href": null
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Nice",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Nice",
+                "href": null
+              }
+            ]
+          ]
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "5be6de22-443f-4968-a43c-c40976e1043d",
+        "parent": {
+          "type": "block_id",
+          "block_id": "abe7d6dc-5c04-4bc1-8288-970e8e2cd799"
+        },
+        "created_time": "2022-08-15T14:17:00.000Z",
+        "last_edited_time": "2022-08-15T14:18:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "table_row",
+        "table_row": {
+          "cells": [
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Cream",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Cream",
+                "href": null
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Nice",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Nice",
+                "href": null
+              }
+            ]
+          ]
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "cec286fd-ea68-42d4-bcaf-99fc41793a77",
+        "parent": {
+          "type": "block_id",
+          "block_id": "abe7d6dc-5c04-4bc1-8288-970e8e2cd799"
+        },
+        "created_time": "2022-08-15T14:18:00.000Z",
+        "last_edited_time": "2022-08-15T14:18:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "table_row",
+        "table_row": {
+          "cells": [
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Jam ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Jam ",
+                "href": null
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Little Church",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Little Church",
+                "href": null
+              }
+            ]
+          ]
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "a886ac43-b112-47bb-9714-372ab61d753a",
+        "parent": {
+          "type": "block_id",
+          "block_id": "abe7d6dc-5c04-4bc1-8288-970e8e2cd799"
+        },
+        "created_time": "2022-08-15T14:18:00.000Z",
+        "last_edited_time": "2022-08-15T14:18:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "table_row",
+        "table_row": {
+          "cells": [
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Setting ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Setting ",
+                "href": null
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Little Church",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Little Church",
+                "href": null
+              }
+            ]
+          ]
+        },
+        "archived": false
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "4750ccd5-0f1f-43c1-8f04-88b32e98e624",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6b3f0ee7-9bac-4cf8-808e-a41a89e5d4d3"
+    },
+    "created_time": "2022-08-15T09:32:00.000Z",
+    "last_edited_time": "2022-08-16T09:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "So it’s a tie. Looks like we’ve got to go on a country wide scone tasting tour to settle this. We orchestrate the theme song:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "So it’s a tie. Looks like we’ve got to go on a country wide scone tasting tour to settle this. We orchestrate the theme song:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a8bb7587-d3de-4456-97c6-117fc4238973",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6b3f0ee7-9bac-4cf8-808e-a41a89e5d4d3"
+    },
+    "created_time": "2022-08-16T09:33:00.000Z",
+    "last_edited_time": "2022-08-16T09:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "55527798-6f88-43f7-a2db-9ba4a6fca672",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6b3f0ee7-9bac-4cf8-808e-a41a89e5d4d3"
+    },
+    "created_time": "2022-08-15T09:36:00.000Z",
+    "last_edited_time": "2022-08-16T09:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "quote",
+    "quote": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "🎼\nWhen you try your best but you don’t succeed \nWhen you get what you want and what you need\nIt’s in my mouth\n\nCream will guide your smell\nAnd ignite your tongue \nAnd I will try to eat you now\n🎼",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "🎼\nWhen you try your best but you don’t succeed \nWhen you get what you want and what you need\nIt’s in my mouth\n\nCream will guide your smell\nAnd ignite your tongue \nAnd I will try to eat you now\n🎼",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "20aa59c4-ff3f-4bc9-96ec-39ad345bf198",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6b3f0ee7-9bac-4cf8-808e-a41a89e5d4d3"
+    },
+    "created_time": "2022-08-15T14:20:00.000Z",
+    "last_edited_time": "2022-08-15T14:20:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "781791fc-ce73-439e-a1d4-fd4bce15c61a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6b3f0ee7-9bac-4cf8-808e-a41a89e5d4d3"
+    },
+    "created_time": "2022-08-15T14:20:00.000Z",
+    "last_edited_time": "2022-08-16T09:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We head home for a delicious egg on toast with so many extra things. When we’re in the kitchen, literally the moment that I take the bread out the fridge and we both realise that we can’t make toast, when the power comes back on.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We head home for a delicious egg on toast with so many extra things. When we’re in the kitchen, literally the moment that I take the bread out the fridge and we both realise that we can’t make toast, when the power comes back on.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a4d0f33f-494b-4a4d-af96-7f6080dac6da",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6b3f0ee7-9bac-4cf8-808e-a41a89e5d4d3"
+    },
+    "created_time": "2022-08-15T18:40:00.000Z",
+    "last_edited_time": "2022-08-15T18:40:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b282b82a-a3b3-42cb-a102-fdec858d28c2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6b3f0ee7-9bac-4cf8-808e-a41a89e5d4d3"
+    },
+    "created_time": "2022-08-15T18:40:00.000Z",
+    "last_edited_time": "2022-08-16T09:34:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The time passes quickly and before I know it I’m leaving the house again to go and buy some ingredients to make a delicious spaghetti bolognese. A family favourite recipe of Jordan’s:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The time passes quickly and before I know it I’m leaving the house again to go and buy some ingredients to make a delicious spaghetti bolognese. A family favourite recipe of Jordan’s:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d3718550-da01-4eba-98c8-a9b1ef0451b6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6b3f0ee7-9bac-4cf8-808e-a41a89e5d4d3"
+    },
+    "created_time": "2022-08-15T18:42:00.000Z",
+    "last_edited_time": "2022-08-15T18:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "unsupported",
+    "unsupported": {
+      "block_type": "alias"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "170174bb-7dcb-4d0d-bdcf-d0b5d8a7d7b1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6b3f0ee7-9bac-4cf8-808e-a41a89e5d4d3"
+    },
+    "created_time": "2022-08-15T14:20:00.000Z",
+    "last_edited_time": "2022-08-15T14:20:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "58fea330-2b28-4bc7-9807-d472a2563767",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6b3f0ee7-9bac-4cf8-808e-a41a89e5d4d3"
+    },
+    "created_time": "2022-08-15T14:20:00.000Z",
+    "last_edited_time": "2022-08-16T09:34:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I take Jordan’s car and become a different driver in the streets of Joburg. Where once I would hit the brakes for a yellow light now I hit the accelerator. Driving with conviction is actually safer around these parts. At each red robot the fellow drivers on either side of you size you up, daring you to dice them. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I take Jordan’s car and become a different driver in the streets of Joburg. Where once I would hit the brakes for a yellow light now I hit the accelerator. Driving with conviction is actually safer around these parts. At each red robot the fellow drivers on either side of you size you up, daring you to dice them. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f99ba6a4-911e-47c6-965e-c6f112031fe2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6b3f0ee7-9bac-4cf8-808e-a41a89e5d4d3"
+    },
+    "created_time": "2022-08-15T18:43:00.000Z",
+    "last_edited_time": "2022-08-15T18:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "aad0df9a-e5af-4556-a7e0-888a71db158c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6b3f0ee7-9bac-4cf8-808e-a41a89e5d4d3"
+    },
+    "created_time": "2022-08-15T18:43:00.000Z",
+    "last_edited_time": "2022-08-16T09:35:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I go to a Checkers FX because I’m a diehard fan. This one feel just like the one that I go to back in Cape Town and finding things is fairly simple. I’ve collected most of the items on my list when Simon calls. I’m wearing Jordan’s headphones so I can simply continue wondering the isles aimlessly while having a lovely catchup with him. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I go to a Checkers FX because I’m a diehard fan. This one feel just like the one that I go to back in Cape Town and finding things is fairly simple. I’ve collected most of the items on my list when Simon calls. I’m wearing Jordan’s headphones so I can simply continue wondering the isles aimlessly while having a lovely catchup with him. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "558af545-0a32-4b8d-b9e5-8072cc892740",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6b3f0ee7-9bac-4cf8-808e-a41a89e5d4d3"
+    },
+    "created_time": "2022-08-15T18:44:00.000Z",
+    "last_edited_time": "2022-08-15T18:44:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "43d441ae-8a5f-4668-8f5e-bce09390c53a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6b3f0ee7-9bac-4cf8-808e-a41a89e5d4d3"
+    },
+    "created_time": "2022-08-15T18:44:00.000Z",
+    "last_edited_time": "2022-08-15T18:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I return home more than an hour and a half after having left. Jordan - bless her - is already on it with chopping the ingredients. We whip together truly the most delicious spag bol that I’ve ever made. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I return home more than an hour and a half after having left. Jordan - bless her - is already on it with chopping the ingredients. We whip together truly the most delicious spag bol that I’ve ever made. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "258fc13c-f0ee-4c27-9f47-2b9cefa849ea",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6b3f0ee7-9bac-4cf8-808e-a41a89e5d4d3"
+    },
+    "created_time": "2022-08-15T18:45:00.000Z",
+    "last_edited_time": "2022-08-15T18:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e498068e-ee9f-45a7-b435-cddf23172bf9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6b3f0ee7-9bac-4cf8-808e-a41a89e5d4d3"
+    },
+    "created_time": "2022-08-15T18:45:00.000Z",
+    "last_edited_time": "2022-08-15T18:46:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "After dinner we clean up and listen to come lofi. I’m really feeling ready to make a little set - something that I’ve wanted to do for a while. I’m going to take my fastpacking advice and simply just use what I have. There is no reason to try and find new music when I already have such good tracks from past times. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "After dinner we clean up and listen to come lofi. I’m really feeling ready to make a little set - something that I’ve wanted to do for a while. I’m going to take my fastpacking advice and simply just use what I have. There is no reason to try and find new music when I already have such good tracks from past times. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "45d71e44-cf4e-44cc-8841-886c75fcdbd6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6b3f0ee7-9bac-4cf8-808e-a41a89e5d4d3"
+    },
+    "created_time": "2022-08-15T18:46:00.000Z",
+    "last_edited_time": "2022-08-15T18:46:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "79e8d8d6-7730-4fb9-ab41-94fa6cda98f3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6b3f0ee7-9bac-4cf8-808e-a41a89e5d4d3"
+    },
+    "created_time": "2022-08-15T18:46:00.000Z",
+    "last_edited_time": "2022-08-15T18:46:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I’ve decided to choose songs based on the mood that one has over the course of the day. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I’ve decided to choose songs based on the mood that one has over the course of the day. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

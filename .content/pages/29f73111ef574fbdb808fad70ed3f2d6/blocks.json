@@ -1,0 +1,1190 @@
+[
+  {
+    "object": "block",
+    "id": "1df9d7af-9c9a-4350-93ea-f5c665db4caa",
+    "parent": {
+      "type": "page_id",
+      "page_id": "29f73111-ef57-4fbd-b808-fad70ed3f2d6"
+    },
+    "created_time": "2022-07-14T04:53:00.000Z",
+    "last_edited_time": "2022-07-14T04:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The alarm wakes me at 6:30. I snooze. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The alarm wakes me at 6:30. I snooze. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "13a1bbec-dd0d-4675-b077-d27def9ed1b4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "29f73111-ef57-4fbd-b808-fad70ed3f2d6"
+    },
+    "created_time": "2022-07-14T04:53:00.000Z",
+    "last_edited_time": "2022-07-14T04:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ae460f41-8d1d-4541-b370-606951bc1dab",
+    "parent": {
+      "type": "page_id",
+      "page_id": "29f73111-ef57-4fbd-b808-fad70ed3f2d6"
+    },
+    "created_time": "2022-07-14T04:53:00.000Z",
+    "last_edited_time": "2022-07-14T04:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I know that Leon is silently cursing me and Nik for not being on the road already, maximizing daytime at supers - but this for me is a holiday. I’ve been there, driven to surf at 4am to ensure that I arrive there at first light. This time around it feels so easy, listen to your body and take it as it comes. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I know that Leon is silently cursing me and Nik for not being on the road already, maximizing daytime at supers - but this for me is a holiday. I’ve been there, driven to surf at 4am to ensure that I arrive there at first light. This time around it feels so easy, listen to your body and take it as it comes. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6c85e32c-9965-4896-b10c-66ee67c7de10",
+    "parent": {
+      "type": "page_id",
+      "page_id": "29f73111-ef57-4fbd-b808-fad70ed3f2d6"
+    },
+    "created_time": "2022-07-14T04:55:00.000Z",
+    "last_edited_time": "2022-07-14T04:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "689c03b2-2f66-459b-9b9f-f279f03e1216",
+    "parent": {
+      "type": "page_id",
+      "page_id": "29f73111-ef57-4fbd-b808-fad70ed3f2d6"
+    },
+    "created_time": "2022-07-14T04:55:00.000Z",
+    "last_edited_time": "2022-07-14T04:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I hope to buy a cooler box today and have a surf!",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I hope to buy a cooler box today and have a surf!",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "54b02039-92a2-413d-8e41-13ce9327e9ca",
+    "parent": {
+      "type": "page_id",
+      "page_id": "29f73111-ef57-4fbd-b808-fad70ed3f2d6"
+    },
+    "created_time": "2022-07-14T10:02:00.000Z",
+    "last_edited_time": "2022-07-14T10:02:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3dedc8d7-6ab7-4c0a-b09c-9923c1809863",
+    "parent": {
+      "type": "page_id",
+      "page_id": "29f73111-ef57-4fbd-b808-fad70ed3f2d6"
+    },
+    "created_time": "2022-07-14T10:02:00.000Z",
+    "last_edited_time": "2022-07-14T10:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The only significant things about Jeffrey’s bay are the wave and the 5 way stop street ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The only significant things about Jeffrey’s bay are the wave and the 5 way stop street ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c396b2bb-de3b-412b-81db-51ab0acd7310",
+    "parent": {
+      "type": "page_id",
+      "page_id": "29f73111-ef57-4fbd-b808-fad70ed3f2d6"
+    },
+    "created_time": "2022-07-14T10:03:00.000Z",
+    "last_edited_time": "2022-07-14T10:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/2691a7b5-0ce1-4b66-8c08-6828759dd0b5/FC5587E3-6542-4B52-BF14-AA7F177EB1B5.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466WEA423PS%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084605Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCICqGHyuj%2BOFFuAYfS%2BaKoK3VkWYIH8bhKiEv72PHxTuyAiEA7ITdXKqlEZ6AAH7Wm4TZ4b1Vrd6TNn75d9%2Bn8Z4MXBQq%2FwMIcRAAGgw2Mzc0MjMxODM4MDUiDCNrW%2Fd1LachI6VoTircAzNrfjZnFokYP1CNXE2DbWQLFtpbvGJbTYZaFbl%2Bp%2Bo%2Fenvkm3Pvcsp4sqIYbcekLZtPPVCxgusCQjkaQRDgcPyzXbKLUJ9JGVJgujHOMV8QhnKAnEDzF%2BZGekzzaf2vw%2BTbkJgKX7cB%2FZy0AMbEsLvoqh4oSP1%2FIGICOJYciGufj%2FD84ekesFxt9NGyQ8cShQihaV4KZz6FiDpLWoLfyL%2BztZjDKIiEjJYAuShgFNEpZUODHO8l9%2B715VkYowG62QNPSvHdmOyM3gxjxiMzzcajqgLMAEWCLMc4Kt2%2BwtvEELrnC7%2FTJID%2BikHYBB5WcKnWkV4G0YTjspi7VK06Fqxe1jOqP6hsCjp0rm0Yb9VBE%2FHg0gEbbLk0daeV1BB8WFxrb7mOAlVpA75jbP3VTuJCD6X%2BF%2FwcdyiheUUUChYGD3KK4zJHX3sahhoRCjcfeZwgSLDfytOBILfoHC9qHCMNyWjFVVaOJLmXDK6r8fEd6FQ0Hug%2BzGc0Mb97UtH4j2cnhFuWtUJvZK7XggmOcWZ4TJNrXAOuxVtNsh491ZDORTa1KlnS7h8GFNmt1ifI6hvFf6paOg87qL5yRoruSxNEw4EYhDmzTWwot%2FnzmLNV%2BXYxjQAURm6ahrvHMOPayc0GOqUBjq7W91ay7HfJgNJDqQCa%2BXTLuOoZ%2FqCrQBBq4x6MQlNXC7DMgRuArcqXeF%2BJVlpmSuPgDPfub7VUvc1Sbsvnn2Mh6DM4oQUS8A2%2Fk2XT0JNHsc4o89ecWaQpVvu9jvVvZtnsf%2FdltDsTbWovZIrsPBkBPaBHKOjnJE8enDTolpyXprsw3w490JSBeIS5wU77BWqNwrZIu%2BG0wG7DA96Rdqf%2Fj90z&X-Amz-Signature=1f5d41e95c6452c10b924292439ef8e670d48113317c0e3f53066c15c6720658&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:46:05.144Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "bafa4ef3-ef6b-4afb-bf5b-1a6bed1e1fa7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "29f73111-ef57-4fbd-b808-fad70ed3f2d6"
+    },
+    "created_time": "2022-07-15T17:14:00.000Z",
+    "last_edited_time": "2022-07-15T17:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I buy some colt vanilla tobacco because it’s a sabbatical. And it’s physically impossible to consume more than one in one sitting, so it will hopefully moderate the smoking. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I buy some colt vanilla tobacco because it’s a sabbatical. And it’s physically impossible to consume more than one in one sitting, so it will hopefully moderate the smoking. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "fa0bb591-0a8c-4f48-a1db-d447979f8675",
+    "parent": {
+      "type": "page_id",
+      "page_id": "29f73111-ef57-4fbd-b808-fad70ed3f2d6"
+    },
+    "created_time": "2022-07-14T11:22:00.000Z",
+    "last_edited_time": "2022-07-15T17:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "the surf is cooking ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "the surf is cooking ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "40dbb687-ef7e-4394-b569-8152dc2ca9d8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "29f73111-ef57-4fbd-b808-fad70ed3f2d6"
+    },
+    "created_time": "2022-07-14T11:24:00.000Z",
+    "last_edited_time": "2022-07-14T11:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "video",
+    "video": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/a8f96d7d-e880-48f4-b7e9-3f9a97ea74e6/IMG_5386.mov?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466WEA423PS%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084605Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCICqGHyuj%2BOFFuAYfS%2BaKoK3VkWYIH8bhKiEv72PHxTuyAiEA7ITdXKqlEZ6AAH7Wm4TZ4b1Vrd6TNn75d9%2Bn8Z4MXBQq%2FwMIcRAAGgw2Mzc0MjMxODM4MDUiDCNrW%2Fd1LachI6VoTircAzNrfjZnFokYP1CNXE2DbWQLFtpbvGJbTYZaFbl%2Bp%2Bo%2Fenvkm3Pvcsp4sqIYbcekLZtPPVCxgusCQjkaQRDgcPyzXbKLUJ9JGVJgujHOMV8QhnKAnEDzF%2BZGekzzaf2vw%2BTbkJgKX7cB%2FZy0AMbEsLvoqh4oSP1%2FIGICOJYciGufj%2FD84ekesFxt9NGyQ8cShQihaV4KZz6FiDpLWoLfyL%2BztZjDKIiEjJYAuShgFNEpZUODHO8l9%2B715VkYowG62QNPSvHdmOyM3gxjxiMzzcajqgLMAEWCLMc4Kt2%2BwtvEELrnC7%2FTJID%2BikHYBB5WcKnWkV4G0YTjspi7VK06Fqxe1jOqP6hsCjp0rm0Yb9VBE%2FHg0gEbbLk0daeV1BB8WFxrb7mOAlVpA75jbP3VTuJCD6X%2BF%2FwcdyiheUUUChYGD3KK4zJHX3sahhoRCjcfeZwgSLDfytOBILfoHC9qHCMNyWjFVVaOJLmXDK6r8fEd6FQ0Hug%2BzGc0Mb97UtH4j2cnhFuWtUJvZK7XggmOcWZ4TJNrXAOuxVtNsh491ZDORTa1KlnS7h8GFNmt1ifI6hvFf6paOg87qL5yRoruSxNEw4EYhDmzTWwot%2FnzmLNV%2BXYxjQAURm6ahrvHMOPayc0GOqUBjq7W91ay7HfJgNJDqQCa%2BXTLuOoZ%2FqCrQBBq4x6MQlNXC7DMgRuArcqXeF%2BJVlpmSuPgDPfub7VUvc1Sbsvnn2Mh6DM4oQUS8A2%2Fk2XT0JNHsc4o89ecWaQpVvu9jvVvZtnsf%2FdltDsTbWovZIrsPBkBPaBHKOjnJE8enDTolpyXprsw3w490JSBeIS5wU77BWqNwrZIu%2BG0wG7DA96Rdqf%2Fj90z&X-Amz-Signature=cd48d06bfa7df085fff439197507151440aa5b500222470b5f701db1ac5901f9&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:46:05.144Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "677ab015-a574-4c7c-a6a0-defb70fbfa1f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "29f73111-ef57-4fbd-b808-fad70ed3f2d6"
+    },
+    "created_time": "2022-07-14T11:24:00.000Z",
+    "last_edited_time": "2022-07-14T11:25:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "video",
+    "video": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/2eec8e7f-891b-413e-8852-17e30d0d12b0/IMG_5385.mov?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466WEA423PS%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084605Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCICqGHyuj%2BOFFuAYfS%2BaKoK3VkWYIH8bhKiEv72PHxTuyAiEA7ITdXKqlEZ6AAH7Wm4TZ4b1Vrd6TNn75d9%2Bn8Z4MXBQq%2FwMIcRAAGgw2Mzc0MjMxODM4MDUiDCNrW%2Fd1LachI6VoTircAzNrfjZnFokYP1CNXE2DbWQLFtpbvGJbTYZaFbl%2Bp%2Bo%2Fenvkm3Pvcsp4sqIYbcekLZtPPVCxgusCQjkaQRDgcPyzXbKLUJ9JGVJgujHOMV8QhnKAnEDzF%2BZGekzzaf2vw%2BTbkJgKX7cB%2FZy0AMbEsLvoqh4oSP1%2FIGICOJYciGufj%2FD84ekesFxt9NGyQ8cShQihaV4KZz6FiDpLWoLfyL%2BztZjDKIiEjJYAuShgFNEpZUODHO8l9%2B715VkYowG62QNPSvHdmOyM3gxjxiMzzcajqgLMAEWCLMc4Kt2%2BwtvEELrnC7%2FTJID%2BikHYBB5WcKnWkV4G0YTjspi7VK06Fqxe1jOqP6hsCjp0rm0Yb9VBE%2FHg0gEbbLk0daeV1BB8WFxrb7mOAlVpA75jbP3VTuJCD6X%2BF%2FwcdyiheUUUChYGD3KK4zJHX3sahhoRCjcfeZwgSLDfytOBILfoHC9qHCMNyWjFVVaOJLmXDK6r8fEd6FQ0Hug%2BzGc0Mb97UtH4j2cnhFuWtUJvZK7XggmOcWZ4TJNrXAOuxVtNsh491ZDORTa1KlnS7h8GFNmt1ifI6hvFf6paOg87qL5yRoruSxNEw4EYhDmzTWwot%2FnzmLNV%2BXYxjQAURm6ahrvHMOPayc0GOqUBjq7W91ay7HfJgNJDqQCa%2BXTLuOoZ%2FqCrQBBq4x6MQlNXC7DMgRuArcqXeF%2BJVlpmSuPgDPfub7VUvc1Sbsvnn2Mh6DM4oQUS8A2%2Fk2XT0JNHsc4o89ecWaQpVvu9jvVvZtnsf%2FdltDsTbWovZIrsPBkBPaBHKOjnJE8enDTolpyXprsw3w490JSBeIS5wU77BWqNwrZIu%2BG0wG7DA96Rdqf%2Fj90z&X-Amz-Signature=d37fc910017a4c9211609667fb2eabb9067dd402223d26b56b0c03243e74c2f1&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:46:05.145Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "afade5f0-32e3-44b3-9736-c264913f6a54",
+    "parent": {
+      "type": "page_id",
+      "page_id": "29f73111-ef57-4fbd-b808-fad70ed3f2d6"
+    },
+    "created_time": "2022-07-14T16:38:00.000Z",
+    "last_edited_time": "2022-07-14T16:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Watched some incredible surfing. Truly fantastic. Got really silly with nik and Leon. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Watched some incredible surfing. Truly fantastic. Got really silly with nik and Leon. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d228b55a-bcc8-4cda-8dc2-c4ae648bcb34",
+    "parent": {
+      "type": "page_id",
+      "page_id": "29f73111-ef57-4fbd-b808-fad70ed3f2d6"
+    },
+    "created_time": "2022-07-14T20:21:00.000Z",
+    "last_edited_time": "2022-07-14T20:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "video",
+    "video": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/7243dd59-e95b-4cf8-aa78-261ff425d5ac/IMG_5391.mov?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466WEA423PS%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084605Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCICqGHyuj%2BOFFuAYfS%2BaKoK3VkWYIH8bhKiEv72PHxTuyAiEA7ITdXKqlEZ6AAH7Wm4TZ4b1Vrd6TNn75d9%2Bn8Z4MXBQq%2FwMIcRAAGgw2Mzc0MjMxODM4MDUiDCNrW%2Fd1LachI6VoTircAzNrfjZnFokYP1CNXE2DbWQLFtpbvGJbTYZaFbl%2Bp%2Bo%2Fenvkm3Pvcsp4sqIYbcekLZtPPVCxgusCQjkaQRDgcPyzXbKLUJ9JGVJgujHOMV8QhnKAnEDzF%2BZGekzzaf2vw%2BTbkJgKX7cB%2FZy0AMbEsLvoqh4oSP1%2FIGICOJYciGufj%2FD84ekesFxt9NGyQ8cShQihaV4KZz6FiDpLWoLfyL%2BztZjDKIiEjJYAuShgFNEpZUODHO8l9%2B715VkYowG62QNPSvHdmOyM3gxjxiMzzcajqgLMAEWCLMc4Kt2%2BwtvEELrnC7%2FTJID%2BikHYBB5WcKnWkV4G0YTjspi7VK06Fqxe1jOqP6hsCjp0rm0Yb9VBE%2FHg0gEbbLk0daeV1BB8WFxrb7mOAlVpA75jbP3VTuJCD6X%2BF%2FwcdyiheUUUChYGD3KK4zJHX3sahhoRCjcfeZwgSLDfytOBILfoHC9qHCMNyWjFVVaOJLmXDK6r8fEd6FQ0Hug%2BzGc0Mb97UtH4j2cnhFuWtUJvZK7XggmOcWZ4TJNrXAOuxVtNsh491ZDORTa1KlnS7h8GFNmt1ifI6hvFf6paOg87qL5yRoruSxNEw4EYhDmzTWwot%2FnzmLNV%2BXYxjQAURm6ahrvHMOPayc0GOqUBjq7W91ay7HfJgNJDqQCa%2BXTLuOoZ%2FqCrQBBq4x6MQlNXC7DMgRuArcqXeF%2BJVlpmSuPgDPfub7VUvc1Sbsvnn2Mh6DM4oQUS8A2%2Fk2XT0JNHsc4o89ecWaQpVvu9jvVvZtnsf%2FdltDsTbWovZIrsPBkBPaBHKOjnJE8enDTolpyXprsw3w490JSBeIS5wU77BWqNwrZIu%2BG0wG7DA96Rdqf%2Fj90z&X-Amz-Signature=ebf0572ab3b5e7ed4741f5f614bb9fbc75ed9a16507ecab52ecaffa21f73820e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:46:05.144Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9a37137f-0a88-4874-8071-826c192e8c6f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "29f73111-ef57-4fbd-b808-fad70ed3f2d6"
+    },
+    "created_time": "2022-07-14T16:41:00.000Z",
+    "last_edited_time": "2022-07-14T16:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "nik tried to get me to drink a corona with him and then immediately suggests we go surf. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "nik tried to get me to drink a corona with him and then immediately suggests we go surf. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c2b08807-3814-4409-b440-544ba62af137",
+    "parent": {
+      "type": "page_id",
+      "page_id": "29f73111-ef57-4fbd-b808-fad70ed3f2d6"
+    },
+    "created_time": "2022-07-14T16:42:00.000Z",
+    "last_edited_time": "2022-07-15T17:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Had the most beautiful surf at pumping jbay under a pastel sunset.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Had the most beautiful surf at pumping jbay under a pastel sunset.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "296ee1f0-3211-4a0a-988b-8672af1456b3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "29f73111-ef57-4fbd-b808-fad70ed3f2d6"
+    },
+    "created_time": "2022-07-15T17:17:00.000Z",
+    "last_edited_time": "2022-07-15T17:20:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We paddled out at about 4pm, with trepidation. After watching people get minced by the rocks, broken boards and leashes and general carnage all day we were excited to see if we’d succumb to a similar fate. Yet skill (mostly luck) was on our side and we got out with dry hair. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We paddled out at about 4pm, with trepidation. After watching people get minced by the rocks, broken boards and leashes and general carnage all day we were excited to see if we’d succumb to a similar fate. Yet skill (mostly luck) was on our side and we got out with dry hair. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d069f9e6-61fc-49f7-bea2-acb540545a51",
+    "parent": {
+      "type": "page_id",
+      "page_id": "29f73111-ef57-4fbd-b808-fad70ed3f2d6"
+    },
+    "created_time": "2022-07-15T17:21:00.000Z",
+    "last_edited_time": "2022-07-15T17:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ab8c52a2-4540-4cb1-9a5b-e13455ddd5f5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "29f73111-ef57-4fbd-b808-fad70ed3f2d6"
+    },
+    "created_time": "2022-07-15T17:21:00.000Z",
+    "last_edited_time": "2022-07-15T17:22:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We surfed just above tubes and it was cooking. Easily double overhead, running all the way to point on a good one. I surfed the Custard Queen and just went fast and straight. I pulled into a couple of barrels but didn’t make any. I’m considering putting twin keels into the board to see how it goes? ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We surfed just above tubes and it was cooking. Easily double overhead, running all the way to point on a good one. I surfed the Custard Queen and just went fast and straight. I pulled into a couple of barrels but didn’t make any. I’m considering putting twin keels into the board to see how it goes? ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9481b4fe-3806-4c9f-b75e-c1b464c21170",
+    "parent": {
+      "type": "page_id",
+      "page_id": "29f73111-ef57-4fbd-b808-fad70ed3f2d6"
+    },
+    "created_time": "2022-07-15T17:22:00.000Z",
+    "last_edited_time": "2022-07-15T17:22:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "fb249623-4edf-4156-b463-679fa4b4ac01",
+    "parent": {
+      "type": "page_id",
+      "page_id": "29f73111-ef57-4fbd-b808-fad70ed3f2d6"
+    },
+    "created_time": "2022-07-15T17:22:00.000Z",
+    "last_edited_time": "2022-07-15T17:24:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We watched the last woman’s quarter final and Tatiana fucking smacked the lip a couple of meter away which was eventful. The last heat of the day ended and we paddled up to supers against the merciless river of a wash going down the point. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We watched the last woman’s quarter final and Tatiana fucking smacked the lip a couple of meter away which was eventful. The last heat of the day ended and we paddled up to supers against the merciless river of a wash going down the point. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "508ac7ab-6b06-40f0-bcde-d503a0ac7cbc",
+    "parent": {
+      "type": "page_id",
+      "page_id": "29f73111-ef57-4fbd-b808-fad70ed3f2d6"
+    },
+    "created_time": "2022-07-15T17:24:00.000Z",
+    "last_edited_time": "2022-07-15T17:24:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "57081d13-38fc-4e87-a842-1050ecef4057",
+    "parent": {
+      "type": "page_id",
+      "page_id": "29f73111-ef57-4fbd-b808-fad70ed3f2d6"
+    },
+    "created_time": "2022-07-15T17:24:00.000Z",
+    "last_edited_time": "2022-07-15T17:26:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The sunset was a soft pastel pallet that would make a trendy Cape Town fella blush. The waves would make that same person put their expensive longboard back on the roof of their Jimny and go to Harvest get a cortado. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The sunset was a soft pastel pallet that would make a trendy Cape Town fella blush. The waves would make that same person put their expensive longboard back on the roof of their Jimny and go to Harvest get a cortado. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "63cfa87c-b170-4888-81ec-b43f85d52a3d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "29f73111-ef57-4fbd-b808-fad70ed3f2d6"
+    },
+    "created_time": "2022-07-16T10:06:00.000Z",
+    "last_edited_time": "2022-07-16T10:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bookmark",
+    "bookmark": {
+      "caption": [],
+      "url": "https://connect.garmin.com/modern/activity/9213319508"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "895fb399-534a-47d0-a2b0-f564b1f92949",
+    "parent": {
+      "type": "page_id",
+      "page_id": "29f73111-ef57-4fbd-b808-fad70ed3f2d6"
+    },
+    "created_time": "2022-07-16T10:06:00.000Z",
+    "last_edited_time": "2022-07-16T10:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "537440f6-f90c-48b7-b6ee-4d2b4b3b535f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "29f73111-ef57-4fbd-b808-fad70ed3f2d6"
+    },
+    "created_time": "2022-07-14T20:17:00.000Z",
+    "last_edited_time": "2022-07-14T20:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Big psych rock party ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Big psych rock party ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5780e2f7-45c3-4847-8018-d4a32d4940af",
+    "parent": {
+      "type": "page_id",
+      "page_id": "29f73111-ef57-4fbd-b808-fad70ed3f2d6"
+    },
+    "created_time": "2022-07-14T20:17:00.000Z",
+    "last_edited_time": "2022-07-14T20:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "video",
+    "video": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/b7512c58-5fda-4dad-be02-40e0aa31929b/IMG_5392.mov?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466WEA423PS%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084605Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCICqGHyuj%2BOFFuAYfS%2BaKoK3VkWYIH8bhKiEv72PHxTuyAiEA7ITdXKqlEZ6AAH7Wm4TZ4b1Vrd6TNn75d9%2Bn8Z4MXBQq%2FwMIcRAAGgw2Mzc0MjMxODM4MDUiDCNrW%2Fd1LachI6VoTircAzNrfjZnFokYP1CNXE2DbWQLFtpbvGJbTYZaFbl%2Bp%2Bo%2Fenvkm3Pvcsp4sqIYbcekLZtPPVCxgusCQjkaQRDgcPyzXbKLUJ9JGVJgujHOMV8QhnKAnEDzF%2BZGekzzaf2vw%2BTbkJgKX7cB%2FZy0AMbEsLvoqh4oSP1%2FIGICOJYciGufj%2FD84ekesFxt9NGyQ8cShQihaV4KZz6FiDpLWoLfyL%2BztZjDKIiEjJYAuShgFNEpZUODHO8l9%2B715VkYowG62QNPSvHdmOyM3gxjxiMzzcajqgLMAEWCLMc4Kt2%2BwtvEELrnC7%2FTJID%2BikHYBB5WcKnWkV4G0YTjspi7VK06Fqxe1jOqP6hsCjp0rm0Yb9VBE%2FHg0gEbbLk0daeV1BB8WFxrb7mOAlVpA75jbP3VTuJCD6X%2BF%2FwcdyiheUUUChYGD3KK4zJHX3sahhoRCjcfeZwgSLDfytOBILfoHC9qHCMNyWjFVVaOJLmXDK6r8fEd6FQ0Hug%2BzGc0Mb97UtH4j2cnhFuWtUJvZK7XggmOcWZ4TJNrXAOuxVtNsh491ZDORTa1KlnS7h8GFNmt1ifI6hvFf6paOg87qL5yRoruSxNEw4EYhDmzTWwot%2FnzmLNV%2BXYxjQAURm6ahrvHMOPayc0GOqUBjq7W91ay7HfJgNJDqQCa%2BXTLuOoZ%2FqCrQBBq4x6MQlNXC7DMgRuArcqXeF%2BJVlpmSuPgDPfub7VUvc1Sbsvnn2Mh6DM4oQUS8A2%2Fk2XT0JNHsc4o89ecWaQpVvu9jvVvZtnsf%2FdltDsTbWovZIrsPBkBPaBHKOjnJE8enDTolpyXprsw3w490JSBeIS5wU77BWqNwrZIu%2BG0wG7DA96Rdqf%2Fj90z&X-Amz-Signature=46266669f19809423886d5f2945e5af0f39bab9a57756bc6671c65bd3a03bca4&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:46:05.261Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "89c97543-f69e-4cb2-ba41-e2acc86406e8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "29f73111-ef57-4fbd-b808-fad70ed3f2d6"
+    },
+    "created_time": "2022-07-14T20:19:00.000Z",
+    "last_edited_time": "2022-07-14T20:19:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6311cfcd-5825-4850-a528-750a5e556e56",
+    "parent": {
+      "type": "page_id",
+      "page_id": "29f73111-ef57-4fbd-b808-fad70ed3f2d6"
+    },
+    "created_time": "2022-07-14T20:18:00.000Z",
+    "last_edited_time": "2022-07-14T20:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "watched the surf under the full moon ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "watched the surf under the full moon ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "af6d196d-7046-4d36-bb55-f57f2106f612",
+    "parent": {
+      "type": "page_id",
+      "page_id": "29f73111-ef57-4fbd-b808-fad70ed3f2d6"
+    },
+    "created_time": "2022-07-14T20:18:00.000Z",
+    "last_edited_time": "2022-07-14T20:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "video",
+    "video": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/6051ccfa-7b82-4839-a25e-e5d52776ec1d/IMG_5399.mov?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466WEA423PS%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084605Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCICqGHyuj%2BOFFuAYfS%2BaKoK3VkWYIH8bhKiEv72PHxTuyAiEA7ITdXKqlEZ6AAH7Wm4TZ4b1Vrd6TNn75d9%2Bn8Z4MXBQq%2FwMIcRAAGgw2Mzc0MjMxODM4MDUiDCNrW%2Fd1LachI6VoTircAzNrfjZnFokYP1CNXE2DbWQLFtpbvGJbTYZaFbl%2Bp%2Bo%2Fenvkm3Pvcsp4sqIYbcekLZtPPVCxgusCQjkaQRDgcPyzXbKLUJ9JGVJgujHOMV8QhnKAnEDzF%2BZGekzzaf2vw%2BTbkJgKX7cB%2FZy0AMbEsLvoqh4oSP1%2FIGICOJYciGufj%2FD84ekesFxt9NGyQ8cShQihaV4KZz6FiDpLWoLfyL%2BztZjDKIiEjJYAuShgFNEpZUODHO8l9%2B715VkYowG62QNPSvHdmOyM3gxjxiMzzcajqgLMAEWCLMc4Kt2%2BwtvEELrnC7%2FTJID%2BikHYBB5WcKnWkV4G0YTjspi7VK06Fqxe1jOqP6hsCjp0rm0Yb9VBE%2FHg0gEbbLk0daeV1BB8WFxrb7mOAlVpA75jbP3VTuJCD6X%2BF%2FwcdyiheUUUChYGD3KK4zJHX3sahhoRCjcfeZwgSLDfytOBILfoHC9qHCMNyWjFVVaOJLmXDK6r8fEd6FQ0Hug%2BzGc0Mb97UtH4j2cnhFuWtUJvZK7XggmOcWZ4TJNrXAOuxVtNsh491ZDORTa1KlnS7h8GFNmt1ifI6hvFf6paOg87qL5yRoruSxNEw4EYhDmzTWwot%2FnzmLNV%2BXYxjQAURm6ahrvHMOPayc0GOqUBjq7W91ay7HfJgNJDqQCa%2BXTLuOoZ%2FqCrQBBq4x6MQlNXC7DMgRuArcqXeF%2BJVlpmSuPgDPfub7VUvc1Sbsvnn2Mh6DM4oQUS8A2%2Fk2XT0JNHsc4o89ecWaQpVvu9jvVvZtnsf%2FdltDsTbWovZIrsPBkBPaBHKOjnJE8enDTolpyXprsw3w490JSBeIS5wU77BWqNwrZIu%2BG0wG7DA96Rdqf%2Fj90z&X-Amz-Signature=d3bd02ade1cd6c1ee44d5d30298d5637fd65d9da559a2339219ec053a9b09a54&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:46:05.262Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9786955c-a86b-4b4e-96b0-e41887b7b288",
+    "parent": {
+      "type": "page_id",
+      "page_id": "29f73111-ef57-4fbd-b808-fad70ed3f2d6"
+    },
+    "created_time": "2022-07-14T20:22:00.000Z",
+    "last_edited_time": "2022-07-15T17:26:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "sleeping in the car in the carpark. Proper teenage days. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "sleeping in the car in the carpark. Proper teenage days. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6c7722ef-9226-441e-8b8c-ee1acefbc063",
+    "parent": {
+      "type": "page_id",
+      "page_id": "29f73111-ef57-4fbd-b808-fad70ed3f2d6"
+    },
+    "created_time": "2022-07-14T21:11:00.000Z",
+    "last_edited_time": "2022-07-14T21:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "11:11pm is the time. I’m in my sleeping bag in the back of the car. In the carpark for the parkoff event. Each hiccup rocks the car suspension.  Feeling like a teenage kid I rock my way off to bed. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "11:11pm is the time. I’m in my sleeping bag in the back of the car. In the carpark for the parkoff event. Each hiccup rocks the car suspension.  Feeling like a teenage kid I rock my way off to bed. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5cfa87de-ec40-45a9-8650-6342af3b9a83",
+    "parent": {
+      "type": "page_id",
+      "page_id": "29f73111-ef57-4fbd-b808-fad70ed3f2d6"
+    },
+    "created_time": "2022-07-14T21:11:00.000Z",
+    "last_edited_time": "2022-07-14T21:11:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

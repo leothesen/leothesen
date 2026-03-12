@@ -1,0 +1,756 @@
+[
+  {
+    "object": "block",
+    "id": "2fa4e11a-8dd0-4d46-9c83-5f8243ee0dc5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "4cf3730a-5472-4c2f-8585-fd024fc0328a"
+    },
+    "created_time": "2022-07-10T10:01:00.000Z",
+    "last_edited_time": "2022-07-10T10:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "wake up late",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "wake up late",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "fc7e7084-fcab-47b7-abaa-a8a5a89250c2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "4cf3730a-5472-4c2f-8585-fd024fc0328a"
+    },
+    "created_time": "2022-07-10T10:01:00.000Z",
+    "last_edited_time": "2022-07-10T10:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "cleaned up the house",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "cleaned up the house",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c088d416-1150-4a44-bb42-8b94818b7589",
+    "parent": {
+      "type": "page_id",
+      "page_id": "4cf3730a-5472-4c2f-8585-fd024fc0328a"
+    },
+    "created_time": "2022-07-10T10:01:00.000Z",
+    "last_edited_time": "2022-07-10T13:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Gave this playlist a chance…",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Gave this playlist a chance…",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ca5c8793-4bb5-4638-ae18-fd4d2fdd6168",
+    "parent": {
+      "type": "page_id",
+      "page_id": "4cf3730a-5472-4c2f-8585-fd024fc0328a"
+    },
+    "created_time": "2022-07-10T10:02:00.000Z",
+    "last_edited_time": "2022-07-10T10:02:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "embed",
+    "embed": {
+      "caption": [],
+      "url": "https://open.spotify.com/playlist/3FqbJH0iGpEo4hZDqsutKT?si=b9f6dcb6f7114713"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "77bb26ea-f8ee-47ac-bdb3-263a3e336440",
+    "parent": {
+      "type": "page_id",
+      "page_id": "4cf3730a-5472-4c2f-8585-fd024fc0328a"
+    },
+    "created_time": "2022-07-10T10:01:00.000Z",
+    "last_edited_time": "2022-07-10T10:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Definitely queued some Norah Jones, because - well - Sunday morning making omelettes requires this.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Definitely queued some Norah Jones, because - well - Sunday morning making omelettes requires this.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "cb4c843d-fbe8-45be-891a-4159346ed551",
+    "parent": {
+      "type": "page_id",
+      "page_id": "4cf3730a-5472-4c2f-8585-fd024fc0328a"
+    },
+    "created_time": "2022-07-10T10:36:00.000Z",
+    "last_edited_time": "2022-07-10T15:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "That initial playlist was a bit… not necessarily the vibe. Put this on next:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "That initial playlist was a bit… not necessarily the vibe. Put this on next:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "485437b3-dc76-4a12-81f1-fbeae77e01f8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "4cf3730a-5472-4c2f-8585-fd024fc0328a"
+    },
+    "created_time": "2022-07-10T15:28:00.000Z",
+    "last_edited_time": "2022-07-10T15:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "embed",
+    "embed": {
+      "caption": [],
+      "url": "https://open.spotify.com/playlist/37i9dQZF1DX1S1NduGwpsa?si=a4146089f7794ef8"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7efb615a-f571-4bc2-86b9-71ac9a6bbdf0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "4cf3730a-5472-4c2f-8585-fd024fc0328a"
+    },
+    "created_time": "2022-07-10T11:02:00.000Z",
+    "last_edited_time": "2022-07-10T11:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "made an incredible omelette with onions, garlic, kale, feta and cheddar ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "made an incredible omelette with onions, garlic, kale, feta and cheddar ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6defc1cb-cc6e-4324-85ef-301b4ff280c3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "4cf3730a-5472-4c2f-8585-fd024fc0328a"
+    },
+    "created_time": "2022-07-10T11:03:00.000Z",
+    "last_edited_time": "2022-07-10T12:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Jordan fixed her car battery. It was a loose terminal. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Jordan fixed her car battery. It was a loose terminal. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "93d3decf-3644-4d02-b794-e811e03469e6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "4cf3730a-5472-4c2f-8585-fd024fc0328a"
+    },
+    "created_time": "2022-07-10T12:42:00.000Z",
+    "last_edited_time": "2022-07-10T12:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Went off to buy some snacks for a picnic and went to Emmarentia Park",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Went off to buy some snacks for a picnic and went to Emmarentia Park",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8e2928cb-abf7-4172-bf3a-d6da68d29911",
+    "parent": {
+      "type": "page_id",
+      "page_id": "4cf3730a-5472-4c2f-8585-fd024fc0328a"
+    },
+    "created_time": "2022-07-10T12:42:00.000Z",
+    "last_edited_time": "2022-07-10T12:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/1d918e45-fb0c-4886-8176-9ef9506dee17/E232996B-AD36-4340-94F5-51E6A930B770.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SC5TQOOV%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084624Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDOT84vvCH2X%2ByiXGdUoGmwQHWS3lY1lkoGTbLPhbCjMAIhALTRpjER1AfEopUW6MmSWv34J0aG7uS3mbaM8aF%2BpZdVKv8DCHEQABoMNjM3NDIzMTgzODA1Igz0L4F4mwum7t5SS40q3AN%2B%2BEOmS%2FvzfA45dp0lhOPabYNb28ETzmrma9ilvhtTzdB5cfpJxgqKtkBb5vy4%2FgwWyvZLTLcLm5sPOUWm%2F82RKwEOzpw0jdWcMOck3bZyID2yWTZjDYk2t0dhpFo%2BOhccYing9GphuJ0UGaa4pDWD2iJqNTz%2FwgxkiUzM2S1H7gQApp2UvMWpbyI4fA7DzswtIdxM%2Bl%2B6HdfKzmR9SzQJt%2Fi%2BKyhDbkZEovQWcFKV%2FM6vT6Rinj25HD4jvfx3qWP3MayPt14koAK%2B3d4A%2F1s%2BzPZ2CtKPwTNGkiF317X0UVDdjKrKwiS0PeAIcHygV0oOqULEKqUm82%2BwSyKYIQMbrweQCsnlMfJEp1wqvWzQZGPZyXN9cgiSWpuzeuFbl3KchiEWGwyBSVUGJMgBWb%2FwKFK55i9a77Fb%2BC5xGcvOmti2247u7NdYa3YJti8Ib7AMXTz%2F64YrxaFZb1QNRrRGH%2FVXb1wM2T%2BxKH3S0kbi1stY4NiN5cpf%2FhaJojdiqsNMLr5dov2HMO3PBSe7m9ZfHuUVIGIMxRTMhi0GoIRj9RwxMfewcWrzczQjNHOKUaUhnox56ryVISCqJ2INczrX4R9EvWPwyiAY7YKVdEFdGzcZ4TqjTRwXbECKzTD03MnNBjqkAd4cunsedR5uVeOUfw2goo65J5fU0RChf%2BQzDLBZiZfodDa9q2z%2BuRPbq4fXOe6rSKp6i6xs4%2Bt5r8zfUyu4WFS1vP83FhPQ4DrBR3Nd5o91s8tWZwOECFB7envIJm6M5HFHFSrWBj6A%2FGLurrTivr1Rc1ZDss1NMWzVaXCAmGcOkM2TgcopEIDgxY7lrRx6aMk23bQgjH%2FI86FnQe1AJPbzKi8T&X-Amz-Signature=3a1b5fdcf5debb6df814ba241cd5df668619f092406a12abf9df75576a5078ba&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:46:24.828Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f6427f42-adcc-4bf7-9bb2-261b40eb2fc8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "4cf3730a-5472-4c2f-8585-fd024fc0328a"
+    },
+    "created_time": "2022-07-10T13:38:00.000Z",
+    "last_edited_time": "2022-07-10T14:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "lovely relationship chat and checkin. I am so grateful for Jordan and my ability to talk so openly and honestly about topics that could be so triggering or emotive. I love her deeply. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "lovely relationship chat and checkin. I am so grateful for Jordan and my ability to talk so openly and honestly about topics that could be so triggering or emotive. I love her deeply. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "45c5eb1a-61fa-4a92-8195-d5202acd4407",
+    "parent": {
+      "type": "page_id",
+      "page_id": "4cf3730a-5472-4c2f-8585-fd024fc0328a"
+    },
+    "created_time": "2022-07-10T13:39:00.000Z",
+    "last_edited_time": "2022-07-10T14:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Woolworths chuckles biscuits were ridiculous. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Woolworths chuckles biscuits were ridiculous. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f6cc0499-a326-464f-983a-b54dd6d7fb5c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "4cf3730a-5472-4c2f-8585-fd024fc0328a"
+    },
+    "created_time": "2022-07-10T13:40:00.000Z",
+    "last_edited_time": "2022-07-10T14:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Dogs bound around. Birds singing in the city Forrest. Border collies jostle for tennis balls. Airplanes overhead. Jordan journals while I recap on the weekend. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Dogs bound around. Birds singing in the city Forrest. Border collies jostle for tennis balls. Airplanes overhead. Jordan journals while I recap on the weekend. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5c371a59-1fef-4ea2-bc0a-7c066b81ab37",
+    "parent": {
+      "type": "page_id",
+      "page_id": "4cf3730a-5472-4c2f-8585-fd024fc0328a"
+    },
+    "created_time": "2022-07-10T14:29:00.000Z",
+    "last_edited_time": "2022-07-10T14:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Reflected on the last 5 years together. “We found love in a hopeless place” (big digs party)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Reflected on the last 5 years together. “We found love in a hopeless place” (big digs party)",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "fa4318b5-b44a-4c12-b7f4-81ffeaae0a1b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "4cf3730a-5472-4c2f-8585-fd024fc0328a"
+    },
+    "created_time": "2022-07-10T14:29:00.000Z",
+    "last_edited_time": "2022-07-10T15:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/57bbcb58-18e1-4760-ba65-7841ec8dee6e/6753DC7C-8BCD-4796-B305-F3702B6ED300.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SC5TQOOV%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084624Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDOT84vvCH2X%2ByiXGdUoGmwQHWS3lY1lkoGTbLPhbCjMAIhALTRpjER1AfEopUW6MmSWv34J0aG7uS3mbaM8aF%2BpZdVKv8DCHEQABoMNjM3NDIzMTgzODA1Igz0L4F4mwum7t5SS40q3AN%2B%2BEOmS%2FvzfA45dp0lhOPabYNb28ETzmrma9ilvhtTzdB5cfpJxgqKtkBb5vy4%2FgwWyvZLTLcLm5sPOUWm%2F82RKwEOzpw0jdWcMOck3bZyID2yWTZjDYk2t0dhpFo%2BOhccYing9GphuJ0UGaa4pDWD2iJqNTz%2FwgxkiUzM2S1H7gQApp2UvMWpbyI4fA7DzswtIdxM%2Bl%2B6HdfKzmR9SzQJt%2Fi%2BKyhDbkZEovQWcFKV%2FM6vT6Rinj25HD4jvfx3qWP3MayPt14koAK%2B3d4A%2F1s%2BzPZ2CtKPwTNGkiF317X0UVDdjKrKwiS0PeAIcHygV0oOqULEKqUm82%2BwSyKYIQMbrweQCsnlMfJEp1wqvWzQZGPZyXN9cgiSWpuzeuFbl3KchiEWGwyBSVUGJMgBWb%2FwKFK55i9a77Fb%2BC5xGcvOmti2247u7NdYa3YJti8Ib7AMXTz%2F64YrxaFZb1QNRrRGH%2FVXb1wM2T%2BxKH3S0kbi1stY4NiN5cpf%2FhaJojdiqsNMLr5dov2HMO3PBSe7m9ZfHuUVIGIMxRTMhi0GoIRj9RwxMfewcWrzczQjNHOKUaUhnox56ryVISCqJ2INczrX4R9EvWPwyiAY7YKVdEFdGzcZ4TqjTRwXbECKzTD03MnNBjqkAd4cunsedR5uVeOUfw2goo65J5fU0RChf%2BQzDLBZiZfodDa9q2z%2BuRPbq4fXOe6rSKp6i6xs4%2Bt5r8zfUyu4WFS1vP83FhPQ4DrBR3Nd5o91s8tWZwOECFB7envIJm6M5HFHFSrWBj6A%2FGLurrTivr1Rc1ZDss1NMWzVaXCAmGcOkM2TgcopEIDgxY7lrRx6aMk23bQgjH%2FI86FnQe1AJPbzKi8T&X-Amz-Signature=72261ed540862524492661c68b386de0918719b1786d869f4f3792f77012a853&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:46:24.828Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "03f38dbe-7cd5-471f-83c6-056d00219b92",
+    "parent": {
+      "type": "page_id",
+      "page_id": "4cf3730a-5472-4c2f-8585-fd024fc0328a"
+    },
+    "created_time": "2022-07-10T13:40:00.000Z",
+    "last_edited_time": "2022-07-10T17:22:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Dinner. We’re talking mushroom truffle oil, sun-dried tomato pasta with cheese. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Dinner. We’re talking mushroom truffle oil, sun-dried tomato pasta with cheese. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6476e3a1-edc0-40db-92e3-c2d3cda672a1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "4cf3730a-5472-4c2f-8585-fd024fc0328a"
+    },
+    "created_time": "2022-07-10T17:22:00.000Z",
+    "last_edited_time": "2022-07-10T17:22:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Did a little Europe planning session for September and October:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Did a little Europe planning session for September and October:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4fd552cf-11f8-40bd-bf62-088c63c0304d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "4cf3730a-5472-4c2f-8585-fd024fc0328a"
+    },
+    "created_time": "2022-07-10T17:22:00.000Z",
+    "last_edited_time": "2022-07-10T17:22:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "embed",
+    "embed": {
+      "caption": [],
+      "url": ""
+    },
+    "archived": false
+  }
+]

@@ -1,0 +1,1300 @@
+[
+  {
+    "object": "block",
+    "id": "daf109ac-ad48-42c5-90b9-70445a7b0449",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T05:20:00.000Z",
+    "last_edited_time": "2022-09-27T08:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I wake before the alarm and try find my book in the room. After failing many times I locate it under a pile of clothes. Jordan stirs and says how good she’s feeling this morning; what a relief. I leave her to sleep and go read a book.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I wake before the alarm and try find my book in the room. After failing many times I locate it under a pile of clothes. Jordan stirs and says how good she’s feeling this morning; what a relief. I leave her to sleep and go read a book.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "dd1c5c47-4857-4fda-8a16-67fa18892ff2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T08:23:00.000Z",
+    "last_edited_time": "2022-09-27T08:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "74b4da2e-fc20-438c-8788-0a3beec2a828",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T08:16:00.000Z",
+    "last_edited_time": "2022-09-27T08:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/323ef322-4c61-49cd-aa3c-2540ee3c0aec/90EAC34D-BC3F-446E-B6D9-602FFEFA4D21.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VQCLD6BF%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084731Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQD3Es4sl4Lu4nt5pRn4rtRDRjtEK9g1zOVehhJA%2BKs%2BaAIhAO6VXrw4yJjjq4cBIY%2FPeDs1sd3463LbNz4R8XqUmuOfKv8DCHEQABoMNjM3NDIzMTgzODA1IgxIXpJ7B2FdS3eH9b8q3AMDi1jrB%2BzTm1%2FHrLpvKc%2B42Lfw4TZcxk9HhetR1sWvdH6izaO5BN2PAzJZbxqOaK9aB4XRkADfcpQ7huPb5g0bC5LAHlmf%2Fd48UplJ3S%2F9xv367eM%2Bcdt0ZlDQk7aAiL2jRtkjiqqCzX%2BK1ap740JDc%2FIuxFpJkUUcDPGxJZVtlxZ09lmmaEcKiAKiooIFnNs8hvu1GOdm8zRMvxrmAVMOIXWo2zcXF6JI%2FCt%2FA53OHApSalSb8FEPwjIezLquqV4likPhqF9olx1vlO1eNGDH%2Fd%2BORGyH8AjH169J82gLuz%2F1Zvlz1xDDrVNZi5wQtMqQiL6bKxaz4bTKYBBrtmAeeUqU1uRM2kUDWt%2FVpuWD4RARThJkeiFI5EoRWKuSEL5OnhuqdxY6MwXltQjZuk4HP9g8h7AsYhlG1tl2E6p2CrsZ8mndNeps%2FE6W%2BlSHQ%2BAAJrQhXOjtvRkyStXRVWiCb5z1NKY9ngqHMT5%2Fkv4WJXctL5%2BVkQuFmQGIAe8QyQwNcXpilt%2B1KvRXhDVauFIMr%2FXTznX4X7ROm6Ix5K1tQNdpRm5elORsSbfva4hudbDnIZCWB%2BjYWk2qQKUJ0LPo8sKS1kqf6WO8%2B78YhTolePGRYnSOvBb87uVCQzC72snNBjqkAeezwxfaAunOu%2BdNHD%2BK2JxobahcsZaQSN%2F8LcXwu7%2FcLEtIbGSAPIYuTlkfhlqRecF0MMTUpWdY9km1jgX0Zin8Cyx6%2FJmWkuD2uPaKMTgTD63FdQIw2W1MtTmrJgkVN2aC4hTkKUTxy3xUnlrle5b5MZPoKQAaJTltX7mxqA7I4ITDYZAiFR4tCk1eGtw0UbOaGzU7EuuMTU8IQnwp63WQTPtV&X-Amz-Signature=8a4e731b4d7bcc044204986e93d2f12b3b2af86e6918c7ecb96a79d0e89b51eb&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:47:31.028Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3c942aa6-b828-4373-879c-64fd0c278dc2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T08:23:00.000Z",
+    "last_edited_time": "2022-09-27T08:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "89ddfe0c-afb1-4880-915c-3da3315aa6e3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T08:23:00.000Z",
+    "last_edited_time": "2022-09-29T17:34:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Jordan is feeling hungry again and we’re eat breakfast and discuss out plans for the rest of the trip. We’re at a point where we can go north or south. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Jordan is feeling hungry again and we’re eat breakfast and discuss out plans for the rest of the trip. We’re at a point where we can go north or south. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ff450de2-2507-4f3e-bb5c-a86ed0372207",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T08:28:00.000Z",
+    "last_edited_time": "2022-09-27T08:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c39edf32-7833-4b5d-9529-c65aa2857bc4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T08:28:00.000Z",
+    "last_edited_time": "2022-09-27T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "North takes us to Senga Bay where the Sand Festival is taking place this weekend. Unfortunately it doesn’t really work out date wise for us as we could only go for one night which might not be worth it. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "North takes us to Senga Bay where the Sand Festival is taking place this weekend. Unfortunately it doesn’t really work out date wise for us as we could only go for one night which might not be worth it. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ae08a334-c620-40c4-8a52-1a1cdc6be0ea",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T08:29:00.000Z",
+    "last_edited_time": "2022-09-27T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3352e664-52f0-4e3c-926b-cb366607fa78",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T08:29:00.000Z",
+    "last_edited_time": "2022-09-27T08:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "South takes us past Monkey Bay towards Mangochi where we find a nice lodge. We decide to do it and continue the relaxed beach vibe rather than jump into a busy festival Town. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "South takes us past Monkey Bay towards Mangochi where we find a nice lodge. We decide to do it and continue the relaxed beach vibe rather than jump into a busy festival Town. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "947cf0ff-3d29-4752-9a96-1ff9978fa3ab",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T08:31:00.000Z",
+    "last_edited_time": "2022-09-27T08:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7881c559-7e18-4053-ae59-9b08da2349ca",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T08:31:00.000Z",
+    "last_edited_time": "2022-09-27T08:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We pay our bill and Jordan goes for a quick sleep. I pop down to the little shop and somehow find a bottle of kombucha in the fridge that would be great for the depleted stomach of my partner. She’s shocked to see such a drink in Malawi. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We pay our bill and Jordan goes for a quick sleep. I pop down to the little shop and somehow find a bottle of kombucha in the fridge that would be great for the depleted stomach of my partner. She’s shocked to see such a drink in Malawi. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "79f412bc-967b-40e5-86e2-7dc28e27d73c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T08:23:00.000Z",
+    "last_edited_time": "2022-09-27T08:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4d2598ae-e71f-40e0-a1e5-88727773fd15",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T08:16:00.000Z",
+    "last_edited_time": "2022-09-27T08:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/8d86df07-51d5-45c0-9d28-1093fedfb5d6/0619B24E-E995-4ACD-AB7C-AE0374C5DCF3.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VQCLD6BF%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084731Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQD3Es4sl4Lu4nt5pRn4rtRDRjtEK9g1zOVehhJA%2BKs%2BaAIhAO6VXrw4yJjjq4cBIY%2FPeDs1sd3463LbNz4R8XqUmuOfKv8DCHEQABoMNjM3NDIzMTgzODA1IgxIXpJ7B2FdS3eH9b8q3AMDi1jrB%2BzTm1%2FHrLpvKc%2B42Lfw4TZcxk9HhetR1sWvdH6izaO5BN2PAzJZbxqOaK9aB4XRkADfcpQ7huPb5g0bC5LAHlmf%2Fd48UplJ3S%2F9xv367eM%2Bcdt0ZlDQk7aAiL2jRtkjiqqCzX%2BK1ap740JDc%2FIuxFpJkUUcDPGxJZVtlxZ09lmmaEcKiAKiooIFnNs8hvu1GOdm8zRMvxrmAVMOIXWo2zcXF6JI%2FCt%2FA53OHApSalSb8FEPwjIezLquqV4likPhqF9olx1vlO1eNGDH%2Fd%2BORGyH8AjH169J82gLuz%2F1Zvlz1xDDrVNZi5wQtMqQiL6bKxaz4bTKYBBrtmAeeUqU1uRM2kUDWt%2FVpuWD4RARThJkeiFI5EoRWKuSEL5OnhuqdxY6MwXltQjZuk4HP9g8h7AsYhlG1tl2E6p2CrsZ8mndNeps%2FE6W%2BlSHQ%2BAAJrQhXOjtvRkyStXRVWiCb5z1NKY9ngqHMT5%2Fkv4WJXctL5%2BVkQuFmQGIAe8QyQwNcXpilt%2B1KvRXhDVauFIMr%2FXTznX4X7ROm6Ix5K1tQNdpRm5elORsSbfva4hudbDnIZCWB%2BjYWk2qQKUJ0LPo8sKS1kqf6WO8%2B78YhTolePGRYnSOvBb87uVCQzC72snNBjqkAeezwxfaAunOu%2BdNHD%2BK2JxobahcsZaQSN%2F8LcXwu7%2FcLEtIbGSAPIYuTlkfhlqRecF0MMTUpWdY9km1jgX0Zin8Cyx6%2FJmWkuD2uPaKMTgTD63FdQIw2W1MtTmrJgkVN2aC4hTkKUTxy3xUnlrle5b5MZPoKQAaJTltX7mxqA7I4ITDYZAiFR4tCk1eGtw0UbOaGzU7EuuMTU8IQnwp63WQTPtV&X-Amz-Signature=c84426cb9b65b367481d6e4fa196be96f217b42d0622ddf1765ff938b56a485e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:47:31.028Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1928c38d-1f56-4421-bf97-d0f42f544fd6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T08:33:00.000Z",
+    "last_edited_time": "2022-09-27T08:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "981181e3-bde1-4450-bea6-228c4f4ef07f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T08:33:00.000Z",
+    "last_edited_time": "2022-09-27T13:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I go back to one of the deck chairs to write this up. The ginger kombucha isn’t too bad at all. We pack our bags, say our goodbyes and head off to Monkey Bay to draw some money and have lunch. Once again the drive through the national park is beautiful and we’re there in no time.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I go back to one of the deck chairs to write this up. The ginger kombucha isn’t too bad at all. We pack our bags, say our goodbyes and head off to Monkey Bay to draw some money and have lunch. Once again the drive through the national park is beautiful and we’re there in no time.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1a85f63c-9264-4c9d-95f2-d6df1e631e02",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T13:42:00.000Z",
+    "last_edited_time": "2022-09-27T13:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "89c8fd08-ecb7-45eb-b801-bd99fa296f2b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T13:42:00.000Z",
+    "last_edited_time": "2022-09-27T13:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "When we arrive the ATM is rebooting so we buy some small supplies in a supermarket, draw the money and then head to Linda’s - a small local restaurant and pawn shop that had been mentioned quite a few times at Mufasa. We play a game of backgammon while we wait. I win and the score is now 2 - 1.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "When we arrive the ATM is rebooting so we buy some small supplies in a supermarket, draw the money and then head to Linda’s - a small local restaurant and pawn shop that had been mentioned quite a few times at Mufasa. We play a game of backgammon while we wait. I win and the score is now 2 - 1.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "cdc5b9e5-90e5-4116-8e99-998d21cd546a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T13:41:00.000Z",
+    "last_edited_time": "2022-09-27T13:41:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "column_list",
+    "column_list": {},
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "aba7ddbf-ed81-405c-b5f4-24c21be8d37d",
+        "parent": {
+          "type": "block_id",
+          "block_id": "cdc5b9e5-90e5-4116-8e99-998d21cd546a"
+        },
+        "created_time": "2022-09-27T13:41:00.000Z",
+        "last_edited_time": "2022-09-27T13:41:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "39d408a5-8bae-46e0-92cd-fea726150cba",
+            "parent": {
+              "type": "block_id",
+              "block_id": "aba7ddbf-ed81-405c-b5f4-24c21be8d37d"
+            },
+            "created_time": "2022-09-27T13:39:00.000Z",
+            "last_edited_time": "2022-09-27T13:41:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "image",
+            "image": {
+              "caption": [],
+              "type": "file",
+              "file": {
+                "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/54a0f9cf-8ff4-452b-8702-da055a58b276/8CD7BF85-915B-40F2-BE11-4774D16E817A.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UNCJ6YIP%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084732Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIExHzp8KFmj7ua06UD5HNUTX5AbKf7YBpRVSf9B9jW%2BKAiEA95aPfjv8yGROfAm4AQjMT6JU%2FqKaI1QaB1d3tCvF4YYq%2FwMIcRAAGgw2Mzc0MjMxODM4MDUiDBU9uh5VJa9FcZhhaircA3UKOtyM6XXKwtxGqFzoN8eXwspJuVRmxob0%2F%2ByNb42pMIcNQn7q%2FuEXXHuAdOqErh3%2FBDPBH%2Fd%2FR%2Fgh9UqGzjNxBxeTYaoTdEq49NJACcTJIgbltIQRXhTh8CHlSgLYZQbIMVNRRY28ZEpBHwbJqxssvAsqz4Zz4DPP5xIDRz7hN8Lh9d8vdcCGFLI4SvbOeT%2BA2mGQLexmep7A6fMro%2BRdP3g58bhZk%2FCzb4WDigdxulYj5nZa3MJqRAztaOHjf9YvrmwhCLRWWWKh%2B1JstpupwGdZLvWGOKVL%2BF%2F8uz5gN6bmoH58r%2B5zezh7dOlHSXPW8jPCKw2Ul1MSLtz2Qbionm8BHG9vxVObBFQ9E80jGFMi1KvXVy9oIGLRbhBpg7A5cc2Qwm3H2GZX4uPyneStaqsEOG%2BfrysToyCoiGenQuXWCmkTR3nRPbwWPsNzG03zm3we8WHsuPNTV5Q8lsszgcrSXSh8CUzldwWUhPpC%2BD09FtML95L0%2F4aU9bqpPwYF7%2BvraA%2B%2F2qvKOjz36bt6WCvphdsSsN6aoXTL4JxOZ7PYJoUqEcDPe46wsjtT8gux1bKcVHskJPnVTGDyifIj00zCK35FLsX2nmyW740U2ETpUs2YVkGvt9wbMIPbyc0GOqUBvzYkAcyKsaRGE4GUdsKXAD8PIrCvaP%2BjCesOUTa2dFeLI9%2Fn8ig5fVq27zLsvlqniP3k7L098Bg1As7H7UpmdsX3Gm%2BhopV87bWaQxKDbG58HaHqrdKhvnfcMfjuE3Om52P8ibFYllenjm1rHFluVN028hOVVC4bxUMgU5dso%2FIlrCytZSyE2HHVJyEMjZBjv8a7aiSVepBdG70s70V2j9fLp38y&X-Amz-Signature=a647caec174b562cd39881f953c9070ead002373f54736497fb9fb241d3ac268&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "expiry_time": "2026-03-12T09:47:32.788Z"
+              }
+            },
+            "archived": false
+          }
+        ]
+      },
+      {
+        "object": "block",
+        "id": "c1fe0ea9-44b5-4d7a-82fa-18dafa075fce",
+        "parent": {
+          "type": "block_id",
+          "block_id": "cdc5b9e5-90e5-4116-8e99-998d21cd546a"
+        },
+        "created_time": "2022-09-27T13:41:00.000Z",
+        "last_edited_time": "2022-09-27T13:41:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "a70d54bf-5a0f-4f6a-bf90-66de0d08cdeb",
+            "parent": {
+              "type": "block_id",
+              "block_id": "c1fe0ea9-44b5-4d7a-82fa-18dafa075fce"
+            },
+            "created_time": "2022-09-27T13:39:00.000Z",
+            "last_edited_time": "2022-09-27T13:41:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "image",
+            "image": {
+              "caption": [],
+              "type": "file",
+              "file": {
+                "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/bef93917-8c75-4a68-9e86-268ac735a47f/B71A7803-8CE2-4997-9D30-CC97B074EF6C.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SCH6CVSU%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084732Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD7djxKnGNAEjng%2Ftxi6wxXb%2Bs9Xhj2CfSoXvjsOtBwBAIgVNvqnkW9PssD7c96TL%2B%2Bkw3H9K8C9Jm7AyUBG7hNCFIq%2FwMIchAAGgw2Mzc0MjMxODM4MDUiDP91gK7szc2sbsBPCyrcA6OE7fCkJqMjuz1w%2BKGWVXk9FM6qrJp7cRiQbd5MbB%2BhGbPeV7lZeHQmnI5qtDkawtABmwn82Ji5OZ8%2FvL2Oxd9qbbonjX4iSaSCCsM%2Byjju8UlaQfV11I7rIM3SrudjTV3aaytQMzyaWvMZAaKo1pIXtUEg4ARnpI6sSFJ0lbtgW4%2F%2FuKIMJeFtlZtdWWIUGWuSRgGr6CVUERNqrnGyb34n%2BJ%2FrYnsVeULN64H8Os0nb95rMLBCDYDyJURFf%2F5E4bg79OzAopaq6Dwa1RlMpALA33nlNi2p4VQl2CFHKFv%2BM4Jj1LYwezUr%2BTyTO7nLbiGcmg9Zbyf%2BC2LyHeka4kepaJGdDbicuuNEIOVzqGz6zEyBiMJwnG4ZSkzZsnc%2B7TuNbTD3cv0H0fhgfhNcCrgOIAiHo5%2FPumupzTpFDdLSSGomqtZnBP0DTfp%2BO8R2VcZ7XwjV93LdgQaxHfGuCBlwza6RADS%2FO%2F2dNp94NPlMShSc9kYIISk3eTG8v9HZG0FQ0ocYeXBeGk7UJEOBQQCwjZbMHfBynDRQn6yTBB%2F4ecFBXbDYUBigdpxaqBt7SwYXRrqty9XX%2FiixBr2VrUAvv9Zas01SwvhFUiK3lR2L5MTYEAQbFBhVnSUhMOn4yc0GOqUBTotTnaECMEYWgjqYi038hRjnVceMvehEBAmef1%2BWgn9EicOG7sDLCsWuy9FSrsUJw%2BbPT38VcLBVJ5xh9AzBDUu1gEHrp7VoEahLqAGGjXUABB4m%2FJ2nnEBsmcl1Q%2B8pcKh75T4NqY33AG%2BuT83npOJXFSFAIptfMCuFxqbhpUAY%2BIbwR6dzr0CWB5eqqg8zUz8%2FBRKEohZys8pEk%2BZwhCBifirx&X-Amz-Signature=980a1ec0cf47fa41f32bb1edc246946adab8733feeddca90c7c436720f1eb979&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "expiry_time": "2026-03-12T09:47:32.526Z"
+              }
+            },
+            "archived": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "679155c3-43e0-4ef9-a704-939351c287cc",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T13:39:00.000Z",
+    "last_edited_time": "2022-09-29T17:35:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Back on the bike - heading down towards Mangochi. It’s a short drive to Nanchengwa Lodge that where we will be staying for a few days. A nice tar road takes us to a place that Google Maps is unable to. We arrive on the lake at a beautiful little lodge with old Victorian style buildings. We immediately have a swim and Jordan gets a bit of work done. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Back on the bike - heading down towards Mangochi. It’s a short drive to Nanchengwa Lodge that where we will be staying for a few days. A nice tar road takes us to a place that Google Maps is unable to. We arrive on the lake at a beautiful little lodge with old Victorian style buildings. We immediately have a swim and Jordan gets a bit of work done. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7ba8f28c-e5a4-4eb0-bf6a-024b89ca310b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T13:50:00.000Z",
+    "last_edited_time": "2022-09-27T13:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0d77c518-4449-4c3f-aa81-ae39f25a0479",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-10-11T11:52:00.000Z",
+    "last_edited_time": "2022-10-11T11:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "column_list",
+    "column_list": {},
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "fd4c9d77-fc65-43e9-b0c8-7491264bc027",
+        "parent": {
+          "type": "block_id",
+          "block_id": "0d77c518-4449-4c3f-aa81-ae39f25a0479"
+        },
+        "created_time": "2022-10-11T11:52:00.000Z",
+        "last_edited_time": "2022-10-11T11:52:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "aca55f7a-b5dd-4afd-b3aa-c8a892003797",
+            "parent": {
+              "type": "block_id",
+              "block_id": "fd4c9d77-fc65-43e9-b0c8-7491264bc027"
+            },
+            "created_time": "2022-09-27T13:49:00.000Z",
+            "last_edited_time": "2022-10-11T11:52:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "image",
+            "image": {
+              "caption": [],
+              "type": "file",
+              "file": {
+                "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/a5da1896-44b7-43b1-a5ed-64dac894f3bd/029BE664-7A10-444E-9423-957805305FC5.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46657OVOCGW%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084736Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIBDCC5jvDT9s%2FE%2BBRGi6QwNjUwo5BFGXH9PTVIqiaNyvAiEAo8LBb79hFc%2FT7ECbR3lE%2B8eVjejhkAYhfSavIjK9a6Iq%2FwMIchAAGgw2Mzc0MjMxODM4MDUiDGF%2FUHdDP47pZuqRByrcA%2BHSNyfeFBJCBev5beYkW%2Fd7IuW3yzE3QytIB9l9ie0T9il%2BTSCcMrVKMRHbIYBv%2FeglarbmQNxx2Yj8JEmr3%2FZcnc9a%2F4bIhMFQQh5vyDRj%2BR4wiGiTrYeFuPp%2B8X4xSTMCfa2YzQtTeJ9kY1KAMmHUJErAv9YYPRmA7V4h9uCC2Td129IpPbGVibNfMGHA%2Byq%2BrN9AvFubi9Sj9ipw8zA8CbIKvffeA0%2FqcEgYQ%2Fr1VxQ%2Byk%2BL3pSyhFShSzhrtohCaSwv9zgrvVTujUeua6KADGxyyzL1%2BMIm%2FQTraFtckaNAj8eDYSfScwRaOxs%2FEiEsi0lRd6UxI2GOCznp15EMm%2FtUOixIrJNFG0K1IfiANAT0SAxkcfAa9Vo65MRZQagsuQ%2BElo2jdMLmFll2o7z7iZOmjRVAO6HuwIjqsmAJ9LnzPHE%2BZza6sznrIPgen3RH0Scujwrmhmx5IAj5lp7hKa%2FhGnbcGr51NHUA4FkM0%2FGHtayVYSOXfCtxFWHCltXDdZU0zDM0PW95HRnJpRA8MfiV3C6KLPn4ejd7vfiD3jpWsQQyfGkQMKi5jVEivcSPCcUlY08i6rmfburlb9yl6EARH0xzdkYwx97h3lfK5B393QiW8xMmPqnbMOL4yc0GOqUBeiwCpmeN6sjEvCU8ncTKxfb99jwvMQrj35boZoG1qoPNXshcYlUw9iP3RC9CukqvKMgpsnqcVlKG18kRAV9rXkIxGhnaPKjwirM2sBdZrOQ%2BPhtGw9mwZhdZ%2BE0j0VTkC14eCbgEP%2BLWY1uBTw3k57aFZaoo1VLOE3E9PfEaTRw%2FqtNnp6%2BArZF6Y59ggjDZwaRoBEHbiRhPCrdrhJO8mTpM6X3X&X-Amz-Signature=cd7e1290a6b4f36004763b975f119e6383456b24bbc146384c2e178e16a65ec1&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "expiry_time": "2026-03-12T09:47:36.070Z"
+              }
+            },
+            "archived": false
+          }
+        ]
+      },
+      {
+        "object": "block",
+        "id": "a2d48f33-7d1b-49a6-9cf2-b769a64460c4",
+        "parent": {
+          "type": "block_id",
+          "block_id": "0d77c518-4449-4c3f-aa81-ae39f25a0479"
+        },
+        "created_time": "2022-10-11T11:52:00.000Z",
+        "last_edited_time": "2022-10-11T11:52:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "2332e28f-3c34-4968-be1f-0fe24364bffe",
+            "parent": {
+              "type": "block_id",
+              "block_id": "a2d48f33-7d1b-49a6-9cf2-b769a64460c4"
+            },
+            "created_time": "2022-09-27T13:49:00.000Z",
+            "last_edited_time": "2022-10-11T11:52:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "image",
+            "image": {
+              "caption": [],
+              "type": "file",
+              "file": {
+                "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/50594b26-dbe5-4ab8-af6b-805e5f4e6bab/8209EF7C-E832-4E3D-8AD7-D10AD94B2C76.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4662YUDZPEX%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084736Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIHHVCzqtV8EhzP03EDn2L3%2FWnWxnyu0jbmSDmL3m1wZSAiEA77%2BEeImxfB7E0yMICRBtTV8VNnUHlptTe0MkyFkzisMq%2FwMIcRAAGgw2Mzc0MjMxODM4MDUiDKRtKeLREXMPO9KE0yrcAwyb13aB4AAJViO00jQl5brK1AO6RZXO0KyFeniPk0L%2BPcLGNYy2PswMI%2FjhnvJcER7Q0CDSNdZf%2FnUNBxwpLIwNS3zlg5brUcq7Kxq%2BM80gyMx7LeEwRh1jKPvyG5pZcXV%2BJwV0kaQyiojJsU4zT%2BttotW7kvCsaNlz%2FpP6tUHEUor9eewypVX%2FO6gH3ZhkHUfS00ndiGGlZlTsGjrOw2%2FmmIQE5hzYhgQP%2FHGqwgHmoZfuAE0Oc5szRiDn7J0plpjCWLYkiZ1c%2FTXSnToXthvai6dahsjKr6XyrIG2AmQ9YhDiv4PwpRKIffnf%2FUsBWlkGiLxo%2Bmwk%2BjoayFW3f1O0f3stIDlsbP3qvxFtiikR4LvYX3IO4Ts0itSL2L%2BdxT7T0cy2a%2FX2J%2BrzxcM5RQ7Hr3WSW0hTruKUG2xhb2wH9rRMv4ormFdOHLB%2FvkE1ZKsrbweA6wMT3cVL7c8Cpogd3%2BELUTEgf%2BdrEl2hBv12Ilb67BbIUt9fuqkBa2DBiu06KYHJ6%2BW5mHxu9sRc4%2Bf9CSzi2qdAptaqz%2FvTZ1HPhxh2qC72Pp%2BThCnbWyfE4LNxW8riYllWXfnLEbzG2ue6d723ezaJlq3SzgaACvITMcDS%2BkLzRYUqF1S5MLbbyc0GOqUB5Z0la2eAiTmt5uen2t8hY0mFDwU0GWWI%2FqvfmLOb57d%2FbkXCcgjD%2Bi2Ok2YdgHQA%2B5JWMCeQekXvrWRZXqxW9b5xnGdfNro8VfxjTlUwovMpH142DqEs4tKfAbfvQD89ySuqiVf8qoB8%2BKYXJzj8oABva1LAGN%2FaNL342AW5UYcjKvoF5klwSudHH%2FhxupHrUH6MCXkJFBDxlVG7jFEd2PKWxdFJ&X-Amz-Signature=0f60004cad01787d3aad8d5ac34b5405a9deb554a5d6b90dc283087463133a2a&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "expiry_time": "2026-03-12T09:47:36.056Z"
+              }
+            },
+            "archived": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "8eb68e5f-ac79-4e73-a4f9-c28b27251b33",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T15:21:00.000Z",
+    "last_edited_time": "2022-09-27T15:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "eb536909-1bd2-4b46-98e4-836bbe14d6c9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T15:21:00.000Z",
+    "last_edited_time": "2022-09-27T15:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I get really stuck into writing the Bovineiterology blog and thoroughly enjoy it. Jordan finishes her work and comes to read The Mountain Shadow next to me. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I get really stuck into writing the Bovineiterology blog and thoroughly enjoy it. Jordan finishes her work and comes to read The Mountain Shadow next to me. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "819239bd-7e0b-4d31-b44a-36a38738e02f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T15:23:00.000Z",
+    "last_edited_time": "2022-09-27T15:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "31dd1cf1-d93e-4f21-af93-ac033ae085cb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T15:23:00.000Z",
+    "last_edited_time": "2022-09-27T15:24:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/01fe2a67-8044-48ea-a24f-f08409856ae6/B09116E6-8668-4F94-AD56-A616A181B9FA.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VQCLD6BF%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084731Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQD3Es4sl4Lu4nt5pRn4rtRDRjtEK9g1zOVehhJA%2BKs%2BaAIhAO6VXrw4yJjjq4cBIY%2FPeDs1sd3463LbNz4R8XqUmuOfKv8DCHEQABoMNjM3NDIzMTgzODA1IgxIXpJ7B2FdS3eH9b8q3AMDi1jrB%2BzTm1%2FHrLpvKc%2B42Lfw4TZcxk9HhetR1sWvdH6izaO5BN2PAzJZbxqOaK9aB4XRkADfcpQ7huPb5g0bC5LAHlmf%2Fd48UplJ3S%2F9xv367eM%2Bcdt0ZlDQk7aAiL2jRtkjiqqCzX%2BK1ap740JDc%2FIuxFpJkUUcDPGxJZVtlxZ09lmmaEcKiAKiooIFnNs8hvu1GOdm8zRMvxrmAVMOIXWo2zcXF6JI%2FCt%2FA53OHApSalSb8FEPwjIezLquqV4likPhqF9olx1vlO1eNGDH%2Fd%2BORGyH8AjH169J82gLuz%2F1Zvlz1xDDrVNZi5wQtMqQiL6bKxaz4bTKYBBrtmAeeUqU1uRM2kUDWt%2FVpuWD4RARThJkeiFI5EoRWKuSEL5OnhuqdxY6MwXltQjZuk4HP9g8h7AsYhlG1tl2E6p2CrsZ8mndNeps%2FE6W%2BlSHQ%2BAAJrQhXOjtvRkyStXRVWiCb5z1NKY9ngqHMT5%2Fkv4WJXctL5%2BVkQuFmQGIAe8QyQwNcXpilt%2B1KvRXhDVauFIMr%2FXTznX4X7ROm6Ix5K1tQNdpRm5elORsSbfva4hudbDnIZCWB%2BjYWk2qQKUJ0LPo8sKS1kqf6WO8%2B78YhTolePGRYnSOvBb87uVCQzC72snNBjqkAeezwxfaAunOu%2BdNHD%2BK2JxobahcsZaQSN%2F8LcXwu7%2FcLEtIbGSAPIYuTlkfhlqRecF0MMTUpWdY9km1jgX0Zin8Cyx6%2FJmWkuD2uPaKMTgTD63FdQIw2W1MtTmrJgkVN2aC4hTkKUTxy3xUnlrle5b5MZPoKQAaJTltX7mxqA7I4ITDYZAiFR4tCk1eGtw0UbOaGzU7EuuMTU8IQnwp63WQTPtV&X-Amz-Signature=4593cdb431caf0a55c35cf146e52bcaaa5c23bcdb9528e1ee1552e03eb0afccf&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:47:31.028Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c5b01492-07fb-483c-bc58-b0e3ed96d440",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T15:57:00.000Z",
+    "last_edited_time": "2022-09-27T15:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f3a0ad10-efa7-4be9-8723-911dd8f7e3ed",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T15:57:00.000Z",
+    "last_edited_time": "2022-09-27T15:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We play another game of backgammon and Jordan gets her ass handed to her - much to her disgruntlement. The puppies make it easier to stomach the loss though. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We play another game of backgammon and Jordan gets her ass handed to her - much to her disgruntlement. The puppies make it easier to stomach the loss though. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "70a4a9ef-b61b-4d30-bf37-f32416118f74",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T15:57:00.000Z",
+    "last_edited_time": "2022-09-27T15:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "29fb51a3-9fca-45e0-a463-634b4bfcc0ac",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T15:57:00.000Z",
+    "last_edited_time": "2022-09-27T15:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/43bcab73-bf63-4f39-ad6b-fc825a10e0f6/DA14E6A2-5F9E-4DB1-9128-6A9FEE6D7BB7.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VQCLD6BF%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084731Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQD3Es4sl4Lu4nt5pRn4rtRDRjtEK9g1zOVehhJA%2BKs%2BaAIhAO6VXrw4yJjjq4cBIY%2FPeDs1sd3463LbNz4R8XqUmuOfKv8DCHEQABoMNjM3NDIzMTgzODA1IgxIXpJ7B2FdS3eH9b8q3AMDi1jrB%2BzTm1%2FHrLpvKc%2B42Lfw4TZcxk9HhetR1sWvdH6izaO5BN2PAzJZbxqOaK9aB4XRkADfcpQ7huPb5g0bC5LAHlmf%2Fd48UplJ3S%2F9xv367eM%2Bcdt0ZlDQk7aAiL2jRtkjiqqCzX%2BK1ap740JDc%2FIuxFpJkUUcDPGxJZVtlxZ09lmmaEcKiAKiooIFnNs8hvu1GOdm8zRMvxrmAVMOIXWo2zcXF6JI%2FCt%2FA53OHApSalSb8FEPwjIezLquqV4likPhqF9olx1vlO1eNGDH%2Fd%2BORGyH8AjH169J82gLuz%2F1Zvlz1xDDrVNZi5wQtMqQiL6bKxaz4bTKYBBrtmAeeUqU1uRM2kUDWt%2FVpuWD4RARThJkeiFI5EoRWKuSEL5OnhuqdxY6MwXltQjZuk4HP9g8h7AsYhlG1tl2E6p2CrsZ8mndNeps%2FE6W%2BlSHQ%2BAAJrQhXOjtvRkyStXRVWiCb5z1NKY9ngqHMT5%2Fkv4WJXctL5%2BVkQuFmQGIAe8QyQwNcXpilt%2B1KvRXhDVauFIMr%2FXTznX4X7ROm6Ix5K1tQNdpRm5elORsSbfva4hudbDnIZCWB%2BjYWk2qQKUJ0LPo8sKS1kqf6WO8%2B78YhTolePGRYnSOvBb87uVCQzC72snNBjqkAeezwxfaAunOu%2BdNHD%2BK2JxobahcsZaQSN%2F8LcXwu7%2FcLEtIbGSAPIYuTlkfhlqRecF0MMTUpWdY9km1jgX0Zin8Cyx6%2FJmWkuD2uPaKMTgTD63FdQIw2W1MtTmrJgkVN2aC4hTkKUTxy3xUnlrle5b5MZPoKQAaJTltX7mxqA7I4ITDYZAiFR4tCk1eGtw0UbOaGzU7EuuMTU8IQnwp63WQTPtV&X-Amz-Signature=d23807933359894f03f66aaa0b4c25eca701663bd27b2086411fdd2b96dc6636&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:47:31.433Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c789ada2-e5ac-42b8-8000-b036a20583e6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T18:16:00.000Z",
+    "last_edited_time": "2022-09-27T18:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0ecf4da4-a0cc-4ce5-a2f0-1e55e085ff5e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T18:16:00.000Z",
+    "last_edited_time": "2022-09-27T18:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We play another game of backgammon and it seems one sided until Jordan makes a miracle comeback. We pause the game for dinner which is curried fish - my new favourite, kampango - and rice. Jordan has samoosas with salad that is also excellent. We resume the game but Jordan’s luck is not enough. 3 -1.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We play another game of backgammon and it seems one sided until Jordan makes a miracle comeback. We pause the game for dinner which is curried fish - my new favourite, kampango - and rice. Jordan has samoosas with salad that is also excellent. We resume the game but Jordan’s luck is not enough. 3 -1.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "eb8e2ae3-3cc4-498c-9d9e-53c44a65cf3c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T18:18:00.000Z",
+    "last_edited_time": "2022-09-27T18:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f0fa4bfa-7975-4c8f-9169-c098f375a689",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T18:18:00.000Z",
+    "last_edited_time": "2022-09-27T18:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

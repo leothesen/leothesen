@@ -1,0 +1,3887 @@
+[
+  {
+    "object": "block",
+    "id": "83d7b999-8c0b-4d5f-bafc-57ed36d38344",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T04:50:00.000Z",
+    "last_edited_time": "2024-07-23T18:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "You come for the waves. You stay for the people. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "You come for the waves. You stay for the people. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "22464142-421a-4552-8477-74729d129691",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T04:53:00.000Z",
+    "last_edited_time": "2024-05-27T04:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Rikka",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Rikka",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9a028289-640e-4d76-9961-56abfd93c5c2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T04:53:00.000Z",
+    "last_edited_time": "2024-05-27T04:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "My Mentawai Mother. A teacher by qualification, practice and demeanour. Someone that I’ve spent countless hours talking with in kitchens, while lounging on perfectly reclining wooden benches and while staring out at views that could only be described as perfect paradise. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "My Mentawai Mother. A teacher by qualification, practice and demeanour. Someone that I’ve spent countless hours talking with in kitchens, while lounging on perfectly reclining wooden benches and while staring out at views that could only be described as perfect paradise. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "bc067c7f-45b9-4695-bbc5-52891ecd1b77",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T04:56:00.000Z",
+    "last_edited_time": "2024-05-27T04:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e133ecde-2f55-4e4b-9ded-c3de99497062",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T04:56:00.000Z",
+    "last_edited_time": "2024-05-27T04:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Rikka spoke Indonesian with me relentlessly during my two years of living out here - much to my benefit. With fantastic English to explain any words or phrases that I didn’t understand, my proficiency for the language is largely thanks to her.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Rikka spoke Indonesian with me relentlessly during my two years of living out here - much to my benefit. With fantastic English to explain any words or phrases that I didn’t understand, my proficiency for the language is largely thanks to her.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9a5da4d9-0a68-4916-bc73-374ac6c402a3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T04:57:00.000Z",
+    "last_edited_time": "2024-05-27T04:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c0ab0619-5315-4f28-885f-8825bf0b77f2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T04:57:00.000Z",
+    "last_edited_time": "2024-05-27T04:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "After leaving in 2018 we stayed in contact. Sometimes just the local greeting “kuuuuuu” was yelled over Facebook Messenger. Other times it was a general catchup and update on the goings on of the Mentawais. Over the last two years it was mostly around the fact that she and her husband Walter were building a house on the other side of the island where I used to live, and that I had to come visit - no two ways about it. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "After leaving in 2018 we stayed in contact. Sometimes just the local greeting “kuuuuuu” was yelled over Facebook Messenger. Other times it was a general catchup and update on the goings on of the Mentawais. Over the last two years it was mostly around the fact that she and her husband Walter were building a house on the other side of the island where I used to live, and that I had to come visit - no two ways about it. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "bd5d2d62-c378-4fb6-8134-da9f423b850f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:00:00.000Z",
+    "last_edited_time": "2024-05-27T05:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4d48cb7d-f547-47c0-8177-e19397772b51",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:00:00.000Z",
+    "last_edited_time": "2024-05-27T05:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "She’s the reason I’m writing these words - sitting at the outside dining room table, in dense hot tropical air with every fan within a 10m radius trained on me and turned up to it’s maximum. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "She’s the reason I’m writing these words - sitting at the outside dining room table, in dense hot tropical air with every fan within a 10m radius trained on me and turned up to it’s maximum. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ccef8da7-1496-4d0e-8240-3648f9488e2c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:01:00.000Z",
+    "last_edited_time": "2024-05-27T05:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7cae57d4-01bd-4cf5-9370-b83cd209c040",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:01:00.000Z",
+    "last_edited_time": "2024-05-27T05:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "She’s a true mother. Caring, endlessly patient, generous and nurturing. My own mother was always put at ease that I was being so well looked after out here, I hope one day they meet. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "She’s a true mother. Caring, endlessly patient, generous and nurturing. My own mother was always put at ease that I was being so well looked after out here, I hope one day they meet. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f70a387e-a3a2-42b3-8dbd-3f3be79ae669",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:03:00.000Z",
+    "last_edited_time": "2024-05-27T05:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3fd35850-e818-46fe-90b9-f617d4a2c9f3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:03:00.000Z",
+    "last_edited_time": "2024-05-27T05:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "She worked as the head chef of a few of the resorts out here, and may well be the best chef in the Mentawais. With a mastery over the local cuisine, and a surprising arsenal of Western dishes she runs the tightest ship in the kitchen. We are fed three times a day like clockwork, delicious every time. I sit on the kitchen step and chat in a meandering fashion with her while she works, nostalgic down to the definition of the word. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "She worked as the head chef of a few of the resorts out here, and may well be the best chef in the Mentawais. With a mastery over the local cuisine, and a surprising arsenal of Western dishes she runs the tightest ship in the kitchen. We are fed three times a day like clockwork, delicious every time. I sit on the kitchen step and chat in a meandering fashion with her while she works, nostalgic down to the definition of the word. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "22a2c54e-c438-422e-8c7c-08ae7ca53442",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:05:00.000Z",
+    "last_edited_time": "2024-05-27T05:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ebf04ca0-ffef-4664-bd43-42455ce2f895",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:05:00.000Z",
+    "last_edited_time": "2024-06-22T03:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "She’s now the boss of her own place - rightly so. The house that she’s built has taken all the best aspects of the fancy resorts and married them so perfectly with the local experience. It’s calm and comfortable, simple yet thoughtful, busy yet relaxed. You simultaneously feel part of the island life as well as part of the Western surf tourism that has overtaken these islands over the last three decades. You can find their ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "She’s now the boss of her own place - rightly so. The house that she’s built has taken all the best aspects of the fancy resorts and married them so perfectly with the local experience. It’s calm and comfortable, simple yet thoughtful, busy yet relaxed. You simultaneously feel part of the island life as well as part of the Western surf tourism that has overtaken these islands over the last three decades. You can find their ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Instagram page here",
+            "link": {
+              "url": "https://www.instagram.com/toro_surfcamp/"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Instagram page here",
+          "href": "https://www.instagram.com/toro_surfcamp/"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ".",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ".",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e1ce5531-679d-4cba-bef0-824d1fca898c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:09:00.000Z",
+    "last_edited_time": "2024-05-27T05:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "811907c8-b47f-4f64-9bdc-9834d5bfd1f7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:09:00.000Z",
+    "last_edited_time": "2024-05-27T05:11:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Rikka is someone who I will come back to visit as long as we are both alive, and then probably after that too. As her legacy will live on through her son Albert.  ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Rikka is someone who I will come back to visit as long as we are both alive, and then probably after that too. As her legacy will live on through her son Albert.  ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "18d55d6e-fbf9-4edb-a2df-bddc6475813a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T04:55:00.000Z",
+    "last_edited_time": "2024-05-27T05:11:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Albert (Yaya)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Albert (Yaya)",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b204fefe-1dbc-4a5d-8eec-1cd486079435",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:11:00.000Z",
+    "last_edited_time": "2024-05-27T05:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Nineteen year old Albert learned to surf at Pitstops. He was shy, gentle and friendly. Six years later I video call him to pay a deposit for our accommodation and am surprised by the man that he has grown into.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Nineteen year old Albert learned to surf at Pitstops. He was shy, gentle and friendly. Six years later I video call him to pay a deposit for our accommodation and am surprised by the man that he has grown into.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "128623e3-4fd7-4db5-8f1f-ba5c2303816b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:12:00.000Z",
+    "last_edited_time": "2024-05-27T05:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ac468d8c-6080-4177-a09e-bd25ff63902d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:12:00.000Z",
+    "last_edited_time": "2024-05-27T05:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "He’s waiting at the dock in Siburet when we arrive in the Mentawai Fast. In control of the situation and as calm as his mother he whisks us through the administration of collecting bags which can notoriously be a chaotic experience. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "He’s waiting at the dock in Siburet when we arrive in the Mentawai Fast. In control of the situation and as calm as his mother he whisks us through the administration of collecting bags which can notoriously be a chaotic experience. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "90447e2f-c223-4bea-a469-c61ea643e564",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:13:00.000Z",
+    "last_edited_time": "2024-05-27T05:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "aac090a0-616b-4973-b26b-f252e1ac2764",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:13:00.000Z",
+    "last_edited_time": "2024-05-27T05:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Unwavering interest is a phrase that I would use to describe him. He soaks up experience and comes away wiser for it. He’s being groomed to run and manage the surf camp, under the ever-present watching eye of his mother. He went through school in the Mentawais and studied management at university on the mainland. He has a firm grasp of English and is keen to learn everything that I have to offer about the magical waves of the Mentawais. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Unwavering interest is a phrase that I would use to describe him. He soaks up experience and comes away wiser for it. He’s being groomed to run and manage the surf camp, under the ever-present watching eye of his mother. He went through school in the Mentawais and studied management at university on the mainland. He has a firm grasp of English and is keen to learn everything that I have to offer about the magical waves of the Mentawais. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "737afd8d-1dc9-4dda-97eb-fbfa4178b617",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:16:00.000Z",
+    "last_edited_time": "2024-05-27T05:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0ffcc7c0-2d5f-40f9-a7d7-16c7829e4c5f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:16:00.000Z",
+    "last_edited_time": "2024-05-27T05:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "He sits with us during the meals forever listening and occasionally contributing. He is out main touchpoint for activities and information, he does a fantastic job. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "He sits with us during the meals forever listening and occasionally contributing. He is out main touchpoint for activities and information, he does a fantastic job. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "478f6b71-e895-4bff-b7cd-7a4f808712e6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T04:55:00.000Z",
+    "last_edited_time": "2024-05-27T04:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b3ac2676-804c-4207-913e-4afe7c6e3a5b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T04:55:00.000Z",
+    "last_edited_time": "2024-05-27T05:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Walter",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Walter",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "87d03449-7523-499e-a577-c8e9fdba4e05",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:18:00.000Z",
+    "last_edited_time": "2024-05-27T05:19:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Indonesian men are notoriously lazy. They love a stoep, a cigarette and a day spent muttering a few words. Rikka’s husband Water is the antithesis of this. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Indonesian men are notoriously lazy. They love a stoep, a cigarette and a day spent muttering a few words. Rikka’s husband Water is the antithesis of this. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1926e365-5d7a-43d7-ad52-aa77542bea22",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:19:00.000Z",
+    "last_edited_time": "2024-05-27T05:19:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "44d0fc91-2806-44e7-8369-052a4c592d0d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:19:00.000Z",
+    "last_edited_time": "2024-05-27T05:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "One of the most talented carpenters in the Mentawais, Walter has been contracted to build many of the fancy resorts here through to houses for affluent government officials. His style of working is so unique and discombobulating to us Westerners that we simply watch him awestruck most days. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "One of the most talented carpenters in the Mentawais, Walter has been contracted to build many of the fancy resorts here through to houses for affluent government officials. His style of working is so unique and discombobulating to us Westerners that we simply watch him awestruck most days. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "46498d8c-ef69-486c-951a-0f6540d9c178",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:21:00.000Z",
+    "last_edited_time": "2024-05-27T05:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4147438d-b5f7-474a-a17d-ce070a565248",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:21:00.000Z",
+    "last_edited_time": "2024-05-27T05:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "He moves slowly, ambling to and fro, seemingly without purpose. Either in a vest, or shirtless with his stomach leading the slow charge. Yet the results of his work speak for themselves. We never saw the process that went into building the beautiful house in which we stay, yet the minuscule details in the wood speak of craftsmanship beyond comprehension. Contrary to his pace of life, his work is completed as if the world is ending tomorrow. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "He moves slowly, ambling to and fro, seemingly without purpose. Either in a vest, or shirtless with his stomach leading the slow charge. Yet the results of his work speak for themselves. We never saw the process that went into building the beautiful house in which we stay, yet the minuscule details in the wood speak of craftsmanship beyond comprehension. Contrary to his pace of life, his work is completed as if the world is ending tomorrow. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7b4886f6-09af-46c2-b286-61cc17d04fb5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:23:00.000Z",
+    "last_edited_time": "2024-05-27T05:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f9c3a82a-fc2c-4643-a125-e0e42eace75e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:23:00.000Z",
+    "last_edited_time": "2024-05-27T05:26:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Throughout our stay here we are perplexed by his attention to feedback. He’s never seen, yet maybe he’s watching from the top of a coconut tree overhead. We mention things amongst ourselves, in fast fluent English, go out for a surf and when we come back the solutions have been implemented: lock boxes for our valuable belongings are screwed to the floor, hooks are placed in the perfect position after he sees where we precariously balance a speaker, supports are positioned where heavy boys lean against railings. Walter’s work is alive and adapting to the way that we make use of it.  ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Throughout our stay here we are perplexed by his attention to feedback. He’s never seen, yet maybe he’s watching from the top of a coconut tree overhead. We mention things amongst ourselves, in fast fluent English, go out for a surf and when we come back the solutions have been implemented: lock boxes for our valuable belongings are screwed to the floor, hooks are placed in the perfect position after he sees where we precariously balance a speaker, supports are positioned where heavy boys lean against railings. Walter’s work is alive and adapting to the way that we make use of it.  ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3cd9eaed-3783-4bee-a56f-140a34171387",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:19:00.000Z",
+    "last_edited_time": "2024-05-27T05:19:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "235f4cbc-790e-4345-8383-4487fb41f9bc",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:15:00.000Z",
+    "last_edited_time": "2024-05-27T05:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "He loves a joke, a clever remark, yet never uses words unnecessarily. He works from sunrise to long past sunset. I have no doubt that I will come back here in a few years to a small village of beautifully crafted houses that are born out of Walter’s beautiful imagination.   ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "He loves a joke, a clever remark, yet never uses words unnecessarily. He works from sunrise to long past sunset. I have no doubt that I will come back here in a few years to a small village of beautifully crafted houses that are born out of Walter’s beautiful imagination.   ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8f1c6a5a-299f-4694-8cdb-e07b93b9af1a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:15:00.000Z",
+    "last_edited_time": "2024-05-27T05:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ee427204-9021-4884-aca4-f7131162d556",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T04:55:00.000Z",
+    "last_edited_time": "2024-05-27T04:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Nobear",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Nobear",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4eb30e65-edba-4d94-813e-37f56cacbbe6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T04:55:00.000Z",
+    "last_edited_time": "2024-05-27T05:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Nobear is our boat driver for the trip. Long hair, strong body and a calmness that doesn’t budge. His smile is warm and generous, his words considered and poignant. I’ve never seen such a capable driver - even after working with and voyaging with countless people in the Mentawais in the years that I lived here - I’m immediately put at easy when he takes command of the Yamaha 40hp. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Nobear is our boat driver for the trip. Long hair, strong body and a calmness that doesn’t budge. His smile is warm and generous, his words considered and poignant. I’ve never seen such a capable driver - even after working with and voyaging with countless people in the Mentawais in the years that I lived here - I’m immediately put at easy when he takes command of the Yamaha 40hp. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6def8ec4-f084-4d4e-a30f-c568dd7637d3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:31:00.000Z",
+    "last_edited_time": "2024-05-27T05:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "bcd1a651-b947-4aed-8d9a-14a5d556a521",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:31:00.000Z",
+    "last_edited_time": "2024-05-27T05:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "He holds the throttle with two fingers, gently caressing the machine that becomes an extension of his body. Straight back, feet firmly planted, only slightly apart. He never wobbles or falters at the rear of the boat. The 10m dugout tree turned surf boat is simply an extension of his body. It’s truly a sight to behold. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "He holds the throttle with two fingers, gently caressing the machine that becomes an extension of his body. Straight back, feet firmly planted, only slightly apart. He never wobbles or falters at the rear of the boat. The 10m dugout tree turned surf boat is simply an extension of his body. It’s truly a sight to behold. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7de9e1e4-a3e9-4539-9f60-f6b0d2b06897",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:32:00.000Z",
+    "last_edited_time": "2024-05-27T05:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e7f197ca-0965-44b4-9de0-eeebe79fe121",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:32:00.000Z",
+    "last_edited_time": "2024-05-27T05:34:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "His knowledge of this unpredictable ocean is unparalleled, intuitive and dynamic. He chooses the perfect line through shallow reef, breaking waves and open ocean each time. Having worked at Kandui Villas - one of the most expensive resorts out here - for many years. His skills were groomed on large seas in big boats, and it shows. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "His knowledge of this unpredictable ocean is unparalleled, intuitive and dynamic. He chooses the perfect line through shallow reef, breaking waves and open ocean each time. Having worked at Kandui Villas - one of the most expensive resorts out here - for many years. His skills were groomed on large seas in big boats, and it shows. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "2f30f0ce-eb16-41af-a003-274271372386",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:34:00.000Z",
+    "last_edited_time": "2024-05-27T05:34:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d3e28323-f224-42f5-b999-81e03bfe93d4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:34:00.000Z",
+    "last_edited_time": "2024-05-27T05:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "When the boat anchors at the surf he keenly observes the waves, the wind, the state of the anchor before paddling out on a small Firewire and surfing perfect waves much the same he drives boats. Fast, subtle lines are drawn. Minimal effort is put into every movement, harnessing the wave’s energy over using his own (much the opposite of many Brazilian surfers out here). It’s beautiful to watch. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "When the boat anchors at the surf he keenly observes the waves, the wind, the state of the anchor before paddling out on a small Firewire and surfing perfect waves much the same he drives boats. Fast, subtle lines are drawn. Minimal effort is put into every movement, harnessing the wave’s energy over using his own (much the opposite of many Brazilian surfers out here). It’s beautiful to watch. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5914f058-ea09-4621-8ad3-c6eb873a16ab",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:37:00.000Z",
+    "last_edited_time": "2024-05-27T05:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "89f43ba4-34b1-4079-be67-c7b9ceb2ec48",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:37:00.000Z",
+    "last_edited_time": "2024-05-27T05:40:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "In the water he does something that I’ve never seen a driver do, he takes care of us. When Jess’s leash breaks at Nipussi and washes onto the beach he’s the first the scene - instructing her where to swim in, how to find the small keyhole and come safely back to the boat. Due to the lack of comparison that my friends have of other boat drivers out here, I don’t think that they’re truly aware of how lucky we are to have him safely Shepard us around these dangerous seas.  ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "In the water he does something that I’ve never seen a driver do, he takes care of us. When Jess’s leash breaks at Nipussi and washes onto the beach he’s the first the scene - instructing her where to swim in, how to find the small keyhole and come safely back to the boat. Due to the lack of comparison that my friends have of other boat drivers out here, I don’t think that they’re truly aware of how lucky we are to have him safely Shepard us around these dangerous seas.  ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "209fac16-69e2-4d9e-ada6-b6e16740cd6f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:37:00.000Z",
+    "last_edited_time": "2024-05-27T05:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e5b69c6d-e637-4ba3-9424-676aff7cc892",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T04:55:00.000Z",
+    "last_edited_time": "2024-05-27T04:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Wahida and Helni",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Wahida and Helni",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6004e16c-652b-44fb-9073-c8d1a7c21796",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:40:00.000Z",
+    "last_edited_time": "2024-05-27T05:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Rikka’s sidekicks giggle and cook from the kitchen. They are in their 20s and both family of Rikka. Rikka too is grooming them to lead the kitchen for themselves one day. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Rikka’s sidekicks giggle and cook from the kitchen. They are in their 20s and both family of Rikka. Rikka too is grooming them to lead the kitchen for themselves one day. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9172300c-9fdf-4e8a-9e15-6331bfd9aa00",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:41:00.000Z",
+    "last_edited_time": "2024-05-27T05:41:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "665d4def-b7c6-4deb-91d3-a402378245c4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:41:00.000Z",
+    "last_edited_time": "2024-05-27T05:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Wahida is confident, keen to learn and chatty. As Albert’s cousin they often riff off one another in the kitchen and when serving food. Only a year apart their lifelong bond is clear. She works tirelessly, knowing that the opportunity to have Rikka as a teacher is something that many out here would give everything for. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Wahida is confident, keen to learn and chatty. As Albert’s cousin they often riff off one another in the kitchen and when serving food. Only a year apart their lifelong bond is clear. She works tirelessly, knowing that the opportunity to have Rikka as a teacher is something that many out here would give everything for. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "087172a1-05e3-415f-a98c-234b67665f9b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:43:00.000Z",
+    "last_edited_time": "2024-05-27T05:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "61d850ed-f86d-43c5-ace9-6b9df61025cd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:43:00.000Z",
+    "last_edited_time": "2024-05-27T05:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Wahida is rather awestruck by the tall shirtless men that amble around the living quarters around her. She quickly picks up on the jokes and takes to calling Josh “Kelly” and shortly after that progresses to “Slater”, his shiny scalp akin to the hero of the sport with whom Josh shares mostly looks. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Wahida is rather awestruck by the tall shirtless men that amble around the living quarters around her. She quickly picks up on the jokes and takes to calling Josh “Kelly” and shortly after that progresses to “Slater”, his shiny scalp akin to the hero of the sport with whom Josh shares mostly looks. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4001d433-74fa-4361-acde-e9cb88a4cbaf",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:45:00.000Z",
+    "last_edited_time": "2024-05-27T05:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "47e52601-ecf2-412b-bdda-594b62c4538c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:45:00.000Z",
+    "last_edited_time": "2024-05-27T05:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Helni balances Wahida’s awe with a polite timidness. It may be her first time working amongst Westerners, yet she throws herself into her work with gusto. Behind closed doors I hear her yelp with delight during the local boy’s courting. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Helni balances Wahida’s awe with a polite timidness. It may be her first time working amongst Westerners, yet she throws herself into her work with gusto. Behind closed doors I hear her yelp with delight during the local boy’s courting. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "fac0b252-e5af-4e84-9a47-e29f07c6a290",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T04:56:00.000Z",
+    "last_edited_time": "2024-05-27T04:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "An",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "An",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "913f03c2-d5a4-4079-9590-70b37b74df46",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T04:56:00.000Z",
+    "last_edited_time": "2024-05-27T05:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "An worked at the resort next to mine for two years. Beautiful, confident and talented he quickly was a goto driver at Pitstop hill. He fell in love with Marjolein with whom I worked and shortly after I left the Mentawais they both quit, and moved in together on the other side of the island. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "An worked at the resort next to mine for two years. Beautiful, confident and talented he quickly was a goto driver at Pitstop hill. He fell in love with Marjolein with whom I worked and shortly after I left the Mentawais they both quit, and moved in together on the other side of the island. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5508e072-4721-4b76-9f25-074fc1cd2f03",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:49:00.000Z",
+    "last_edited_time": "2024-05-27T05:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "62ccd4f1-c3db-4f56-ab2e-7e0ab7aba3d8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:49:00.000Z",
+    "last_edited_time": "2024-06-22T03:26:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "They have built the most beautiful house - with a bit of help from Walter - just down the beach from where we stay. They put together a ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "They have built the most beautiful house - with a bit of help from Walter - just down the beach from where we stay. They put together a ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Youtube channel",
+            "link": {
+              "url": "https://www.youtube.com/channel/UCy6apsCC6aDkZV9DmLPWIpg"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Youtube channel",
+          "href": "https://www.youtube.com/channel/UCy6apsCC6aDkZV9DmLPWIpg"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " to document their progress",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " to document their progress",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " if you’d like to see for yourself. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " if you’d like to see for yourself. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3ccf7d9b-5083-4843-9540-f5d109a7042d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:52:00.000Z",
+    "last_edited_time": "2024-05-27T05:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "97e8da60-6a7e-4624-81dc-7301f948e8cf",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:52:00.000Z",
+    "last_edited_time": "2024-06-22T03:26:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "An possesses a coolness that tattoo laden, surfing, long haired, rollie smoking hipsters could only dream of. With posture of a ballet dancer he moves through the island with purpose. Equally at ease in the water, An surfs with the straight back of Craig Anderson coupled with deft lines of ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "An possesses a coolness that tattoo laden, surfing, long haired, rollie smoking hipsters could only dream of. With posture of a ballet dancer he moves through the island with purpose. Equally at ease in the water, An surfs with the straight back of Craig Anderson coupled with deft lines of ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Torren Martyn",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Torren Martyn",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ".",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ".",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f6808807-d5b8-4df2-a7b3-62bf5693d2a7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T09:20:00.000Z",
+    "last_edited_time": "2024-05-27T09:20:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "554a8697-eea2-497e-be17-858403a89cdb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T09:20:00.000Z",
+    "last_edited_time": "2024-05-27T09:30:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Cait and I go for a walk to watch the sun rise on the second day. We’re strolling down the beach when I hear An calling my name. He strolls out from his beautiful house with a white toothed grin and invites us inside. He shows us around his three story house made of beautiful thick, varnished wood; traditional meets the west - An meets Marjolein. Marjolein has unfortunately left the island a few days earlier to go visit her family in Belgium - and we won’t cross paths this time around. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Cait and I go for a walk to watch the sun rise on the second day. We’re strolling down the beach when I hear An calling my name. He strolls out from his beautiful house with a white toothed grin and invites us inside. He shows us around his three story house made of beautiful thick, varnished wood; traditional meets the west - An meets Marjolein. Marjolein has unfortunately left the island a few days earlier to go visit her family in Belgium - and we won’t cross paths this time around. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "00fd935b-5bd2-43fd-94ae-afc21e193275",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T04:56:00.000Z",
+    "last_edited_time": "2024-05-27T04:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Dylan and Inigo",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Dylan and Inigo",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5564a324-02dc-4df7-956a-257067dab799",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:17:00.000Z",
+    "last_edited_time": "2024-06-22T03:30:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Dylan, the Kiwi, worked as a surf guide with me. We connected instantly. He’s rogue and gentle. He pushed my surfing. We spoke shit, and also hit the more meaningful topics of life. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Dylan, the Kiwi, worked as a surf guide with me. We connected instantly. He’s rogue and gentle. He pushed my surfing. We spoke shit, and also hit the more meaningful topics of life. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ae6f4d5f-0213-4f26-b35a-b2633592ddad",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-06-22T03:30:00.000Z",
+    "last_edited_time": "2024-06-22T03:30:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "aa4b1bc6-4197-4cbf-8792-34d12f856073",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-06-22T03:30:00.000Z",
+    "last_edited_time": "2024-06-22T03:30:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Inigo is a calm, thoughtful Spanish photographer who worked with me and Dylan for a few trips. He’s kind and calm. During Covid - his partner and him bought into a resort called Botik, on a private island near Hideaways and are now running the show. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Inigo is a calm, thoughtful Spanish photographer who worked with me and Dylan for a few trips. He’s kind and calm. During Covid - his partner and him bought into a resort called Botik, on a private island near Hideaways and are now running the show. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9535ad29-8ac6-46ba-b6a3-bf1e1c6b093c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-06-22T03:30:00.000Z",
+    "last_edited_time": "2024-06-22T03:30:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "54584dc5-b8cd-4947-9a2f-cd9185f32c26",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-06-22T03:30:00.000Z",
+    "last_edited_time": "2024-06-22T03:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I heard whisperings through the coconut trees that the two of them were in the islands. And by some act of luck, chance, coincidence or Mentawai magic - on the day of my birthday they simply walked right into us having lunch after hearing a similar whisper that I was back on the island. They come back for the night of my birthday and with that came a flood of tropical island memories long forgotten. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I heard whisperings through the coconut trees that the two of them were in the islands. And by some act of luck, chance, coincidence or Mentawai magic - on the day of my birthday they simply walked right into us having lunch after hearing a similar whisper that I was back on the island. They come back for the night of my birthday and with that came a flood of tropical island memories long forgotten. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9166f885-a103-4eab-ba6c-247e8441599b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:17:00.000Z",
+    "last_edited_time": "2024-05-27T05:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Bule",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Bule",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a5e62610-3ba9-4e78-803b-431f902e1f9f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:52:00.000Z",
+    "last_edited_time": "2024-06-22T03:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "“Bule” means “foreigner” in Indonesian. These are the dear friends from South Africa who came along for the journey. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "“Bule” means “foreigner” in Indonesian. These are the dear friends from South Africa who came along for the journey. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0f98d147-9992-4770-97e7-4f36da94e74e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:17:00.000Z",
+    "last_edited_time": "2024-05-27T05:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Josh",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Josh",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3b770406-c801-41dc-bf9f-1b5484e24a91",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-06-22T03:32:00.000Z",
+    "last_edited_time": "2024-06-22T03:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Josh starts about a third of his sentences with “I learned”. His self awareness and willingness to change and adapt makes him one of the most fascinating people on earth. He has an incredible ability to see social patterns and behaviour with such clarity. He holds up a mirror for me that allows me to better understand myself. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Josh starts about a third of his sentences with “I learned”. His self awareness and willingness to change and adapt makes him one of the most fascinating people on earth. He has an incredible ability to see social patterns and behaviour with such clarity. He holds up a mirror for me that allows me to better understand myself. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "120698d4-5e0a-41c9-8fd6-a61f1d18157f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-06-22T03:37:00.000Z",
+    "last_edited_time": "2024-06-22T03:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5ba2be3e-0c4e-448a-af38-fc721ad184df",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-06-22T03:37:00.000Z",
+    "last_edited_time": "2024-06-22T03:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Josh never grew up a surfer - but threw himself into it later in life with the same enthusiasm, curiosity and willingness to learn that he applies to the rest of his life. Before long Josh was leading out surf trips in which I was just a passenger. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Josh never grew up a surfer - but threw himself into it later in life with the same enthusiasm, curiosity and willingness to learn that he applies to the rest of his life. Before long Josh was leading out surf trips in which I was just a passenger. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "485657aa-4cca-431b-9069-1c729050acc5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-06-22T03:39:00.000Z",
+    "last_edited_time": "2024-06-22T03:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "564e9fcd-9601-4fbe-8fde-894df0bfdaf3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-06-22T03:39:00.000Z",
+    "last_edited_time": "2024-06-22T03:40:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "On a work sabbatical, Josh came out to the Mentawais a week earlier than us. We had intermittent contact with him during this time, receiving the odd message of wonder, joy or adventure. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "On a work sabbatical, Josh came out to the Mentawais a week earlier than us. We had intermittent contact with him during this time, receiving the odd message of wonder, joy or adventure. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8a68db35-b6b2-45ce-9d9f-e161af1198d6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-06-22T03:42:00.000Z",
+    "last_edited_time": "2024-06-22T03:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "05b5d5ee-cd4b-45ad-990d-a2cc660b1b26",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-06-22T03:42:00.000Z",
+    "last_edited_time": "2024-06-22T03:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "After a four day journey we arrive on the island. Rikka, the ever-knowing mother, ushers us onto the boat to go for a quick surf before dinner. While in the water we see a small boat appearing with a tanned lanky Joshua hooting to us. A fitting reconnection. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "After a four day journey we arrive on the island. Rikka, the ever-knowing mother, ushers us onto the boat to go for a quick surf before dinner. While in the water we see a small boat appearing with a tanned lanky Joshua hooting to us. A fitting reconnection. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "cfd07c18-9df3-4d5d-b20d-a5c266bff033",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:17:00.000Z",
+    "last_edited_time": "2024-05-27T05:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4957be1e-5921-492b-9d6b-ea3c2d1de052",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:17:00.000Z",
+    "last_edited_time": "2024-05-27T05:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Caitlin",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Caitlin",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "82f73bcf-03cb-4829-b66d-0d73261a90fc",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T06:06:00.000Z",
+    "last_edited_time": "2024-05-27T06:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "When someone in Indonesia asks you if you are married, it is impolite to say “tidak” (no) - you rather say “belum” (not yet). When I was first asked in Padang if Caitlin was my wife, responding with belum was the first time that I answered that question with conviction. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "When someone in Indonesia asks you if you are married, it is impolite to say “tidak” (no) - you rather say “belum” (not yet). When I was first asked in Padang if Caitlin was my wife, responding with belum was the first time that I answered that question with conviction. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4677acc8-e7b4-4f32-a9ac-ca63f64f432e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T06:08:00.000Z",
+    "last_edited_time": "2024-05-27T06:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e06d3650-acf2-4ef5-9d9e-0fef62ba8d3c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T06:08:00.000Z",
+    "last_edited_time": "2024-05-27T06:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I fell madly in love with Cait at the end of last year. The connection was effortless and deep, multifaceted yet simple, compatible down to the core. During the first few months of our beautiful relationship I was aware that this trip was coming up, yet it was still early days - too early to invite her on a two month Indonesian adventure. Around March I floated the idea by her to the immediate response of “yes, absolutely”. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I fell madly in love with Cait at the end of last year. The connection was effortless and deep, multifaceted yet simple, compatible down to the core. During the first few months of our beautiful relationship I was aware that this trip was coming up, yet it was still early days - too early to invite her on a two month Indonesian adventure. Around March I floated the idea by her to the immediate response of “yes, absolutely”. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f52ac9ab-2599-4060-9704-81ce24ee4864",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T06:10:00.000Z",
+    "last_edited_time": "2024-05-27T06:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "29f12ec6-6b3c-4d9c-bfe4-1f144dd997ae",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T06:10:00.000Z",
+    "last_edited_time": "2024-05-27T09:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Cait is a dancer: physically, linguistically, comically, intellectually and emotionally. She is present, engaged and interested. Our relationship had blossomed during the heights of hot gurl summer in Cape Town - working, socialising, getting into nature and living the beautiful life that is possible there. We had yet to be on holiday together. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Cait is a dancer: physically, linguistically, comically, intellectually and emotionally. She is present, engaged and interested. Our relationship had blossomed during the heights of hot gurl summer in Cape Town - working, socialising, getting into nature and living the beautiful life that is possible there. We had yet to be on holiday together. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3d800c5b-0767-40bb-aaa1-ce35efe49e9b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T06:14:00.000Z",
+    "last_edited_time": "2024-05-27T06:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "fc0d3db9-be62-4456-bc27-fe487885dbc5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T06:14:00.000Z",
+    "last_edited_time": "2024-06-22T03:46:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Seen in the eye of the tube on a bodyboard, on the helm of boats, “kenning” on the beach and spitting bars at the dining room table. Cait turned off into holiday mode, and on into the extraordinary (english is clever) surf mom that she became for all of us over the two and half weeks in the Mentawais. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Seen in the eye of the tube on a bodyboard, on the helm of boats, “kenning” on the beach and spitting bars at the dining room table. Cait turned off into holiday mode, and on into the extraordinary (english is clever) surf mom that she became for all of us over the two and half weeks in the Mentawais. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e3d1d2a8-2c86-4a6c-bb58-3b5e6222d626",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:17:00.000Z",
+    "last_edited_time": "2024-05-27T05:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Niklas",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Niklas",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1375fffb-d6ff-4a66-bc60-05f613861c68",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:17:00.000Z",
+    "last_edited_time": "2024-06-22T03:48:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Niklas and I formed a friendship over surfing almost fifteen years ago. We searched the coasts of South Africa together, followed similar paths through school and University and adventured abroad together to the fabled lands of Indonesia and Namibia. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Niklas and I formed a friendship over surfing almost fifteen years ago. We searched the coasts of South Africa together, followed similar paths through school and University and adventured abroad together to the fabled lands of Indonesia and Namibia. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7c4c78d2-cb55-45c4-8fc3-20f884ae385b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-06-22T03:48:00.000Z",
+    "last_edited_time": "2024-06-22T03:48:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "327e149f-e835-4d73-a2c8-05b2e476936c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-06-22T03:48:00.000Z",
+    "last_edited_time": "2024-06-22T03:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "With seemingly limitless amount of energy - that disappears in an instant, and he falls asleep - he has pushed the limits of adventure in many aspects of my life. His constant pursuit of natural highs and experiences of assets have inspired and shaped me in more ways that he knows. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "With seemingly limitless amount of energy - that disappears in an instant, and he falls asleep - he has pushed the limits of adventure in many aspects of my life. His constant pursuit of natural highs and experiences of assets have inspired and shaped me in more ways that he knows. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "841751ee-86ed-442c-a517-7aac55c6db6f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-06-22T03:50:00.000Z",
+    "last_edited_time": "2024-06-22T03:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8151bd47-adc8-4494-829f-df99d29d5d62",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-06-22T03:50:00.000Z",
+    "last_edited_time": "2024-06-22T03:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Ten years ago we went on a slightly ignorant, ambitious, chaotic and immense scooter trip that took us from Bali to Lakey Peak and back. It seemed vital that Nik joined for the monumental trip back to the Mentawais, to close the circle that was our twenties. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Ten years ago we went on a slightly ignorant, ambitious, chaotic and immense scooter trip that took us from Bali to Lakey Peak and back. It seemed vital that Nik joined for the monumental trip back to the Mentawais, to close the circle that was our twenties. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5d7ebc9f-dc85-4535-9760-c14ef014977a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:17:00.000Z",
+    "last_edited_time": "2024-05-27T05:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Jess",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Jess",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "765abb3a-007c-416f-862d-7c538afd6b41",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-05-27T05:05:00.000Z",
+    "last_edited_time": "2024-06-22T03:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The eternal grom. Jess and I truly formed our friendship while surfing around Durban during the early days of Covid. Her perpetual excitement of surfing is viscous and contagious. She’s always down for an adventure, and effortless companion in any situation. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The eternal grom. Jess and I truly formed our friendship while surfing around Durban during the early days of Covid. Her perpetual excitement of surfing is viscous and contagious. She’s always down for an adventure, and effortless companion in any situation. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9a88a669-f3ae-4e6b-9841-12a00994b9c7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-06-22T03:59:00.000Z",
+    "last_edited_time": "2024-06-22T03:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f1cfca94-ed4c-4900-bc8f-8f318f8a86c8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-06-22T03:59:00.000Z",
+    "last_edited_time": "2024-06-22T04:02:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Her mind is fascinating: deeply knowledgable about so many niche topics. She’s my goto phone a friend when it comes to any sort of music or surfing pop culture reference. If O’Neill’s tagline is “First in last out” then Jess’s is “last in last out” - in no rush when it comes to pack and get ready, but also in no rush when it comes to getting out the water. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Her mind is fascinating: deeply knowledgable about so many niche topics. She’s my goto phone a friend when it comes to any sort of music or surfing pop culture reference. If O’Neill’s tagline is “First in last out” then Jess’s is “last in last out” - in no rush when it comes to pack and get ready, but also in no rush when it comes to getting out the water. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "58215418-236c-4781-a22c-d031f7b79d01",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-06-22T04:02:00.000Z",
+    "last_edited_time": "2024-06-22T04:02:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9b9c459b-9c02-49ce-ab60-4f068c8eb236",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-06-22T04:02:00.000Z",
+    "last_edited_time": "2024-06-22T04:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Well versed in heavy water lineups, Jess was at the top of the peak in many of the more terrifying surfs that we had. She’s calculated, safe and measured. The results speak for themselves, as she left the islands with only a few bruises and no disastrous lacerations.  ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Well versed in heavy water lineups, Jess was at the top of the peak in many of the more terrifying surfs that we had. She’s calculated, safe and measured. The results speak for themselves, as she left the islands with only a few bruises and no disastrous lacerations.  ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "202886b6-5f41-44b7-96bb-0ae288c78d0a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c65ca288-8be5-4d5f-9c79-03d6c374ca94"
+    },
+    "created_time": "2024-06-22T03:29:00.000Z",
+    "last_edited_time": "2024-06-22T03:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

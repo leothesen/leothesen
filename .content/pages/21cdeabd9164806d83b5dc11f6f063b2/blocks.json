@@ -1,0 +1,708 @@
+[
+  {
+    "object": "block",
+    "id": "21edeabd-9164-80ee-ae04-d95d6f40dddf",
+    "parent": {
+      "type": "page_id",
+      "page_id": "21cdeabd-9164-806d-83b5-dc11f6f063b2"
+    },
+    "created_time": "2025-06-26T22:57:00.000Z",
+    "last_edited_time": "2025-06-26T22:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/b1a32e4a-c01c-4973-a0b3-e4443df8e40b/IMG_9439.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466XOU2PV5F%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084903Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDG0EQE%2F4691vvanIKCJlGmsoO1Vood1OGon9p%2BiH%2FrwwIhAO8LfB%2FPwqcQ89ASXp8B7P0dRCd%2B9LjYIl9L8mDEQWxBKv8DCHIQABoMNjM3NDIzMTgzODA1Igx6Lz8fp5zD60sKUCgq3AOseozuW7r0qENuowCOn1kRt5DSblfoGSWKTgggl%2Fjpk6wEMi%2FwLo6%2FpFbPy4ckT135Z9TY4FwL2yRWnL9qHjzodyZ7J7x0i3%2Bbei0%2BBHu6phdm0IreAo5UoRMIlf8T%2FvI%2ByszsdLYpjb7ue%2ByujTnGQFw29d8yvodQR7lMoXJ%2BV10JmbVHSuFFARZwYu7yR8TWrqBSEQi%2F2PNgMNE7oUgMPJTuPTkh0VHeSvxF3Hgr81FtZzz1qobEFsq4sGPZzDvEWNGIcKL6IN8dMUH5It0tUioSF68ICMlU1Ioug93lNet49jD24oDpufpTTGvnrELwJImt4GRUkF69ZkZ%2F5Nsn8mWH3ztU0%2FTs4BJ0SdJ3J%2FXfCXc%2BpTUsl%2F7Exdzu9YsmHc%2FQHPJaxlU%2F26yEBGcP68dJLaWkTPcKFAmsMd8ibYYPmshD5u0w2c2U8G%2BsqRCPPVeT%2BOPKo%2BUL671ilAuO6u7jGxg4DFFTxGkssegPnIAaKQhiwVdl0W2ibVx0D26VPzpeffAUQrWRKZGjMNksys5vAtqMg38JtTSiuW9bbGdPwy%2BvWn6ioT%2BjDcOLwOAcw4XU9FcK2wn5sZvECnUYXhbGr0yCrgSFV1fugpGTuD5uRtOh0fP2N7uJPjDL%2BcnNBjqkAcOgH0AgnNLKWJ4xPy8ri1IFyoRNSnqZJfY7b9TGgCR6b%2B0loXUtsa8r7ox%2BPbaQmnXhA9FEbKYHJNZ59H%2F03y2Jh%2Bf5JO8S8OiUy47DsSbkZpOGM%2FRU6uJkQvEPl7%2BkJqcOkTqlyHK0vvdLGcvD7DmeZdZiIwtuAatpoYf4v%2Bd%2BLgzBhFtAM6zxCNDPpHNfqkYTt2kL9RFnFmRU4fV4dzKPegp2&X-Amz-Signature=903d2287f76e6f90fc247a32991aae6bf3daf53de31cdabb576def76160b5c92&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:49:03.607Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "21edeabd-9164-805b-8631-e58ce3ef26ac",
+    "parent": {
+      "type": "page_id",
+      "page_id": "21cdeabd-9164-806d-83b5-dc11f6f063b2"
+    },
+    "created_time": "2025-06-26T22:59:00.000Z",
+    "last_edited_time": "2025-06-26T22:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "21edeabd-9164-80c5-8783-dbf5abe4ffa3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "21cdeabd-9164-806d-83b5-dc11f6f063b2"
+    },
+    "created_time": "2025-06-26T22:57:00.000Z",
+    "last_edited_time": "2025-06-26T22:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Post Waking Life we heading off to the coastal town of Ericeira for a decompression. A time mostly characterized by chilling for me, working for the babes, beach and some quaint trips into the old town for food and drinks. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Post Waking Life we heading off to the coastal town of Ericeira for a decompression. A time mostly characterized by chilling for me, working for the babes, beach and some quaint trips into the old town for food and drinks. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "21edeabd-9164-80f7-a1a1-cf59d6ae1cda",
+    "parent": {
+      "type": "page_id",
+      "page_id": "21cdeabd-9164-806d-83b5-dc11f6f063b2"
+    },
+    "created_time": "2025-06-26T22:58:00.000Z",
+    "last_edited_time": "2025-06-26T22:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "21edeabd-9164-8011-bd8a-f3715b626b05",
+    "parent": {
+      "type": "page_id",
+      "page_id": "21cdeabd-9164-806d-83b5-dc11f6f063b2"
+    },
+    "created_time": "2025-06-26T22:57:00.000Z",
+    "last_edited_time": "2025-06-26T22:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/8ae8d9c9-a8a6-4ac3-9e8e-8605fef9d96b/IMG_9442.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466XOU2PV5F%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084903Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDG0EQE%2F4691vvanIKCJlGmsoO1Vood1OGon9p%2BiH%2FrwwIhAO8LfB%2FPwqcQ89ASXp8B7P0dRCd%2B9LjYIl9L8mDEQWxBKv8DCHIQABoMNjM3NDIzMTgzODA1Igx6Lz8fp5zD60sKUCgq3AOseozuW7r0qENuowCOn1kRt5DSblfoGSWKTgggl%2Fjpk6wEMi%2FwLo6%2FpFbPy4ckT135Z9TY4FwL2yRWnL9qHjzodyZ7J7x0i3%2Bbei0%2BBHu6phdm0IreAo5UoRMIlf8T%2FvI%2ByszsdLYpjb7ue%2ByujTnGQFw29d8yvodQR7lMoXJ%2BV10JmbVHSuFFARZwYu7yR8TWrqBSEQi%2F2PNgMNE7oUgMPJTuPTkh0VHeSvxF3Hgr81FtZzz1qobEFsq4sGPZzDvEWNGIcKL6IN8dMUH5It0tUioSF68ICMlU1Ioug93lNet49jD24oDpufpTTGvnrELwJImt4GRUkF69ZkZ%2F5Nsn8mWH3ztU0%2FTs4BJ0SdJ3J%2FXfCXc%2BpTUsl%2F7Exdzu9YsmHc%2FQHPJaxlU%2F26yEBGcP68dJLaWkTPcKFAmsMd8ibYYPmshD5u0w2c2U8G%2BsqRCPPVeT%2BOPKo%2BUL671ilAuO6u7jGxg4DFFTxGkssegPnIAaKQhiwVdl0W2ibVx0D26VPzpeffAUQrWRKZGjMNksys5vAtqMg38JtTSiuW9bbGdPwy%2BvWn6ioT%2BjDcOLwOAcw4XU9FcK2wn5sZvECnUYXhbGr0yCrgSFV1fugpGTuD5uRtOh0fP2N7uJPjDL%2BcnNBjqkAcOgH0AgnNLKWJ4xPy8ri1IFyoRNSnqZJfY7b9TGgCR6b%2B0loXUtsa8r7ox%2BPbaQmnXhA9FEbKYHJNZ59H%2F03y2Jh%2Bf5JO8S8OiUy47DsSbkZpOGM%2FRU6uJkQvEPl7%2BkJqcOkTqlyHK0vvdLGcvD7DmeZdZiIwtuAatpoYf4v%2Bd%2BLgzBhFtAM6zxCNDPpHNfqkYTt2kL9RFnFmRU4fV4dzKPegp2&X-Amz-Signature=fa9af90fa24d23cfa4bd7b21a9fc1b115dfba66d7fbd3aaa8c6cc755d6766683&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:49:03.607Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "21edeabd-9164-804f-a701-f792247bd633",
+    "parent": {
+      "type": "page_id",
+      "page_id": "21cdeabd-9164-806d-83b5-dc11f6f063b2"
+    },
+    "created_time": "2025-06-26T22:59:00.000Z",
+    "last_edited_time": "2025-06-26T22:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "21edeabd-9164-8004-8a61-e8e600c36f65",
+    "parent": {
+      "type": "page_id",
+      "page_id": "21cdeabd-9164-806d-83b5-dc11f6f063b2"
+    },
+    "created_time": "2025-06-26T22:59:00.000Z",
+    "last_edited_time": "2025-06-26T23:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We stayed in a beautiful old house with three stories, Cait and I in the loft - reminding me of a room I had in St James. To have a fridge again after the festival was a luxury and we stocked it well. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We stayed in a beautiful old house with three stories, Cait and I in the loft - reminding me of a room I had in St James. To have a fridge again after the festival was a luxury and we stocked it well. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "21edeabd-9164-8056-a07e-d33d11f43b11",
+    "parent": {
+      "type": "page_id",
+      "page_id": "21cdeabd-9164-806d-83b5-dc11f6f063b2"
+    },
+    "created_time": "2025-06-26T22:59:00.000Z",
+    "last_edited_time": "2025-06-26T22:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "21edeabd-9164-802a-984f-c5de767d148d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "21cdeabd-9164-806d-83b5-dc11f6f063b2"
+    },
+    "created_time": "2025-06-26T22:57:00.000Z",
+    "last_edited_time": "2025-06-26T22:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/1676bc6b-a2eb-4bce-b2ff-9b59d9be279b/IMG_9437.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466XOU2PV5F%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084903Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDG0EQE%2F4691vvanIKCJlGmsoO1Vood1OGon9p%2BiH%2FrwwIhAO8LfB%2FPwqcQ89ASXp8B7P0dRCd%2B9LjYIl9L8mDEQWxBKv8DCHIQABoMNjM3NDIzMTgzODA1Igx6Lz8fp5zD60sKUCgq3AOseozuW7r0qENuowCOn1kRt5DSblfoGSWKTgggl%2Fjpk6wEMi%2FwLo6%2FpFbPy4ckT135Z9TY4FwL2yRWnL9qHjzodyZ7J7x0i3%2Bbei0%2BBHu6phdm0IreAo5UoRMIlf8T%2FvI%2ByszsdLYpjb7ue%2ByujTnGQFw29d8yvodQR7lMoXJ%2BV10JmbVHSuFFARZwYu7yR8TWrqBSEQi%2F2PNgMNE7oUgMPJTuPTkh0VHeSvxF3Hgr81FtZzz1qobEFsq4sGPZzDvEWNGIcKL6IN8dMUH5It0tUioSF68ICMlU1Ioug93lNet49jD24oDpufpTTGvnrELwJImt4GRUkF69ZkZ%2F5Nsn8mWH3ztU0%2FTs4BJ0SdJ3J%2FXfCXc%2BpTUsl%2F7Exdzu9YsmHc%2FQHPJaxlU%2F26yEBGcP68dJLaWkTPcKFAmsMd8ibYYPmshD5u0w2c2U8G%2BsqRCPPVeT%2BOPKo%2BUL671ilAuO6u7jGxg4DFFTxGkssegPnIAaKQhiwVdl0W2ibVx0D26VPzpeffAUQrWRKZGjMNksys5vAtqMg38JtTSiuW9bbGdPwy%2BvWn6ioT%2BjDcOLwOAcw4XU9FcK2wn5sZvECnUYXhbGr0yCrgSFV1fugpGTuD5uRtOh0fP2N7uJPjDL%2BcnNBjqkAcOgH0AgnNLKWJ4xPy8ri1IFyoRNSnqZJfY7b9TGgCR6b%2B0loXUtsa8r7ox%2BPbaQmnXhA9FEbKYHJNZ59H%2F03y2Jh%2Bf5JO8S8OiUy47DsSbkZpOGM%2FRU6uJkQvEPl7%2BkJqcOkTqlyHK0vvdLGcvD7DmeZdZiIwtuAatpoYf4v%2Bd%2BLgzBhFtAM6zxCNDPpHNfqkYTt2kL9RFnFmRU4fV4dzKPegp2&X-Amz-Signature=c00341961e7a5d68952bb7c3f17f7354a5763c4e998281a0541e5d095aceefaa&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:49:03.607Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "21edeabd-9164-8003-a972-e2bed9c51140",
+    "parent": {
+      "type": "page_id",
+      "page_id": "21cdeabd-9164-806d-83b5-dc11f6f063b2"
+    },
+    "created_time": "2025-06-26T23:00:00.000Z",
+    "last_edited_time": "2025-06-26T23:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "21edeabd-9164-8076-a33d-cc58b294abef",
+    "parent": {
+      "type": "page_id",
+      "page_id": "21cdeabd-9164-806d-83b5-dc11f6f063b2"
+    },
+    "created_time": "2025-06-26T23:00:00.000Z",
+    "last_edited_time": "2025-06-26T23:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The ocean, oh the ocean - how I’ve missed you. Dry scalp of the festival goodbye, hello to regulation once again. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The ocean, oh the ocean - how I’ve missed you. Dry scalp of the festival goodbye, hello to regulation once again. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "21edeabd-9164-8082-ba6c-ead35ef8692b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "21cdeabd-9164-806d-83b5-dc11f6f063b2"
+    },
+    "created_time": "2025-06-26T23:00:00.000Z",
+    "last_edited_time": "2025-06-26T23:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "21edeabd-9164-8058-b311-c9f9c8784f95",
+    "parent": {
+      "type": "page_id",
+      "page_id": "21cdeabd-9164-806d-83b5-dc11f6f063b2"
+    },
+    "created_time": "2025-06-26T22:57:00.000Z",
+    "last_edited_time": "2025-06-26T22:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/1776e9f6-2982-41a7-9ed9-a21bb65b6630/IMG_9438.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466XOU2PV5F%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084903Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDG0EQE%2F4691vvanIKCJlGmsoO1Vood1OGon9p%2BiH%2FrwwIhAO8LfB%2FPwqcQ89ASXp8B7P0dRCd%2B9LjYIl9L8mDEQWxBKv8DCHIQABoMNjM3NDIzMTgzODA1Igx6Lz8fp5zD60sKUCgq3AOseozuW7r0qENuowCOn1kRt5DSblfoGSWKTgggl%2Fjpk6wEMi%2FwLo6%2FpFbPy4ckT135Z9TY4FwL2yRWnL9qHjzodyZ7J7x0i3%2Bbei0%2BBHu6phdm0IreAo5UoRMIlf8T%2FvI%2ByszsdLYpjb7ue%2ByujTnGQFw29d8yvodQR7lMoXJ%2BV10JmbVHSuFFARZwYu7yR8TWrqBSEQi%2F2PNgMNE7oUgMPJTuPTkh0VHeSvxF3Hgr81FtZzz1qobEFsq4sGPZzDvEWNGIcKL6IN8dMUH5It0tUioSF68ICMlU1Ioug93lNet49jD24oDpufpTTGvnrELwJImt4GRUkF69ZkZ%2F5Nsn8mWH3ztU0%2FTs4BJ0SdJ3J%2FXfCXc%2BpTUsl%2F7Exdzu9YsmHc%2FQHPJaxlU%2F26yEBGcP68dJLaWkTPcKFAmsMd8ibYYPmshD5u0w2c2U8G%2BsqRCPPVeT%2BOPKo%2BUL671ilAuO6u7jGxg4DFFTxGkssegPnIAaKQhiwVdl0W2ibVx0D26VPzpeffAUQrWRKZGjMNksys5vAtqMg38JtTSiuW9bbGdPwy%2BvWn6ioT%2BjDcOLwOAcw4XU9FcK2wn5sZvECnUYXhbGr0yCrgSFV1fugpGTuD5uRtOh0fP2N7uJPjDL%2BcnNBjqkAcOgH0AgnNLKWJ4xPy8ri1IFyoRNSnqZJfY7b9TGgCR6b%2B0loXUtsa8r7ox%2BPbaQmnXhA9FEbKYHJNZ59H%2F03y2Jh%2Bf5JO8S8OiUy47DsSbkZpOGM%2FRU6uJkQvEPl7%2BkJqcOkTqlyHK0vvdLGcvD7DmeZdZiIwtuAatpoYf4v%2Bd%2BLgzBhFtAM6zxCNDPpHNfqkYTt2kL9RFnFmRU4fV4dzKPegp2&X-Amz-Signature=f6f5542889afec2d64a1b3afdbb972812d209110ae3afcabe2e8b94aeba42570&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:49:03.607Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "21edeabd-9164-806d-85a4-e9d62e06e627",
+    "parent": {
+      "type": "page_id",
+      "page_id": "21cdeabd-9164-806d-83b5-dc11f6f063b2"
+    },
+    "created_time": "2025-06-26T23:01:00.000Z",
+    "last_edited_time": "2025-06-26T23:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "21edeabd-9164-8094-9b28-f3b7068f63f3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "21cdeabd-9164-806d-83b5-dc11f6f063b2"
+    },
+    "created_time": "2025-06-26T23:01:00.000Z",
+    "last_edited_time": "2025-06-26T23:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Bags are packed and we’re heading off to Porto to start the Camino. Eeeek - so excited. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Bags are packed and we’re heading off to Porto to start the Camino. Eeeek - so excited. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "237deabd-9164-800b-9292-c88e1c398453",
+    "parent": {
+      "type": "page_id",
+      "page_id": "21cdeabd-9164-806d-83b5-dc11f6f063b2"
+    },
+    "created_time": "2025-07-21T13:36:00.000Z",
+    "last_edited_time": "2025-07-21T13:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "237deabd-9164-80db-8cd6-eda231610aa0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "21cdeabd-9164-806d-83b5-dc11f6f063b2"
+    },
+    "created_time": "2025-07-21T13:36:00.000Z",
+    "last_edited_time": "2025-07-21T13:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "A reflection on remote working, inspired by a discussion with Madam McCormack and from my (Cait) own experiences:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "A reflection on remote working, inspired by a discussion with Madam McCormack and from my (Cait) own experiences:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "237deabd-9164-80a3-9f1b-d57f95bb93f6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "21cdeabd-9164-806d-83b5-dc11f6f063b2"
+    },
+    "created_time": "2025-07-21T13:36:00.000Z",
+    "last_edited_time": "2025-07-21T13:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "This is not a new opinion, nor is it a unique one. But I feel that it’s prudent to get this out of my brain and into a somewhat public space, so that one day when I inevitably forget how it felt and think that it’ll be okay to try a remote working job again, I can come back here and be held accountable.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "This is not a new opinion, nor is it a unique one. But I feel that it’s prudent to get this out of my brain and into a somewhat public space, so that one day when I inevitably forget how it felt and think that it’ll be okay to try a remote working job again, I can come back here and be held accountable.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "237deabd-9164-80cb-89c7-e1aa66d398e9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "21cdeabd-9164-806d-83b5-dc11f6f063b2"
+    },
+    "created_time": "2025-07-21T13:38:00.000Z",
+    "last_edited_time": "2025-07-21T13:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Remote working is so sexy on paper. You get to travel, go on spontaneous adventures in the middle of the work day, you can work from a cafe as opposed to a stuffy office, meetings from bed, meetings in your pajamas, meetings with no pants on! I’ve capitalized on all of these benefits, and don’t get me wrong, the freedom that you have as a remote worker really is unparalleled. But there are so many restrictions within that freedom that you just don’t see until you’re in it.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Remote working is so sexy on paper. You get to travel, go on spontaneous adventures in the middle of the work day, you can work from a cafe as opposed to a stuffy office, meetings from bed, meetings in your pajamas, meetings with no pants on! I’ve capitalized on all of these benefits, and don’t get me wrong, the freedom that you have as a remote worker really is unparalleled. But there are so many restrictions within that freedom that you just don’t see until you’re in it.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "237deabd-9164-8083-88d7-dbcb7d4672fb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "21cdeabd-9164-806d-83b5-dc11f6f063b2"
+    },
+    "created_time": "2025-07-21T13:43:00.000Z",
+    "last_edited_time": "2025-07-21T13:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Take traveling for example. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Take traveling for example. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "237deabd-9164-8015-afcf-db0cce6d083a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "21cdeabd-9164-806d-83b5-dc11f6f063b2"
+    },
+    "created_time": "2025-07-21T13:40:00.000Z",
+    "last_edited_time": "2025-07-21T13:40:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

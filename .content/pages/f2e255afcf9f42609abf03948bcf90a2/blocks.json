@@ -1,0 +1,548 @@
+[
+  {
+    "object": "block",
+    "id": "c9606e3f-36fb-41ba-a4d8-d6cfc2a6d9c0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f2e255af-cf9f-4260-9abf-03948bcf90a2"
+    },
+    "created_time": "2022-08-16T09:35:00.000Z",
+    "last_edited_time": "2022-08-16T09:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The morning starts slow. I’m in no rush. Oats is made correctly by measuring out a quarter cup and I’m surprised to find that it’s enough. I also determine that 25g of coffee is sufficient and extrapolate that over the length of our run next week to see how much I’m going to have to bring. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The morning starts slow. I’m in no rush. Oats is made correctly by measuring out a quarter cup and I’m surprised to find that it’s enough. I also determine that 25g of coffee is sufficient and extrapolate that over the length of our run next week to see how much I’m going to have to bring. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e9114db9-fb91-4983-92e7-93d78ed68f9a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f2e255af-cf9f-4260-9abf-03948bcf90a2"
+    },
+    "created_time": "2022-08-16T09:37:00.000Z",
+    "last_edited_time": "2022-08-16T09:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "39566aa1-cd6f-4b90-9a05-b784ee32022e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f2e255af-cf9f-4260-9abf-03948bcf90a2"
+    },
+    "created_time": "2022-08-16T09:36:00.000Z",
+    "last_edited_time": "2022-08-16T09:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I finish off the fastpacking travel journal post in the sun outside. We do a load of washing. My body is feeling well rested and the stiffness has faded almost entirely - nice one body.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I finish off the fastpacking travel journal post in the sun outside. We do a load of washing. My body is feeling well rested and the stiffness has faded almost entirely - nice one body.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5387dbb6-2c91-4df7-8644-b28f993ceade",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f2e255af-cf9f-4260-9abf-03948bcf90a2"
+    },
+    "created_time": "2022-08-16T19:22:00.000Z",
+    "last_edited_time": "2022-08-16T19:22:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "55e3db90-679d-43ae-9e2f-0873b6a22086",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f2e255af-cf9f-4260-9abf-03948bcf90a2"
+    },
+    "created_time": "2022-08-16T19:22:00.000Z",
+    "last_edited_time": "2022-08-16T19:22:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I drift between things and the day slides by. I finish writing the fastpacking travel journal and put together the video from the trip. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I drift between things and the day slides by. I finish writing the fastpacking travel journal and put together the video from the trip. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "81b2d370-339b-41ec-a1d0-9f38dada3eb0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f2e255af-cf9f-4260-9abf-03948bcf90a2"
+    },
+    "created_time": "2022-08-16T19:22:00.000Z",
+    "last_edited_time": "2022-08-16T19:22:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6ada4077-e422-40b5-b9cc-fb9b0ffdfc2d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f2e255af-cf9f-4260-9abf-03948bcf90a2"
+    },
+    "created_time": "2022-08-16T19:22:00.000Z",
+    "last_edited_time": "2022-08-16T19:24:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I’m usually able to make any cat I see comfortable enough to come up to me for some love and scratches. I meet a happy little cat (named Luna) in the garden but she keeps her distance, rolling in the grass and scratching herself on sticks - no need for me. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I’m usually able to make any cat I see comfortable enough to come up to me for some love and scratches. I meet a happy little cat (named Luna) in the garden but she keeps her distance, rolling in the grass and scratching herself on sticks - no need for me. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9ca96e8d-18e4-415a-89b1-65ece236a179",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f2e255af-cf9f-4260-9abf-03948bcf90a2"
+    },
+    "created_time": "2022-08-16T19:27:00.000Z",
+    "last_edited_time": "2022-08-16T19:27:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/eaae6380-cb5e-4ba2-9b60-729fb5d16b50/D55D710C-49C2-4853-A8CF-7C860BB9D1B7.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466XQNAW3RF%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084848Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIE7VpexR0JS9DS5z%2FAyIAWS5gPvgcaTqUpidDWDoXyOFAiAiucPsImQmOwT4Rfj5O70ybPylbwNRawtsQS4px7%2BxVir%2FAwhyEAAaDDYzNzQyMzE4MzgwNSIMMS9NKUxlTIDSAIjeKtwDrfMWaExXHfHG8TgesJK9rRG7at6ZMSTtOQrUs3yvLJokgAnc7Lm3cEoNmubHMzrdgsL1bTsWgM257lbP9DiDVJiYDbKEhZN39eRbeM4cEUCF%2FZxzEF%2Fal7F00A367nGLhvTfLaI12ko65BlUJTU%2FyVk4XEeVXRXuyoargV%2BKQLIXLFCYh4Up0DS9PVtri%2FUwUfD6SW%2Fd%2BeeNZUgbI4yTmsXrfABsN79aBhQ%2B1X5WQeor%2FY4lJJhpePFPGQNeS51BBtKDPZrQFKjxYKD1hFoWmiHoxVVI6iiRLqhF%2BIteW7Y3nEKT4VOAvvSAPq5WL38%2B8uxpDlBz%2BA3PwNIpp1%2BDeC%2B707ZylWtA6DXOXSXgHLYB%2BOMA3VCGVXo0k91WvRG2jLq2F3KIZcR5z5UVZ5sT7kq8lTDXuw%2B1W9qFjyaV8xLzuWh2tyhjPZiEmlQ8KBsPRsBAmRgRxMPSj9s64OnVGBNmF968NyNQgyEecCpQWqjH7cjzyXJvbehUxgIXMkfn11CtBfzC7FoTVcesZQuIHSQjrYVtIJSoZ2mopzVtkGKglk7vcdBlItgoc6dLKQqNtJDX%2FmgThOTWKyoqyn%2B4IHHuCf81SGQ4gMkifbbu4IfwOL09ZomHxzOC9I8wlvrJzQY6pgHrKe%2BQgsaWK9PrnqmARG58eeU2qW2xKZYF9YMSQgs3usvbq9DuKWQG1qNE660HRn0UfYncQrfrLOO8IreD73jgXULbUdeyFugVeXqph8W%2BqKTMB4aOoGDlacvPvraBqIJnU66fbkhPu2l2%2Fz%2BE%2BtN%2B0Df8umWKCQ%2FA336dqci1%2BCoUpwbkoIKBC868CxEs7%2Fv5HQ2Q7C5b2Zl%2Fbgec0zgr3xufgPmp&X-Amz-Signature=6fef3e3fce2144ca49a1406339d90d8287ac18697cf79b64019b0bfe3a684533&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:48:48.252Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c85c2277-1626-41af-9323-0f4c9a3c4bb1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f2e255af-cf9f-4260-9abf-03948bcf90a2"
+    },
+    "created_time": "2022-08-16T19:24:00.000Z",
+    "last_edited_time": "2022-08-16T19:25:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Nikita starts baking some banana bread and I finally open my cacao macadamia nut butter and coax her incorporating it into the mixture. It’s amazing. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Nikita starts baking some banana bread and I finally open my cacao macadamia nut butter and coax her incorporating it into the mixture. It’s amazing. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "abdf5bb2-1370-4e79-af6d-4d641ae76c11",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f2e255af-cf9f-4260-9abf-03948bcf90a2"
+    },
+    "created_time": "2022-08-16T19:25:00.000Z",
+    "last_edited_time": "2022-08-16T19:25:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c60a4187-cd24-4d85-8180-3ac571150747",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f2e255af-cf9f-4260-9abf-03948bcf90a2"
+    },
+    "created_time": "2022-08-16T19:25:00.000Z",
+    "last_edited_time": "2022-08-16T19:26:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Jordan and I go for a little run around the neighborhood. It’s lovely to run with her again. She’s gotten strong and we have a flowing conversation related to our surroundings. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Jordan and I go for a little run around the neighborhood. It’s lovely to run with her again. She’s gotten strong and we have a flowing conversation related to our surroundings. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f99639e7-0c1e-4ea3-bcbe-b6f493f415ea",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f2e255af-cf9f-4260-9abf-03948bcf90a2"
+    },
+    "created_time": "2022-08-16T19:28:00.000Z",
+    "last_edited_time": "2022-08-16T19:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "582df0d2-aa39-4aa8-82aa-8659bb3f2971",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f2e255af-cf9f-4260-9abf-03948bcf90a2"
+    },
+    "created_time": "2022-08-16T19:28:00.000Z",
+    "last_edited_time": "2022-08-16T19:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "embed",
+    "embed": {
+      "caption": [],
+      "url": "https://connect.garmin.com/modern/activity/embed/9416163594"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "372d5337-f200-46d1-8cf8-a89d0a089822",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f2e255af-cf9f-4260-9abf-03948bcf90a2"
+    },
+    "created_time": "2022-08-16T19:26:00.000Z",
+    "last_edited_time": "2022-08-16T19:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "61026015-2dd0-4d30-8ba4-c8e4601a16a9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f2e255af-cf9f-4260-9abf-03948bcf90a2"
+    },
+    "created_time": "2022-08-16T19:26:00.000Z",
+    "last_edited_time": "2022-08-16T19:26:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Leftover spaghetti bolognese for dinner and banana bread. I begin packing as we’ve decided to go visit Kath at Mbona tomorrow. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Leftover spaghetti bolognese for dinner and banana bread. I begin packing as we’ve decided to go visit Kath at Mbona tomorrow. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a3f5340a-ac2d-4ee2-93ab-e0dc0be4f2e6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f2e255af-cf9f-4260-9abf-03948bcf90a2"
+    },
+    "created_time": "2022-08-16T19:24:00.000Z",
+    "last_edited_time": "2022-08-16T19:24:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

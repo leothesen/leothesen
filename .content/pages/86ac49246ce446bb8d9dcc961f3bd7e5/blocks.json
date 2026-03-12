@@ -1,0 +1,1271 @@
+[
+  {
+    "object": "block",
+    "id": "c34e77f0-9839-4dfa-a1d2-52f4d4cfed5f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-05-27T05:05:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_1",
+    "heading_1": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Waves",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Waves",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6b535492-c116-48f4-b529-c5b9a3812e00",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-05-27T05:05:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The Mentawai Islands are the Mecca of surfing. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The Mentawai Islands are the Mecca of surfing. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "2f6f0c70-ef5f-4d9b-96e9-4f26bd4f9b57",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-05-27T05:05:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Hideaways",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Hideaways",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "836d5fae-cea2-4228-863a-a5a30bf7193c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-05-27T05:05:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Hands down my favourite wave in the Mentawais, probably on earth too. A coral reef with colours to make a rainbow blush. Surrounded by islands, the swell sneaks into the reef pass, bending around ahead of you to provide a perfectly hollow wall that grinds down the shallow, sharp spectacle under foot. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Hands down my favourite wave in the Mentawais, probably on earth too. A coral reef with colours to make a rainbow blush. Surrounded by islands, the swell sneaks into the reef pass, bending around ahead of you to provide a perfectly hollow wall that grinds down the shallow, sharp spectacle under foot. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6dd9139f-01b3-461d-a8b2-744d0dbddc27",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-06-22T04:05:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8e86d5f9-e7f6-4507-b0e6-40b618801de3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-06-22T04:05:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Realistically, it’s a very dangerous wave. I came away with more than a few scars to validate this point. Yet any swell with some west in it translates to a wave here that would make most people more content than they could ask for. We surfed it at waist high and fast, to head high and hollow all the way up to triple overhead where it resembled snowboarding rather than surfing. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Realistically, it’s a very dangerous wave. I came away with more than a few scars to validate this point. Yet any swell with some west in it translates to a wave here that would make most people more content than they could ask for. We surfed it at waist high and fast, to head high and hollow all the way up to triple overhead where it resembled snowboarding rather than surfing. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8c6a1eb1-04b9-4737-abfb-90ae684aeb1f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-06-22T04:20:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "2ffaae7d-a03a-4aeb-96f9-6c7a2ff83797",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-05-27T06:14:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8f5f7079-5ed8-4a60-8235-2e80be3478a7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-05-27T06:14:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Beng Bengs",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Beng Bengs",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a95011f5-2cc9-4b69-b893-04312ceb2517",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-05-27T06:15:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Liquid lines. Buttery smooth water. Safe and gentle with a disconcertingly dangerous closeout over shallow reef its end. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Liquid lines. Buttery smooth water. Safe and gentle with a disconcertingly dangerous closeout over shallow reef its end. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "55ad0022-9335-45ca-84b2-6d74ae8e11fa",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-05-27T06:15:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e5509abc-12e9-402b-b33e-7f22c9ed942f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-05-27T06:15:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Offering fast walls on larger sets and perfect walls on the insiders it can only be described as fun. Waves peel down the reef, bending slightly away from you - lending itself to a layback as the most functional form of burning speed back to the pocket of the wave. Usually no barrels on offer, but never say never. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Offering fast walls on larger sets and perfect walls on the insiders it can only be described as fun. Waves peel down the reef, bending slightly away from you - lending itself to a layback as the most functional form of burning speed back to the pocket of the wave. Usually no barrels on offer, but never say never. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8b34dc63-bd26-4b74-a284-f96c0553fc13",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-05-30T13:45:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f6a0b846-6ea9-44a3-b966-acdae4b56ffc",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-05-27T06:06:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "No-Kandiu",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "No-Kandiu",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "bab24d34-daf9-4330-97c8-a74aa5c06301",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-05-30T13:45:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "It is described as:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "It is described as:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ec9986be-6d29-475b-a489-f06c4aafa191",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-05-30T13:47:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "quote",
+    "quote": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The perfect name for the most difficult and technically demanding left in the Mentawai. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The perfect name for the most difficult and technically demanding left in the Mentawai. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a031b4d3-ac12-41b0-a1d4-995b5ac813f0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-05-30T13:48:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "310654ee-5659-4ca1-be0b-586ee301d889",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-05-30T13:48:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We arrived there on the day of the biggest swell of our trip (and probably of the year), it was perfect. Double overhead and barrelling all the way, the swell had enough South in it to make the deathly end section makable. Sets come through when we’re on the boat and some of the best barrels that I’ve seen in my life are ridden to hoots from the channel. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We arrived there on the day of the biggest swell of our trip (and probably of the year), it was perfect. Double overhead and barrelling all the way, the swell had enough South in it to make the deathly end section makable. Sets come through when we’re on the boat and some of the best barrels that I’ve seen in my life are ridden to hoots from the channel. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "246ee22a-0a26-4a3f-a779-f319e9d844a6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-05-30T13:51:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3de4b962-a991-4332-b273-799bd0bd5a12",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-05-30T13:51:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "It’s never a secret when Kandui is on. Fifty or so surfers are in the water, the channel packed with boats. It’s a day where most people just want to be amongst it rather than surfing it. Beers are drunk on the roof of boats, music is playing, there are a paparazzi of lenses trained on every wave that comes through - it’s electric. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "It’s never a secret when Kandui is on. Fifty or so surfers are in the water, the channel packed with boats. It’s a day where most people just want to be amongst it rather than surfing it. Beers are drunk on the roof of boats, music is playing, there are a paparazzi of lenses trained on every wave that comes through - it’s electric. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0b3cafbf-f213-4608-93b9-7d136bf97625",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-05-30T13:53:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "40543efd-9055-4084-94c4-c4213da0c2b8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-05-30T13:53:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "It takes a while to get a wave, I get one or two - but nothing to write home about. The wind turns quite soon after while the tide drops further, it quickly turns from dangerously perfect to perfectly dangerous. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "It takes a while to get a wave, I get one or two - but nothing to write home about. The wind turns quite soon after while the tide drops further, it quickly turns from dangerously perfect to perfectly dangerous. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0e7f7796-34b7-4a90-905d-7362d772caab",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-05-30T13:54:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c1595933-1e9e-4c11-b1aa-821eab0c371e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-05-30T13:54:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The next day we come back to give it another crack. A gentle perfect offshore is blowing, it’s about two thirds the size and looking incredible. Niklas and I spend about two and a half hours out there and get some good ones between us. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The next day we come back to give it another crack. A gentle perfect offshore is blowing, it’s about two thirds the size and looking incredible. Niklas and I spend about two and a half hours out there and get some good ones between us. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "35634c87-20b1-49df-aa91-28a1d4a58ca9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-05-30T13:55:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d8f14586-9728-4f44-aea4-b0fe6c4dbcc4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-05-30T13:55:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I take off on the end section and pull into one that is much wider than it is high - hands out to prove the point. With no chance of making it I surrender to the abuse that ensues. It’s a long slow paddle back from where the wave deposits you to the boats. Luckily I am collected by a small boat chartered for that very reason. Ten year old Zoe joins me - the daughter of the Kandui Villas owner - I marvel at the fact that she’s grown up surfing this wave. Ten years from now I cannot imagine how comfortable she is going to be out there. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I take off on the end section and pull into one that is much wider than it is high - hands out to prove the point. With no chance of making it I surrender to the abuse that ensues. It’s a long slow paddle back from where the wave deposits you to the boats. Luckily I am collected by a small boat chartered for that very reason. Ten year old Zoe joins me - the daughter of the Kandui Villas owner - I marvel at the fact that she’s grown up surfing this wave. Ten years from now I cannot imagine how comfortable she is going to be out there. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c74e02da-a8b9-49d5-8c3b-872fef9f5057",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-05-30T13:58:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d257b9ea-882d-4ab7-9f98-bc95bad53e23",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-05-30T13:58:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Taking a quick break at the boat, getting some more fluids in (wearing a wetsuit out here is amazing for reef purposes, but wow, you sweat), Jess looks at me and says “you better not come back without getting a bomb”",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Taking a quick break at the boat, getting some more fluids in (wearing a wetsuit out here is amazing for reef purposes, but wow, you sweat), Jess looks at me and says “you better not come back without getting a bomb”",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "df73fe8f-5e7d-49ce-b58d-320f850ae1c0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-06-22T04:21:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8fc18f21-2305-4bd2-8774-3305e88e5377",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-06-22T04:21:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Ebay",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Ebay",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "75a67b7b-2e82-4591-a1f9-6ae2be426220",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-06-22T04:21:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1ca4059a-05ff-465a-aa1e-729e59172589",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-06-22T04:21:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Baby Ebay ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Baby Ebay ",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "92e8ef8f-9079-4978-aa81-b004336371b1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-05-27T05:05:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_1",
+    "heading_1": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Birthday",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Birthday",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "233c2567-152a-468b-88e7-cc24b7d42ad7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "86ac4924-6ce4-46bb-8d9d-cc961f3bd7e5"
+    },
+    "created_time": "2024-05-27T06:06:00.000Z",
+    "last_edited_time": "2024-07-23T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I celebrated my 30th birthday out here in the Mentawais, it was the catalyst that made this trip happen. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I celebrated my 30th birthday out here in the Mentawais, it was the catalyst that made this trip happen. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

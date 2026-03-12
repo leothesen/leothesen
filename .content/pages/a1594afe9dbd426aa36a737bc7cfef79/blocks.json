@@ -1,0 +1,186 @@
+[
+  {
+    "object": "block",
+    "id": "b978498d-bb9e-4851-976f-8244b9f7be00",
+    "parent": {
+      "type": "page_id",
+      "page_id": "a1594afe-9dbd-426a-a36a-737bc7cfef79"
+    },
+    "created_time": "2022-10-03T10:06:00.000Z",
+    "last_edited_time": "2022-10-03T10:07:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Our flight lands at an awful hour of the morning and we’re both quite exhausted. Our Uber ride is less than average but we get home and are absolutely relieved to have a bed. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Our flight lands at an awful hour of the morning and we’re both quite exhausted. Our Uber ride is less than average but we get home and are absolutely relieved to have a bed. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "067c2db9-c8df-4e99-9117-104a77810fca",
+    "parent": {
+      "type": "page_id",
+      "page_id": "a1594afe-9dbd-426a-a36a-737bc7cfef79"
+    },
+    "created_time": "2022-10-03T10:07:00.000Z",
+    "last_edited_time": "2022-10-03T10:07:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e0ea0dce-5a12-4eb3-86c5-2ff7d3ebc4fc",
+    "parent": {
+      "type": "page_id",
+      "page_id": "a1594afe-9dbd-426a-a36a-737bc7cfef79"
+    },
+    "created_time": "2022-10-03T10:07:00.000Z",
+    "last_edited_time": "2022-10-04T04:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We sleep until the late morning and begin cleaning ourselves and clothes. It’s midday before we know it. Jordan heads off for a doctors appointment and I to the shops. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We sleep until the late morning and begin cleaning ourselves and clothes. It’s midday before we know it. Jordan heads off for a doctors appointment and I to the shops. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "eea4c85b-d870-4119-bbb6-22b83b66b802",
+    "parent": {
+      "type": "page_id",
+      "page_id": "a1594afe-9dbd-426a-a36a-737bc7cfef79"
+    },
+    "created_time": "2022-10-04T04:37:00.000Z",
+    "last_edited_time": "2022-10-04T04:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1aa6175b-2551-48e5-b504-940b928639d3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "a1594afe-9dbd-426a-a36a-737bc7cfef79"
+    },
+    "created_time": "2022-10-04T04:37:00.000Z",
+    "last_edited_time": "2022-10-04T04:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We find ourselves making a stir fry in the candle lit load shedding quite perturbed by how normal the whole situation is. We know deep down that this is just a a layover of sorts. But it’s been a necessary rest. The bags are packed and we’re excited. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We find ourselves making a stir fry in the candle lit load shedding quite perturbed by how normal the whole situation is. We know deep down that this is just a a layover of sorts. But it’s been a necessary rest. The bags are packed and we’re excited. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

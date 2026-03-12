@@ -1,0 +1,1044 @@
+[
+  {
+    "object": "block",
+    "id": "f98cc414-a297-44a6-bd00-cd47d56e2c5e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "8b44c178-97f0-4bf9-9a34-9f74c093dacc"
+    },
+    "created_time": "2022-07-19T06:10:00.000Z",
+    "last_edited_time": "2022-07-19T06:11:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I wake up in the car in the campsite in Hogsback and know that I’m not up to do any hiking or running. I aim to be back by the coast on Wednesday as the surf is favorable, so this marks the last day in Hogsback. Which is fine with me, it’s actually been the most incredible and restful time. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I wake up in the car in the campsite in Hogsback and know that I’m not up to do any hiking or running. I aim to be back by the coast on Wednesday as the surf is favorable, so this marks the last day in Hogsback. Which is fine with me, it’s actually been the most incredible and restful time. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "432fa72b-82c7-43bc-945c-cf741128e4a8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "8b44c178-97f0-4bf9-9a34-9f74c093dacc"
+    },
+    "created_time": "2022-07-19T06:11:00.000Z",
+    "last_edited_time": "2022-07-19T06:11:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ecb480e1-a468-464f-8246-735bb5e65ef8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "8b44c178-97f0-4bf9-9a34-9f74c093dacc"
+    },
+    "created_time": "2022-07-19T06:11:00.000Z",
+    "last_edited_time": "2022-07-19T06:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I’ve been looking at a campsite in yellow sands as it’s close to east London yet a little out and I’ve heard there’s a wave there. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I’ve been looking at a campsite in yellow sands as it’s close to east London yet a little out and I’ve heard there’s a wave there. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "51efade8-b591-4c9a-8540-06ee75031afc",
+    "parent": {
+      "type": "page_id",
+      "page_id": "8b44c178-97f0-4bf9-9a34-9f74c093dacc"
+    },
+    "created_time": "2022-07-19T08:50:00.000Z",
+    "last_edited_time": "2022-07-19T08:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6ff66ce3-5ebe-4db2-abf3-dcb901302a2d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "8b44c178-97f0-4bf9-9a34-9f74c093dacc"
+    },
+    "created_time": "2022-07-19T06:10:00.000Z",
+    "last_edited_time": "2022-07-19T08:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I spend half an hour getting intimate with epoxy and fasten the grid back onto the canopy rear window. Will it survive the Transkei dirt roads though? ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I spend half an hour getting intimate with epoxy and fasten the grid back onto the canopy rear window. Will it survive the Transkei dirt roads though? ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "46b2b1b0-e9fc-496f-9ee9-2e3181a77209",
+    "parent": {
+      "type": "page_id",
+      "page_id": "8b44c178-97f0-4bf9-9a34-9f74c093dacc"
+    },
+    "created_time": "2022-07-19T09:13:00.000Z",
+    "last_edited_time": "2022-07-19T09:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I drive out of Hogsback at 11:11 feeling lucky and excited. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I drive out of Hogsback at 11:11 feeling lucky and excited. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8e2f4b4d-fe8c-4b32-833a-5ff3a154438e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "8b44c178-97f0-4bf9-9a34-9f74c093dacc"
+    },
+    "created_time": "2022-07-19T09:20:00.000Z",
+    "last_edited_time": "2022-07-19T09:20:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "embed",
+    "embed": {
+      "caption": [],
+      "url": "https://open.spotify.com/track/7KPhJ9iWtPtYautI0veUdj?si=w5qHrM_cSB-w1IWS-eSo0Q"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "570a4096-160d-4bea-9173-c8a83cfd6869",
+    "parent": {
+      "type": "page_id",
+      "page_id": "8b44c178-97f0-4bf9-9a34-9f74c093dacc"
+    },
+    "created_time": "2022-07-19T11:44:00.000Z",
+    "last_edited_time": "2022-07-19T11:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I see goats crossing zebra crossings. Cars parking in the middle of the roads. Cows that have priority over trucks. This is the eastern cape highway as I remember it. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I see goats crossing zebra crossings. Cars parking in the middle of the roads. Cows that have priority over trucks. This is the eastern cape highway as I remember it. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ddcc6970-cef6-49fc-81b3-cebb38ea3046",
+    "parent": {
+      "type": "page_id",
+      "page_id": "8b44c178-97f0-4bf9-9a34-9f74c093dacc"
+    },
+    "created_time": "2022-07-19T11:45:00.000Z",
+    "last_edited_time": "2022-07-19T11:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Arriving in east London! It feels like Durban. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Arriving in east London! It feels like Durban. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "907d3274-6268-467c-a473-3567609b44f0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "8b44c178-97f0-4bf9-9a34-9f74c093dacc"
+    },
+    "created_time": "2022-07-19T11:45:00.000Z",
+    "last_edited_time": "2022-07-19T11:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Aah the ocean. How I’ve missed you",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Aah the ocean. How I’ve missed you",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a9f68fda-b6fe-4f75-beab-78dbc71c9fd4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "8b44c178-97f0-4bf9-9a34-9f74c093dacc"
+    },
+    "created_time": "2022-07-19T12:09:00.000Z",
+    "last_edited_time": "2022-07-19T12:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/189f7368-9818-493e-b362-e03dab9408ec/E301666B-30D1-423A-B309-D3F279D2ECF8.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4667AEIPW3J%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084725Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJFMEMCIFfLTKROnJ%2BysXeVjFZIFqF3c2SXbuTOws9i5daZ3w6KAh8S5Y4ZpMOeSgCN%2B0kzP%2FgaEmLpt7o4ybqHTGrISttVKv8DCHIQABoMNjM3NDIzMTgzODA1IgxjvJzvsek34pztrVYq3AMzskt%2FCY8Q6q304vbbjCNKbKP4yzwibqXKBW%2Flj99bZDBiEugpKAa0mtuw3DQkZnBGa1%2BKTZdZlaD37ynR%2BAiSOMOTOLbyFpMmtgyCVJLQ2%2FJNL4a4YMtpEOPjI5rPurmziLpT5PiX143aNbQ9xp8dP0iIiKsUDiTXXuupooSay1gBeeGZnmWdpQLgxo3f85sLJP8ZnjnWmagCO6GFhTiThIkur51avMUWGWR7bAviVVXMXaJVQiyH90qma%2B3YfNDB7mMPuWfx9tYbm8oZ836OW68kt3wjGIGb0OyNJJrB2aKeSGFfVWGh3y8kN7uKXDSiFBkCZuJoDYWbS%2BcL6dQZDJdtgQ7%2FLKyl%2BrPoW%2BgUcUFUwFVfrmqzJsxVvnGjemoTYDStJaRSJ8ioXy4N6lAABWFTsi50mZgprzBWo8b8VvOeaBbCOqFy27vHGmjzCpqgQ0TonMlSZ3VkcAM28K1JNB2T6RvOgvONJBx1IXfadsAFDKF%2BcBfDYbAculBloi32KrYTLVKj2lLZvlz7R%2BGYCZ827%2FO5wkJYs%2BzJ69XirLvy7IVVUOxoIXHLm8amgnORfxtyND%2BhnZ2CBtrUmCFeVlsqsVzV3nZ3AErvO4Rv%2FuRmemaO8b6F9xwETzDT%2BcnNBjqnAZ9Ww%2B%2F9KX%2BGxjdsYL9UodR4DuL%2B0XFWcLuDxT6fGiX2oQIg%2FLhCi2MsQ2cqSMmlGnUCyCQxrED%2F6M%2FjFxxQI2SchQCddBC%2FH3A2lpCHh0wG8CdRgNToP3rpyeLwUCYYRrHxAlyip8Hnh3z4nzslR9BHyI4ofQEQXAzmFDhx9KFnAQEFW%2F3y2oIs%2BBhRiVTeqcVudb6LtIOFL5u2BaIN%2BSzQaSFEgP5G&X-Amz-Signature=fd92c887aec05c60acf026d4837ce68826f96418bd6222d14bc39f77d576e874&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:47:25.761Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e35a965e-e9c8-4e6b-9e73-bd9af9e79f5a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "8b44c178-97f0-4bf9-9a34-9f74c093dacc"
+    },
+    "created_time": "2022-07-19T12:42:00.000Z",
+    "last_edited_time": "2022-07-19T12:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/26ad4ea4-592b-4328-a464-b733b6798a54/98539825-FD0F-4D2C-ABFB-23D8B1EB9540.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4667AEIPW3J%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084725Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJFMEMCIFfLTKROnJ%2BysXeVjFZIFqF3c2SXbuTOws9i5daZ3w6KAh8S5Y4ZpMOeSgCN%2B0kzP%2FgaEmLpt7o4ybqHTGrISttVKv8DCHIQABoMNjM3NDIzMTgzODA1IgxjvJzvsek34pztrVYq3AMzskt%2FCY8Q6q304vbbjCNKbKP4yzwibqXKBW%2Flj99bZDBiEugpKAa0mtuw3DQkZnBGa1%2BKTZdZlaD37ynR%2BAiSOMOTOLbyFpMmtgyCVJLQ2%2FJNL4a4YMtpEOPjI5rPurmziLpT5PiX143aNbQ9xp8dP0iIiKsUDiTXXuupooSay1gBeeGZnmWdpQLgxo3f85sLJP8ZnjnWmagCO6GFhTiThIkur51avMUWGWR7bAviVVXMXaJVQiyH90qma%2B3YfNDB7mMPuWfx9tYbm8oZ836OW68kt3wjGIGb0OyNJJrB2aKeSGFfVWGh3y8kN7uKXDSiFBkCZuJoDYWbS%2BcL6dQZDJdtgQ7%2FLKyl%2BrPoW%2BgUcUFUwFVfrmqzJsxVvnGjemoTYDStJaRSJ8ioXy4N6lAABWFTsi50mZgprzBWo8b8VvOeaBbCOqFy27vHGmjzCpqgQ0TonMlSZ3VkcAM28K1JNB2T6RvOgvONJBx1IXfadsAFDKF%2BcBfDYbAculBloi32KrYTLVKj2lLZvlz7R%2BGYCZ827%2FO5wkJYs%2BzJ69XirLvy7IVVUOxoIXHLm8amgnORfxtyND%2BhnZ2CBtrUmCFeVlsqsVzV3nZ3AErvO4Rv%2FuRmemaO8b6F9xwETzDT%2BcnNBjqnAZ9Ww%2B%2F9KX%2BGxjdsYL9UodR4DuL%2B0XFWcLuDxT6fGiX2oQIg%2FLhCi2MsQ2cqSMmlGnUCyCQxrED%2F6M%2FjFxxQI2SchQCddBC%2FH3A2lpCHh0wG8CdRgNToP3rpyeLwUCYYRrHxAlyip8Hnh3z4nzslR9BHyI4ofQEQXAzmFDhx9KFnAQEFW%2F3y2oIs%2BBhRiVTeqcVudb6LtIOFL5u2BaIN%2BSzQaSFEgP5G&X-Amz-Signature=5ca2a3b2a8936eeb64b7c2a4d1dd698a0bbaa3ccec8ef7ce389cb9272ca1a22c&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:47:25.761Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "aea83f98-723d-4bdc-92b5-a92558241e04",
+    "parent": {
+      "type": "page_id",
+      "page_id": "8b44c178-97f0-4bf9-9a34-9f74c093dacc"
+    },
+    "created_time": "2022-07-19T13:12:00.000Z",
+    "last_edited_time": "2022-07-19T13:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "had a toasted sandwich at beach break cafe ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "had a toasted sandwich at beach break cafe ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "304d4f0f-c709-45d9-af3d-95a082fa065c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "8b44c178-97f0-4bf9-9a34-9f74c093dacc"
+    },
+    "created_time": "2022-07-19T13:13:00.000Z",
+    "last_edited_time": "2022-07-19T13:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Went to check out Nahoon Reef - which is a great setup! There should be a little wave here tomorrow. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Went to check out Nahoon Reef - which is a great setup! There should be a little wave here tomorrow. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0fde4fa2-1660-42a9-a46c-d81534df62e7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "8b44c178-97f0-4bf9-9a34-9f74c093dacc"
+    },
+    "created_time": "2022-07-19T15:02:00.000Z",
+    "last_edited_time": "2022-07-19T15:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Visited a horrible massive mall to get a cable. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Visited a horrible massive mall to get a cable. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9a186bb4-1608-4446-826a-2e6a1344af08",
+    "parent": {
+      "type": "page_id",
+      "page_id": "8b44c178-97f0-4bf9-9a34-9f74c093dacc"
+    },
+    "created_time": "2022-07-19T15:03:00.000Z",
+    "last_edited_time": "2022-07-19T15:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Drove to to yellow sands. Passed a sign that said I was in the wild coast. I can feel it:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Drove to to yellow sands. Passed a sign that said I was in the wild coast. I can feel it:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c00c6003-b015-4f51-8558-e6bbe7fd2978",
+    "parent": {
+      "type": "page_id",
+      "page_id": "8b44c178-97f0-4bf9-9a34-9f74c093dacc"
+    },
+    "created_time": "2022-07-19T17:45:00.000Z",
+    "last_edited_time": "2022-07-19T17:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/a835de3d-4e2d-4877-bde6-f57b90d5bdec/F1C85B62-3C0D-4FFB-B7CC-E5EB35076691.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4667AEIPW3J%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084725Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJFMEMCIFfLTKROnJ%2BysXeVjFZIFqF3c2SXbuTOws9i5daZ3w6KAh8S5Y4ZpMOeSgCN%2B0kzP%2FgaEmLpt7o4ybqHTGrISttVKv8DCHIQABoMNjM3NDIzMTgzODA1IgxjvJzvsek34pztrVYq3AMzskt%2FCY8Q6q304vbbjCNKbKP4yzwibqXKBW%2Flj99bZDBiEugpKAa0mtuw3DQkZnBGa1%2BKTZdZlaD37ynR%2BAiSOMOTOLbyFpMmtgyCVJLQ2%2FJNL4a4YMtpEOPjI5rPurmziLpT5PiX143aNbQ9xp8dP0iIiKsUDiTXXuupooSay1gBeeGZnmWdpQLgxo3f85sLJP8ZnjnWmagCO6GFhTiThIkur51avMUWGWR7bAviVVXMXaJVQiyH90qma%2B3YfNDB7mMPuWfx9tYbm8oZ836OW68kt3wjGIGb0OyNJJrB2aKeSGFfVWGh3y8kN7uKXDSiFBkCZuJoDYWbS%2BcL6dQZDJdtgQ7%2FLKyl%2BrPoW%2BgUcUFUwFVfrmqzJsxVvnGjemoTYDStJaRSJ8ioXy4N6lAABWFTsi50mZgprzBWo8b8VvOeaBbCOqFy27vHGmjzCpqgQ0TonMlSZ3VkcAM28K1JNB2T6RvOgvONJBx1IXfadsAFDKF%2BcBfDYbAculBloi32KrYTLVKj2lLZvlz7R%2BGYCZ827%2FO5wkJYs%2BzJ69XirLvy7IVVUOxoIXHLm8amgnORfxtyND%2BhnZ2CBtrUmCFeVlsqsVzV3nZ3AErvO4Rv%2FuRmemaO8b6F9xwETzDT%2BcnNBjqnAZ9Ww%2B%2F9KX%2BGxjdsYL9UodR4DuL%2B0XFWcLuDxT6fGiX2oQIg%2FLhCi2MsQ2cqSMmlGnUCyCQxrED%2F6M%2FjFxxQI2SchQCddBC%2FH3A2lpCHh0wG8CdRgNToP3rpyeLwUCYYRrHxAlyip8Hnh3z4nzslR9BHyI4ofQEQXAzmFDhx9KFnAQEFW%2F3y2oIs%2BBhRiVTeqcVudb6LtIOFL5u2BaIN%2BSzQaSFEgP5G&X-Amz-Signature=9b7b4ddeb36786a16f2b91b74c704f082e498fdb4531a4c72c1742e9f7f474a2&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:47:25.760Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "2306542d-7281-46f9-a28c-34ee103a3bda",
+    "parent": {
+      "type": "page_id",
+      "page_id": "8b44c178-97f0-4bf9-9a34-9f74c093dacc"
+    },
+    "created_time": "2022-07-19T15:03:00.000Z",
+    "last_edited_time": "2022-07-19T15:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The air is warmer, the sunsets more orange and the sea more graceful. The roads feel familiar yet it’s the first time I’ve driven many of time. There seem to be more Superspars per square kilometer than cows. Monkey and buck spoor outnumber those of dogs on the beach. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The air is warmer, the sunsets more orange and the sea more graceful. The roads feel familiar yet it’s the first time I’ve driven many of time. There seem to be more Superspars per square kilometer than cows. Monkey and buck spoor outnumber those of dogs on the beach. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d4ae2a68-bc68-46ca-b8ab-87b9d6a5c0e4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "8b44c178-97f0-4bf9-9a34-9f74c093dacc"
+    },
+    "created_time": "2022-07-19T15:07:00.000Z",
+    "last_edited_time": "2022-07-19T15:07:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/e726e40f-e764-4f3f-9b10-a9b088ebfa1e/AF3D38FC-C495-4029-B0EC-16DF020D0AEA.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4667AEIPW3J%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084725Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJFMEMCIFfLTKROnJ%2BysXeVjFZIFqF3c2SXbuTOws9i5daZ3w6KAh8S5Y4ZpMOeSgCN%2B0kzP%2FgaEmLpt7o4ybqHTGrISttVKv8DCHIQABoMNjM3NDIzMTgzODA1IgxjvJzvsek34pztrVYq3AMzskt%2FCY8Q6q304vbbjCNKbKP4yzwibqXKBW%2Flj99bZDBiEugpKAa0mtuw3DQkZnBGa1%2BKTZdZlaD37ynR%2BAiSOMOTOLbyFpMmtgyCVJLQ2%2FJNL4a4YMtpEOPjI5rPurmziLpT5PiX143aNbQ9xp8dP0iIiKsUDiTXXuupooSay1gBeeGZnmWdpQLgxo3f85sLJP8ZnjnWmagCO6GFhTiThIkur51avMUWGWR7bAviVVXMXaJVQiyH90qma%2B3YfNDB7mMPuWfx9tYbm8oZ836OW68kt3wjGIGb0OyNJJrB2aKeSGFfVWGh3y8kN7uKXDSiFBkCZuJoDYWbS%2BcL6dQZDJdtgQ7%2FLKyl%2BrPoW%2BgUcUFUwFVfrmqzJsxVvnGjemoTYDStJaRSJ8ioXy4N6lAABWFTsi50mZgprzBWo8b8VvOeaBbCOqFy27vHGmjzCpqgQ0TonMlSZ3VkcAM28K1JNB2T6RvOgvONJBx1IXfadsAFDKF%2BcBfDYbAculBloi32KrYTLVKj2lLZvlz7R%2BGYCZ827%2FO5wkJYs%2BzJ69XirLvy7IVVUOxoIXHLm8amgnORfxtyND%2BhnZ2CBtrUmCFeVlsqsVzV3nZ3AErvO4Rv%2FuRmemaO8b6F9xwETzDT%2BcnNBjqnAZ9Ww%2B%2F9KX%2BGxjdsYL9UodR4DuL%2B0XFWcLuDxT6fGiX2oQIg%2FLhCi2MsQ2cqSMmlGnUCyCQxrED%2F6M%2FjFxxQI2SchQCddBC%2FH3A2lpCHh0wG8CdRgNToP3rpyeLwUCYYRrHxAlyip8Hnh3z4nzslR9BHyI4ofQEQXAzmFDhx9KFnAQEFW%2F3y2oIs%2BBhRiVTeqcVudb6LtIOFL5u2BaIN%2BSzQaSFEgP5G&X-Amz-Signature=05d6092a961638713cc82bb77ae3de15b519ff20f7cac991eb0d248c04ac0fc0&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:47:25.760Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "be4c9dfd-0921-4be7-af07-f4ec68a9e7ec",
+    "parent": {
+      "type": "page_id",
+      "page_id": "8b44c178-97f0-4bf9-9a34-9f74c093dacc"
+    },
+    "created_time": "2022-07-19T17:43:00.000Z",
+    "last_edited_time": "2022-07-19T17:44:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "My mom told me that I wasn’t eating enough fresh food so I bought some expensive fresh asian stir fry from Woolworths and cooked it on the gas cooker",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "My mom told me that I wasn’t eating enough fresh food so I bought some expensive fresh asian stir fry from Woolworths and cooked it on the gas cooker",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ecc9212e-f3de-432e-af5c-f4b7d8bb06c2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "8b44c178-97f0-4bf9-9a34-9f74c093dacc"
+    },
+    "created_time": "2022-07-19T17:45:00.000Z",
+    "last_edited_time": "2022-07-19T20:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "For you, Mom xx",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "For you, Mom xx",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/c5987642-8d60-4b6d-a734-8faf297b0105/D60D9346-E826-41C0-A63F-DF05D1A3A7F9.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4667AEIPW3J%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084725Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJFMEMCIFfLTKROnJ%2BysXeVjFZIFqF3c2SXbuTOws9i5daZ3w6KAh8S5Y4ZpMOeSgCN%2B0kzP%2FgaEmLpt7o4ybqHTGrISttVKv8DCHIQABoMNjM3NDIzMTgzODA1IgxjvJzvsek34pztrVYq3AMzskt%2FCY8Q6q304vbbjCNKbKP4yzwibqXKBW%2Flj99bZDBiEugpKAa0mtuw3DQkZnBGa1%2BKTZdZlaD37ynR%2BAiSOMOTOLbyFpMmtgyCVJLQ2%2FJNL4a4YMtpEOPjI5rPurmziLpT5PiX143aNbQ9xp8dP0iIiKsUDiTXXuupooSay1gBeeGZnmWdpQLgxo3f85sLJP8ZnjnWmagCO6GFhTiThIkur51avMUWGWR7bAviVVXMXaJVQiyH90qma%2B3YfNDB7mMPuWfx9tYbm8oZ836OW68kt3wjGIGb0OyNJJrB2aKeSGFfVWGh3y8kN7uKXDSiFBkCZuJoDYWbS%2BcL6dQZDJdtgQ7%2FLKyl%2BrPoW%2BgUcUFUwFVfrmqzJsxVvnGjemoTYDStJaRSJ8ioXy4N6lAABWFTsi50mZgprzBWo8b8VvOeaBbCOqFy27vHGmjzCpqgQ0TonMlSZ3VkcAM28K1JNB2T6RvOgvONJBx1IXfadsAFDKF%2BcBfDYbAculBloi32KrYTLVKj2lLZvlz7R%2BGYCZ827%2FO5wkJYs%2BzJ69XirLvy7IVVUOxoIXHLm8amgnORfxtyND%2BhnZ2CBtrUmCFeVlsqsVzV3nZ3AErvO4Rv%2FuRmemaO8b6F9xwETzDT%2BcnNBjqnAZ9Ww%2B%2F9KX%2BGxjdsYL9UodR4DuL%2B0XFWcLuDxT6fGiX2oQIg%2FLhCi2MsQ2cqSMmlGnUCyCQxrED%2F6M%2FjFxxQI2SchQCddBC%2FH3A2lpCHh0wG8CdRgNToP3rpyeLwUCYYRrHxAlyip8Hnh3z4nzslR9BHyI4ofQEQXAzmFDhx9KFnAQEFW%2F3y2oIs%2BBhRiVTeqcVudb6LtIOFL5u2BaIN%2BSzQaSFEgP5G&X-Amz-Signature=7a2c21734037b5b101116d0754c11c6c8f70ae6225a2fd50007ec304caef9bdd&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:47:25.760Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "2da08eda-3c03-4bff-9987-8418eca7d47c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "8b44c178-97f0-4bf9-9a34-9f74c093dacc"
+    },
+    "created_time": "2022-07-19T17:45:00.000Z",
+    "last_edited_time": "2022-07-19T17:46:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I lie in the back of the bakkie and listen to my friend Frik talk through his approach to finances which is hugely insightful.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I lie in the back of the bakkie and listen to my friend Frik talk through his approach to finances which is hugely insightful.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6f9df97f-b2c3-4bcf-925d-022229bcef63",
+    "parent": {
+      "type": "page_id",
+      "page_id": "8b44c178-97f0-4bf9-9a34-9f74c093dacc"
+    },
+    "created_time": "2022-07-19T19:52:00.000Z",
+    "last_edited_time": "2022-07-19T20:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I spend some time writing the next blog post “on smoking and five-way stop streets” which is a lot of fun  ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I spend some time writing the next blog post “on smoking and five-way stop streets” which is a lot of fun  ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "39d2e7e6-e0c9-40af-ad34-bfa7b418dade",
+    "parent": {
+      "type": "page_id",
+      "page_id": "8b44c178-97f0-4bf9-9a34-9f74c093dacc"
+    },
+    "created_time": "2022-07-19T19:52:00.000Z",
+    "last_edited_time": "2022-07-19T19:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "View from the back of Ralph while getting ready for bed at Yellow Sands. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "View from the back of Ralph while getting ready for bed at Yellow Sands. ",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/2adee0ea-898c-43d1-addc-7fa5865340f8/B4139FAD-D34A-41E8-BFD2-0E454FCE0313.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4667AEIPW3J%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084725Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJFMEMCIFfLTKROnJ%2BysXeVjFZIFqF3c2SXbuTOws9i5daZ3w6KAh8S5Y4ZpMOeSgCN%2B0kzP%2FgaEmLpt7o4ybqHTGrISttVKv8DCHIQABoMNjM3NDIzMTgzODA1IgxjvJzvsek34pztrVYq3AMzskt%2FCY8Q6q304vbbjCNKbKP4yzwibqXKBW%2Flj99bZDBiEugpKAa0mtuw3DQkZnBGa1%2BKTZdZlaD37ynR%2BAiSOMOTOLbyFpMmtgyCVJLQ2%2FJNL4a4YMtpEOPjI5rPurmziLpT5PiX143aNbQ9xp8dP0iIiKsUDiTXXuupooSay1gBeeGZnmWdpQLgxo3f85sLJP8ZnjnWmagCO6GFhTiThIkur51avMUWGWR7bAviVVXMXaJVQiyH90qma%2B3YfNDB7mMPuWfx9tYbm8oZ836OW68kt3wjGIGb0OyNJJrB2aKeSGFfVWGh3y8kN7uKXDSiFBkCZuJoDYWbS%2BcL6dQZDJdtgQ7%2FLKyl%2BrPoW%2BgUcUFUwFVfrmqzJsxVvnGjemoTYDStJaRSJ8ioXy4N6lAABWFTsi50mZgprzBWo8b8VvOeaBbCOqFy27vHGmjzCpqgQ0TonMlSZ3VkcAM28K1JNB2T6RvOgvONJBx1IXfadsAFDKF%2BcBfDYbAculBloi32KrYTLVKj2lLZvlz7R%2BGYCZ827%2FO5wkJYs%2BzJ69XirLvy7IVVUOxoIXHLm8amgnORfxtyND%2BhnZ2CBtrUmCFeVlsqsVzV3nZ3AErvO4Rv%2FuRmemaO8b6F9xwETzDT%2BcnNBjqnAZ9Ww%2B%2F9KX%2BGxjdsYL9UodR4DuL%2B0XFWcLuDxT6fGiX2oQIg%2FLhCi2MsQ2cqSMmlGnUCyCQxrED%2F6M%2FjFxxQI2SchQCddBC%2FH3A2lpCHh0wG8CdRgNToP3rpyeLwUCYYRrHxAlyip8Hnh3z4nzslR9BHyI4ofQEQXAzmFDhx9KFnAQEFW%2F3y2oIs%2BBhRiVTeqcVudb6LtIOFL5u2BaIN%2BSzQaSFEgP5G&X-Amz-Signature=98f0efd879dd943c12cf28902399408abc545417229e5bc6bac29bd1aa8639ee&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:47:25.760Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "fdeae703-d819-4e94-848d-e3316e33ec07",
+    "parent": {
+      "type": "page_id",
+      "page_id": "8b44c178-97f0-4bf9-9a34-9f74c093dacc"
+    },
+    "created_time": "2022-07-19T22:46:00.000Z",
+    "last_edited_time": "2022-07-19T22:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I fall asleep reading Red Dog. It’s so good. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I fall asleep reading Red Dog. It’s so good. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "13f3b81c-d5cc-433f-923e-1464a20d12dc",
+    "parent": {
+      "type": "page_id",
+      "page_id": "8b44c178-97f0-4bf9-9a34-9f74c093dacc"
+    },
+    "created_time": "2022-07-19T22:47:00.000Z",
+    "last_edited_time": "2022-07-19T22:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I wake in the middle of the night to the sound of a loud ocean. My mind racing. I think about free will and how my friend Matteo believes in it; surely nobody in their right mind would use their free will to wake themself from sleep to think about this right now? Is this not proof in itself of its lack of existence, Matteo? Call me and let’s debate this xx",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I wake in the middle of the night to the sound of a loud ocean. My mind racing. I think about free will and how my friend Matteo believes in it; surely nobody in their right mind would use their free will to wake themself from sleep to think about this right now? Is this not proof in itself of its lack of existence, Matteo? Call me and let’s debate this xx",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

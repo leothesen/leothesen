@@ -1,1 +1,0 @@
-![](/notion-images/ff188954617f857d.png)

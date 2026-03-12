@@ -1,0 +1,430 @@
+[
+  {
+    "object": "block",
+    "id": "f5dd39fd-0a5d-4803-ac69-cbd4f854d69a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "88df96b2-250b-4caf-8b53-a15a72790fad"
+    },
+    "created_time": "2022-09-11T12:49:00.000Z",
+    "last_edited_time": "2022-09-11T12:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Dawn breaks and we don’t stir. Eventually we’re overheating in the hot room and wake up. Once again my morning routine is broken by a fake coffee (Riccoffee) but as Jordan puts it - it’s just a brown drink with caffeine, it’s not coffee. A small bowl of Futerlife and we hop in the car to head off to Delta park for a run.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Dawn breaks and we don’t stir. Eventually we’re overheating in the hot room and wake up. Once again my morning routine is broken by a fake coffee (Riccoffee) but as Jordan puts it - it’s just a brown drink with caffeine, it’s not coffee. A small bowl of Futerlife and we hop in the car to head off to Delta park for a run.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "12ad5e15-53f0-4965-bca3-ca6cecc2d904",
+    "parent": {
+      "type": "page_id",
+      "page_id": "88df96b2-250b-4caf-8b53-a15a72790fad"
+    },
+    "created_time": "2022-09-11T12:53:00.000Z",
+    "last_edited_time": "2022-09-11T12:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e9778abd-09f1-41f5-9a46-3240719bb54c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "88df96b2-250b-4caf-8b53-a15a72790fad"
+    },
+    "created_time": "2022-09-11T12:53:00.000Z",
+    "last_edited_time": "2022-09-11T12:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "embed",
+    "embed": {
+      "caption": [],
+      "url": "https://connect.garmin.com/modern/activity/embed/9583126813"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e5a17687-23df-4664-a48f-c980bf06a11e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "88df96b2-250b-4caf-8b53-a15a72790fad"
+    },
+    "created_time": "2022-09-11T12:53:00.000Z",
+    "last_edited_time": "2022-09-11T12:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "dcce5d8d-aa9f-4a1d-8a86-90fc026648ec",
+    "parent": {
+      "type": "page_id",
+      "page_id": "88df96b2-250b-4caf-8b53-a15a72790fad"
+    },
+    "created_time": "2022-09-11T12:53:00.000Z",
+    "last_edited_time": "2022-09-11T12:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "It’s a lovely run. Jordan and I talk about all things and manage to run quite a lot faster and further than we had initially thought. The park is beautiful and full of people and dogs. There is a mountain bike track with some bends that people send it through.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "It’s a lovely run. Jordan and I talk about all things and manage to run quite a lot faster and further than we had initially thought. The park is beautiful and full of people and dogs. There is a mountain bike track with some bends that people send it through.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a9c2dfc0-32ba-40c4-9086-f8118efcf220",
+    "parent": {
+      "type": "page_id",
+      "page_id": "88df96b2-250b-4caf-8b53-a15a72790fad"
+    },
+    "created_time": "2022-09-11T12:55:00.000Z",
+    "last_edited_time": "2022-09-11T12:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "908ff3cc-7afb-42f5-a726-50eb6684efaf",
+    "parent": {
+      "type": "page_id",
+      "page_id": "88df96b2-250b-4caf-8b53-a15a72790fad"
+    },
+    "created_time": "2022-09-11T12:55:00.000Z",
+    "last_edited_time": "2022-09-11T12:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We go for breakfast at the cafe and realise that today is the 11th! Berry French toast and an egg and bacon croissant is great. A lovely catch up and talk about morals and ethics then the late night catches up on us. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We go for breakfast at the cafe and realise that today is the 11th! Berry French toast and an egg and bacon croissant is great. A lovely catch up and talk about morals and ethics then the late night catches up on us. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "2e86ab8c-8f5f-43a4-9344-b3c80982cae2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "88df96b2-250b-4caf-8b53-a15a72790fad"
+    },
+    "created_time": "2022-09-11T12:56:00.000Z",
+    "last_edited_time": "2022-09-11T12:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "44e1fabe-2a93-42fc-bdd4-84b53332bba6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "88df96b2-250b-4caf-8b53-a15a72790fad"
+    },
+    "created_time": "2022-09-11T12:56:00.000Z",
+    "last_edited_time": "2022-09-11T12:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Home calls for a sleep and many snoozes. More than a nap it’s basically a meditation that has a few periods that I might have been asleep. Kathy is having an interview and we listen to it in the lounge. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Home calls for a sleep and many snoozes. More than a nap it’s basically a meditation that has a few periods that I might have been asleep. Kathy is having an interview and we listen to it in the lounge. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "fa171b1b-64be-4c1b-96fa-9940aa25acc0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "88df96b2-250b-4caf-8b53-a15a72790fad"
+    },
+    "created_time": "2022-09-11T18:16:00.000Z",
+    "last_edited_time": "2022-09-11T18:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "12be4a2b-7665-4a4e-ad58-c1f11ec6ee80",
+    "parent": {
+      "type": "page_id",
+      "page_id": "88df96b2-250b-4caf-8b53-a15a72790fad"
+    },
+    "created_time": "2022-09-11T18:16:00.000Z",
+    "last_edited_time": "2022-09-11T18:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "embed",
+    "embed": {
+      "caption": [],
+      "url": ""
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "df3c4e2f-56ad-4b44-8492-26af014c6e7f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "88df96b2-250b-4caf-8b53-a15a72790fad"
+    },
+    "created_time": "2022-09-11T18:16:00.000Z",
+    "last_edited_time": "2022-09-11T18:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ca2ce79d-1093-4e4d-a288-dddfeb4869ce",
+    "parent": {
+      "type": "page_id",
+      "page_id": "88df96b2-250b-4caf-8b53-a15a72790fad"
+    },
+    "created_time": "2022-09-11T18:16:00.000Z",
+    "last_edited_time": "2022-09-11T18:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Went to Paul’s to get ice cream",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Went to Paul’s to get ice cream",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

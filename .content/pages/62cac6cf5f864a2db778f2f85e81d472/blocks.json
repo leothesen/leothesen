@@ -1,0 +1,281 @@
+[
+  {
+    "object": "block",
+    "id": "6b01c47e-9796-4459-90b2-bb27d81de3a5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "62cac6cf-5f86-4a2d-b778-f2f85e81d472"
+    },
+    "created_time": "2023-09-29T16:27:00.000Z",
+    "last_edited_time": "2023-09-29T16:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Julian’s father had his 70th in Vilankulos, Mozambique. His sister drove up with her partner in a Hilux that looks the part. Julian and I are driving the car back to Plettenberg Bay over a few weeks. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Julian’s father had his 70th in Vilankulos, Mozambique. His sister drove up with her partner in a Hilux that looks the part. Julian and I are driving the car back to Plettenberg Bay over a few weeks. ",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "emoji",
+        "emoji": "🛻"
+      },
+      "color": "green_background"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "335b99f0-c1e5-4e8f-974a-2edd88199888",
+    "parent": {
+      "type": "page_id",
+      "page_id": "62cac6cf-5f86-4a2d-b778-f2f85e81d472"
+    },
+    "created_time": "2023-09-29T16:29:00.000Z",
+    "last_edited_time": "2023-09-29T16:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7d2c0080-cbf2-497e-94c3-dbb763abb89d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "62cac6cf-5f86-4a2d-b778-f2f85e81d472"
+    },
+    "created_time": "2023-09-29T16:29:00.000Z",
+    "last_edited_time": "2023-09-29T17:07:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I’m going to document this trip in a different manner. Rather than the factual, chronological recollection of facts, thoughts places and people as I captured in the ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I’m going to document this trip in a different manner. Rather than the factual, chronological recollection of facts, thoughts places and people as I captured in the ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "sabbatical",
+            "link": {
+              "url": "/b8ae34f893164387b061a71123e699f5"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "sabbatical",
+          "href": "/b8ae34f893164387b061a71123e699f5"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ". I’m now going to focus on ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ". I’m now going to focus on ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "things that I noticed",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "things that I noticed",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " - inspired by ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " - inspired by ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Rob Walker",
+            "link": {
+              "url": "https://robwalker.substack.com/"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Rob Walker",
+          "href": "https://robwalker.substack.com/"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ". In an attempt to pay more attention to my experience and appreciate the small things during this big trip. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ". In an attempt to pay more attention to my experience and appreciate the small things during this big trip. ",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "emoji",
+        "emoji": "📝"
+      },
+      "color": "blue_background"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "925988bf-6472-49f3-9abb-1e631876acff",
+    "parent": {
+      "type": "page_id",
+      "page_id": "62cac6cf-5f86-4a2d-b778-f2f85e81d472"
+    },
+    "created_time": "2023-09-29T16:28:00.000Z",
+    "last_edited_time": "2023-09-29T16:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "acfacbea-a45c-4241-a1df-b30cd4ce5805",
+    "parent": {
+      "type": "page_id",
+      "page_id": "62cac6cf-5f86-4a2d-b778-f2f85e81d472"
+    },
+    "created_time": "2023-09-29T16:28:00.000Z",
+    "last_edited_time": "2023-10-16T15:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "child_database",
+    "child_database": {
+      "title": "Untitled"
+    },
+    "archived": false
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "object": "block",
+    "id": "daf65090-27b2-480e-a33f-0756bfb3221c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0f54a57b-7eb0-4c3b-b1e8-9e379510919f"
+    },
+    "created_time": "2023-10-18T07:55:00.000Z",
+    "last_edited_time": "2023-10-18T07:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/2be04b06-3c32-4baf-b221-01802927fb40/IMG_3799.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466U4BNEWFO%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084856Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQD59kUCl9OkE%2Fe8z3LeyS8S9iJJHF1cBLOUz4SyAN8ClQIhAIRRZ9ABvu%2Bov%2BIca7F5uLK4fScngCZCn6H9fwlBsQu%2FKv8DCHIQABoMNjM3NDIzMTgzODA1IgxCk9ZPwCM3KHtazMIq3AOUBPA1ue3Ys7pY2WTSN%2FnfvjGN0jaCOQ0bZlM1tBGrurM2uqrZU6evhBLvzKk5ODTU0%2FtIBAevLwI8nlh2oVdAqCCA5OmokC%2FKbjtKE5V%2BNOMcY%2FRmbyXZfzcxLg52ryvPLPXUDcsB0qSGmRLn7i08837y3NxQa4%2F%2BicU%2FTPDakAsQaG%2BCC9GfAY5Nk8zo2ryNMk8Xu6VrFOalybyIpK0k25hifeUb6RS5k1t51FwHlkBMD36soRWgvsjoB%2BopH1Ru6%2FQ3ON1LaSeZCfnWSrxeCacIfC8CoWth%2BUMEJuliO580Hr01Hsm%2BOUJmeq1mbRLAXHE9FIBl5pXsQCMuGDL3Ss61FFj41xJSsDC5xBdzJITAS8Ky9%2B0v9uI%2F1FzlapcbuJ4G%2BuCyTLs9cidXlVtHbX5cKJcUz3YxEjCtO3HmCEpEEK7JiXRQ6FzmwkXPUo2vvpXZaUir9TU1Y%2F%2BnUotEM23OANDNpTkc2gyL2mFAjiPSc6rmKLBpT%2Fce%2Bo%2Fyfx5oiastq%2FgeWwdKodRqOh3XmEpx8K8I%2BOYa%2FCj1CtZJ5kmyWoMK4vNgiLDc%2BkJRp16%2FPOYa8kJKzVAhGLtXVPb%2FPR4V20wgqmj7awgZQFzs7SxAMgEtKH4ivb%2F2%2FzCM%2BMnNBjqkAeE1j2YeyeFrk1ivhKE918Wj7EORV48TzRZ734F4f0rsAbM9HYvL5kubovqnj5mUGkZlTA%2BtDjRrzXsyoIberiU%2BjAU2pNrStPZdW%2FrlBYWtp64AJ2s85u1R38oGH3SAig%2B4WQi2xejkg7lNOMH0ZSYNMzh0BnKaYc4rTSY9Z606j6T51wZooJkY4S2tB5ywvGtduPef%2F3yZq4hdPv6PtOdKtlQH&X-Amz-Signature=a2d9f320b2f5d93f2e5fc84d8bd8e503c6bced3fbbb097d7151e0224b49c1778&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:48:56.441Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "bd9377f3-8b77-4aa7-bcee-74ab1e40d241",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0f54a57b-7eb0-4c3b-b1e8-9e379510919f"
+    },
+    "created_time": "2023-10-18T07:55:00.000Z",
+    "last_edited_time": "2023-10-18T07:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/8234afa8-673b-4503-bc93-b7e1c9b852b5/IMG_3803.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466U4BNEWFO%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084856Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQD59kUCl9OkE%2Fe8z3LeyS8S9iJJHF1cBLOUz4SyAN8ClQIhAIRRZ9ABvu%2Bov%2BIca7F5uLK4fScngCZCn6H9fwlBsQu%2FKv8DCHIQABoMNjM3NDIzMTgzODA1IgxCk9ZPwCM3KHtazMIq3AOUBPA1ue3Ys7pY2WTSN%2FnfvjGN0jaCOQ0bZlM1tBGrurM2uqrZU6evhBLvzKk5ODTU0%2FtIBAevLwI8nlh2oVdAqCCA5OmokC%2FKbjtKE5V%2BNOMcY%2FRmbyXZfzcxLg52ryvPLPXUDcsB0qSGmRLn7i08837y3NxQa4%2F%2BicU%2FTPDakAsQaG%2BCC9GfAY5Nk8zo2ryNMk8Xu6VrFOalybyIpK0k25hifeUb6RS5k1t51FwHlkBMD36soRWgvsjoB%2BopH1Ru6%2FQ3ON1LaSeZCfnWSrxeCacIfC8CoWth%2BUMEJuliO580Hr01Hsm%2BOUJmeq1mbRLAXHE9FIBl5pXsQCMuGDL3Ss61FFj41xJSsDC5xBdzJITAS8Ky9%2B0v9uI%2F1FzlapcbuJ4G%2BuCyTLs9cidXlVtHbX5cKJcUz3YxEjCtO3HmCEpEEK7JiXRQ6FzmwkXPUo2vvpXZaUir9TU1Y%2F%2BnUotEM23OANDNpTkc2gyL2mFAjiPSc6rmKLBpT%2Fce%2Bo%2Fyfx5oiastq%2FgeWwdKodRqOh3XmEpx8K8I%2BOYa%2FCj1CtZJ5kmyWoMK4vNgiLDc%2BkJRp16%2FPOYa8kJKzVAhGLtXVPb%2FPR4V20wgqmj7awgZQFzs7SxAMgEtKH4ivb%2F2%2FzCM%2BMnNBjqkAeE1j2YeyeFrk1ivhKE918Wj7EORV48TzRZ734F4f0rsAbM9HYvL5kubovqnj5mUGkZlTA%2BtDjRrzXsyoIberiU%2BjAU2pNrStPZdW%2FrlBYWtp64AJ2s85u1R38oGH3SAig%2B4WQi2xejkg7lNOMH0ZSYNMzh0BnKaYc4rTSY9Z606j6T51wZooJkY4S2tB5ywvGtduPef%2F3yZq4hdPv6PtOdKtlQH&X-Amz-Signature=da4eeb2f5f8a5b29669754cacfe617fe27e4a588400b8b1a76a46a556b45dafc&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:48:56.440Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5d1436fe-57d3-4299-88c0-4809738c6032",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0f54a57b-7eb0-4c3b-b1e8-9e379510919f"
+    },
+    "created_time": "2023-10-18T07:55:00.000Z",
+    "last_edited_time": "2023-10-18T07:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/4cdb2997-2039-4b41-b211-32d968b1e938/IMG_3785.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466U4BNEWFO%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084856Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQD59kUCl9OkE%2Fe8z3LeyS8S9iJJHF1cBLOUz4SyAN8ClQIhAIRRZ9ABvu%2Bov%2BIca7F5uLK4fScngCZCn6H9fwlBsQu%2FKv8DCHIQABoMNjM3NDIzMTgzODA1IgxCk9ZPwCM3KHtazMIq3AOUBPA1ue3Ys7pY2WTSN%2FnfvjGN0jaCOQ0bZlM1tBGrurM2uqrZU6evhBLvzKk5ODTU0%2FtIBAevLwI8nlh2oVdAqCCA5OmokC%2FKbjtKE5V%2BNOMcY%2FRmbyXZfzcxLg52ryvPLPXUDcsB0qSGmRLn7i08837y3NxQa4%2F%2BicU%2FTPDakAsQaG%2BCC9GfAY5Nk8zo2ryNMk8Xu6VrFOalybyIpK0k25hifeUb6RS5k1t51FwHlkBMD36soRWgvsjoB%2BopH1Ru6%2FQ3ON1LaSeZCfnWSrxeCacIfC8CoWth%2BUMEJuliO580Hr01Hsm%2BOUJmeq1mbRLAXHE9FIBl5pXsQCMuGDL3Ss61FFj41xJSsDC5xBdzJITAS8Ky9%2B0v9uI%2F1FzlapcbuJ4G%2BuCyTLs9cidXlVtHbX5cKJcUz3YxEjCtO3HmCEpEEK7JiXRQ6FzmwkXPUo2vvpXZaUir9TU1Y%2F%2BnUotEM23OANDNpTkc2gyL2mFAjiPSc6rmKLBpT%2Fce%2Bo%2Fyfx5oiastq%2FgeWwdKodRqOh3XmEpx8K8I%2BOYa%2FCj1CtZJ5kmyWoMK4vNgiLDc%2BkJRp16%2FPOYa8kJKzVAhGLtXVPb%2FPR4V20wgqmj7awgZQFzs7SxAMgEtKH4ivb%2F2%2FzCM%2BMnNBjqkAeE1j2YeyeFrk1ivhKE918Wj7EORV48TzRZ734F4f0rsAbM9HYvL5kubovqnj5mUGkZlTA%2BtDjRrzXsyoIberiU%2BjAU2pNrStPZdW%2FrlBYWtp64AJ2s85u1R38oGH3SAig%2B4WQi2xejkg7lNOMH0ZSYNMzh0BnKaYc4rTSY9Z606j6T51wZooJkY4S2tB5ywvGtduPef%2F3yZq4hdPv6PtOdKtlQH&X-Amz-Signature=d212244d7a1b31b599d6b260805edd2fa194603600a3ea03c433f781f682b27e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:48:56.441Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "aaf2c00b-d511-44c6-9fd5-3a1269177fcf",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0f54a57b-7eb0-4c3b-b1e8-9e379510919f"
+    },
+    "created_time": "2023-10-18T07:55:00.000Z",
+    "last_edited_time": "2023-10-18T07:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/e6e91a5c-e053-412c-af22-55a61daeb5df/IMG_3782.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466U4BNEWFO%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084856Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQD59kUCl9OkE%2Fe8z3LeyS8S9iJJHF1cBLOUz4SyAN8ClQIhAIRRZ9ABvu%2Bov%2BIca7F5uLK4fScngCZCn6H9fwlBsQu%2FKv8DCHIQABoMNjM3NDIzMTgzODA1IgxCk9ZPwCM3KHtazMIq3AOUBPA1ue3Ys7pY2WTSN%2FnfvjGN0jaCOQ0bZlM1tBGrurM2uqrZU6evhBLvzKk5ODTU0%2FtIBAevLwI8nlh2oVdAqCCA5OmokC%2FKbjtKE5V%2BNOMcY%2FRmbyXZfzcxLg52ryvPLPXUDcsB0qSGmRLn7i08837y3NxQa4%2F%2BicU%2FTPDakAsQaG%2BCC9GfAY5Nk8zo2ryNMk8Xu6VrFOalybyIpK0k25hifeUb6RS5k1t51FwHlkBMD36soRWgvsjoB%2BopH1Ru6%2FQ3ON1LaSeZCfnWSrxeCacIfC8CoWth%2BUMEJuliO580Hr01Hsm%2BOUJmeq1mbRLAXHE9FIBl5pXsQCMuGDL3Ss61FFj41xJSsDC5xBdzJITAS8Ky9%2B0v9uI%2F1FzlapcbuJ4G%2BuCyTLs9cidXlVtHbX5cKJcUz3YxEjCtO3HmCEpEEK7JiXRQ6FzmwkXPUo2vvpXZaUir9TU1Y%2F%2BnUotEM23OANDNpTkc2gyL2mFAjiPSc6rmKLBpT%2Fce%2Bo%2Fyfx5oiastq%2FgeWwdKodRqOh3XmEpx8K8I%2BOYa%2FCj1CtZJ5kmyWoMK4vNgiLDc%2BkJRp16%2FPOYa8kJKzVAhGLtXVPb%2FPR4V20wgqmj7awgZQFzs7SxAMgEtKH4ivb%2F2%2FzCM%2BMnNBjqkAeE1j2YeyeFrk1ivhKE918Wj7EORV48TzRZ734F4f0rsAbM9HYvL5kubovqnj5mUGkZlTA%2BtDjRrzXsyoIberiU%2BjAU2pNrStPZdW%2FrlBYWtp64AJ2s85u1R38oGH3SAig%2B4WQi2xejkg7lNOMH0ZSYNMzh0BnKaYc4rTSY9Z606j6T51wZooJkY4S2tB5ywvGtduPef%2F3yZq4hdPv6PtOdKtlQH&X-Amz-Signature=1bded20d7f786830670875e3fa916f8c9310d057bf99dee47b2e33755c02ac94&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:48:56.441Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "753ba3bd-f198-4578-b7d7-2e29fbc29ae7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0f54a57b-7eb0-4c3b-b1e8-9e379510919f"
+    },
+    "created_time": "2023-10-18T14:49:00.000Z",
+    "last_edited_time": "2023-10-18T14:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "33cdcf22-37f1-43f4-958b-2d024bd95840",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0f54a57b-7eb0-4c3b-b1e8-9e379510919f"
+    },
+    "created_time": "2023-10-18T14:49:00.000Z",
+    "last_edited_time": "2023-10-18T14:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We swam out across the deep river, kicking on our back with calves burning. Fish traps to the left and the ocean to the right, goggles over the head obscuring the sky. All it takes is to jump into the river near the mouth and be swept upstream by the tide watching tropical fish, reef, strange assortments of neglected human discards and the great reaches of underwater dunes flash past. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We swam out across the deep river, kicking on our back with calves burning. Fish traps to the left and the ocean to the right, goggles over the head obscuring the sky. All it takes is to jump into the river near the mouth and be swept upstream by the tide watching tropical fish, reef, strange assortments of neglected human discards and the great reaches of underwater dunes flash past. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ba9e092a-7665-4d4a-b90e-d8a7d4485789",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0f54a57b-7eb0-4c3b-b1e8-9e379510919f"
+    },
+    "created_time": "2023-10-18T14:51:00.000Z",
+    "last_edited_time": "2023-10-18T14:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d4b4eaf3-7627-4fd5-bcbc-982d77cfa8ca",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0f54a57b-7eb0-4c3b-b1e8-9e379510919f"
+    },
+    "created_time": "2023-10-18T14:51:00.000Z",
+    "last_edited_time": "2023-10-18T14:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "After four runs up and down the river I needed to get into the ocean. Diving into the warm water with a wetsuit and fins was physical nostalgia. I became a child again. Bodysurfing right into the sand repeatedly brought back memories long gone of learning to feel comfortable in the ocean. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "After four runs up and down the river I needed to get into the ocean. Diving into the warm water with a wetsuit and fins was physical nostalgia. I became a child again. Bodysurfing right into the sand repeatedly brought back memories long gone of learning to feel comfortable in the ocean. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "56749be5-9343-4017-b983-52dff6ab17e3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0f54a57b-7eb0-4c3b-b1e8-9e379510919f"
+    },
+    "created_time": "2023-10-18T14:52:00.000Z",
+    "last_edited_time": "2023-10-18T14:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "72d34555-0de6-452f-9ec7-02a9a996100c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "0f54a57b-7eb0-4c3b-b1e8-9e379510919f"
+    },
+    "created_time": "2023-10-18T14:52:00.000Z",
+    "last_edited_time": "2023-10-18T14:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Leaving Kosi Bay I took with me only the red circles on my feet as a memory - once again nostalgic - of the chafe that bodyboard fins give you. Let’s hope they don’t hurt in the Drakensberg. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Leaving Kosi Bay I took with me only the red circles on my feet as a memory - once again nostalgic - of the chafe that bodyboard fins give you. Let’s hope they don’t hurt in the Drakensberg. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  }
+]
