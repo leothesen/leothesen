@@ -11,6 +11,7 @@ module.exports = {
       { protocol: 'https', hostname: 's3.us-west-2.amazonaws.com' },
       { protocol: 'https', hostname: 'prod-files-secure.s3.us-west-2.amazonaws.com' },
       { protocol: 'https', hostname: 'leothesen.com' },
+      { protocol: 'https', hostname: '*.public.blob.vercel-storage.com' },
     ],
     formats: ['image/avif', 'image/webp'],
     dangerouslyAllowSVG: true,

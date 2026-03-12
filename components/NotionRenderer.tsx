@@ -1,5 +1,4 @@
 import * as React from 'react'
-import Image from 'next/image'
 import Link from 'next/link'
 
 import type { NotionBlock } from '@/lib/notion-api'
@@ -172,10 +171,17 @@ export function NotionBlock({ block, mapPageUrl, databaseEntriesMap, childPageMa
       const image = (block as any).image
       const src = image.type === 'external' ? image.external.url : image.file.url
       const caption = image.caption || []
+      const alt = caption.map((c: any) => c.plain_text).join('') || ''
       return (
         <figure className="notion-asset-wrapper">
           <div className="notion-image-wrapper">
-            <img src={src} alt={caption.map((c: any) => c.plain_text).join('') || ''} loading="lazy" />
+            <img
+              src={src}
+              alt={alt}
+              loading="lazy"
+              className="notion-image notion-image-loading"
+              onLoad={(e) => e.currentTarget.classList.remove('notion-image-loading')}
+            />
           </div>
           {caption.length > 0 && (
             <figcaption className="notion-asset-caption">

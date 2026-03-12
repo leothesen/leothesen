@@ -448,6 +448,12 @@
   width: 100%;
   height: auto;
   border-radius: 4px;
+  transition: filter 0.4s ease-out, opacity 0.4s ease-out;
+}
+
+.notion-image-wrapper img.notion-image-loading {
+  filter: blur(20px);
+  opacity: 0.6;
 }
 
 .notion-asset-caption {
