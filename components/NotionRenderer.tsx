@@ -365,6 +365,30 @@ export function NotionBlock({ block, mapPageUrl, databaseEntriesMap, childPageMa
       )
     }
 
+    case 'link_to_page': {
+      const linkData = (block as any).link_to_page
+      const targetId = linkData?.page_id || linkData?.database_id
+      if (!targetId) return null
+      const cleanId = targetId.replace(/-/g, '')
+      const info = childPageMap?.[targetId] || childPageMap?.[cleanId]
+      const href = info ? `/${info.slug}` : (mapPageUrl ? mapPageUrl(targetId) : `/${targetId}`)
+      const title = info?.title || 'Link'
+      return (
+        <div className="notion-page-link">
+          <Link href={href}>
+            {info?.icon && (
+              <span className="notion-page-link-icon">
+                {info.icon.startsWith('http') ? (
+                  <img src={info.icon} alt="" className="notion-page-icon-inline" />
+                ) : info.icon}
+              </span>
+            )}
+            {title}
+          </Link>
+        </div>
+      )
+    }
+
     case 'child_database': {
       const entries = databaseEntriesMap?.[block.id]
       if (!entries?.length) return null

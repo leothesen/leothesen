@@ -156,23 +156,36 @@ function buildDatabaseEntriesMapWithUuids(
   return map
 }
 
-// Build a child page map from the manifest so NotionRenderer can link child_page blocks
+// Build a child page map from the manifest so NotionRenderer can link child_page and link_to_page blocks
 function buildChildPageMap(
   blocks: NotionBlock[],
   manifest: ReturnType<typeof getManifest>
 ): Record<string, ChildPageInfo> {
   const map: Record<string, ChildPageInfo> = {}
 
+  function addPageToMap(key: string, cleanId: string) {
+    const pageInfo = manifest.pages[cleanId]
+    if (pageInfo) {
+      map[key] = {
+        icon: pageInfo.icon,
+        slug: pageInfo.slugPath.join('/'),
+        title: pageInfo.title,
+      }
+    }
+  }
+
   function walk(blocks: NotionBlock[]) {
     for (const block of blocks) {
       if (block.type === 'child_page') {
         const cleanId = block.id.replace(/-/g, '')
-        const pageInfo = manifest.pages[cleanId]
-        if (pageInfo) {
-          map[block.id] = {
-            icon: pageInfo.icon,
-            slug: pageInfo.slugPath.join('/'),
-          }
+        addPageToMap(block.id, cleanId)
+      } else if (block.type === 'link_to_page') {
+        const linkData = (block as any).link_to_page
+        const targetId = linkData?.page_id || linkData?.database_id
+        if (targetId) {
+          const cleanId = targetId.replace(/-/g, '')
+          addPageToMap(targetId, cleanId)
+          addPageToMap(cleanId, cleanId)
         }
       }
       if ((block as any).children) {

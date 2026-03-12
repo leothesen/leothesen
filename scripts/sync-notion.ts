@@ -521,10 +521,31 @@ async function discoverPage(
 
   console.log(`Discovering: ${cleanId}`)
 
-  const [page, blocks] = await Promise.all([
+  const [page, topBlocks] = await Promise.all([
     fetchPage(uuid),
     fetchBlocksShallow(uuid).catch(() => [] as any[]),
   ])
+
+  // Fetch children of structural blocks (column_list, column, synced_block, etc.)
+  // so we can discover child_page/child_database blocks nested inside them
+  const structuralTypes = new Set(['column_list', 'column', 'synced_block', 'toggle', 'bulleted_list_item', 'numbered_list_item', 'quote', 'callout', 'table'])
+  async function expandStructuralBlocks(blocks: any[]): Promise<any[]> {
+    const needsChildren = blocks.filter((b: any) =>
+      'type' in b && b.has_children && structuralTypes.has(b.type)
+    )
+    if (needsChildren.length === 0) return blocks
+
+    const childResults = await Promise.all(
+      needsChildren.map((b: any) => fetchBlocksShallow(b.id).catch(() => [] as any[]))
+    )
+    for (let i = 0; i < needsChildren.length; i++) {
+      needsChildren[i].children = childResults[i]
+      // Recurse one more level (e.g. column_list > column > child_page)
+      needsChildren[i].children = await expandStructuralBlocks(needsChildren[i].children)
+    }
+    return blocks
+  }
+  const blocks = await expandStructuralBlocks(topBlocks)
 
   const title = getPageTitle(page)
   const slug = slugify(title) || cleanId
@@ -534,20 +555,25 @@ async function discoverPage(
   const childDatabases: Array<{ id: string; title: string }> = []
   const childPages: Array<{ id: string; title: string; slug: string }> = []
 
-  for (const block of blocks) {
-    if ('type' in block) {
-      if ((block as any).type === 'child_database') {
+  function collectChildrenFromBlocks(blockList: any[]) {
+    for (const block of blockList) {
+      if (!('type' in block)) continue
+      if (block.type === 'child_database') {
         childDatabases.push({
           id: block.id,
           title: (block as any).child_database?.title || 'Untitled',
         })
-      } else if ((block as any).type === 'child_page') {
+      } else if (block.type === 'child_page') {
         const childTitle = (block as any).child_page?.title || 'Untitled'
         const childSlug = slugify(childTitle) || uuidToId(block.id)
         childPages.push({ id: block.id, title: childTitle, slug: childSlug })
       }
+      if (block.children) {
+        collectChildrenFromBlocks(block.children)
+      }
     }
   }
+  collectChildrenFromBlocks(blocks)
 
   const dbEntries = new Map<string, any[]>()
   for (const db of childDatabases) {

@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-03-12T11:13:21.962Z",
+  "syncedAt": "2026-03-12T11:36:30.449Z",
   "slugTree": {
     "novel-experiences": {
       "pageId": "52ce318b6309412fa2217af728b7e9f2",
@@ -907,7 +907,13 @@
         "cederberg-fastpack-2024": {
           "pageId": "f981e9af4d1041ceb1ce0315ba64ab68",
           "title": "Cederberg Fastpack 2024",
-          "children": {}
+          "children": {
+            "cederberg-fastpack-2024-route": {
+              "pageId": "f51b18ab8c2e4ea0a1e521d90cbdf4f1",
+              "title": "Cederberg Fastpack 2024: Route",
+              "children": {}
+            }
+          }
         }
       }
     },
@@ -986,7 +992,53 @@
         "dinner-conversations": {
           "pageId": "66143029efaf448394ac1066cf691e4b",
           "title": "Dinner conversations",
-          "children": {}
+          "children": {
+            "leo-julian": {
+              "pageId": "725539ff03914f5d805d5610de4a374a",
+              "title": "Leo + Julian",
+              "children": {}
+            },
+            "kassie-paschke": {
+              "pageId": "02718ec6b11c4a9e8d9bf73571cf9c5d",
+              "title": "Kassie Paschke ",
+              "children": {}
+            },
+            "mattea-dale": {
+              "pageId": "c8c13056719142208a3ffd9b229a1cb0",
+              "title": "Mattea Dale",
+              "children": {}
+            },
+            "kassie": {
+              "pageId": "849a221b97d148edb9cda805f87a6fb8",
+              "title": "Kassie",
+              "children": {}
+            },
+            "nick-solly": {
+              "pageId": "0a128be2d4c74571891bfa1cf360cd30",
+              "title": "Nick Solly",
+              "children": {}
+            },
+            "leo-thesen": {
+              "pageId": "1d781f4bfdc647beb39c49e17595703d",
+              "title": "Leo Thesen",
+              "children": {}
+            },
+            "luke-naude": {
+              "pageId": "2d3d01f5d27d4a8b85d296d5ffe5f22a",
+              "title": "Luke Naude",
+              "children": {}
+            },
+            "julian-culverhouse": {
+              "pageId": "9470b50df81a4a719c4df8c496bf9bac",
+              "title": "Julian Culverhouse",
+              "children": {}
+            },
+            "kiki": {
+              "pageId": "bec8d219e6c24a70bdb1119d0cbe1917",
+              "title": "Kiki",
+              "children": {}
+            }
+          }
         }
       }
     },
@@ -999,6 +1051,22 @@
       "pageId": "d29c331495084de1a75d9a4c83ada78d",
       "title": "Music",
       "children": {}
+    },
+    "digital-garden": {
+      "pageId": "c97d3c643b4245e694329b83e78fbd17",
+      "title": "Digital garden",
+      "children": {}
+    },
+    "get-in-touch": {
+      "pageId": "d3ab4bd9e90d4f95bad93bdee5181ffa",
+      "title": "Get in touch",
+      "children": {
+        "cv": {
+          "pageId": "2a397f5eb0074e82940f6bc30a8fff75",
+          "title": "CV",
+          "children": {}
+        }
+      }
     }
   },
   "pages": {
@@ -3049,6 +3117,17 @@
       "cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/72bb7cd1-61e7-47db-96ad-c45ed27a7642/778E8702-7779-4559-9B9A-ED49C91B43BE.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QMB2JR77%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084412Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIEWoa18Fhn7eSC0UrZNaRQh2YpqAwM8otwIFHbTqONG2AiASbUquLaHSKxITAdgi7LlNCA7apsC1b4wI%2BNGmBrsaCyr%2FAwhxEAAaDDYzNzQyMzE4MzgwNSIMVbJYzG262kyVxppFKtwD%2BMvV7QmcV7t5q4IU1%2B9%2Flf%2ByiFOeAIoYkRIkxnBlFdllp47wnIn6bzSyz5sQCgSt9AIsCReZG7poCiKEh2zxjJjL8UPuTedNoog%2FaNRuSsNLAl7BVKCUGtDKipEhjIIAfZYHvcodh7w3yyN85c3%2F%2BfhHhy%2FKH3bon2Iq2EiahyXPwW3TbRYbkuU6kbMAB9knK2j84%2F21CP07I%2FJgimJpgaFbcaHjQ9sJd0CMc1%2BBqQBgOuhZvMzSsy%2Bp0VM1uR1jffXRrlmTUV5vohnm1%2BE%2FylDwDI09PaZvX1%2F1%2FnTg2U1NavkhIQWN7HAmwwLq%2FolwEfe8fi1s%2BF40izvgzOQ3LfCzbtGEEXuOIU01d9JsgFozf3ZOoVApdlD4LeGTJSUuUy5yFxM6GaUYuQqLmLWbXakTRzsqS6IXrHy%2FGEGtT57GdJhhwh%2FxnvSRaU5OUhq9u2Aft6I0o6mHSD2%2BeDZYdKEa9FCK%2B%2BL%2B2sByH8ixOHt1t%2Ba9XwD5LAb7qxL47zi0MvxE8gJUpla1XI9upeBY6s%2FPnrwXZS6vOu1DRnuaewVfbuh8nNo8GqELmoTnmZWvP6I5q9fwZDqGJSz%2Ff5ZIdA0%2BMpiygyWpsFCxkMJ%2B1sPDQ22J3a7Xyzgn5DIwiNzJzQY6pgHgepevWB%2FPv5zyuAsPmHeNn4o2wj2NSpdp7DP%2B8d8UhWeUyp%2B8LT3uS2xj%2FrKbMktsRIwQmKzkp6DNf0ra4rn8SGQFYYfLpLsVE5tgZHlm90XRhKU%2FnxoI2DtJKoa7fiz%2BekqWOndaYg5hlnqTngGiO2mZVHZjwC0YNGVLaooqB7Dy6XmA4cEeGecoEiNYOKne1%2F0urre6caU4JxyBX%2FChCx%2B%2BXIgT&X-Amz-Signature=0a49097c8b8f7dff8623755f947e6c01084ccd472f1329cd3dec249d994bd426&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "description": null
     },
+    "f51b18ab8c2e4ea0a1e521d90cbdf4f1": {
+      "slugPath": [
+        "mountains",
+        "cederberg-fastpack-2024",
+        "cederberg-fastpack-2024-route"
+      ],
+      "title": "Cederberg Fastpack 2024: Route",
+      "icon": "🗺️",
+      "cover": null,
+      "description": null
+    },
     "002a4e2d4a844e498c770a58adf35dc0": {
       "slugPath": [
         "engineering"
@@ -3202,6 +3281,127 @@
       "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/bb2996e482c97642.jpg",
       "description": null
     },
+    "725539ff03914f5d805d5610de4a374a": {
+      "slugPath": [
+        "people",
+        "dinner-conversations",
+        "leo-julian"
+      ],
+      "title": "Leo + Julian",
+      "icon": null,
+      "cover": null,
+      "description": null
+    },
+    "02718ec6b11c4a9e8d9bf73571cf9c5d": {
+      "slugPath": [
+        "people",
+        "dinner-conversations",
+        "kassie-paschke"
+      ],
+      "title": "Kassie Paschke ",
+      "icon": null,
+      "cover": null,
+      "description": null
+    },
+    "27bdd536336342b0b674e0be29eae752": {
+      "slugPath": [
+        "people",
+        "dinner-conversations",
+        "mattea-dale"
+      ],
+      "title": "Mattea Dale",
+      "icon": null,
+      "cover": null,
+      "description": null
+    },
+    "d675bd231fc84a398c3d5e4ccbcb2007": {
+      "slugPath": [
+        "people",
+        "dinner-conversations",
+        "kassie"
+      ],
+      "title": "Kassie",
+      "icon": null,
+      "cover": null,
+      "description": null
+    },
+    "0a128be2d4c74571891bfa1cf360cd30": {
+      "slugPath": [
+        "people",
+        "dinner-conversations",
+        "nick-solly"
+      ],
+      "title": "Nick Solly",
+      "icon": null,
+      "cover": null,
+      "description": null
+    },
+    "1d781f4bfdc647beb39c49e17595703d": {
+      "slugPath": [
+        "people",
+        "dinner-conversations",
+        "leo-thesen"
+      ],
+      "title": "Leo Thesen",
+      "icon": null,
+      "cover": null,
+      "description": null
+    },
+    "2d3d01f5d27d4a8b85d296d5ffe5f22a": {
+      "slugPath": [
+        "people",
+        "dinner-conversations",
+        "luke-naude"
+      ],
+      "title": "Luke Naude",
+      "icon": null,
+      "cover": null,
+      "description": null
+    },
+    "849a221b97d148edb9cda805f87a6fb8": {
+      "slugPath": [
+        "people",
+        "dinner-conversations",
+        "kassie"
+      ],
+      "title": "Kassie",
+      "icon": null,
+      "cover": null,
+      "description": null
+    },
+    "9470b50df81a4a719c4df8c496bf9bac": {
+      "slugPath": [
+        "people",
+        "dinner-conversations",
+        "julian-culverhouse"
+      ],
+      "title": "Julian Culverhouse",
+      "icon": null,
+      "cover": null,
+      "description": null
+    },
+    "bec8d219e6c24a70bdb1119d0cbe1917": {
+      "slugPath": [
+        "people",
+        "dinner-conversations",
+        "kiki"
+      ],
+      "title": "Kiki",
+      "icon": null,
+      "cover": null,
+      "description": null
+    },
+    "c8c13056719142208a3ffd9b229a1cb0": {
+      "slugPath": [
+        "people",
+        "dinner-conversations",
+        "mattea-dale"
+      ],
+      "title": "Mattea Dale",
+      "icon": null,
+      "cover": null,
+      "description": null
+    },
     "139ac43c28a045c8999e7be98981049d": {
       "slugPath": [
         "ocean"
@@ -3218,6 +3418,34 @@
       "title": "Music",
       "icon": "🎧",
       "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/75cb2edf34d00bd3.jpeg",
+      "description": null
+    },
+    "c97d3c643b4245e694329b83e78fbd17": {
+      "slugPath": [
+        "digital-garden"
+      ],
+      "title": "Digital garden",
+      "icon": "🌱",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/26154e3c3d7a980a.png",
+      "description": null
+    },
+    "d3ab4bd9e90d4f95bad93bdee5181ffa": {
+      "slugPath": [
+        "get-in-touch"
+      ],
+      "title": "Get in touch",
+      "icon": "🤙",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/d1c1b46981abd633.png",
+      "description": null
+    },
+    "2a397f5eb0074e82940f6bc30a8fff75": {
+      "slugPath": [
+        "get-in-touch",
+        "cv"
+      ],
+      "title": "CV",
+      "icon": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/2f99461daec8c752.jpeg",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/f3e3f554894c87a4.jpg",
       "description": null
     }
   }

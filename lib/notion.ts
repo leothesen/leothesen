@@ -99,6 +99,7 @@ function collectChildPageBlocks(blocks: NotionBlock[]): NotionBlock[] {
 export interface ChildPageInfo {
   icon: string | null
   slug: string
+  title: string
 }
 
 export async function getChildPageMap(blocks: NotionBlock[]): Promise<Record<string, ChildPageInfo>> {
@@ -115,6 +116,7 @@ export async function getChildPageMap(blocks: NotionBlock[]): Promise<Record<str
     map[childPageBlocks[i].id] = {
       icon: getPageIcon(page),
       slug: slugify(title) || uuidToId(page.id),
+      title,
     }
   })
   return map
