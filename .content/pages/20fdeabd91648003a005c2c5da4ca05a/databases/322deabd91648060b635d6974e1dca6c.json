@@ -34,6 +34,40 @@
     "order": null
   },
   {
+    "id": "eafabc47-bd1a-4ac2-b561-3b58fb46efb7",
+    "title": "Waking Life",
+    "description": null,
+    "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/872067a77d137d30.jpeg",
+    "icon": "🎈",
+    "slug": "waking-life",
+    "path": [
+      "novel-experiences",
+      "camino-ish",
+      "waking-life"
+    ],
+    "published": null,
+    "author": null,
+    "lastEdited": "2026-03-13T07:14:00.000Z",
+    "order": null
+  },
+  {
+    "id": "21cdeabd-9164-80e3-8ea4-f16f7c6e4911",
+    "title": "Sintra → Cascais run",
+    "description": null,
+    "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/8619af36ffb35bf9.jpeg",
+    "icon": "🏰",
+    "slug": "sintra-cascais-run",
+    "path": [
+      "novel-experiences",
+      "camino-ish",
+      "sintra-cascais-run"
+    ],
+    "published": null,
+    "author": null,
+    "lastEdited": "2026-03-13T07:14:00.000Z",
+    "order": null
+  },
+  {
     "id": "21cdeabd-9164-8037-9723-e49e277fc89a",
     "title": "Algarve",
     "description": null,
@@ -61,23 +95,6 @@
       "novel-experiences",
       "camino-ish",
       "ericeira"
-    ],
-    "published": null,
-    "author": null,
-    "lastEdited": "2026-03-13T07:14:00.000Z",
-    "order": null
-  },
-  {
-    "id": "21cdeabd-9164-80e3-8ea4-f16f7c6e4911",
-    "title": "Sintra → Cascais run",
-    "description": null,
-    "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/8619af36ffb35bf9.jpeg",
-    "icon": "🏰",
-    "slug": "sintra-cascais-run",
-    "path": [
-      "novel-experiences",
-      "camino-ish",
-      "sintra-cascais-run"
     ],
     "published": null,
     "author": null,
@@ -354,23 +371,6 @@
     "published": null,
     "author": null,
     "lastEdited": "2026-03-13T07:13:00.000Z",
-    "order": null
-  },
-  {
-    "id": "eafabc47-bd1a-4ac2-b561-3b58fb46efb7",
-    "title": "Waking Life",
-    "description": null,
-    "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/872067a77d137d30.jpeg",
-    "icon": "🎈",
-    "slug": "waking-life",
-    "path": [
-      "novel-experiences",
-      "camino-ish",
-      "waking-life"
-    ],
-    "published": null,
-    "author": null,
-    "lastEdited": "2026-03-13T07:14:00.000Z",
     "order": null
   }
 ]
