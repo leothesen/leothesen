@@ -1,0 +1,608 @@
+[
+  {
+    "object": "block",
+    "id": "5439a388-1e20-4483-a322-f03a1729d3c2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6a75e30a-82b4-4e24-a15a-20702e10cdad"
+    },
+    "created_time": "2023-09-28T03:39:00.000Z",
+    "last_edited_time": "2023-09-28T03:40:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Standing in an elevator which stops on every floor, doors opening and closing with recorded voice announcing the obvious: “doors opening”, all the people in the life either look up or down. Nobody keeps their eyes at eye level. The moment the “doors opening” is announced on the floor that we’re all heading to, heads recalibrate to centre. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Standing in an elevator which stops on every floor, doors opening and closing with recorded voice announcing the obvious: “doors opening”, all the people in the life either look up or down. Nobody keeps their eyes at eye level. The moment the “doors opening” is announced on the floor that we’re all heading to, heads recalibrate to centre. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "00a0c9aa-5782-4961-9c19-9d028daa444c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6a75e30a-82b4-4e24-a15a-20702e10cdad"
+    },
+    "created_time": "2023-09-28T03:41:00.000Z",
+    "last_edited_time": "2023-09-28T03:41:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ece7ed51-0424-439f-84b6-95291d35729e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6a75e30a-82b4-4e24-a15a-20702e10cdad"
+    },
+    "created_time": "2023-09-28T03:41:00.000Z",
+    "last_edited_time": "2023-09-28T03:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The screens displaying news of the day hang just long enough for you to almost finish reading the summary. Then it changes, I was invested enough to read all bulletins waiting for the first one to come back up again so I could finish it. Clever design? Or am I a slow reader? ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The screens displaying news of the day hang just long enough for you to almost finish reading the summary. Then it changes, I was invested enough to read all bulletins waiting for the first one to come back up again so I could finish it. Clever design? Or am I a slow reader? ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9c42ef13-3e88-416b-b165-535ce0274e51",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6a75e30a-82b4-4e24-a15a-20702e10cdad"
+    },
+    "created_time": "2023-09-28T06:51:00.000Z",
+    "last_edited_time": "2023-09-28T06:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0662b861-e2a6-4498-83c4-c371e1b4e753",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6a75e30a-82b4-4e24-a15a-20702e10cdad"
+    },
+    "created_time": "2023-09-28T03:43:00.000Z",
+    "last_edited_time": "2023-09-28T06:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I see a man leave the lounge and walk towards my flight. He confidently walks past a long queue at the boarding gate and stands right next to the check in counter. I watch from a chair. The people at the front of the queue are visibly agitated by this man supposedly skipping the queue. They whisper back and forth and make subtle gestures. Eventually the check in counter calls for business class passengers and he walks straight through. The rest of the queue continue to waiting. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I see a man leave the lounge and walk towards my flight. He confidently walks past a long queue at the boarding gate and stands right next to the check in counter. I watch from a chair. The people at the front of the queue are visibly agitated by this man supposedly skipping the queue. They whisper back and forth and make subtle gestures. Eventually the check in counter calls for business class passengers and he walks straight through. The rest of the queue continue to waiting. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7e6adb63-6b35-474d-b760-3d2ee101254f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6a75e30a-82b4-4e24-a15a-20702e10cdad"
+    },
+    "created_time": "2023-09-28T03:43:00.000Z",
+    "last_edited_time": "2023-09-28T06:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "There’s a little pattern on the tip of the airplane wing, the part that curves up towards the sky. Red and a deep purple blending into each other in a repetitive but evolving pattern. I was quite enthralled by it. Classic engineer brain: how did they make it. So I think that it’s a red background with horizontal purple zigzags one on top of each other. The thickness of the line that makes up the zigzag increases, with each one being thicker than the one below it. Then the thing that makes the pattern evolve is the fact that each zigzag line is slightly offset the the right when compared to the one below it, although my eyes are having trouble discerning if this is true. Scrap that! The truth has been discovered, the zigzags aren’t offset, rather they decrease in amplitude as they move towards the front of the plane (the difference in heigh between the peaks gets less). Well this has been an ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "There’s a little pattern on the tip of the airplane wing, the part that curves up towards the sky. Red and a deep purple blending into each other in a repetitive but evolving pattern. I was quite enthralled by it. Classic engineer brain: how did they make it. So I think that it’s a red background with horizontal purple zigzags one on top of each other. The thickness of the line that makes up the zigzag increases, with each one being thicker than the one below it. Then the thing that makes the pattern evolve is the fact that each zigzag line is slightly offset the the right when compared to the one below it, although my eyes are having trouble discerning if this is true. Scrap that! The truth has been discovered, the zigzags aren’t offset, rather they decrease in amplitude as they move towards the front of the plane (the difference in heigh between the peaks gets less). Well this has been an ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "interesting",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "interesting",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " use of twenty minutes on an airplane. Doubly scrap that, I was right the first time; and I’ve got a photo to prove it. The zigzags are offset by 180 degrees (if my maths is right) basically the peak is in line with the tough of the zigzag above. Ok I feel like I’ve beat this pattern horse a bit too much, I’m starting to feel bad. Shit one more correction, the amplitude doesn’t decrease - that was just a trick of the eye as the wing curved. Ok done, promise 🤞",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " use of twenty minutes on an airplane. Doubly scrap that, I was right the first time; and I’ve got a photo to prove it. The zigzags are offset by 180 degrees (if my maths is right) basically the peak is in line with the tough of the zigzag above. Ok I feel like I’ve beat this pattern horse a bit too much, I’m starting to feel bad. Shit one more correction, the amplitude doesn’t decrease - that was just a trick of the eye as the wing curved. Ok done, promise 🤞",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d4c690a2-5855-4de8-b619-24f02e143399",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6a75e30a-82b4-4e24-a15a-20702e10cdad"
+    },
+    "created_time": "2023-09-28T06:52:00.000Z",
+    "last_edited_time": "2023-09-28T06:54:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/160fe5aa23e28a86.jpeg",
+        "expiry_time": "2026-03-13T08:30:14.469Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "69a2e87f-2e9e-4b91-89b6-776c5453d8ef",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6a75e30a-82b4-4e24-a15a-20702e10cdad"
+    },
+    "created_time": "2023-09-28T06:51:00.000Z",
+    "last_edited_time": "2023-09-28T06:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8a4eb84d-465c-4658-a25a-f84a7d655fd0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6a75e30a-82b4-4e24-a15a-20702e10cdad"
+    },
+    "created_time": "2023-09-28T03:43:00.000Z",
+    "last_edited_time": "2023-09-28T06:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "So interesting is a non-word, as per Captain Fantastic. I aspire not to use it in writing and conversation anymore! It’s going to be ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "So interesting is a non-word, as per Captain Fantastic. I aspire not to use it in writing and conversation anymore! It’s going to be ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "interesting",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": true,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "interesting",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " thought provoking to see what adjectives I come up with. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " thought provoking to see what adjectives I come up with. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "2eb7ed36-52ec-4bc3-ae54-85cb9eab5d5e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6a75e30a-82b4-4e24-a15a-20702e10cdad"
+    },
+    "created_time": "2023-09-28T06:44:00.000Z",
+    "last_edited_time": "2023-09-28T06:44:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8999222a-9ef8-49cd-a26c-2a9f393b3d42",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6a75e30a-82b4-4e24-a15a-20702e10cdad"
+    },
+    "created_time": "2023-09-28T06:44:00.000Z",
+    "last_edited_time": "2023-09-28T06:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Seeing an airplane as an old machine from a a future perspective. It’s so inorganic, rivets and welding visible, sharp edges and distinct parts. I wonder if I’ll live to see the day that a flying machine looks like some sort of living angelic bird. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Seeing an airplane as an old machine from a a future perspective. It’s so inorganic, rivets and welding visible, sharp edges and distinct parts. I wonder if I’ll live to see the day that a flying machine looks like some sort of living angelic bird. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "37ead7ab-de12-4623-a652-20dbec22e636",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6a75e30a-82b4-4e24-a15a-20702e10cdad"
+    },
+    "created_time": "2023-09-28T06:54:00.000Z",
+    "last_edited_time": "2023-09-28T06:54:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "03aa86e6-5e7b-4313-b42b-d30a617c4ecc",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6a75e30a-82b4-4e24-a15a-20702e10cdad"
+    },
+    "created_time": "2023-09-28T06:54:00.000Z",
+    "last_edited_time": "2023-09-28T06:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Burnt out aircrafts, lying waiting to die as you land in Joburg isn’t a good look. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Burnt out aircrafts, lying waiting to die as you land in Joburg isn’t a good look. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "de618895-0ba4-45fe-ae2b-bafaa8e76cdb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6a75e30a-82b4-4e24-a15a-20702e10cdad"
+    },
+    "created_time": "2023-09-28T08:09:00.000Z",
+    "last_edited_time": "2023-09-28T08:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4c449328-de4b-43f8-86cc-a23fa170d2ad",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6a75e30a-82b4-4e24-a15a-20702e10cdad"
+    },
+    "created_time": "2023-09-28T08:09:00.000Z",
+    "last_edited_time": "2023-09-28T08:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Someone with two GnT’s, a beer and a cigarette in the smoking lounge. She must have a long flight ahead. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Someone with two GnT’s, a beer and a cigarette in the smoking lounge. She must have a long flight ahead. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

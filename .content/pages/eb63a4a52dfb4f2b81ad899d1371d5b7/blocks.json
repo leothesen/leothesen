@@ -1,0 +1,4315 @@
+[
+  {
+    "object": "block",
+    "id": "704d061f-9523-4722-8e42-bfc72b7ffba9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T08:03:00.000Z",
+    "last_edited_time": "2024-07-16T08:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_1",
+    "heading_1": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Overview",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Overview",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7eb3ff1c-4d8a-4ee2-a3b6-fcb4b6e571b1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T08:03:00.000Z",
+    "last_edited_time": "2024-07-16T08:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Problem",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Problem",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "86dee9b6-eaee-4ec8-9f3f-5a204cf0e77c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T08:04:00.000Z",
+    "last_edited_time": "2024-07-16T08:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I have a busy calendar, yet need to be available for others for help and support. Slack statuses are often used by people to see where I’m at. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I have a busy calendar, yet need to be available for others for help and support. Slack statuses are often used by people to see where I’m at. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3618fc1f-0614-4cf6-a620-d441745fc2b8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T08:08:00.000Z",
+    "last_edited_time": "2024-07-16T08:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "48bcdece-61f2-45cd-bb78-17772b0a471c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T08:08:00.000Z",
+    "last_edited_time": "2024-07-16T08:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Google Calendar has a native integration with Slack to update your status. Yet it didn’t provide much more context than “In a meeting”. I wanted to build something that would provide full transparency into my calendar. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Google Calendar has a native integration with Slack to update your status. Yet it didn’t provide much more context than “In a meeting”. I wanted to build something that would provide full transparency into my calendar. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d3bd3fac-29e4-481b-a676-8abda9a1813a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T08:03:00.000Z",
+    "last_edited_time": "2024-07-16T08:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "54a53fd4-644f-4b20-88be-9b10a8b86f3b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T05:29:00.000Z",
+    "last_edited_time": "2024-07-16T08:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I tried to build something similar using Zapier and Make, yet I found the platforms very limiting in terms of flexibility and often hit the pay wall. So with a little help from the AI friends we came up with this.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I tried to build something similar using Zapier and Make, yet I found the platforms very limiting in terms of flexibility and often hit the pay wall. So with a little help from the AI friends we came up with this.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "64d66bb6-f03f-49a4-a40a-924ec65868bd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T05:27:00.000Z",
+    "last_edited_time": "2024-07-16T08:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Solution",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Solution",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6fb819b5-6d1d-448b-b225-6c180924aacf",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T05:27:00.000Z",
+    "last_edited_time": "2024-07-16T06:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "This Google Apps Script syncs your Slack status with your Google Calendar events. It updates your Slack status based on the type of event you're currently in, the time until your next event, and your inferred working hours. The script runs every minute, ensuring your Slack status remains up-to-date with your calendar and working hours.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "This Google Apps Script syncs your Slack status with your Google Calendar events. It updates your Slack status based on the type of event you're currently in, the time until your next event, and your inferred working hours. The script runs every minute, ensuring your Slack status remains up-to-date with your calendar and working hours.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1bc0bdbe-302e-40b5-b551-a4fe19c6ddd4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T05:27:00.000Z",
+    "last_edited_time": "2024-07-16T08:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Functionality",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Functionality",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9aa6e54d-71a6-4c69-acc3-c0d4007acdc4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T05:27:00.000Z",
+    "last_edited_time": "2024-07-16T05:27:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The script performs the following actions:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The script performs the following actions:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "63833011-da26-4f70-bc45-48ad306904b3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T05:27:00.000Z",
+    "last_edited_time": "2024-07-16T05:27:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Fetches events from your Google Calendar.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Fetches events from your Google Calendar.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "065c51c6-cf92-4775-b4d7-6bccd6886abf",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T05:27:00.000Z",
+    "last_edited_time": "2024-07-16T05:27:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Determines the current and next events.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Determines the current and next events.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7ee619d3-4c9d-42ed-96e0-6cdfad5bcc91",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T05:27:00.000Z",
+    "last_edited_time": "2024-07-16T05:27:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Updates your Slack status based on the type and timing of events.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Updates your Slack status based on the type and timing of events.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1fe05d75-3662-49dc-85ca-60f5d1e4749b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T05:27:00.000Z",
+    "last_edited_time": "2024-07-16T05:27:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Infers working hours based on busy and free periods in your calendar.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Infers working hours based on busy and free periods in your calendar.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "05c06584-5908-4a55-be1c-5917d07e21e6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T07:29:00.000Z",
+    "last_edited_time": "2024-07-16T07:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Prioritises events based on your RSVP status.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Prioritises events based on your RSVP status.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "dfb614f2-0518-49b6-9949-231e88515661",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T07:29:00.000Z",
+    "last_edited_time": "2024-07-16T07:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "2d48a0ca-7471-4eee-81f4-030ee7f4c13c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T05:27:00.000Z",
+    "last_edited_time": "2024-07-16T05:27:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Status Table",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Status Table",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0d45d21b-f641-44ee-95e7-5826000e3187",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T05:27:00.000Z",
+    "last_edited_time": "2024-07-16T06:11:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "table",
+    "table": {
+      "table_width": 3,
+      "has_column_header": true,
+      "has_row_header": false
+    },
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "201e5c1c-91c3-4e49-9591-58c4d81717e8",
+        "parent": {
+          "type": "block_id",
+          "block_id": "0d45d21b-f641-44ee-95e7-5826000e3187"
+        },
+        "created_time": "2024-07-16T05:27:00.000Z",
+        "last_edited_time": "2024-07-16T06:11:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "table_row",
+        "table_row": {
+          "cells": [
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Event Type",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Event Type",
+                "href": null
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Icon",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Icon",
+                "href": null
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Status Text",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Status Text",
+                "href": null
+              }
+            ]
+          ]
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "7285ebf8-cb44-4f3c-b32d-89f9aec8fb9c",
+        "parent": {
+          "type": "block_id",
+          "block_id": "0d45d21b-f641-44ee-95e7-5826000e3187"
+        },
+        "created_time": "2024-07-16T05:27:00.000Z",
+        "last_edited_time": "2024-07-16T05:27:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "table_row",
+        "table_row": {
+          "cells": [
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Meeting with attendees",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Meeting with attendees",
+                "href": null
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "📞",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "📞",
+                "href": null
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "meeting: <event title>",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "meeting: <event title>",
+                "href": null
+              }
+            ]
+          ]
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "7ed658eb-570c-4c05-b309-78edb2e44fe0",
+        "parent": {
+          "type": "block_id",
+          "block_id": "0d45d21b-f641-44ee-95e7-5826000e3187"
+        },
+        "created_time": "2024-07-16T05:27:00.000Z",
+        "last_edited_time": "2024-07-16T05:27:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "table_row",
+        "table_row": {
+          "cells": [
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Focus time meeting",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Focus time meeting",
+                "href": null
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "🎧",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "🎧",
+                "href": null
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "focus time: <event title>",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "focus time: <event title>",
+                "href": null
+              }
+            ]
+          ]
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "41c3bbeb-214c-4aab-a9df-adf9e4950620",
+        "parent": {
+          "type": "block_id",
+          "block_id": "0d45d21b-f641-44ee-95e7-5826000e3187"
+        },
+        "created_time": "2024-07-16T05:27:00.000Z",
+        "last_edited_time": "2024-07-16T05:27:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "table_row",
+        "table_row": {
+          "cells": [
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Meeting without attendees",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Meeting without attendees",
+                "href": null
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "💻",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "💻",
+                "href": null
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "working on: <event title>",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "working on: <event title>",
+                "href": null
+              }
+            ]
+          ]
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "e4b9f263-b001-48f1-8456-a252a0be192c",
+        "parent": {
+          "type": "block_id",
+          "block_id": "0d45d21b-f641-44ee-95e7-5826000e3187"
+        },
+        "created_time": "2024-07-16T05:27:00.000Z",
+        "last_edited_time": "2024-07-16T05:27:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "table_row",
+        "table_row": {
+          "cells": [
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Out of office",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Out of office",
+                "href": null
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "🚫",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "🚫",
+                "href": null
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "out of office: <event title>",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "out of office: <event title>",
+                "href": null
+              }
+            ]
+          ]
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2c08df11-7511-420b-8613-a6397241ee88",
+        "parent": {
+          "type": "block_id",
+          "block_id": "0d45d21b-f641-44ee-95e7-5826000e3187"
+        },
+        "created_time": "2024-07-16T05:27:00.000Z",
+        "last_edited_time": "2024-07-16T05:27:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "table_row",
+        "table_row": {
+          "cells": [
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "No current meeting within working hours",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "No current meeting within working hours",
+                "href": null
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "🟢",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "🟢",
+                "href": null
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "available for X minutes/hours",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "available for X minutes/hours",
+                "href": null
+              }
+            ]
+          ]
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "a7934442-ed68-4812-a982-2681bb627502",
+        "parent": {
+          "type": "block_id",
+          "block_id": "0d45d21b-f641-44ee-95e7-5826000e3187"
+        },
+        "created_time": "2024-07-16T05:27:00.000Z",
+        "last_edited_time": "2024-07-16T05:27:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "table_row",
+        "table_row": {
+          "cells": [
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "No upcoming meeting",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "No upcoming meeting",
+                "href": null
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "🟢",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "🟢",
+                "href": null
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "available",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "available",
+                "href": null
+              }
+            ]
+          ]
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "470de5a6-cedf-41f4-8de7-b65771f2625f",
+        "parent": {
+          "type": "block_id",
+          "block_id": "0d45d21b-f641-44ee-95e7-5826000e3187"
+        },
+        "created_time": "2024-07-16T05:27:00.000Z",
+        "last_edited_time": "2024-07-16T05:27:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "table_row",
+        "table_row": {
+          "cells": [
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Outside of working hours",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Outside of working hours",
+                "href": null
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "🔴",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "🔴",
+                "href": null
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "unavailable",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "unavailable",
+                "href": null
+              }
+            ]
+          ]
+        },
+        "archived": false
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "6190725e-3d6c-4bba-b0b8-ab804ff599d9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T05:27:00.000Z",
+    "last_edited_time": "2024-07-16T08:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_1",
+    "heading_1": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Step-by-Step Guide",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Step-by-Step Guide",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "fa950b1c-5d5c-45c1-89b3-30e4b5a8f4e6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T05:27:00.000Z",
+    "last_edited_time": "2024-07-16T08:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Step 1: Set Up Your Slack API",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Step 1: Set Up Your Slack API",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7c08112b-8be9-45c2-a943-f5cf30a44694",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T05:27:00.000Z",
+    "last_edited_time": "2024-07-16T05:27:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Create a Slack App",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Create a Slack App",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ":",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ":",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "698d32ee-8505-4534-94a2-429b3687ed80",
+        "parent": {
+          "type": "block_id",
+          "block_id": "7c08112b-8be9-45c2-a943-f5cf30a44694"
+        },
+        "created_time": "2024-07-16T05:27:00.000Z",
+        "last_edited_time": "2024-07-16T05:27:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Go to the Slack API.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Go to the Slack API.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "a7a5ab8c-29b3-4a6c-996e-4ebaa21a8e9f",
+        "parent": {
+          "type": "block_id",
+          "block_id": "7c08112b-8be9-45c2-a943-f5cf30a44694"
+        },
+        "created_time": "2024-07-16T05:27:00.000Z",
+        "last_edited_time": "2024-07-16T05:27:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Click on \"Create an App\" and choose \"From scratch\".",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Click on \"Create an App\" and choose \"From scratch\".",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "d14b7c3c-4454-4311-bb17-04227bdd9d9c",
+        "parent": {
+          "type": "block_id",
+          "block_id": "7c08112b-8be9-45c2-a943-f5cf30a44694"
+        },
+        "created_time": "2024-07-16T05:27:00.000Z",
+        "last_edited_time": "2024-07-16T05:27:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Name your app and select your Slack workspace.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Name your app and select your Slack workspace.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "c489776a-f4d3-4ed2-9e19-47bd6d51f49f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T05:27:00.000Z",
+    "last_edited_time": "2024-07-16T05:27:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Add OAuth Scopes",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Add OAuth Scopes",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ":",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ":",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "34863e60-7e49-48d0-8eef-18c4fcf89d55",
+        "parent": {
+          "type": "block_id",
+          "block_id": "c489776a-f4d3-4ed2-9e19-47bd6d51f49f"
+        },
+        "created_time": "2024-07-16T05:27:00.000Z",
+        "last_edited_time": "2024-07-16T05:27:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "In your Slack app settings, go to \"OAuth & Permissions\".",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "In your Slack app settings, go to \"OAuth & Permissions\".",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "074adcbe-84f8-4e68-9d04-eb69ef45fdf6",
+        "parent": {
+          "type": "block_id",
+          "block_id": "c489776a-f4d3-4ed2-9e19-47bd6d51f49f"
+        },
+        "created_time": "2024-07-16T05:27:00.000Z",
+        "last_edited_time": "2024-07-16T05:27:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Under \"User Token Scopes\", add the following scopes:",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Under \"User Token Scopes\", add the following scopes:",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "1b072608-bc63-40d1-8ca1-f60bf88bf4d6",
+            "parent": {
+              "type": "block_id",
+              "block_id": "074adcbe-84f8-4e68-9d04-eb69ef45fdf6"
+            },
+            "created_time": "2024-07-16T05:27:00.000Z",
+            "last_edited_time": "2024-07-16T05:27:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "bulleted_list_item",
+            "bulleted_list_item": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "users.profile:write",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": true,
+                    "color": "default"
+                  },
+                  "plain_text": "users.profile:write",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "825eb73d-f7cb-4734-a021-560499c69448",
+            "parent": {
+              "type": "block_id",
+              "block_id": "074adcbe-84f8-4e68-9d04-eb69ef45fdf6"
+            },
+            "created_time": "2024-07-16T05:27:00.000Z",
+            "last_edited_time": "2024-07-16T05:27:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "bulleted_list_item",
+            "bulleted_list_item": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "users:read",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": true,
+                    "color": "default"
+                  },
+                  "plain_text": "users:read",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          }
+        ]
+      },
+      {
+        "object": "block",
+        "id": "7f15edbd-d5bc-4602-b551-24ef098c11b1",
+        "parent": {
+          "type": "block_id",
+          "block_id": "c489776a-f4d3-4ed2-9e19-47bd6d51f49f"
+        },
+        "created_time": "2024-07-16T05:27:00.000Z",
+        "last_edited_time": "2024-07-16T05:27:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Note",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Note",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ": Ensure these are user token scopes, not bot token scopes.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ": Ensure these are user token scopes, not bot token scopes.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "6bd21f60-e031-4a12-877d-a814b4f06a69",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T05:27:00.000Z",
+    "last_edited_time": "2024-07-16T05:27:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Install the App to Your Workspace",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Install the App to Your Workspace",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ":",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ":",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "08368ea5-55c3-479f-aeae-5028caff7eb7",
+        "parent": {
+          "type": "block_id",
+          "block_id": "6bd21f60-e031-4a12-877d-a814b4f06a69"
+        },
+        "created_time": "2024-07-16T05:27:00.000Z",
+        "last_edited_time": "2024-07-16T05:27:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "In the \"OAuth & Permissions\" section, click \"Install App to Workspace\".",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "In the \"OAuth & Permissions\" section, click \"Install App to Workspace\".",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "e85cb915-778d-4bc4-9974-99cd5118a2cc",
+        "parent": {
+          "type": "block_id",
+          "block_id": "6bd21f60-e031-4a12-877d-a814b4f06a69"
+        },
+        "created_time": "2024-07-16T05:27:00.000Z",
+        "last_edited_time": "2024-07-16T05:27:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Authorize the app to access your workspace.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Authorize the app to access your workspace.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "8cac33ab-9774-4370-971e-5a3edf9950c4",
+        "parent": {
+          "type": "block_id",
+          "block_id": "6bd21f60-e031-4a12-877d-a814b4f06a69"
+        },
+        "created_time": "2024-07-16T05:27:00.000Z",
+        "last_edited_time": "2024-07-16T06:08:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "After installation, copy the \"OAuth Access Token\" (user token, prefixed with ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "After installation, copy the \"OAuth Access Token\" (user token, prefixed with ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "xoxp",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": true,
+                "color": "default"
+              },
+              "plain_text": "xoxp",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ", not the bot token). Save this somewhere - as you will need to paste it into the code.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ", not the bot token). Save this somewhere - as you will need to paste it into the code.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "5a65f023-f161-42a4-8b2d-722b1aa22ae5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T05:27:00.000Z",
+    "last_edited_time": "2024-07-16T05:27:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Retrieve Your Slack User ID",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Retrieve Your Slack User ID",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ":",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ":",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "2753553f-78d7-4593-a103-9388174887ca",
+        "parent": {
+          "type": "block_id",
+          "block_id": "5a65f023-f161-42a4-8b2d-722b1aa22ae5"
+        },
+        "created_time": "2024-07-16T05:27:00.000Z",
+        "last_edited_time": "2024-07-16T05:27:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Open Slack and click on your profile picture in the top right corner.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Open Slack and click on your profile picture in the top right corner.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "9314a079-9c0d-43e4-b012-9f53015dddfa",
+        "parent": {
+          "type": "block_id",
+          "block_id": "5a65f023-f161-42a4-8b2d-722b1aa22ae5"
+        },
+        "created_time": "2024-07-16T05:27:00.000Z",
+        "last_edited_time": "2024-07-16T05:27:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Click on \"Profile\".",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Click on \"Profile\".",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "801dd286-d0f8-43c0-8a03-1df384289c7b",
+        "parent": {
+          "type": "block_id",
+          "block_id": "5a65f023-f161-42a4-8b2d-722b1aa22ae5"
+        },
+        "created_time": "2024-07-16T05:27:00.000Z",
+        "last_edited_time": "2024-07-16T06:08:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "In the profile view, click on the three dots (More Actions) and select \"Copy member ID\". Save this somewhere - as you will need to paste it into the code.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "In the profile view, click on the three dots (More Actions) and select \"Copy member ID\". Save this somewhere - as you will need to paste it into the code.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "d8c378bf-6913-4de0-a941-dcd029584d42",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T05:27:00.000Z",
+    "last_edited_time": "2024-07-16T08:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Step 2: Set Up Google Apps Script",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Step 2: Set Up Google Apps Script",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7850c475-cc29-4a8c-b8c3-81f344537877",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T05:27:00.000Z",
+    "last_edited_time": "2024-07-16T05:27:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Create a New Google Apps Script",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Create a New Google Apps Script",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ":",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ":",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "e8e565ac-e2a1-426f-aeac-6f31c9da2417",
+        "parent": {
+          "type": "block_id",
+          "block_id": "7850c475-cc29-4a8c-b8c3-81f344537877"
+        },
+        "created_time": "2024-07-16T05:27:00.000Z",
+        "last_edited_time": "2024-07-16T05:27:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Go to ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Go to ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Google Apps Script",
+                "link": {
+                  "url": "https://script.google.com/"
+                }
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Google Apps Script",
+              "href": "https://script.google.com/"
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ".",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ".",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "b7b165d7-32b8-4184-bd76-c1bb18007ba7",
+        "parent": {
+          "type": "block_id",
+          "block_id": "7850c475-cc29-4a8c-b8c3-81f344537877"
+        },
+        "created_time": "2024-07-16T05:27:00.000Z",
+        "last_edited_time": "2024-07-16T05:27:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Click on ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Click on ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "+ New Project",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": true,
+                "color": "default"
+              },
+              "plain_text": "+ New Project",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ".",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ".",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "70b85aca-c30d-4897-af31-eef2535c5256",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T05:27:00.000Z",
+    "last_edited_time": "2024-07-16T09:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Enable Advanced Google Services",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Enable Advanced Google Services",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ":",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ":",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "cd198c92-f986-435f-a30b-c1bdd5127006",
+        "parent": {
+          "type": "block_id",
+          "block_id": "70b85aca-c30d-4897-af31-eef2535c5256"
+        },
+        "created_time": "2024-07-16T05:27:00.000Z",
+        "last_edited_time": "2024-07-16T09:11:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Under the code editor click on ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Under the code editor click on ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Services",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": true,
+                "color": "default"
+              },
+              "plain_text": "Services",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " > ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " > ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Advanced Google services",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": true,
+                "color": "default"
+              },
+              "plain_text": "Advanced Google services",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " , ensure that ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " , ensure that ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "V3",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": true,
+                "color": "default"
+              },
+              "plain_text": "V3",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " is selected.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " is selected.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "63511536-eade-49eb-ad3b-254f5a88953e",
+        "parent": {
+          "type": "block_id",
+          "block_id": "70b85aca-c30d-4897-af31-eef2535c5256"
+        },
+        "created_time": "2024-07-16T05:27:00.000Z",
+        "last_edited_time": "2024-07-16T09:11:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Add the Google Calendar API.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Add the Google Calendar API.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "9ed84709-8370-4246-a217-7316fec58e33",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T05:27:00.000Z",
+    "last_edited_time": "2024-07-16T06:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Write the Script",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Write the Script",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ":",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ":",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "ed3f4999-7add-4039-8cef-fd6576ee1860",
+        "parent": {
+          "type": "block_id",
+          "block_id": "9ed84709-8370-4246-a217-7316fec58e33"
+        },
+        "created_time": "2024-07-16T05:27:00.000Z",
+        "last_edited_time": "2024-07-16T06:08:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Copy and paste the following script into the code editor:",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Copy and paste the following script into the code editor:",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "10da6e95-a9cb-47d0-bed5-6666039a0fe5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T05:03:00.000Z",
+    "last_edited_time": "2024-07-16T09:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "code",
+    "code": {
+      "caption": [],
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "function updateSlackStatus() {\n  var calendarId = 'primary'; // Use your calendar ID if different\n  var now = new Date();\n  var endOfDay = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 23, 59, 59);\n  \n  // Fetch working hours from busy/free times\n  var workingHours = getWorkingHours(calendarId, now);\n\n  var isWorkingHours = now.getHours() >= workingHours.start && now.getHours() < workingHours.end;\n\n  var events = Calendar.Events.list(calendarId, {\n    timeMin: now.toISOString(),\n    timeMax: endOfDay.toISOString(),\n    singleEvents: true,\n    orderBy: 'startTime'\n  }).items;\n\n  var currentEvent = getCurrentEvent(events, now);\n  var nextEvent = events.find(event => {\n    var startTime = new Date(event.start.dateTime || event.start.date);\n    return !event.start.date && startTime > now; // Find the next non all-day event\n  });\n\n  var slackToken = 'YOUR_USER_SLACK_TOKEN'; // Replace with your Slack token\n  var slackUser = 'YOUR_SLACK_USER_ID'; // Replace with your Slack user ID\n  var statusText = '';\n  var statusEmoji = '';\n  var expirationTime;\n\n  if (currentEvent) {\n    var eventTitle = currentEvent.summary;\n\n    if (currentEvent.eventType === 'outOfOffice') {\n      statusEmoji = '🚫';\n      statusText = 'out of office: ' + eventTitle;\n    } else if (currentEvent.eventType === 'focusTime') {\n      statusEmoji = '🎧';\n      statusText = 'focus time: ' + eventTitle;\n    } else if (currentEvent.attendees && currentEvent.attendees.length > 0) {\n      statusEmoji = '📞';\n      statusText = 'meeting: ' + eventTitle;\n    } else {\n      statusEmoji = '💻';\n      statusText = 'working on: ' + eventTitle;\n    }\n\n    expirationTime = Math.floor(new Date(currentEvent.end.dateTime || currentEvent.end.date).getTime() / 1000);\n  } else if (!isWorkingHours) {\n    statusEmoji = '🔴';\n    statusText = 'unavailable';\n    expirationTime = Math.floor(endOfDay.getTime() / 1000);\n  } else {\n    statusEmoji = '🟢';\n    if (nextEvent) {\n      var nextMeetingStart = new Date(nextEvent.start.dateTime || nextEvent.start.date);\n      var minutesUntilNextMeeting = Math.round((nextMeetingStart - now) / 60000); // Convert milliseconds to minutes\n\n      if (minutesUntilNextMeeting > 60) {\n        var hoursUntilNextMeeting = Math.floor(minutesUntilNextMeeting / 60);\n        var remainingMinutes = minutesUntilNextMeeting % 60;\n        var halfHours = remainingMinutes >= 30 ? 0.5 : 0;\n        var totalHours = hoursUntilNextMeeting + halfHours;\n        statusText = 'available for ' + totalHours + ' hours';\n      } else {\n        statusText = 'available for ' + minutesUntilNextMeeting + ' minutes';\n      }\n\n      expirationTime = Math.floor(nextMeetingStart.getTime() / 1000);\n    } else {\n      statusText = 'available';\n      expirationTime = Math.floor(endOfDay.getTime() / 1000);\n    }\n  }\n\n  var payload = {\n    \"profile\": {\n      \"status_text\": statusText,\n      \"status_emoji\": statusEmoji,\n      \"status_expiration\": expirationTime\n    }\n  };\n\n  var options = {\n    \"method\": \"post\",\n    \"contentType\": \"application/json\",\n    \"headers\": {\n      \"Authorization\": \"Bearer \" + slackToken\n    },\n    \"payload\": JSON.stringify(payload)\n  };\n\n  try {\n    var response = UrlFetchApp.fetch('https://slack.com/api/users.profile.set', options);\n    Logger.log('Response: ' + response.getContentText()); // Log the response from Slack\n  } catch (e) {\n    Logger.log('Error: ' + e.message);\n  }\n}\n\nfunction getWorkingHours(calendarId, date) {\n  var startOfDay = new Date(date.getFullYear(), date.getMonth(), date.getDate(), 0, 0, 0);\n  var endOfDay = new Date(date.getFullYear(), date.getMonth(), date.getDate(), 23, 59, 59);\n\n  var freeBusy = Calendar.Freebusy.query({\n    timeMin: startOfDay.toISOString(),\n    timeMax: endOfDay.toISOString(),\n    items: [{ id: calendarId }]\n  });\n\n  var busyPeriods = freeBusy.calendars[calendarId].busy;\n  var workingHours = { start: 9, end: 17 }; // Default values\n\n  if (busyPeriods.length > 0) {\n    var firstBusyPeriod = new Date(busyPeriods[0].start);\n    var lastBusyPeriod = new Date(busyPeriods[busyPeriods.length - 1].end);\n\n    workingHours.start = firstBusyPeriod.getHours();\n    workingHours.end = lastBusyPeriod.getHours();\n  }\n\n  return workingHours;\n}\n\nfunction getCurrentEvent(events, now) {\n  var yesEvents = [];\n  var noEvents = [];\n  var noResponseEvents = [];\n\n  events.forEach(event => {\n    var startTime = new Date(event.start.dateTime || event.start.date);\n    var endTime = new Date(event.end.dateTime || event.end.date);\n\n    if (!event.start.date && startTime <= now && endTime >= now) {\n      if (event.attendees) {\n        var myResponse = event.attendees.find(attendee => attendee.self).responseStatus;\n        if (myResponse === 'accepted') {\n          yesEvents.push(event);\n        } else if (myResponse === 'declined') {\n          noEvents.push(event);\n        } else {\n          noResponseEvents.push(event);\n        }\n      } else {\n        yesEvents.push(event); // Push to yesEvents if there are no attendees\n      }\n    }\n  });\n\n  if (yesEvents.length > 0) {\n    return yesEvents[0];\n  } else if (noResponseEvents.length > 0) {\n    return noResponseEvents[0];\n  } else {\n    return null;\n  }\n}\n\nfunction scheduleTrigger() {\n  ScriptApp.newTrigger('updateSlackStatus')\n    .timeBased()\n    .everyMinutes(1)\n    .create();\n}\n",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "function updateSlackStatus() {\n  var calendarId = 'primary'; // Use your calendar ID if different\n  var now = new Date();\n  var endOfDay = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 23, 59, 59);\n  \n  // Fetch working hours from busy/free times\n  var workingHours = getWorkingHours(calendarId, now);\n\n  var isWorkingHours = now.getHours() >= workingHours.start && now.getHours() < workingHours.end;\n\n  var events = Calendar.Events.list(calendarId, {\n    timeMin: now.toISOString(),\n    timeMax: endOfDay.toISOString(),\n    singleEvents: true,\n    orderBy: 'startTime'\n  }).items;\n\n  var currentEvent = getCurrentEvent(events, now);\n  var nextEvent = events.find(event => {\n    var startTime = new Date(event.start.dateTime || event.start.date);\n    return !event.start.date && startTime > now; // Find the next non all-day event\n  });\n\n  var slackToken = 'YOUR_USER_SLACK_TOKEN'; // Replace with your Slack token\n  var slackUser = 'YOUR_SLACK_USER_ID'; // Replace with your Slack user ID\n  var statusText = '';\n  var statusEmoji = '';\n  var expirationTime;\n\n  if (currentEvent) {\n    var eventTitle = currentEvent.summary;\n\n    if (currentEvent.eventType === 'outOfOffice') {\n      statusEmoji = '🚫';\n      statusText = 'out of office: ' + eventTitle;\n    } else if (currentEvent.eventType === 'focusTime') {\n      statusEmoji = '🎧';\n      statusText = 'focus time: ' + eventTitle;\n    } else if (currentEvent.attendees && currentEvent.attendees.length > 0) {\n      statusEmoji = '📞';\n      statusText = 'meeting: ' + eventTitle;\n    } else {\n      statusEmoji = '💻';\n      statusText = 'working on: ' + eventTitle;\n    }\n\n    expirationTime = Math.floor(new Date(currentEvent.end.dateTime || currentEvent.end.date).getTime() / 1000);\n  } else if (!isWorkingHours) {\n    statusEmoji = '🔴';\n    statusText = 'unavailable';\n    expirationTime = Math.floor(endOfDay.getTime() / 1000);\n  } else {\n    statusEmoji = '🟢';\n    if (nextEvent) {\n      var nextMeetingStart = new Date(nextEvent.start.dateTime || nextEvent.start.date);\n      var minutesUntilNextMeeting = Math.round((nextMeetingStart - now) / 60000); // Convert milliseconds to minutes\n\n      if (minutesUntilNextMeeting > 60) {\n        var hoursUntilNextMeeting = Math.floor(minutesUntilNextMeeting / 60);\n        var remainingMinutes = minutesUntilNextMeeting % 60;\n        var halfHours = remainingMinutes >= 30 ? 0.5 : 0;\n        var totalHours = hoursUntilNextMeeting + halfHours;\n        statusText = 'available for ' + totalHours + ' hours';\n      } else {\n        statusText = 'available for ' + minutesUntilNextMeeting + ' minutes';\n      }\n\n      expirationTime = Math.floor(nextMeetingStart.getTime() / 1000);\n    } else {\n      statusText = 'available';\n      expirationTime = Math.floor(endOfDay.getTime() / 1000);\n    }\n  }\n\n  var payload = {\n    \"profile\": {\n      \"status_text\": statusText,\n      \"status_emoji\": statusEmoji,\n      \"status_expiration\": expirationTime\n    }\n  };\n\n  var options = {\n    \"method\": \"post\",\n    \"contentType\": \"application/json\",\n    \"headers\": {\n      \"Authorization\": \"Bearer \" + slackToken\n    },\n    \"payload\": JSON.stringify(payload)\n  };\n\n  try {\n    var response = UrlFetchApp.fetch('https://slack.com/api/users.profile.set', options);\n    Logger.log('Response: ' + response.getContentText()); // Log the response from Slack\n  } catch (e) {\n    Logger.log('Error: ' + e.message);\n  }\n}\n\nfunction getWorkingHours(calendarId, date) {\n  var startOfDay = new Date(date.getFullYear(), date.getMonth(), date.getDate(), 0, 0, 0);\n  var endOfDay = new Date(date.getFullYear(), date.getMonth(), date.getDate(), 23, 59, 59);\n\n  var freeBusy = Calendar.Freebusy.query({\n    timeMin: startOfDay.toISOString(),\n    timeMax: endOfDay.toISOString(),\n    items: [{ id: calendarId }]\n  });\n\n  var busyPeriods = freeBusy.calendars[calendarId].busy;\n  var workingHours = { start: 9, end: 17 }; // Default values\n\n  if (busyPeriods.length > 0) {\n    var firstBusyPeriod = new Date(busyPeriods[0].start);\n    var lastBusyPeriod = new Date(busyPeriods[busyPeriods.length - 1].end);\n\n    workingHours.start = firstBusyPeriod.getHours();\n    workingHours.end = lastBusyPeriod.getHours();\n  }\n\n  return workingHours;\n}\n\nfunction getCurrentEvent(events, now) {\n  var yesEvents = [];\n  var noEvents = [];\n  var noResponseEvents = [];\n\n  events.forEach(event => {\n    var startTime = new Date(event.start.dateTime || event.start.date);\n    var endTime = new Date(event.end.dateTime || event.end.date);\n\n    if (!event.start.date && startTime <= now && endTime >= now) {\n      if (event.attendees) {\n        var myResponse = event.attendees.find(attendee => attendee.self).responseStatus;\n        if (myResponse === 'accepted') {\n          yesEvents.push(event);\n        } else if (myResponse === 'declined') {\n          noEvents.push(event);\n        } else {\n          noResponseEvents.push(event);\n        }\n      } else {\n        yesEvents.push(event); // Push to yesEvents if there are no attendees\n      }\n    }\n  });\n\n  if (yesEvents.length > 0) {\n    return yesEvents[0];\n  } else if (noResponseEvents.length > 0) {\n    return noResponseEvents[0];\n  } else {\n    return null;\n  }\n}\n\nfunction scheduleTrigger() {\n  ScriptApp.newTrigger('updateSlackStatus')\n    .timeBased()\n    .everyMinutes(1)\n    .create();\n}\n",
+          "href": null
+        }
+      ],
+      "language": "javascript"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "52099659-3684-48a9-a8bc-1149c379e684",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T06:09:00.000Z",
+    "last_edited_time": "2024-07-16T06:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "5f8b6d9a-dd45-4b3d-b56c-f3c102f8dd95",
+        "parent": {
+          "type": "block_id",
+          "block_id": "52099659-3684-48a9-a8bc-1149c379e684"
+        },
+        "created_time": "2024-07-16T06:09:00.000Z",
+        "last_edited_time": "2024-07-16T06:09:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Update the ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Update the ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "YOUR_USER_SLACK_TOKEN",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": true,
+                "color": "default"
+              },
+              "plain_text": "YOUR_USER_SLACK_TOKEN",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " and ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " and ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "YOUR_SLACK_USER_ID",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": true,
+                "color": "default"
+              },
+              "plain_text": "YOUR_SLACK_USER_ID",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " with the values you copied earlier. ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " with the values you copied earlier. ",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "04f5161f-7050-4106-b2ad-f09724530a3b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T06:09:00.000Z",
+    "last_edited_time": "2024-07-16T06:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "777dc7ef-d7da-4847-a939-9d4721cbf253",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T05:03:00.000Z",
+    "last_edited_time": "2024-07-16T05:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Set Up Triggers",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Set Up Triggers",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ":",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ":",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "list_start_index": 4
+    },
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "416f26b2-cacd-4ac6-9298-a35e999d6591",
+        "parent": {
+          "type": "block_id",
+          "block_id": "777dc7ef-d7da-4847-a939-9d4721cbf253"
+        },
+        "created_time": "2024-07-16T05:03:00.000Z",
+        "last_edited_time": "2024-07-16T05:03:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Click on the clock icon on the left sidebar (Triggers).",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Click on the clock icon on the left sidebar (Triggers).",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "e93c6aed-c3cf-4cf7-803b-ca1f2443b6ab",
+        "parent": {
+          "type": "block_id",
+          "block_id": "777dc7ef-d7da-4847-a939-9d4721cbf253"
+        },
+        "created_time": "2024-07-16T05:03:00.000Z",
+        "last_edited_time": "2024-07-16T05:03:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Click on ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Click on ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "+ Add Trigger",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": true,
+                "color": "default"
+              },
+              "plain_text": "+ Add Trigger",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " in the bottom right corner.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " in the bottom right corner.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "968e27b8-4bfc-45c8-9063-fac24d5f7d05",
+        "parent": {
+          "type": "block_id",
+          "block_id": "777dc7ef-d7da-4847-a939-9d4721cbf253"
+        },
+        "created_time": "2024-07-16T05:03:00.000Z",
+        "last_edited_time": "2024-07-16T05:03:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Set up the trigger as follows:",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Set up the trigger as follows:",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "6d507048-0b03-460a-b73a-ee997c3b120d",
+            "parent": {
+              "type": "block_id",
+              "block_id": "968e27b8-4bfc-45c8-9063-fac24d5f7d05"
+            },
+            "created_time": "2024-07-16T05:03:00.000Z",
+            "last_edited_time": "2024-07-16T05:03:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "bulleted_list_item",
+            "bulleted_list_item": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Choose which function to run: ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Choose which function to run: ",
+                  "href": null
+                },
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "updateSlackStatus",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": true,
+                    "color": "default"
+                  },
+                  "plain_text": "updateSlackStatus",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "ff6bfbda-ec41-4b0c-b826-418225fdeac3",
+            "parent": {
+              "type": "block_id",
+              "block_id": "968e27b8-4bfc-45c8-9063-fac24d5f7d05"
+            },
+            "created_time": "2024-07-16T05:03:00.000Z",
+            "last_edited_time": "2024-07-16T05:03:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "bulleted_list_item",
+            "bulleted_list_item": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Choose which deployment should run: ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Choose which deployment should run: ",
+                  "href": null
+                },
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Head",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": true,
+                    "color": "default"
+                  },
+                  "plain_text": "Head",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "dc7d6a08-d971-47ac-913f-828568e42677",
+            "parent": {
+              "type": "block_id",
+              "block_id": "968e27b8-4bfc-45c8-9063-fac24d5f7d05"
+            },
+            "created_time": "2024-07-16T05:03:00.000Z",
+            "last_edited_time": "2024-07-16T05:03:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "bulleted_list_item",
+            "bulleted_list_item": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Select event source: ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Select event source: ",
+                  "href": null
+                },
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Time-driven",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": true,
+                    "color": "default"
+                  },
+                  "plain_text": "Time-driven",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "626c8cfc-edcf-425c-a5fe-4d02868331ce",
+            "parent": {
+              "type": "block_id",
+              "block_id": "968e27b8-4bfc-45c8-9063-fac24d5f7d05"
+            },
+            "created_time": "2024-07-16T05:03:00.000Z",
+            "last_edited_time": "2024-07-16T05:03:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "bulleted_list_item",
+            "bulleted_list_item": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Select type of time-based trigger: ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Select type of time-based trigger: ",
+                  "href": null
+                },
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Minutes timer",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": true,
+                    "color": "default"
+                  },
+                  "plain_text": "Minutes timer",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "ad0ac523-4839-484c-aee4-aac55f8bc9fd",
+            "parent": {
+              "type": "block_id",
+              "block_id": "968e27b8-4bfc-45c8-9063-fac24d5f7d05"
+            },
+            "created_time": "2024-07-16T05:03:00.000Z",
+            "last_edited_time": "2024-07-16T06:49:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "bulleted_list_item",
+            "bulleted_list_item": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Select minute interval: ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Select minute interval: ",
+                  "href": null
+                },
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Every minute",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": true,
+                    "color": "default"
+                  },
+                  "plain_text": "Every minute",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          }
+        ]
+      },
+      {
+        "object": "block",
+        "id": "a2838582-ec61-4534-ab8e-85e1c36f81cd",
+        "parent": {
+          "type": "block_id",
+          "block_id": "777dc7ef-d7da-4847-a939-9d4721cbf253"
+        },
+        "created_time": "2024-07-16T05:03:00.000Z",
+        "last_edited_time": "2024-07-16T05:03:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Click ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Click ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Save",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": true,
+                "color": "default"
+              },
+              "plain_text": "Save",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ".",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ".",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "36d95faa-fae8-4e0f-bb57-76be414d53ed",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T05:03:00.000Z",
+    "last_edited_time": "2024-07-16T06:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Authorise the Script",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Authorise the Script",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ":",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ":",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "931df693-f0fe-48f0-9bd0-5d9063725d64",
+        "parent": {
+          "type": "block_id",
+          "block_id": "36d95faa-fae8-4e0f-bb57-76be414d53ed"
+        },
+        "created_time": "2024-07-16T05:03:00.000Z",
+        "last_edited_time": "2024-07-16T05:03:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "The first time you run the script, you will need to authorize it to access your Google Calendar and make requests to Slack.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "The first time you run the script, you will need to authorize it to access your Google Calendar and make requests to Slack.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "1181b93c-d633-4a57-b18f-0e5436ba6e74",
+        "parent": {
+          "type": "block_id",
+          "block_id": "36d95faa-fae8-4e0f-bb57-76be414d53ed"
+        },
+        "created_time": "2024-07-16T05:03:00.000Z",
+        "last_edited_time": "2024-07-16T05:03:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Run the ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Run the ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "updateSlackStatus",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": true,
+                "color": "default"
+              },
+              "plain_text": "updateSlackStatus",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " function by clicking on the play button icon in the script editor.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " function by clicking on the play button icon in the script editor.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2685c043-c20e-4425-8680-c0efc70d840b",
+        "parent": {
+          "type": "block_id",
+          "block_id": "36d95faa-fae8-4e0f-bb57-76be414d53ed"
+        },
+        "created_time": "2024-07-16T05:03:00.000Z",
+        "last_edited_time": "2024-07-16T05:03:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Follow the prompts to grant the necessary permissions.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Follow the prompts to grant the necessary permissions.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "a078921b-9e08-4b40-bcd2-b884b4bdd3f8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T08:13:00.000Z",
+    "last_edited_time": "2024-07-16T08:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "2c007f44-ee61-4d05-af11-16c62a7b0d55",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T06:10:00.000Z",
+    "last_edited_time": "2024-07-16T08:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_1",
+    "heading_1": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Conclusion",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Conclusion",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "df8a7961-8bbf-46bf-b9e9-8d8d2dbc2846",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T05:03:00.000Z",
+    "last_edited_time": "2024-07-16T05:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "By following these steps, you will have a Google Apps Script that automatically updates your Slack status based on your Google Calendar events.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "By following these steps, you will have a Google Apps Script that automatically updates your Slack status based on your Google Calendar events.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "33183c33-2690-4dad-8e9a-177b0d255264",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T06:10:00.000Z",
+    "last_edited_time": "2024-07-16T06:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3d2d517f-05cf-4912-a092-15a8db78fb97",
+    "parent": {
+      "type": "page_id",
+      "page_id": "eb63a4a5-2dfb-4f2b-81ad-899d1371d5b7"
+    },
+    "created_time": "2024-07-16T06:10:00.000Z",
+    "last_edited_time": "2024-07-16T06:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Please reach out if you have any issues or suggestions 🙏",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Please reach out if you have any issues or suggestions 🙏",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

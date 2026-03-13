@@ -75,18 +75,44 @@ Edit [site.config.ts](./site.config.ts) to set:
 - `isRedisEnabled` — Redis caching for preview images (disabled by default)
 - `navigationStyle` — `'default'` uses Notion nav, `'custom'` lets you define `navigationLinks`
 
-### 6. Run locally
+### 6. Sync content from Notion
+
+The sync script pulls all pages, databases, and images from Notion into `.content/` and `public/notion-images/`. There are four sync modes:
 
 ```bash
-npm run dev
+# Incremental sync (default) — only re-fetches pages that changed since last sync
+pnpm sync
+
+# Force sync — deletes all cached content and re-fetches everything from scratch
+pnpm sync:force
+
+# Repair a single page — re-fetches one page by title or ID without re-crawling the full tree
+pnpm sync:repair "Music"
+pnpm sync:repair d29c331495084de1a75d9a4c83ada78d
+
+# Images repair — validates and fixes image references without re-syncing page content
+pnpm sync:images
+```
+
+| Mode | When to use |
+|------|-------------|
+| `sync` | Day-to-day use. Fast when only a few pages changed. |
+| `sync:force` | After structural changes, or to fix corrupted local content. |
+| `sync:repair` | Quick fix for a single page without waiting for a full crawl. |
+| `sync:images` | Fix missing/broken images after a failed sync or cleared blob store. |
+
+### 7. Run locally
+
+```bash
+pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) to view the site.
 
-### 7. Deploy to Vercel
+### 8. Deploy to Vercel
 
 ```bash
-npm run deploy
+pnpm deploy
 ```
 
 Or connect the GitHub repo to Vercel for automatic deployments. Make sure to add `NOTION_TOKEN` as an environment variable in your Vercel project settings (Settings → Environment Variables), applied to Production, Preview, and Development.

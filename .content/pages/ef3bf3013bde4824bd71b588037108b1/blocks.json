@@ -1,0 +1,574 @@
+[
+  {
+    "object": "block",
+    "id": "e349e8b3-c0fc-4ba4-b389-f4805ea95f2f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "ef3bf301-3bde-4824-bd71-b588037108b1"
+    },
+    "created_time": "2022-09-04T08:59:00.000Z",
+    "last_edited_time": "2022-09-04T08:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I think that I might actually be a little hungover today after the enormous whiskey that Wayne poured me. It’s only when the sticky heat creeps into the back of the bakkie that I bite the bullet and get out of bed. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I think that I might actually be a little hungover today after the enormous whiskey that Wayne poured me. It’s only when the sticky heat creeps into the back of the bakkie that I bite the bullet and get out of bed. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a5ad5ab1-17e8-43d9-84e8-ce8919de67d9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "ef3bf301-3bde-4824-bd71-b588037108b1"
+    },
+    "created_time": "2022-09-04T08:59:00.000Z",
+    "last_edited_time": "2022-09-04T08:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1c79ce46-ae77-45ab-807a-09aeec82c75b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "ef3bf301-3bde-4824-bd71-b588037108b1"
+    },
+    "created_time": "2022-09-04T08:59:00.000Z",
+    "last_edited_time": "2022-09-04T09:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I’m feeling uncomfortably full after all the noodles last night so just opt for some coffee to start the morning. I come up to the sun room and bump into Lisa. We end up having an incredible conversation relating to mindfulness and basically all things concerning the human experience. She’s simultaneously assured of her knowledge while also being inquisitive for anything new.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I’m feeling uncomfortably full after all the noodles last night so just opt for some coffee to start the morning. I come up to the sun room and bump into Lisa. We end up having an incredible conversation relating to mindfulness and basically all things concerning the human experience. She’s simultaneously assured of her knowledge while also being inquisitive for anything new.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "cba6dc26-1bf4-4f1f-8efb-cb74faa2b39e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "ef3bf301-3bde-4824-bd71-b588037108b1"
+    },
+    "created_time": "2022-09-04T09:01:00.000Z",
+    "last_edited_time": "2022-09-04T09:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e0422727-3b2f-4ce2-9f0d-9d1b114a2116",
+    "parent": {
+      "type": "page_id",
+      "page_id": "ef3bf301-3bde-4824-bd71-b588037108b1"
+    },
+    "created_time": "2022-09-04T09:01:00.000Z",
+    "last_edited_time": "2022-09-04T09:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Isipileh is playing soccer and we promise to fix his bicycle again today. I’m eating a grapefruit, with Cesar B. on in the common room and settling in to do some writing today.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Isipileh is playing soccer and we promise to fix his bicycle again today. I’m eating a grapefruit, with Cesar B. on in the common room and settling in to do some writing today.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "489d9a59-e711-4a37-af6e-a1c8674fc126",
+    "parent": {
+      "type": "page_id",
+      "page_id": "ef3bf301-3bde-4824-bd71-b588037108b1"
+    },
+    "created_time": "2022-09-04T09:02:00.000Z",
+    "last_edited_time": "2022-09-04T09:02:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "87e82061-9f6f-4bb5-9a31-2100907364e2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "ef3bf301-3bde-4824-bd71-b588037108b1"
+    },
+    "created_time": "2022-09-04T09:02:00.000Z",
+    "last_edited_time": "2022-09-04T09:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "embed",
+    "embed": {
+      "caption": [],
+      "url": "https://open.spotify.com/embed/artist/68Mf2sUOnyJoE6Xm6k0eE2?utm_source=generator&theme=0"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "85be5766-fb76-4e37-b136-c9106a04e0cd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "ef3bf301-3bde-4824-bd71-b588037108b1"
+    },
+    "created_time": "2022-09-04T13:41:00.000Z",
+    "last_edited_time": "2022-09-04T13:41:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e9cd406e-f412-48a9-b6b6-897d29a43e7d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "ef3bf301-3bde-4824-bd71-b588037108b1"
+    },
+    "created_time": "2022-09-04T13:41:00.000Z",
+    "last_edited_time": "2022-09-04T13:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I have quite a lot of inspiration and energy to write today. Looking through the photos from run really bring back a wave of memories and emotions and the words write themselves. I’m starving! Egg mayo on Salticrax and I’m back at it.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I have quite a lot of inspiration and energy to write today. Looking through the photos from run really bring back a wave of memories and emotions and the words write themselves. I’m starving! Egg mayo on Salticrax and I’m back at it.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f73a8710-1d3b-4863-8cc6-1204ba9c2948",
+    "parent": {
+      "type": "page_id",
+      "page_id": "ef3bf301-3bde-4824-bd71-b588037108b1"
+    },
+    "created_time": "2022-09-04T15:43:00.000Z",
+    "last_edited_time": "2022-09-04T15:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a773efd0-13e6-4df5-a183-6b1b3d78695d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "ef3bf301-3bde-4824-bd71-b588037108b1"
+    },
+    "created_time": "2022-09-04T15:43:00.000Z",
+    "last_edited_time": "2022-09-04T15:44:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Isiphile returns with a truly broken bicycle. We get our hands very dirty and manage to get it working again - unfortunately with the loss of being able to change the rear gears. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Isiphile returns with a truly broken bicycle. We get our hands very dirty and manage to get it working again - unfortunately with the loss of being able to change the rear gears. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "019f56cf-c991-41d4-b825-280a1fdae2b1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "ef3bf301-3bde-4824-bd71-b588037108b1"
+    },
+    "created_time": "2022-09-04T13:42:00.000Z",
+    "last_edited_time": "2022-09-04T13:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "bc68ae3e-3320-4742-bae1-48ca3dfc9a11",
+    "parent": {
+      "type": "page_id",
+      "page_id": "ef3bf301-3bde-4824-bd71-b588037108b1"
+    },
+    "created_time": "2022-09-04T13:42:00.000Z",
+    "last_edited_time": "2022-09-05T10:46:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Cuan comes walking in with his dog and sits down at the table with me. He’s the guy trying to build the water tank on his property. We get talking and go down the conversation of his work and life before moving here. He worked in IT and is now learning to code in his little hut. I’m also amused to find out that he spends quite a bit of time trying to hack into the local networks in the Transkei.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Cuan comes walking in with his dog and sits down at the table with me. He’s the guy trying to build the water tank on his property. We get talking and go down the conversation of his work and life before moving here. He worked in IT and is now learning to code in his little hut. I’m also amused to find out that he spends quite a bit of time trying to hack into the local networks in the Transkei.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "47b5632c-1409-4714-8ce1-b1ca33ead4dd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "ef3bf301-3bde-4824-bd71-b588037108b1"
+    },
+    "created_time": "2022-09-04T13:43:00.000Z",
+    "last_edited_time": "2022-09-04T15:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "79761b7e-3447-44b1-ae1c-8f0c44f62b07",
+    "parent": {
+      "type": "page_id",
+      "page_id": "ef3bf301-3bde-4824-bd71-b588037108b1"
+    },
+    "created_time": "2022-09-04T13:43:00.000Z",
+    "last_edited_time": "2022-09-04T15:44:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Lisa makes popcorn and Isiphile arrives as the perfect moment to share it with me. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Lisa makes popcorn and Isiphile arrives as the perfect moment to share it with me. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9febc564-bb96-4e98-8c7d-4d3c312cf012",
+    "parent": {
+      "type": "page_id",
+      "page_id": "ef3bf301-3bde-4824-bd71-b588037108b1"
+    },
+    "created_time": "2022-09-04T15:44:00.000Z",
+    "last_edited_time": "2022-09-04T15:44:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "508f8b6f-9945-4408-b179-02265f7ec4ff",
+    "parent": {
+      "type": "page_id",
+      "page_id": "ef3bf301-3bde-4824-bd71-b588037108b1"
+    },
+    "created_time": "2022-09-04T15:44:00.000Z",
+    "last_edited_time": "2022-09-04T15:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/00bdc5398f9a44d0.jpeg",
+        "expiry_time": "2026-03-12T09:48:44.134Z"
+      }
+    },
+    "archived": false
+  }
+]

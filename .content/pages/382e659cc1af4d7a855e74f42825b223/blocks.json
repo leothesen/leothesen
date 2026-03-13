@@ -1,0 +1,696 @@
+[
+  {
+    "object": "block",
+    "id": "a5587934-6d06-4488-94b8-5dd1bbad18e0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "382e659c-c1af-4d7a-855e-74f42825b223"
+    },
+    "created_time": "2023-10-09T05:57:00.000Z",
+    "last_edited_time": "2023-10-09T05:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Birds sing the song of the morning, waves crash down below. The promise of a perfect point break shows signs of life, but the short period swell says no. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Birds sing the song of the morning, waves crash down below. The promise of a perfect point break shows signs of life, but the short period swell says no. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8d378d4a-b4bc-4fa8-96d6-ad323befef36",
+    "parent": {
+      "type": "page_id",
+      "page_id": "382e659c-c1af-4d7a-855e-74f42825b223"
+    },
+    "created_time": "2023-10-11T14:36:00.000Z",
+    "last_edited_time": "2023-10-11T14:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0b72d27d-9782-4684-a787-3a0631dc9d6d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "382e659c-c1af-4d7a-855e-74f42825b223"
+    },
+    "created_time": "2023-10-09T05:58:00.000Z",
+    "last_edited_time": "2023-10-11T14:34:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Jellyfish lie peacefully on the beach. Crabs fling unwanted sand out their holes. The rain sprinkles the land bringing the horizon closer. The feeling of surf froth gradually increases. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Jellyfish lie peacefully on the beach. Crabs fling unwanted sand out their holes. The rain sprinkles the land bringing the horizon closer. The feeling of surf froth gradually increases. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "50e56629-aaba-4727-8c8b-503cced37b78",
+    "parent": {
+      "type": "page_id",
+      "page_id": "382e659c-c1af-4d7a-855e-74f42825b223"
+    },
+    "created_time": "2023-10-11T14:49:00.000Z",
+    "last_edited_time": "2023-10-11T14:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "13e06e55-3bad-4d1f-82e1-26bc58ea6468",
+    "parent": {
+      "type": "page_id",
+      "page_id": "382e659c-c1af-4d7a-855e-74f42825b223"
+    },
+    "created_time": "2023-10-11T14:48:00.000Z",
+    "last_edited_time": "2023-10-11T14:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/94d1b5f7cd9a62b9.jpeg",
+        "expiry_time": "2026-03-13T08:30:13.716Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "47638e18-860d-43d1-a522-1f157b5787bb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "382e659c-c1af-4d7a-855e-74f42825b223"
+    },
+    "created_time": "2023-10-11T14:45:00.000Z",
+    "last_edited_time": "2023-10-11T14:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f8d13693-92c9-4411-8360-f45dd4630f3d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "382e659c-c1af-4d7a-855e-74f42825b223"
+    },
+    "created_time": "2023-10-11T14:45:00.000Z",
+    "last_edited_time": "2023-10-11T14:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The ocean is busy and chaotic. There are whales just beyond the waves. I’m alone in a foreign sea and I feel alert. Mostly for hunting waves, of which there are a few diamonds in the rough. The water is glassy, but the swell slightly too jumbled up; I get a few that puts a smile on the face. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The ocean is busy and chaotic. There are whales just beyond the waves. I’m alone in a foreign sea and I feel alert. Mostly for hunting waves, of which there are a few diamonds in the rough. The water is glassy, but the swell slightly too jumbled up; I get a few that puts a smile on the face. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e29b658e-dae2-45e7-9828-898345ba6399",
+    "parent": {
+      "type": "page_id",
+      "page_id": "382e659c-c1af-4d7a-855e-74f42825b223"
+    },
+    "created_time": "2023-10-11T15:02:00.000Z",
+    "last_edited_time": "2023-10-11T15:02:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b9f01fa8-42ed-4cbc-a79f-44d052b4078b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "382e659c-c1af-4d7a-855e-74f42825b223"
+    },
+    "created_time": "2023-10-11T15:02:00.000Z",
+    "last_edited_time": "2023-10-11T15:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We play a game of chess to decide if we should go to Membene today or tomorrow. I think that game is won and begin strategising my packing up operation only to take my eye off the ball and lose in a masterful comeback by Julian. So we settle in for the night, it’s decided. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We play a game of chess to decide if we should go to Membene today or tomorrow. I think that game is won and begin strategising my packing up operation only to take my eye off the ball and lose in a masterful comeback by Julian. So we settle in for the night, it’s decided. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "05fabc07-63e9-4ae7-8743-52b86b2902b7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "382e659c-c1af-4d7a-855e-74f42825b223"
+    },
+    "created_time": "2023-10-11T14:51:00.000Z",
+    "last_edited_time": "2023-10-11T14:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ddc752ff-1a00-4da2-82c5-247d7ad2ab7a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "382e659c-c1af-4d7a-855e-74f42825b223"
+    },
+    "created_time": "2023-10-11T14:51:00.000Z",
+    "last_edited_time": "2023-10-11T14:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I stir from a nap to see a large dog with perfect coat sniffing around the tent. Its owner calls them, some tourists investigating the campsite. The spell of isolation is slightly broken. The remoteness of this tropical campsite is still strong. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I stir from a nap to see a large dog with perfect coat sniffing around the tent. Its owner calls them, some tourists investigating the campsite. The spell of isolation is slightly broken. The remoteness of this tropical campsite is still strong. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e3373a30-7e38-42e9-bd79-40124605e2f1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "382e659c-c1af-4d7a-855e-74f42825b223"
+    },
+    "created_time": "2023-10-11T14:48:00.000Z",
+    "last_edited_time": "2023-10-11T14:48:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "30ff9121-c7b1-49b7-a0f7-ebdb6f09e55f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "382e659c-c1af-4d7a-855e-74f42825b223"
+    },
+    "created_time": "2023-10-11T14:48:00.000Z",
+    "last_edited_time": "2023-10-11T14:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The afternoon run brings out both the lactic acid and a crisp state of mind. “Crocodile rock” is named after a resemblance to the truly atrocious creature, and luckily not their presence in the water. Crabs dance down the beach, playing in the waves; with energy to spare due to their superior hand dealt in evolution. Well, that being said; I’m running down the beach with no other motive other than exploring. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The afternoon run brings out both the lactic acid and a crisp state of mind. “Crocodile rock” is named after a resemblance to the truly atrocious creature, and luckily not their presence in the water. Crabs dance down the beach, playing in the waves; with energy to spare due to their superior hand dealt in evolution. Well, that being said; I’m running down the beach with no other motive other than exploring. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e8a5443f-c57c-4ae0-8518-0b786b988ba8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "382e659c-c1af-4d7a-855e-74f42825b223"
+    },
+    "created_time": "2023-10-11T14:53:00.000Z",
+    "last_edited_time": "2023-10-11T14:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "773a17d9-9ceb-49b7-973e-1f545e675ba6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "382e659c-c1af-4d7a-855e-74f42825b223"
+    },
+    "created_time": "2023-10-11T14:53:00.000Z",
+    "last_edited_time": "2023-10-11T14:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Fancy houses line the dune, almost of Eastern architecture. The doors are open in one but there are no signs of life. At night only one is lit. Could it be the Chinese cement tycoons who owned the factory on the main road?",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Fancy houses line the dune, almost of Eastern architecture. The doors are open in one but there are no signs of life. At night only one is lit. Could it be the Chinese cement tycoons who owned the factory on the main road?",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5e445184-a9fa-4c14-b9d6-472e6770f5c0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "382e659c-c1af-4d7a-855e-74f42825b223"
+    },
+    "created_time": "2023-10-11T14:54:00.000Z",
+    "last_edited_time": "2023-10-11T14:54:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f961e577-60c2-4faa-8c13-cb51debfda13",
+    "parent": {
+      "type": "page_id",
+      "page_id": "382e659c-c1af-4d7a-855e-74f42825b223"
+    },
+    "created_time": "2023-10-11T14:54:00.000Z",
+    "last_edited_time": "2023-10-11T14:54:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Night falls and the excitement of being out here grows. Julian has fashioned the tarp to block the wind and the cooking routine is flawless. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Night falls and the excitement of being out here grows. Julian has fashioned the tarp to block the wind and the cooking routine is flawless. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "96fd1c30-19bd-4dad-abc4-cda3801ceede",
+    "parent": {
+      "type": "page_id",
+      "page_id": "382e659c-c1af-4d7a-855e-74f42825b223"
+    },
+    "created_time": "2023-10-11T14:51:00.000Z",
+    "last_edited_time": "2023-10-11T14:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "daaf8a41-b18e-4253-802b-e6422092caf1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "382e659c-c1af-4d7a-855e-74f42825b223"
+    },
+    "created_time": "2023-10-11T14:51:00.000Z",
+    "last_edited_time": "2023-10-11T14:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1fd9b83c-5aa9-436b-87a4-719105f2e1b5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "382e659c-c1af-4d7a-855e-74f42825b223"
+    },
+    "created_time": "2023-10-11T14:34:00.000Z",
+    "last_edited_time": "2023-10-11T14:34:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9f451815-03f0-4258-8d15-29e8227f1852",
+    "parent": {
+      "type": "page_id",
+      "page_id": "382e659c-c1af-4d7a-855e-74f42825b223"
+    },
+    "created_time": "2023-10-11T14:34:00.000Z",
+    "last_edited_time": "2023-10-11T14:34:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

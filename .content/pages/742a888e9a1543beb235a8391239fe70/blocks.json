@@ -1,0 +1,1434 @@
+[
+  {
+    "object": "block",
+    "id": "a901a0cb-0710-4114-b985-46088305e491",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-01T05:40:00.000Z",
+    "last_edited_time": "2023-10-01T05:41:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Wake up to a young boy selling crayfish. Three dogs have taken guard over us. We sit on the deck chairs exactly where we watched the moon rise last night, watching the sun rise. I’ve found a bigger percolator in the car; shaving five minutes off our morning routine, not that we’re in a rush. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Wake up to a young boy selling crayfish. Three dogs have taken guard over us. We sit on the deck chairs exactly where we watched the moon rise last night, watching the sun rise. I’ve found a bigger percolator in the car; shaving five minutes off our morning routine, not that we’re in a rush. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1c9a5986-c04f-46f6-9bbd-4328ed615271",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-06T16:01:00.000Z",
+    "last_edited_time": "2023-10-06T16:02:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/44a0a29c24b20e02.jpeg",
+        "expiry_time": "2026-03-13T08:30:15.144Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c0725ecf-f84c-4a3f-8689-66ebde82c475",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-01T05:41:00.000Z",
+    "last_edited_time": "2023-10-01T07:54:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Rito comes to deliver four freshly baked breads. We take a walk down to the headland with a towel, the three dogs take up the rear and follow from a distance. As we read the point the wind drops and then begins to turn, excitement for the prospects of a clean wave rise with the southerly wind. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Rito comes to deliver four freshly baked breads. We take a walk down to the headland with a towel, the three dogs take up the rear and follow from a distance. As we read the point the wind drops and then begins to turn, excitement for the prospects of a clean wave rise with the southerly wind. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d6bfa1e8-6f54-4a49-8b40-6e02bec28e2a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-06T16:02:00.000Z",
+    "last_edited_time": "2023-10-06T16:02:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9a3fae2a-3080-467b-8881-ef1ccd0b123e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-06T16:01:00.000Z",
+    "last_edited_time": "2023-10-06T16:02:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/0a1c1582487c286e.jpeg",
+        "expiry_time": "2026-03-13T08:30:15.144Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6d2deb22-1470-4375-af97-3324e595b67f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-01T07:54:00.000Z",
+    "last_edited_time": "2023-10-01T07:54:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f54db736-de1a-447d-a2cd-efbf1289570d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-01T07:54:00.000Z",
+    "last_edited_time": "2023-10-01T07:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Leo’s bowels have always been linked to the ocean and the promise of waves requires an aqua dump; one of the most sure fire ways to acquaint yourself with a coastal spot. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Leo’s bowels have always been linked to the ocean and the promise of waves requires an aqua dump; one of the most sure fire ways to acquaint yourself with a coastal spot. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "de408a1b-e770-4563-a8b0-e2e6edad36cb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-06T16:03:00.000Z",
+    "last_edited_time": "2023-10-06T16:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "90e94375-1fb3-4e8d-a462-b0acdacbbeed",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-06T16:01:00.000Z",
+    "last_edited_time": "2023-10-06T16:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/4805b58d99e7b275.jpeg",
+        "expiry_time": "2026-03-13T08:30:15.144Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e26200c1-49cb-4e34-9a86-c780d1a08196",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-01T07:55:00.000Z",
+    "last_edited_time": "2023-10-01T07:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "19640a57-d1a5-47cb-9e81-2018db147cfd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-01T07:55:00.000Z",
+    "last_edited_time": "2023-10-01T07:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I take a run down the beach, feeling free, to go see what the wind has done for the waves on the sand spit: still messy. But there’s promise of a south swell to come through this afternoon - maybe something will happen? Either way this is paradise and I’m content. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I take a run down the beach, feeling free, to go see what the wind has done for the waves on the sand spit: still messy. But there’s promise of a south swell to come through this afternoon - maybe something will happen? Either way this is paradise and I’m content. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f98d51e9-9e10-4cdb-bece-956a3d16246d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-01T07:56:00.000Z",
+    "last_edited_time": "2023-10-01T07:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5d752f02-8e72-4a10-a327-50a8bd917ed6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-01T07:56:00.000Z",
+    "last_edited_time": "2023-10-06T16:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Julian has made a scrambled egg roll while I was on the surf scout. The monkeys play (Dorothy the…) chicken, edging closer to the food each time. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Julian has made a scrambled egg roll while I was on the surf scout. The monkeys play (Dorothy the…) chicken, edging closer to the food each time. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "05860d4c-c944-484b-a90b-cf87967f0275",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-06T16:03:00.000Z",
+    "last_edited_time": "2023-10-06T16:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b5948f2f-fb33-4fdd-8c6d-2ff3ac75bc79",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-06T16:01:00.000Z",
+    "last_edited_time": "2023-10-06T16:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/2cd93a69c961039e.jpeg",
+        "expiry_time": "2026-03-13T08:30:15.145Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ec820a2b-57f8-4e75-99d4-f8f2c5c9169d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-01T11:24:00.000Z",
+    "last_edited_time": "2023-10-01T11:24:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b849e232-1782-415c-a945-5ad4d8db46a6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-01T11:24:00.000Z",
+    "last_edited_time": "2023-10-01T11:26:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We head out for a surf. The water is the perfect temperature and it’s a pleasure to surf in boardies again. Little sand bottom rights that wedge off the rocky shelf. Julian and I share it only with a whale and someone tracking their son to surf in the shore break. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We head out for a surf. The water is the perfect temperature and it’s a pleasure to surf in boardies again. Little sand bottom rights that wedge off the rocky shelf. Julian and I share it only with a whale and someone tracking their son to surf in the shore break. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "2b4e29f0-cc49-4886-89ea-fb86914a0273",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-01T11:26:00.000Z",
+    "last_edited_time": "2023-10-01T14:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "37d43479-89d9-40ca-b5f5-89f233f1880a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-01T11:27:00.000Z",
+    "last_edited_time": "2023-10-01T14:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The waves are waist high on average and running about 30m. This bank has promise to be a Mozambiquen version of Mdumbi with the right swell. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The waves are waist high on average and running about 30m. This bank has promise to be a Mozambiquen version of Mdumbi with the right swell. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "63763e52-63d9-4236-bde7-fca18333aa77",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-06T16:03:00.000Z",
+    "last_edited_time": "2023-10-06T16:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6a9f64a3-2497-413f-b5ac-8cf33bb9938a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-01T14:13:00.000Z",
+    "last_edited_time": "2023-10-01T14:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6695ca86-02de-4256-b50f-ce828d647355",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-01T14:13:00.000Z",
+    "last_edited_time": "2023-10-01T14:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I set the hammock up and drift through a meditation, mottled sunshine balances the slight chill in the wind and half an hour passed in a flash. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I set the hammock up and drift through a meditation, mottled sunshine balances the slight chill in the wind and half an hour passed in a flash. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b0593858-fe87-45d2-b654-7d83ae3becf9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-01T14:15:00.000Z",
+    "last_edited_time": "2023-10-01T14:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d6eb3ef0-c415-4c50-86a8-59a21a00b8c4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-01T14:15:00.000Z",
+    "last_edited_time": "2023-10-06T16:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I go looking for Rito to collect the charging laptops and instead find his young girls (maybe twins) who immediately latch onto me. They talk continuously in a language I don’t understand, I talk back in an equally strange language to them. Julian attempts to draw them but they decide that they would rather walk down the beach with me to check the waves, not that they knew what I was up to. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I go looking for Rito to collect the charging laptops and instead find his young girls (maybe twins) who immediately latch onto me. They talk continuously in a language I don’t understand, I talk back in an equally strange language to them. Julian attempts to draw them but they decide that they would rather walk down the beach with me to check the waves, not that they knew what I was up to. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "33efccc3-bf9a-4da5-852a-f1cf3293a7ad",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-01T14:17:00.000Z",
+    "last_edited_time": "2023-10-01T14:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a055c0d6-2a35-42d6-a170-ef4fb4156aca",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-06T16:01:00.000Z",
+    "last_edited_time": "2023-10-06T16:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/6edff2d49569c07a.jpeg",
+        "expiry_time": "2026-03-13T08:30:15.330Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7412138e-c454-43bb-b191-e9c44ddf965a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-01T14:17:00.000Z",
+    "last_edited_time": "2023-10-06T16:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d28ce827-92b6-4af1-b86b-ad1767288176",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-01T14:17:00.000Z",
+    "last_edited_time": "2023-10-06T16:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The tide has filled in and the wind is up. The swell doesn’t show itself and we stroll on back, laughing and chasing one another back. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The tide has filled in and the wind is up. The swell doesn’t show itself and we stroll on back, laughing and chasing one another back. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9188813a-e1ed-48c7-8d22-b2cc2ada82d1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-06T16:04:00.000Z",
+    "last_edited_time": "2023-10-06T16:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7458ddcf-f76a-4745-b301-6c2f67963b16",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-06T16:01:00.000Z",
+    "last_edited_time": "2023-10-06T16:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/92626af4c8106b65.jpeg",
+        "expiry_time": "2026-03-13T08:30:15.330Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ce328290-367b-4132-904f-fcc3bf36915b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-01T14:18:00.000Z",
+    "last_edited_time": "2023-10-01T14:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5c89736a-35ed-4526-a14e-4bcdd917271b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-01T14:18:00.000Z",
+    "last_edited_time": "2023-10-01T14:19:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Julian had finished the picture and there’s something wrong with it. It takes a while to figure out that there’s only one picture and two of them. A pair of scissors later and now there’s a picture each, and a set of fairly happy twins. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Julian had finished the picture and there’s something wrong with it. It takes a while to figure out that there’s only one picture and two of them. A pair of scissors later and now there’s a picture each, and a set of fairly happy twins. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8350b4d3-ad50-4302-95c4-34efefb9eaa9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-06T16:04:00.000Z",
+    "last_edited_time": "2023-10-06T16:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c224be79-f122-4b05-bedb-a569a5430cf7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-06T16:01:00.000Z",
+    "last_edited_time": "2023-10-06T16:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/0da1af8d0436b19f.jpeg",
+        "expiry_time": "2026-03-13T08:30:15.330Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "bf55eb58-5f5e-443a-b518-a1a4dda98363",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-01T14:19:00.000Z",
+    "last_edited_time": "2023-10-01T14:19:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c4dbcb51-12a0-41a4-b0e0-1f6c1bc4d5e1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-01T14:19:00.000Z",
+    "last_edited_time": "2023-10-01T14:20:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The sky has turned a grey shade of navy blue, it’s the coldest that I’ve felt since arriving (still shorts and a shirt though). My mind is calm in the face of the storm. We’re going to attempt a day of remote working here tomorrow, fingers crossed that the signal stays strong. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The sky has turned a grey shade of navy blue, it’s the coldest that I’ve felt since arriving (still shorts and a shirt though). My mind is calm in the face of the storm. We’re going to attempt a day of remote working here tomorrow, fingers crossed that the signal stays strong. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ae665d37-9034-4b17-9081-fb34851bbde5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-01T18:04:00.000Z",
+    "last_edited_time": "2023-10-01T18:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "28db2990-8772-4e3c-882b-e34b971612c2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-01T18:04:00.000Z",
+    "last_edited_time": "2023-10-01T18:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "On a walk to the abandoned buildings on the point a dog picks us up, yelping for affection - even just a touch. He shows us the old hotel on the hill which succumbed to a similar fate as the one on paradise island. We take a detour back through the village, sparse coconut trees give the feeling of safety and calm as they sway in the wind. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "On a walk to the abandoned buildings on the point a dog picks us up, yelping for affection - even just a touch. He shows us the old hotel on the hill which succumbed to a similar fate as the one on paradise island. We take a detour back through the village, sparse coconut trees give the feeling of safety and calm as they sway in the wind. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "55c0195a-bc4a-4a49-a655-9a2cf4abbbda",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-06T16:05:00.000Z",
+    "last_edited_time": "2023-10-06T16:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "cf3af210-09fe-44e6-8343-f19bbf406ca7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-06T16:01:00.000Z",
+    "last_edited_time": "2023-10-06T16:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/20c1901dc5b92932.jpeg",
+        "expiry_time": "2026-03-13T08:30:15.330Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d6044c25-23b9-4ba0-a8d6-ffb8f5c81db0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-01T18:06:00.000Z",
+    "last_edited_time": "2023-10-01T18:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a61a2ef6-42d8-4f70-a376-5802427e1cca",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-01T18:06:00.000Z",
+    "last_edited_time": "2023-10-01T18:07:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "A fish for dinner is fitting, two chess games and some music leads to an early night with a tired body. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "A fish for dinner is fitting, two chess games and some music leads to an early night with a tired body. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f885ae13-771e-4d64-8876-47708703d13e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-06T16:05:00.000Z",
+    "last_edited_time": "2023-10-06T16:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c1d252e1-21cd-40d6-b863-074f57a46789",
+    "parent": {
+      "type": "page_id",
+      "page_id": "742a888e-9a15-43be-b235-a8391239fe70"
+    },
+    "created_time": "2023-10-06T16:01:00.000Z",
+    "last_edited_time": "2023-10-06T16:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/d4639177d3815c36.jpeg",
+        "expiry_time": "2026-03-13T08:30:15.330Z"
+      }
+    },
+    "archived": false
+  }
+]

@@ -1,0 +1,1492 @@
+[
+  {
+    "object": "block",
+    "id": "9a8793d5-56a6-4954-8ad4-7d8f4895af05",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-27T11:37:00.000Z",
+    "last_edited_time": "2022-07-27T11:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/466493ee02e7f4a3.jpeg",
+        "expiry_time": "2026-03-12T09:48:36.781Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "70e8cf16-1c2d-485c-9cb6-ea397594807c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-08-03T07:56:00.000Z",
+    "last_edited_time": "2022-08-03T07:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "84b76b30-b4d7-47c7-9ee3-c7cb432d1539",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-27T11:35:00.000Z",
+    "last_edited_time": "2022-08-03T07:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I wake up to see the sunrise and check the waves. It’s blood orange and moody. I make a coffee and oats in a full kitchen. The Richard’s Bay crew are upset “skunked again - the waves are small” they say. Hayley sits at the table with a coffee and we chat - she used to work at Aerobotics and we have some mutual friends. We take a walk down to the point to watch the waves.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I wake up to see the sunrise and check the waves. It’s blood orange and moody. I make a coffee and oats in a full kitchen. The Richard’s Bay crew are upset “skunked again - the waves are small” they say. Hayley sits at the table with a coffee and we chat - she used to work at Aerobotics and we have some mutual friends. We take a walk down to the point to watch the waves.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "718f01c3-270d-440b-8869-97332a4581a9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-27T11:39:00.000Z",
+    "last_edited_time": "2022-07-27T11:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6343ace6-202a-492e-b86c-ba4b20d2eef8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-27T11:39:00.000Z",
+    "last_edited_time": "2022-07-27T11:41:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "A helicopter lands on the beach and then suddenly we’re overrun by cyclists. There is a race where they cycle up the coast without a route or use of GPS; just feeling out the path as they go. We watch them come careening down the grassy embankment and spin through the soft sand. The helicopter must have a film crew on it. Two stragglers come running around the rocks on the point, pushing their bikes - having taken the less ideal route around the point. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "A helicopter lands on the beach and then suddenly we’re overrun by cyclists. There is a race where they cycle up the coast without a route or use of GPS; just feeling out the path as they go. We watch them come careening down the grassy embankment and spin through the soft sand. The helicopter must have a film crew on it. Two stragglers come running around the rocks on the point, pushing their bikes - having taken the less ideal route around the point. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8daabbf5-1b35-471e-bc24-c8c99bb33863",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-27T11:41:00.000Z",
+    "last_edited_time": "2022-07-27T11:41:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "bd476f52-ee4e-49a0-9fc8-e989e68c78c6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-27T11:41:00.000Z",
+    "last_edited_time": "2022-07-27T11:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "It’s small, clean and beautiful; I decide to go for a paddle. Cam and Bas are putting on their spear diving suits using some slippery powder. I stroll down to the point and paddle out into the empty lineup. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "It’s small, clean and beautiful; I decide to go for a paddle. Cam and Bas are putting on their spear diving suits using some slippery powder. I stroll down to the point and paddle out into the empty lineup. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c94c2381-b58b-4a64-8c04-366ca5ec93f5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-27T11:43:00.000Z",
+    "last_edited_time": "2022-07-27T11:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "43829ae7-ad5c-416b-afab-0e7ea8ed3806",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-27T11:43:00.000Z",
+    "last_edited_time": "2022-07-27T11:44:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "There are some good smaller waves running past the top of the point. I snag a couple and manage to get some little whacks and turns in. Christian comes to join me and the waves start getting better. I get a couple all the way down to the beach and walk around. My arms burn and body feels lethargic after the past week of surfing. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "There are some good smaller waves running past the top of the point. I snag a couple and manage to get some little whacks and turns in. Christian comes to join me and the waves start getting better. I get a couple all the way down to the beach and walk around. My arms burn and body feels lethargic after the past week of surfing. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "eabf4d30-b0b4-4137-9832-c285d6e84b6f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-08-03T07:57:00.000Z",
+    "last_edited_time": "2022-08-03T07:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7e6339ff-92e2-4bcd-a94f-eb396e6f17d5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-27T13:22:00.000Z",
+    "last_edited_time": "2022-07-27T13:22:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "embed",
+    "embed": {
+      "caption": [],
+      "url": "https://connect.garmin.com/modern/activity/embed/9284140666"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "02a45cee-0c18-4da1-8a04-47273c7b14fc",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-08-03T07:57:00.000Z",
+    "last_edited_time": "2022-08-03T07:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4b547ffb-ce6b-4e2a-b87f-8126b953222a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-27T11:44:00.000Z",
+    "last_edited_time": "2022-08-03T07:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "There are people on the point watching and as the waves get better more people paddle out. At its most crowded there are eleven surfers in the water. The owner of Mdumbi backpackers paddles out through a gully and proceeds to choose some good waves and awkwardly rip a few backside turns on a Channel Islands performance board. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "There are people on the point watching and as the waves get better more people paddle out. At its most crowded there are eleven surfers in the water. The owner of Mdumbi backpackers paddles out through a gully and proceeds to choose some good waves and awkwardly rip a few backside turns on a Channel Islands performance board. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d7e6e967-3a36-4ad8-a40e-4a4af00ccdf1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-08-03T07:57:00.000Z",
+    "last_edited_time": "2022-08-03T07:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9b5e231c-4122-4ff5-8af7-3c87055f4f99",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-28T09:20:00.000Z",
+    "last_edited_time": "2022-07-28T10:20:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The full Mdumbi collage (note the wolf dog from the backpackers)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The full Mdumbi collage (note the wolf dog from the backpackers)",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/bc1d757e1d6702d2.jpeg",
+        "expiry_time": "2026-03-12T09:48:36.781Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b4d61417-956f-4ec9-b703-b9cff5cf3966",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-28T09:20:00.000Z",
+    "last_edited_time": "2022-07-28T09:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Molo dolphin, Kunjani?",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Molo dolphin, Kunjani?",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/0c2a71bbff627b55.jpeg",
+        "expiry_time": "2026-03-12T09:48:36.782Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9364a863-8c9d-42a1-a1a6-9b5aa2fe7648",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-27T11:46:00.000Z",
+    "last_edited_time": "2022-07-27T11:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I get a big one. Do a roundhouse to the foam and have to grip my rail to hang on through the foam. I race for a few hundred meters and hit the closeout section nicely. Another walk back to the point and I’m deliberating how many waves I have left in my arms. The current is constantly pulling down the point and you have to paddle to remain in position. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I get a big one. Do a roundhouse to the foam and have to grip my rail to hang on through the foam. I race for a few hundred meters and hit the closeout section nicely. Another walk back to the point and I’m deliberating how many waves I have left in my arms. The current is constantly pulling down the point and you have to paddle to remain in position. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0b6fe18c-aa40-440f-8588-25d9a1a9b94d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-27T11:47:00.000Z",
+    "last_edited_time": "2022-07-27T11:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "96ebe390-8e95-4009-b74a-63f16e88c8c5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-27T11:47:00.000Z",
+    "last_edited_time": "2022-07-27T11:48:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Then it just starts firing and all my energy comes back. I feel in the flow and my bottom turns are setting me up with speed going straight up at the lip - I’m surfing well; flowing between turns, finding the line that offers constant speed. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Then it just starts firing and all my energy comes back. I feel in the flow and my bottom turns are setting me up with speed going straight up at the lip - I’m surfing well; flowing between turns, finding the line that offers constant speed. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6bf2be37-7d5b-4056-b3c7-df5c6a67640b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-27T11:48:00.000Z",
+    "last_edited_time": "2022-07-27T11:48:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "fa93da7f-9ed8-4af7-a9b5-14c015a6e630",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-27T11:48:00.000Z",
+    "last_edited_time": "2022-08-03T07:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I find a mid-sized insider and do one vertical snap that was memorable. I find myself on the inside after two and a half hours and decide to call it there. I walk back home with a smile. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I find a mid-sized insider and do one vertical snap that was memorable. I find myself on the inside after two and a half hours and decide to call it there. I walk back home with a smile. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "62d89c87-20fc-4a91-bd15-d2546006a927",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-27T11:50:00.000Z",
+    "last_edited_time": "2022-07-27T11:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "61752049-099f-4dac-ad76-eeca9df3601d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-27T11:50:00.000Z",
+    "last_edited_time": "2022-07-27T11:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I decide to spoil myself with a breakfast wrap and plunger of coffee from the restaurant. The sun room is warm and calm. I put on a playlist that I heard playing in the common room a while ago:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I decide to spoil myself with a breakfast wrap and plunger of coffee from the restaurant. The sun room is warm and calm. I put on a playlist that I heard playing in the common room a while ago:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b8244806-ccb9-46da-a8dd-5d55ed30ffd7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-27T11:51:00.000Z",
+    "last_edited_time": "2022-07-27T11:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "embed",
+    "embed": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I like so many of these songs",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I like so many of these songs",
+          "href": null
+        }
+      ],
+      "url": "https://open.spotify.com/playlist/1UeIWozmGFdTym3mKQMcMt?si=5b705865f8284879"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c8b09f4b-49c7-4f9e-a9a1-1635ba15f088",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-27T11:52:00.000Z",
+    "last_edited_time": "2022-08-03T08:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Julian calls and we chat Italy prospects - his job is running over so he’s sitting at 30% likelihood for the van trip. This is valuable information - we might simply fly into Italy, spend a few days there and then pop over to Greece. I’m having fun planning the prospects. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Julian calls and we chat Italy prospects - his job is running over so he’s sitting at 30% likelihood for the van trip. This is valuable information - we might simply fly into Italy, spend a few days there and then pop over to Greece. I’m having fun planning the prospects. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "fbf4e93d-c7c8-4dc2-8707-4818808bb3d7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-27T19:50:00.000Z",
+    "last_edited_time": "2022-07-27T19:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9f4879c5-865b-4120-be3e-59c2de610c7a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-27T11:52:00.000Z",
+    "last_edited_time": "2022-07-27T19:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I’m starving and make a second lunch of tuna mayo with Nandos peri peri sauce on Provitas - taking it down to the point to eat while I watch the waves. It’s looking smaller but every now and again the bigger sets sneak through the high tide and wrap in from behind the rocks. I’m on the fence about surfing. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I’m starving and make a second lunch of tuna mayo with Nandos peri peri sauce on Provitas - taking it down to the point to eat while I watch the waves. It’s looking smaller but every now and again the bigger sets sneak through the high tide and wrap in from behind the rocks. I’m on the fence about surfing. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d54b87a5-9c3a-42b0-a92c-1dbc2f4de744",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-27T19:52:00.000Z",
+    "last_edited_time": "2022-07-27T19:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "110f86ad-a59d-49f9-9377-813d084abe4c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-27T19:52:00.000Z",
+    "last_edited_time": "2022-07-28T10:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I bump into Bas and Cam and they twist my arm. Before I know it I’ve suited up and am walking down with the Custard Queen to have another surf. Me and Cam jump into a gully at the top of the point and paddle into a couple but are too deep. Then everything just turns on and we’re trading bombs. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I bump into Bas and Cam and they twist my arm. Before I know it I’ve suited up and am walking down with the Custard Queen to have another surf. Me and Cam jump into a gully at the top of the point and paddle into a couple but are too deep. Then everything just turns on and we’re trading bombs. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4782fcee-adf9-4994-a58c-53de3f6ce3de",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-27T20:06:00.000Z",
+    "last_edited_time": "2022-07-28T10:22:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "embed",
+    "embed": {
+      "caption": [],
+      "url": "https://connect.garmin.com/modern/activity/embed/9286776677"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "fcac3c9e-d1ea-48f8-9097-e397b3ddefea",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-27T20:00:00.000Z",
+    "last_edited_time": "2022-07-28T10:22:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The Custard Queen does such a good roundhouse with an effortless bounce off the foam. I do exclusively high lines and that classic roundhouse cutback. It gets dark and I get one more. On the first roundhouse and bobble a bit and hit the foam low down with my body fully extended. I continue standing dead straight and somehow don’t fall, and ride it all the way to the beach. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The Custard Queen does such a good roundhouse with an effortless bounce off the foam. I do exclusively high lines and that classic roundhouse cutback. It gets dark and I get one more. On the first roundhouse and bobble a bit and hit the foam low down with my body fully extended. I continue standing dead straight and somehow don’t fall, and ride it all the way to the beach. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e5588a66-eda8-41d0-89d5-de4fa2f146c5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-08-03T07:58:00.000Z",
+    "last_edited_time": "2022-08-03T07:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "03b9d86f-a504-4033-bb2d-dedb2a441565",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-28T10:22:00.000Z",
+    "last_edited_time": "2022-07-28T10:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Funny vibes in the kitchen",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Funny vibes in the kitchen",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/89f85b692a486e4f.jpeg",
+        "expiry_time": "2026-03-12T09:48:36.958Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "62282992-bc85-4af8-a67f-f44fdd1c3d03",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-28T10:22:00.000Z",
+    "last_edited_time": "2022-07-28T10:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Musselcracker head curry",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Musselcracker head curry",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/9784c38a8c254a4e.jpeg",
+        "expiry_time": "2026-03-12T09:48:36.959Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "64f0c824-4a8c-4eda-8dc1-9e1353fa949a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-27T19:50:00.000Z",
+    "last_edited_time": "2022-08-03T07:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0cb4189a-87c4-4371-b607-7923ed83e556",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-27T20:03:00.000Z",
+    "last_edited_time": "2022-07-28T10:22:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Dinner is oysters and a fish curry. The Macadamia milk group comes and roasts us about the curry and we have a great laugh. The oysters are super challenging to open with a Leatherman but Cam luckily manages to open the ones that I can’t. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Dinner is oysters and a fish curry. The Macadamia milk group comes and roasts us about the curry and we have a great laugh. The oysters are super challenging to open with a Leatherman but Cam luckily manages to open the ones that I can’t. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "16d68ab8-82da-43fe-9dfe-6ad3bbeaa653",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-27T20:14:00.000Z",
+    "last_edited_time": "2022-07-27T20:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3727cf57-5ba2-4f14-9181-db9bec406282",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-27T20:14:00.000Z",
+    "last_edited_time": "2022-07-27T20:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "One pretty high and drunk Richard’s Bay guys is very complimentary of the my surfing of Kim earlier and we have a funny chat about surfing. “Did you know that I’m riding a demo model with free fins”. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "One pretty high and drunk Richard’s Bay guys is very complimentary of the my surfing of Kim earlier and we have a funny chat about surfing. “Did you know that I’m riding a demo model with free fins”. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "30125504-6b20-43d6-b5c5-c4c3b2ee6659",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-27T20:08:00.000Z",
+    "last_edited_time": "2022-07-27T20:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "57bf81b2-a28b-403e-b2ef-f9f45bf33828",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-27T20:08:00.000Z",
+    "last_edited_time": "2022-07-27T20:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The curry is good but not delicious. We have a tea and promise to do a dawnie. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The curry is good but not delicious. We have a tea and promise to do a dawnie. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ca15fe62-c5da-4227-aec6-edbc490fbbde",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-27T20:07:00.000Z",
+    "last_edited_time": "2022-07-27T20:07:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0d8854b4-d663-4b46-acfb-21ac02414e3d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "dd7fb5aa-6ad0-483f-8a8a-71c5a7db68d3"
+    },
+    "created_time": "2022-07-27T20:07:00.000Z",
+    "last_edited_time": "2022-07-27T20:07:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

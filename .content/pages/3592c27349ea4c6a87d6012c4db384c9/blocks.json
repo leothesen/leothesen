@@ -1,0 +1,1879 @@
+[
+  {
+    "object": "block",
+    "id": "1d11fb75-23d6-42bb-b214-6f0e9e47882c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T08:44:00.000Z",
+    "last_edited_time": "2022-09-01T08:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We wake up early with a plan of going off to Coffee Bay. I called David the evening before with a concern for the large South East swell that was forecast; he tells me that our best bet would be the the point at Coffee Bay as it can handle bigger stuff. There is also a left at Rame’s head that was on the cards - but it’s wrapped up in uncertainty so we decide against it.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We wake up early with a plan of going off to Coffee Bay. I called David the evening before with a concern for the large South East swell that was forecast; he tells me that our best bet would be the the point at Coffee Bay as it can handle bigger stuff. There is also a left at Rame’s head that was on the cards - but it’s wrapped up in uncertainty so we decide against it.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6123a746-4d09-46da-8a8f-5856e8d1aa7e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T11:47:00.000Z",
+    "last_edited_time": "2022-09-01T11:48:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e102e613-7ac5-4c39-a685-5a0e4c97f3c3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T11:47:00.000Z",
+    "last_edited_time": "2022-09-01T11:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "33ab7227-bfb9-43fe-853c-47a3cc618374",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T11:48:00.000Z",
+    "last_edited_time": "2022-09-01T11:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/5875dd10b6f6d814.jpeg",
+        "expiry_time": "2026-03-12T11:21:25.483Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "33514e19-3ba0-4a37-be5c-beef5524cc5d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T08:45:00.000Z",
+    "last_edited_time": "2022-09-01T08:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Wake up at 6am with the hope of leaving at 6:45am - although we all know that we’re too relaxed to really leave before 7:30am. Julian’s big Hilux that he’s borrowing floats over the road and I really realise that these cars are simply built for this. Ramco and Maximilian are following behind us, they are heading off to Jeffreys Bay after the morning’s mission. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Wake up at 6am with the hope of leaving at 6:45am - although we all know that we’re too relaxed to really leave before 7:30am. Julian’s big Hilux that he’s borrowing floats over the road and I really realise that these cars are simply built for this. Ramco and Maximilian are following behind us, they are heading off to Jeffreys Bay after the morning’s mission. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "06fdfc9c-a980-4f9b-97c0-f68f695fb0a5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T08:47:00.000Z",
+    "last_edited_time": "2022-09-01T08:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9dac6b9a-d01b-44cf-841d-233f84521e17",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T08:47:00.000Z",
+    "last_edited_time": "2022-09-01T08:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We arrive at Coffee Bay and choose the most disastrous road possible to drive the cars up to get our first view of the waves. It’s absolutely fucking enormous. Closeouts across the bay almost a kilometre out to see, massive peaks on the beach break are alluring but it would be physically impossible to paddle out. We ogle at the spectacle for a bit and then decide that a coffee would be a much more enjoyable experience. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We arrive at Coffee Bay and choose the most disastrous road possible to drive the cars up to get our first view of the waves. It’s absolutely fucking enormous. Closeouts across the bay almost a kilometre out to see, massive peaks on the beach break are alluring but it would be physically impossible to paddle out. We ogle at the spectacle for a bit and then decide that a coffee would be a much more enjoyable experience. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4da96700-012a-42c9-adf3-9a42899a3b8e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T11:48:00.000Z",
+    "last_edited_time": "2022-09-01T11:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/951320c2b18ee309.jpeg",
+        "expiry_time": "2026-03-12T11:21:25.483Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "266381c3-1ada-4e89-8917-afc69b400d64",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T08:49:00.000Z",
+    "last_edited_time": "2022-09-01T08:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "be7b0612-5abc-4049-acbc-0e3fa11507de",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T08:49:00.000Z",
+    "last_edited_time": "2022-09-01T08:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I opt to go and visit Damien at Rock Coffee. It’s opposite Coffee Shack yet far less developed and comfortable. Their offering is home grown coffee that is roasted in a pan over gas and then hand-ground in an ancient hollowed out rock from the Khoisan era. They also boast a free spiff with every coffee and it tickles our group’s interests. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I opt to go and visit Damien at Rock Coffee. It’s opposite Coffee Shack yet far less developed and comfortable. Their offering is home grown coffee that is roasted in a pan over gas and then hand-ground in an ancient hollowed out rock from the Khoisan era. They also boast a free spiff with every coffee and it tickles our group’s interests. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "929ef60f-40cf-48b3-91bc-baa403e474ae",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T08:51:00.000Z",
+    "last_edited_time": "2022-09-01T08:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7a0d3cf1-5fb5-4e6f-aff1-d6385f35b04a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T11:49:00.000Z",
+    "last_edited_time": "2022-09-01T11:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "column_list",
+    "column_list": {},
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "26f0242e-f20b-49da-b5d9-aacc04aef797",
+        "parent": {
+          "type": "block_id",
+          "block_id": "7a0d3cf1-5fb5-4e6f-aff1-d6385f35b04a"
+        },
+        "created_time": "2022-09-01T11:49:00.000Z",
+        "last_edited_time": "2022-09-01T11:49:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "84ff43e0-78cf-4824-8b84-eeb05d7729c5",
+            "parent": {
+              "type": "block_id",
+              "block_id": "26f0242e-f20b-49da-b5d9-aacc04aef797"
+            },
+            "created_time": "2022-09-01T11:48:00.000Z",
+            "last_edited_time": "2022-09-01T11:49:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "image",
+            "image": {
+              "caption": [],
+              "type": "file",
+              "file": {
+                "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/fdddf3300f0e5c82.jpeg",
+                "expiry_time": "2026-03-12T11:21:28.263Z"
+              }
+            },
+            "archived": false
+          }
+        ]
+      },
+      {
+        "object": "block",
+        "id": "efae29ad-7707-4261-8e13-4eed24bbdf2c",
+        "parent": {
+          "type": "block_id",
+          "block_id": "7a0d3cf1-5fb5-4e6f-aff1-d6385f35b04a"
+        },
+        "created_time": "2022-09-01T11:49:00.000Z",
+        "last_edited_time": "2022-09-01T11:49:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "a182df3c-71d7-4852-bc31-b82299a9102e",
+            "parent": {
+              "type": "block_id",
+              "block_id": "efae29ad-7707-4261-8e13-4eed24bbdf2c"
+            },
+            "created_time": "2022-09-01T11:48:00.000Z",
+            "last_edited_time": "2022-09-01T11:49:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "image",
+            "image": {
+              "caption": [],
+              "type": "file",
+              "file": {
+                "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/6c779f3f291fd73c.jpeg",
+                "expiry_time": "2026-03-12T11:21:27.840Z"
+              }
+            },
+            "archived": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "a2c6df98-808a-4f70-abf5-c65dc1fcd0f8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T08:51:00.000Z",
+    "last_edited_time": "2022-09-01T08:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Damien greets us at the door. He is limping when he walks; his feet land asymmetrically and his gait constantly evolves while traversing the messy garden littered with scrap. He fascinates me; a genuine person with a real interest for life and people. He’s idealistic, yet maybe strays too far from realism. Potentially his most unique trait is when he’s talking about other people - he is quick to explain to secrets and stories that most people would never tell even their closest friends. He tells us of people escaping bad marriages or depression. He talk us through his personal finances and how an old woman is sponsoring his trip. He delivers this genuinely, and as Julian observes, closely watches our reactions to his stories with a hint of self consciousness that I didn’t pick up on. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Damien greets us at the door. He is limping when he walks; his feet land asymmetrically and his gait constantly evolves while traversing the messy garden littered with scrap. He fascinates me; a genuine person with a real interest for life and people. He’s idealistic, yet maybe strays too far from realism. Potentially his most unique trait is when he’s talking about other people - he is quick to explain to secrets and stories that most people would never tell even their closest friends. He tells us of people escaping bad marriages or depression. He talk us through his personal finances and how an old woman is sponsoring his trip. He delivers this genuinely, and as Julian observes, closely watches our reactions to his stories with a hint of self consciousness that I didn’t pick up on. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c3000c71-7362-49b4-a562-8d91155f5e9e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T08:58:00.000Z",
+    "last_edited_time": "2022-09-01T08:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7c246be5-be21-4c78-ab2c-3bcf0911d4e1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T08:58:00.000Z",
+    "last_edited_time": "2022-09-01T09:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Our coffee order is not as we asked, but we don’t complain. Dom’s coffee doesn’t arrive but is later found hiding next to the milk. An unnecessary amount of joints really smooth over the coffees that we didn’t order and we try our best to pass them as quickly as possible - safe to say we all smoke too much.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Our coffee order is not as we asked, but we don’t complain. Dom’s coffee doesn’t arrive but is later found hiding next to the milk. An unnecessary amount of joints really smooth over the coffees that we didn’t order and we try our best to pass them as quickly as possible - safe to say we all smoke too much.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8651d2b6-32f8-4887-8708-d18a4c9fcccd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T09:00:00.000Z",
+    "last_edited_time": "2022-09-01T09:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c33f39aa-2917-487e-aa37-c224a9d8bc03",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T09:00:00.000Z",
+    "last_edited_time": "2022-09-01T09:02:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Damien takes us on a tour of the backpackers. Carl was the founder of the space, he picked the spot before there was any development in Coffee Bay. As we make our way through the overgrown garden paths there are countless dilapidated buildings boasting a restaurant, pizza oven, fire pit, huge accommodation, vegetable garden and river view hammocks. The backpackers has fallen over the years and the pandemic seemed to be the nail in the coffin. Carl has returned to Coffee Bay to try and revamp it and Damien has taken it on as his duty to restore it to it’s beautiful former glory. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Damien takes us on a tour of the backpackers. Carl was the founder of the space, he picked the spot before there was any development in Coffee Bay. As we make our way through the overgrown garden paths there are countless dilapidated buildings boasting a restaurant, pizza oven, fire pit, huge accommodation, vegetable garden and river view hammocks. The backpackers has fallen over the years and the pandemic seemed to be the nail in the coffin. Carl has returned to Coffee Bay to try and revamp it and Damien has taken it on as his duty to restore it to it’s beautiful former glory. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ef6a0a6b-9cdb-4f70-a56c-422c600fcc5f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T09:02:00.000Z",
+    "last_edited_time": "2022-09-01T09:02:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "30e447b6-2c25-4f37-901c-083a3f72d9f9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T09:02:00.000Z",
+    "last_edited_time": "2022-09-01T09:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Damien’s hands are wrapped up in bandages, some festering wounds peeping out from underneath. He tells us that he spent a whole night raking leaves without realising how long he had been working with his phone light until the sun started rising. None of us are convinced of Damien’s claim that “this isn’t such a big job” as we look around the countless roofs caving in and general disarray with the structural ingenuity of the buildings. The vision is there there though - Julian and I imagine how incredible the backpackers would have been in its heyday. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Damien’s hands are wrapped up in bandages, some festering wounds peeping out from underneath. He tells us that he spent a whole night raking leaves without realising how long he had been working with his phone light until the sun started rising. None of us are convinced of Damien’s claim that “this isn’t such a big job” as we look around the countless roofs caving in and general disarray with the structural ingenuity of the buildings. The vision is there there though - Julian and I imagine how incredible the backpackers would have been in its heyday. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5db78cf0-abac-4faf-a455-44f1ddea3f83",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T09:05:00.000Z",
+    "last_edited_time": "2022-09-01T09:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "adc22bcb-9bf5-4ad6-8885-d66c03938dce",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T11:48:00.000Z",
+    "last_edited_time": "2022-09-01T11:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Fighting bulls. The black one won",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Fighting bulls. The black one won",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/a20571ab710db9e0.jpeg",
+        "expiry_time": "2026-03-12T11:21:25.483Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8d716233-443a-441a-8f47-5f5431c2cf24",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T09:05:00.000Z",
+    "last_edited_time": "2022-09-01T11:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f3c8cc8b-b4f5-49d6-92c7-af14f3518500",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T09:05:00.000Z",
+    "last_edited_time": "2022-09-01T11:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We say our goodbyes and driving out of Coffee Bay I ask Julian if I can drive. It’s an absolute dream to finally feel in command of these truly dilapidated roads. When we left Mdumbi this morning we saw some surges pushing into the river that actually looked surfable on a long board; a tidal bore-esque experience. Yet upon arriving back at Mdumbi the point actually looks somewhat surfable if you’re able to make it out. It’s probably triple overhead with some enormous wide sets that would set you back quite a distance. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We say our goodbyes and driving out of Coffee Bay I ask Julian if I can drive. It’s an absolute dream to finally feel in command of these truly dilapidated roads. When we left Mdumbi this morning we saw some surges pushing into the river that actually looked surfable on a long board; a tidal bore-esque experience. Yet upon arriving back at Mdumbi the point actually looks somewhat surfable if you’re able to make it out. It’s probably triple overhead with some enormous wide sets that would set you back quite a distance. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f96b257b-5d3c-4702-bfd1-f23bb6eff9a5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T09:07:00.000Z",
+    "last_edited_time": "2022-09-01T09:07:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d61d9936-97b1-456b-a3ad-f01f12916346",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T09:07:00.000Z",
+    "last_edited_time": "2022-09-01T09:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I’m tempted to paddle out and begin trying as many possible angles on Dom to get him to join me. I somehow bullshit my way around an argument that it would make him a more morally correct human if he paddles out with me as it doubles the probability for a wave to be ridden at the point today. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I’m tempted to paddle out and begin trying as many possible angles on Dom to get him to join me. I somehow bullshit my way around an argument that it would make him a more morally correct human if he paddles out with me as it doubles the probability for a wave to be ridden at the point today. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "19e3b430-d478-4e88-96fa-60dad05f2d7b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T09:08:00.000Z",
+    "last_edited_time": "2022-09-01T09:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a1176d13-0c35-44ea-b54d-e763f1f7ec29",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T09:08:00.000Z",
+    "last_edited_time": "2022-09-01T09:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We head back up for lunch and Jude is keen to surf! So I reheat some curry for lunch and have a half-hour sleep in the sun room to digest. Julian has promised to be the Ishka to my Torren Martyn and film the experience. We head down to the point with the Custard Queen for the point and Angelica for a river surf if it appears on the higher tide. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We head back up for lunch and Jude is keen to surf! So I reheat some curry for lunch and have a half-hour sleep in the sun room to digest. Julian has promised to be the Ishka to my Torren Martyn and film the experience. We head down to the point with the Custard Queen for the point and Angelica for a river surf if it appears on the higher tide. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "35739aec-68d2-4b90-956b-e5aca2c07166",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T11:49:00.000Z",
+    "last_edited_time": "2022-09-01T11:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5163fad4-955a-457d-a25e-e6c1ff3b5671",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T11:48:00.000Z",
+    "last_edited_time": "2022-09-01T11:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/0fcb2d1dc1d692e9.jpeg",
+        "expiry_time": "2026-03-12T11:21:26.337Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ad482767-7af4-470f-bd1e-44e5ee0da769",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T09:10:00.000Z",
+    "last_edited_time": "2022-09-01T09:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d013d48b-79f7-4201-a030-c46f82a94385",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T09:10:00.000Z",
+    "last_edited_time": "2022-09-01T09:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The wind has begun to turn and the swell seems to have dropped a little bit - it’s looking promising. I get down to the rocks and Lorenzo sands close with his iPhone, ensuring that if I get swept off the rocks at least there would be some footage to laugh about. I stand on the rocks at the keyhole and almost get washed off my feet on a few of the bigger sets. Finally an oppotunity presents itself and I give it everything I have. Making it out of the dangerous proximity to the rocks proves easy, yet the huge wash down the point almost takes me to the beach break. I manage to sneak under a few bigger waves and find myself with some deep ocean and a long paddle ahead of me.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The wind has begun to turn and the swell seems to have dropped a little bit - it’s looking promising. I get down to the rocks and Lorenzo sands close with his iPhone, ensuring that if I get swept off the rocks at least there would be some footage to laugh about. I stand on the rocks at the keyhole and almost get washed off my feet on a few of the bigger sets. Finally an oppotunity presents itself and I give it everything I have. Making it out of the dangerous proximity to the rocks proves easy, yet the huge wash down the point almost takes me to the beach break. I manage to sneak under a few bigger waves and find myself with some deep ocean and a long paddle ahead of me.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9522ebdc-85b4-4b02-8d91-768b0c330834",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T09:13:00.000Z",
+    "last_edited_time": "2022-09-01T09:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f3da9de6-f3eb-4611-b329-d507c504e7ee",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T09:13:00.000Z",
+    "last_edited_time": "2022-09-01T09:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Paddling out is pleasant, but relentless. The run last week has prepared me well to simply just paddle constantly until I’m there. Some dolphins come up to check out how I’m doing. They act a bit more concerned and inquisitive than usual - seemingly surprised that a human is out in this big sea. A few massive sets catch me off guard, too big to duck dive. I jump off my board and swim down deep, a few underwater somersaults are always fun, but I am very mindful of trying to keep the tension on my leash constant as a broken leash would warrant a rather long swim in. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Paddling out is pleasant, but relentless. The run last week has prepared me well to simply just paddle constantly until I’m there. Some dolphins come up to check out how I’m doing. They act a bit more concerned and inquisitive than usual - seemingly surprised that a human is out in this big sea. A few massive sets catch me off guard, too big to duck dive. I jump off my board and swim down deep, a few underwater somersaults are always fun, but I am very mindful of trying to keep the tension on my leash constant as a broken leash would warrant a rather long swim in. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a00770a8-eccb-4a8e-9eb9-27936c0966ac",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T09:16:00.000Z",
+    "last_edited_time": "2022-09-01T09:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e04cdda7-890f-42e3-b6cf-7d6e94164530",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T09:16:00.000Z",
+    "last_edited_time": "2022-09-01T09:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "A wave pops up that is tempting and a turn and stroke into it. It’s large but not as big as the sets, I drop in and race a bit before having to jump off as a section threatens to end the ride. I find myself almost at the point that I would have to get in and walk around here and really dig deep to paddle out again. I’m making slow progress and the paddle ahead of me is immense. Then I see Dom on the rocks in a wetsuit ready to paddle out. I worked so hard to get him here that it gives me the confidence to paddle out one more time to tempt him to do the same. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "A wave pops up that is tempting and a turn and stroke into it. It’s large but not as big as the sets, I drop in and race a bit before having to jump off as a section threatens to end the ride. I find myself almost at the point that I would have to get in and walk around here and really dig deep to paddle out again. I’m making slow progress and the paddle ahead of me is immense. Then I see Dom on the rocks in a wetsuit ready to paddle out. I worked so hard to get him here that it gives me the confidence to paddle out one more time to tempt him to do the same. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "60dc02c4-84a4-455e-99e6-b401caca8cc2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T09:18:00.000Z",
+    "last_edited_time": "2022-09-01T09:19:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e1b86124-d530-4254-ac14-c129f5dd89b9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T09:18:00.000Z",
+    "last_edited_time": "2022-09-01T09:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I find that the majority of surfing big waves is reading the lineup and being truly in tune with the ocean. I’m on edge to a degree, with one eye almost always on the horizon, but the mindset is calm and aware. I make it almost all the way out to Whale Rock. The ocean goes calm and I take a moment to rest. I see what I think is a single dolphin, yet I don’t see it appear again. This throws me off a bit, as the thought of a shark out here with nobody else able to paddle out seems rather unpleasant. I begin to paddle away from where I saw the fin - closer to where the midsized waves are breaking. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I find that the majority of surfing big waves is reading the lineup and being truly in tune with the ocean. I’m on edge to a degree, with one eye almost always on the horizon, but the mindset is calm and aware. I make it almost all the way out to Whale Rock. The ocean goes calm and I take a moment to rest. I see what I think is a single dolphin, yet I don’t see it appear again. This throws me off a bit, as the thought of a shark out here with nobody else able to paddle out seems rather unpleasant. I begin to paddle away from where I saw the fin - closer to where the midsized waves are breaking. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f3c97a11-3449-455c-893d-b2e64b3e18e9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T09:21:00.000Z",
+    "last_edited_time": "2022-09-01T09:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "84a8aee7-7bbc-43dc-b533-6565e4ce021e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T09:21:00.000Z",
+    "last_edited_time": "2022-09-01T09:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Then - of course - a huge set appears on the horizon. I paddle as hard as I can but am about 20m short of making it under the first wave. I mistime the dive slightly and remember thinking to myself “ok this is going to be fun, but you’re going to be underwater for quite a while”. That wave drags me back a significant distance, there are three more waves of similar size in that set. I find myself almost at the river mouth and decide to call it quits. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Then - of course - a huge set appears on the horizon. I paddle as hard as I can but am about 20m short of making it under the first wave. I mistime the dive slightly and remember thinking to myself “ok this is going to be fun, but you’re going to be underwater for quite a while”. That wave drags me back a significant distance, there are three more waves of similar size in that set. I find myself almost at the river mouth and decide to call it quits. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "946072f4-78a0-473b-8414-7f3716d75c19",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T11:46:00.000Z",
+    "last_edited_time": "2022-09-01T11:46:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c1e57725-1600-4e8c-ac9b-d889ab1b6baa",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T11:46:00.000Z",
+    "last_edited_time": "2022-09-01T11:46:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "embed",
+    "embed": {
+      "caption": [],
+      "url": "https://connect.garmin.com/modern/activity/embed/9516570301"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f84c51ce-8326-447a-afb5-dfe6038f0f44",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T09:23:00.000Z",
+    "last_edited_time": "2022-09-01T09:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ea5f687f-6e7a-4a85-94df-d06afa600af4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T09:23:00.000Z",
+    "last_edited_time": "2022-09-01T09:25:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Walking back up to the point I am happy to see that Dom has taken my failed paddle out as a sign to rather sit with Julian and drink a beer. I go join them with a lot of adrenaline running through my body. We pack up shop and head on down to the river with Angelica. The tide has filled in and it looks like there are some Malibu like longboard waves that could offer quite a fun experience. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Walking back up to the point I am happy to see that Dom has taken my failed paddle out as a sign to rather sit with Julian and drink a beer. I go join them with a lot of adrenaline running through my body. We pack up shop and head on down to the river with Angelica. The tide has filled in and it looks like there are some Malibu like longboard waves that could offer quite a fun experience. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6003d7e8-c9dc-4a8d-833c-75adabb50e31",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T09:25:00.000Z",
+    "last_edited_time": "2022-09-01T09:25:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "bd24217e-f9d0-48c8-a564-72b84a48e27b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T09:25:00.000Z",
+    "last_edited_time": "2022-09-01T09:27:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I take a paddle out there and there is a lot of water moving around. Me and Dom get sucked to the far side of the river, right by the rocks, before figuring out where to sit. I get one or two that are really fun. It’s quite a weird experience surfing a wave yet having land surrounding you on both sides. The doubleups offer a bit more punch to them and sometimes reform inside the river.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I take a paddle out there and there is a lot of water moving around. Me and Dom get sucked to the far side of the river, right by the rocks, before figuring out where to sit. I get one or two that are really fun. It’s quite a weird experience surfing a wave yet having land surrounding you on both sides. The doubleups offer a bit more punch to them and sometimes reform inside the river.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c6bfbddb-b02a-42e4-90ef-1c1383ef845e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T09:27:00.000Z",
+    "last_edited_time": "2022-09-01T09:27:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e882baac-112e-4446-83cb-35e68cb2384d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T09:27:00.000Z",
+    "last_edited_time": "2022-09-01T09:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I offer Dom a chance on the log and settle into the beach for a chill and chat with Lorenzo and Julian. A surge almost claims Julian’s camera bag, which would have been a bit of a disaster. Dom loses the log (stop surfing leashless Leo) yet the board floats over the rocks and perches itself on the beach undamaged. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I offer Dom a chance on the log and settle into the beach for a chill and chat with Lorenzo and Julian. A surge almost claims Julian’s camera bag, which would have been a bit of a disaster. Dom loses the log (stop surfing leashless Leo) yet the board floats over the rocks and perches itself on the beach undamaged. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "502d52f0-ebd2-44ed-a153-1ba83acc1836",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T09:28:00.000Z",
+    "last_edited_time": "2022-09-01T09:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "77c8872d-de4f-4b6b-a7be-f3b3ed47ba17",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T09:28:00.000Z",
+    "last_edited_time": "2022-09-01T09:30:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I go back in for one more surf and get a really fun wave that offers a cutback and a little nose ride. The sun is setting and we start the trudge back up the soft beach. We have ordered dinner - Lasagna - and I’m torn between falling asleep and salivating while I wait. Lisa lights some candles and puts on a great playlist, describing the space as homely. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I go back in for one more surf and get a really fun wave that offers a cutback and a little nose ride. The sun is setting and we start the trudge back up the soft beach. We have ordered dinner - Lasagna - and I’m torn between falling asleep and salivating while I wait. Lisa lights some candles and puts on a great playlist, describing the space as homely. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "63463ebe-de77-40fd-8f5a-fd503d57144d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T09:30:00.000Z",
+    "last_edited_time": "2022-09-01T09:30:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d05a9ee7-7183-4075-b3d5-4e3677bfe022",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T09:30:00.000Z",
+    "last_edited_time": "2022-09-01T09:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Julian and I discuss the deeper aspects of life such as “is smoking weed a bad thing even if it allows for truly inspirational thoughts to appear?” and “what is our moral obligation in this world?”. We sit on the roof watching the stars. Shooting star count: one. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Julian and I discuss the deeper aspects of life such as “is smoking weed a bad thing even if it allows for truly inspirational thoughts to appear?” and “what is our moral obligation in this world?”. We sit on the roof watching the stars. Shooting star count: one. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "bb50bce7-cce7-4289-9dc6-b9b286ad4f9c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3592c273-49ea-4c6a-87d6-012c4db384c9"
+    },
+    "created_time": "2022-09-01T08:45:00.000Z",
+    "last_edited_time": "2022-09-01T08:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

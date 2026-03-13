@@ -1,0 +1,1272 @@
+[
+  {
+    "object": "block",
+    "id": "58b10008-fb39-4e1e-91c3-36a8dc8ea324",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T10:10:00.000Z",
+    "last_edited_time": "2022-07-23T10:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Rustling at the side of the car, is it the wind? I stick my head out to the sound of human footsteps. A horse noise; I laugh and go back to bed. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Rustling at the side of the car, is it the wind? I stick my head out to the sound of human footsteps. A horse noise; I laugh and go back to bed. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e81fa653-fb17-424a-aa5c-2e4ed1510adf",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T10:14:00.000Z",
+    "last_edited_time": "2022-07-23T10:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "51309e9b-c2a3-4c46-a61c-727fc32fae4e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T10:14:00.000Z",
+    "last_edited_time": "2022-07-23T10:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The 6:30am alarm feels early today. The grey clouds outside tempt me into snoozing. The alarm tries again, more insistent this time. I take a little walk down to the point under the blood red sun. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The 6:30am alarm feels early today. The grey clouds outside tempt me into snoozing. The alarm tries again, more insistent this time. I take a little walk down to the point under the blood red sun. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "daee44b8-3b6d-458b-9663-f57b7033f595",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T10:16:00.000Z",
+    "last_edited_time": "2022-07-23T10:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/a8e514d52b6c81cb.jpeg",
+        "expiry_time": "2026-03-12T09:45:59.994Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "aae5b16b-133d-46dc-8509-a956eb38a744",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T10:16:00.000Z",
+    "last_edited_time": "2022-07-23T10:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The waves are small and beautiful, running for 200m or so quite magically. It’s knee high and I decide to take Angelica for a christening on the Wild Coast. Wolfing down a coffee and a quarter of my overnight oats I am squeezing my legs through my wetsuit legs.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The waves are small and beautiful, running for 200m or so quite magically. It’s knee high and I decide to take Angelica for a christening on the Wild Coast. Wolfing down a coffee and a quarter of my overnight oats I am squeezing my legs through my wetsuit legs.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9951c221-8d76-4f75-94cc-15165e6fc260",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T10:36:00.000Z",
+    "last_edited_time": "2022-07-23T10:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e5ca72cc-47dd-4b2b-956b-e98e3a093618",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T10:18:00.000Z",
+    "last_edited_time": "2022-07-23T10:19:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Walking down to the point, I see a bigger set. Placing my board on the ground I deliberate whether I should run back to get Kim. No this was just one bigger set - rather have a board for the vast majority of waves rather than just for the exceptional few. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Walking down to the point, I see a bigger set. Placing my board on the ground I deliberate whether I should run back to get Kim. No this was just one bigger set - rather have a board for the vast majority of waves rather than just for the exceptional few. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "bc5eaaf0-82d4-486b-bd45-4c0cf371fd70",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T10:36:00.000Z",
+    "last_edited_time": "2022-07-23T10:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d6898551-bb08-4bf7-a429-5c7e6954f610",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T10:19:00.000Z",
+    "last_edited_time": "2022-07-23T10:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I end up having the most magical surf. It’s glorious and clean out there. Angelica is definitely the weapon of choice out there where she is able to get onto anything and glide through fast sections all the way to the beach. I have a wonderful time nose-riding out there. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I end up having the most magical surf. It’s glorious and clean out there. Angelica is definitely the weapon of choice out there where she is able to get onto anything and glide through fast sections all the way to the beach. I have a wonderful time nose-riding out there. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3eda9672-de7d-42d0-ad24-47668b19b476",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T10:36:00.000Z",
+    "last_edited_time": "2022-07-23T10:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "embed",
+    "embed": {
+      "caption": [],
+      "url": "https://connect.garmin.com/modern/activity/embed/9256698947"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "34bd72ea-139e-4931-8887-62c55ac67382",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T10:21:00.000Z",
+    "last_edited_time": "2022-07-23T10:24:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Riding the nose is one thing at Muizenberg, but due to the lack of speed out there you’re always on your heels ready to take a few steps back to stop the nose from pearling. Out here it’s a whole different experience; your full rail is engaged and the great speed makes the board unsinkable. You’re more liable to fall behind the wave than nosedive, so you’re able to full commit to being as far on the nose as you like. I’m feeling less stable with both feet on the nose out here, but I hope that begins to change. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Riding the nose is one thing at Muizenberg, but due to the lack of speed out there you’re always on your heels ready to take a few steps back to stop the nose from pearling. Out here it’s a whole different experience; your full rail is engaged and the great speed makes the board unsinkable. You’re more liable to fall behind the wave than nosedive, so you’re able to full commit to being as far on the nose as you like. I’m feeling less stable with both feet on the nose out here, but I hope that begins to change. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "691344ef-0864-4be9-b6ca-b294f977f73f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T10:24:00.000Z",
+    "last_edited_time": "2022-07-23T10:24:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "af0321ec-2595-4602-83cf-721ae07a8ba8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T10:24:00.000Z",
+    "last_edited_time": "2022-07-23T10:26:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "At the backpackers someone shows me and Cam their clay pottery. It’s a beautiful Grunter fish and it smells of wooden decks; varnish being used as the glaze. I tell him straight up that I’m not going to be buying anything and then proceed to really get interested in his work. He didn’t push a selling agenda but upon leaving I really hope he knew that I really enjoyed myself chatting art and fish with him. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "At the backpackers someone shows me and Cam their clay pottery. It’s a beautiful Grunter fish and it smells of wooden decks; varnish being used as the glaze. I tell him straight up that I’m not going to be buying anything and then proceed to really get interested in his work. He didn’t push a selling agenda but upon leaving I really hope he knew that I really enjoyed myself chatting art and fish with him. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "cebc0c9e-c51c-40ee-b55d-2bda176e5f61",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T13:20:00.000Z",
+    "last_edited_time": "2022-07-23T13:20:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/13ea25918d02cb71.jpeg",
+        "expiry_time": "2026-03-12T09:45:59.995Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e3aa3085-7630-444e-8d13-c7351acabfa5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T10:26:00.000Z",
+    "last_edited_time": "2022-07-23T10:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "People are very complimentary of the waves I got this morning; a novel conversation these days. Sitting in the common room I talk free diving and life with Charlie in a pinballing conversation. A man admires what it would be like to grow up in Knysna. Gareth is applying for a job at Driftwood in the Mentawai and I put in a good word for him with Ben Roose. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "People are very complimentary of the waves I got this morning; a novel conversation these days. Sitting in the common room I talk free diving and life with Charlie in a pinballing conversation. A man admires what it would be like to grow up in Knysna. Gareth is applying for a job at Driftwood in the Mentawai and I put in a good word for him with Ben Roose. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9232f5d2-2a5a-4584-bb1c-185a6a49c3fd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T10:28:00.000Z",
+    "last_edited_time": "2022-07-23T10:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0e279a06-18a0-4d62-b7f6-6352c261d1c8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T10:28:00.000Z",
+    "last_edited_time": "2022-07-28T10:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The common room is playing fantastic music that I probably would have put on if I took control of the speakers. A kombucha accompanies my laptop and I reflect on the great day thus far. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The common room is playing fantastic music that I probably would have put on if I took control of the speakers. A kombucha accompanies my laptop and I reflect on the great day thus far. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c11d09c5-63d5-47db-b307-16bedfb5e10a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T13:13:00.000Z",
+    "last_edited_time": "2022-07-23T13:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "81fe7226-8b5c-4c1d-b97a-97eb9fe625da",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T13:13:00.000Z",
+    "last_edited_time": "2022-07-23T13:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I make a lunch of Mexican relish, budget chorizo (droewors), tomato and onion and pasta. Do some reading of Red Dog. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I make a lunch of Mexican relish, budget chorizo (droewors), tomato and onion and pasta. Do some reading of Red Dog. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "cbc87ad5-2a66-4d9d-a9ec-88338709b814",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T13:14:00.000Z",
+    "last_edited_time": "2022-07-23T13:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/fec7f7a4d7673dc8.jpeg",
+        "expiry_time": "2026-03-12T09:45:59.994Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f9ed6f1c-8fc1-46a6-a805-12e4662cdc0b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T13:14:00.000Z",
+    "last_edited_time": "2022-07-23T13:20:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Another surf check. It’s beautiful and similar to this morning. Two people out on short boards riding all the way to the beach. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Another surf check. It’s beautiful and similar to this morning. Two people out on short boards riding all the way to the beach. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9f1fe998-34b9-4d8e-a476-a06533886555",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T13:14:00.000Z",
+    "last_edited_time": "2022-07-23T13:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "video",
+    "video": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/c4979d04d7890d59.jpg",
+        "expiry_time": "2026-03-12T09:45:59.995Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c0d58e91-0c6e-4b6f-8674-35c097c579b4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T13:12:00.000Z",
+    "last_edited_time": "2022-07-23T13:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ebff2c08-bdd8-4cc1-a2c7-49d574b1df60",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T13:13:00.000Z",
+    "last_edited_time": "2022-07-23T13:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I’ve just decided that I’m going to surf when there is a yell behind me. It’s Toto. Of course it’s Toto; it is said that within 24 hours of arriving in Mdumbi, Toto will find you. We have a very disjointed, yet engaged conversation. He reminds me of me speaking Indonesian; fully committed yet meandering. I decline oysters, weed and mushrooms and we talk about a mutual friend that doesn’t actually seem to exist. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I’ve just decided that I’m going to surf when there is a yell behind me. It’s Toto. Of course it’s Toto; it is said that within 24 hours of arriving in Mdumbi, Toto will find you. We have a very disjointed, yet engaged conversation. He reminds me of me speaking Indonesian; fully committed yet meandering. I decline oysters, weed and mushrooms and we talk about a mutual friend that doesn’t actually seem to exist. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f550bf10-1ad6-4292-811d-ee0ed2bb72ea",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T13:17:00.000Z",
+    "last_edited_time": "2022-07-23T13:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "00da2bd5-0c7e-40ce-bd90-ef07be925e0b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T13:17:00.000Z",
+    "last_edited_time": "2022-07-23T13:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/13d70574b850d153.jpeg",
+        "expiry_time": "2026-03-12T09:46:00.195Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b499284b-d831-4f26-932d-3128946a626e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T13:15:00.000Z",
+    "last_edited_time": "2022-07-23T13:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "fccba2c3-06d4-4f41-af60-4f3e7ca32af0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T13:15:00.000Z",
+    "last_edited_time": "2022-07-23T19:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I meet Rudy and sheera who camp next door to us. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I meet Rudy and sheera who camp next door to us. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "820b58e9-222e-498b-8b75-774ec455d42d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T19:56:00.000Z",
+    "last_edited_time": "2022-07-23T19:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a28aa741-1da5-4e7b-b0c3-3d0dc23a472d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T19:56:00.000Z",
+    "last_edited_time": "2022-07-23T19:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "embed",
+    "embed": {
+      "caption": [],
+      "url": "https://connect.garmin.com/modern/activity/embed/9260587496"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "dd730599-05fd-46a3-bf56-b382dda7d9a0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T13:25:00.000Z",
+    "last_edited_time": "2022-07-23T13:25:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d421bc6c-2d55-44ee-9d16-b92d56ad6779",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T13:25:00.000Z",
+    "last_edited_time": "2022-07-24T13:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I go for a surf on Kim. It’s slow and windy. Wearing my thick suit and hood is actually a necessity. David de Gruchy pulls in for a quick surf and gets very cold. Someone yells from the rocks, I think to indicate a set. Looking out to sea reveals nothing. Looking at the headland I see an excited fisherman with a silver fish flapping at the end of his line.  After getting out my wetsuit I realise that I’ve lost my trusty hair tie that I’ve had for about six months. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I go for a surf on Kim. It’s slow and windy. Wearing my thick suit and hood is actually a necessity. David de Gruchy pulls in for a quick surf and gets very cold. Someone yells from the rocks, I think to indicate a set. Looking out to sea reveals nothing. Looking at the headland I see an excited fisherman with a silver fish flapping at the end of his line.  After getting out my wetsuit I realise that I’ve lost my trusty hair tie that I’ve had for about six months. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d6806e49-4356-4afc-bcfd-78150e8ca462",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T19:57:00.000Z",
+    "last_edited_time": "2022-07-23T19:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c811d785-52da-4259-bb31-66d57f689399",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T19:57:00.000Z",
+    "last_edited_time": "2022-07-23T19:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Back at the backpackers Nicole and Phillip make me and David a great potjie with a creamy chicken vegetable curry which is lovely. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Back at the backpackers Nicole and Phillip make me and David a great potjie with a creamy chicken vegetable curry which is lovely. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1244279f-1e5e-4eec-976b-39e4faf36142",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T19:58:00.000Z",
+    "last_edited_time": "2022-07-23T19:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4ba47785-6b08-478d-b201-6ab542348a8b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T19:58:00.000Z",
+    "last_edited_time": "2022-07-23T19:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Me and David do the dishes and chat surfing. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Me and David do the dishes and chat surfing. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "41bb362c-14de-4b2e-a85d-9a0ce4bb757b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2202b7d7-e558-4830-96ab-e22ef5a58aa6"
+    },
+    "created_time": "2022-07-23T13:25:00.000Z",
+    "last_edited_time": "2022-07-23T13:25:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

@@ -1,0 +1,688 @@
+[
+  {
+    "object": "block",
+    "id": "2ec957d6-d5a0-4cb7-9eef-2fba9f3cae37",
+    "parent": {
+      "type": "page_id",
+      "page_id": "17d3558e-f1fd-49ad-91c4-e31fa151b338"
+    },
+    "created_time": "2022-10-14T17:37:00.000Z",
+    "last_edited_time": "2022-10-14T17:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Took the tube to work with an overnight bag. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Took the tube to work with an overnight bag. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c8b6010a-c71b-4a24-a8e9-26d62d578116",
+    "parent": {
+      "type": "page_id",
+      "page_id": "17d3558e-f1fd-49ad-91c4-e31fa151b338"
+    },
+    "created_time": "2022-10-14T17:37:00.000Z",
+    "last_edited_time": "2022-10-14T17:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "25fea552-a938-4073-8918-69d8ea993582",
+    "parent": {
+      "type": "page_id",
+      "page_id": "17d3558e-f1fd-49ad-91c4-e31fa151b338"
+    },
+    "created_time": "2022-10-14T17:37:00.000Z",
+    "last_edited_time": "2022-10-14T17:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Another good work week. I’m thinking clearly and excited to speak to people. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Another good work week. I’m thinking clearly and excited to speak to people. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8e301807-841f-4281-a886-522821c9f212",
+    "parent": {
+      "type": "page_id",
+      "page_id": "17d3558e-f1fd-49ad-91c4-e31fa151b338"
+    },
+    "created_time": "2022-10-14T17:37:00.000Z",
+    "last_edited_time": "2022-10-14T17:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c3abbba6-650b-4b7c-bfda-66adbc39bbf3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "17d3558e-f1fd-49ad-91c4-e31fa151b338"
+    },
+    "created_time": "2022-10-14T17:37:00.000Z",
+    "last_edited_time": "2022-10-14T17:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We go out for lunch at an amazing Italian restaurant down the road. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We go out for lunch at an amazing Italian restaurant down the road. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ad964e15-7701-499f-9cbd-72a643baa8b8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "17d3558e-f1fd-49ad-91c4-e31fa151b338"
+    },
+    "created_time": "2022-10-14T17:38:00.000Z",
+    "last_edited_time": "2022-10-14T17:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "fdb03d3c-3b03-4f1f-abf8-5c754d0d6f55",
+    "parent": {
+      "type": "page_id",
+      "page_id": "17d3558e-f1fd-49ad-91c4-e31fa151b338"
+    },
+    "created_time": "2022-10-14T17:38:00.000Z",
+    "last_edited_time": "2022-10-15T12:46:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/4deb4ce48b4efc32.jpeg",
+        "expiry_time": "2026-03-12T09:45:45.522Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "dc241cb7-43a7-4a78-b7a0-3b2ffc55131d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "17d3558e-f1fd-49ad-91c4-e31fa151b338"
+    },
+    "created_time": "2022-10-14T17:38:00.000Z",
+    "last_edited_time": "2022-10-14T17:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7fdf5340-9cb6-4a78-9541-ba83d79ce51b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "17d3558e-f1fd-49ad-91c4-e31fa151b338"
+    },
+    "created_time": "2022-10-14T17:38:00.000Z",
+    "last_edited_time": "2022-10-19T05:26:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Finish up the work day and then take the train to meet Jordan at her aunt Kayt. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Finish up the work day and then take the train to meet Jordan at her aunt Kayt. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7e797d3c-acd7-4f92-a5a4-2887c044f4c3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "17d3558e-f1fd-49ad-91c4-e31fa151b338"
+    },
+    "created_time": "2022-10-15T12:46:00.000Z",
+    "last_edited_time": "2022-10-15T12:46:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ab94da3d-775c-46b0-aa85-2a3f6d92f3a9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "17d3558e-f1fd-49ad-91c4-e31fa151b338"
+    },
+    "created_time": "2022-10-15T12:46:00.000Z",
+    "last_edited_time": "2022-10-19T05:26:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Shortly after I leave the station I spot Jordan and Kayt walking two dogs towards me. It’s an enthusiastic greeting and fun chat to get us home, Kayte loves a joke and word play. I meet Felix at home and discuss his Raspberry Pi woes trying to bring life to his old CD collection. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Shortly after I leave the station I spot Jordan and Kayt walking two dogs towards me. It’s an enthusiastic greeting and fun chat to get us home, Kayte loves a joke and word play. I meet Felix at home and discuss his Raspberry Pi woes trying to bring life to his old CD collection. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b98d96e6-e12b-4941-a8b1-eaaaf9da0db6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "17d3558e-f1fd-49ad-91c4-e31fa151b338"
+    },
+    "created_time": "2022-10-15T12:48:00.000Z",
+    "last_edited_time": "2022-10-15T12:48:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5066779f-d7b6-4563-a9f6-38da2509816f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "17d3558e-f1fd-49ad-91c4-e31fa151b338"
+    },
+    "created_time": "2022-10-15T12:48:00.000Z",
+    "last_edited_time": "2022-10-15T12:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Iris has friends over and they’ve taken over the kitchen. The three 13 year old girls are a formidable energy. Travis comes to say hello and the dogs - Disco and Elvis - are ever present. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Iris has friends over and they’ve taken over the kitchen. The three 13 year old girls are a formidable energy. Travis comes to say hello and the dogs - Disco and Elvis - are ever present. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4a5dfcc0-a027-4761-9c62-a5cb4fdb9916",
+    "parent": {
+      "type": "page_id",
+      "page_id": "17d3558e-f1fd-49ad-91c4-e31fa151b338"
+    },
+    "created_time": "2022-10-15T12:49:00.000Z",
+    "last_edited_time": "2022-10-15T12:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "60968017-23c7-47b7-af30-73d9049bb596",
+    "parent": {
+      "type": "page_id",
+      "page_id": "17d3558e-f1fd-49ad-91c4-e31fa151b338"
+    },
+    "created_time": "2022-10-15T12:49:00.000Z",
+    "last_edited_time": "2022-10-19T05:27:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We stroll down the road to a Mexican restaurant. I order a local beer (Corona) mixed with Worcester sauce - which Felix teaches us how to pronounce properly - salt, chilli and other delicious spices. I order the enchiladas and share an amazing aubergine and halloumi taco with Jordan. We have a lovely conversation that skirts topics of Mexico, South Africa, London and then non spatially related topics such as children, working and other funny things. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We stroll down the road to a Mexican restaurant. I order a local beer (Corona) mixed with Worcester sauce - which Felix teaches us how to pronounce properly - salt, chilli and other delicious spices. I order the enchiladas and share an amazing aubergine and halloumi taco with Jordan. We have a lovely conversation that skirts topics of Mexico, South Africa, London and then non spatially related topics such as children, working and other funny things. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6749d0f1-6ff7-4529-83e2-20acab116b93",
+    "parent": {
+      "type": "page_id",
+      "page_id": "17d3558e-f1fd-49ad-91c4-e31fa151b338"
+    },
+    "created_time": "2022-10-15T13:03:00.000Z",
+    "last_edited_time": "2022-10-15T13:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "810838d7-87dd-4fc3-b162-43e0e608148f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "17d3558e-f1fd-49ad-91c4-e31fa151b338"
+    },
+    "created_time": "2022-10-15T13:03:00.000Z",
+    "last_edited_time": "2022-10-19T05:27:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We take a stroll back after eating our fill. Slowly wind down for bed and climb into a large double bed with two cats that reside in the room. The cats are separated from the almost world like dogs by two “airlocks” in the form of child proof gates on two sets of doors (the dogs often rush through one set and the second is necessary to stop them getting to the cats). The cats are named Arm Band and Percy. I immediately get their names wrong but find calling them “Hand Bag” and “Purse” - quite cute. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We take a stroll back after eating our fill. Slowly wind down for bed and climb into a large double bed with two cats that reside in the room. The cats are separated from the almost world like dogs by two “airlocks” in the form of child proof gates on two sets of doors (the dogs often rush through one set and the second is necessary to stop them getting to the cats). The cats are named Arm Band and Percy. I immediately get their names wrong but find calling them “Hand Bag” and “Purse” - quite cute. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e24c3536-8a52-43ee-8260-7ab1bbafb44e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "17d3558e-f1fd-49ad-91c4-e31fa151b338"
+    },
+    "created_time": "2022-10-15T13:06:00.000Z",
+    "last_edited_time": "2022-10-15T13:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9858b50e-d9a7-4126-821c-302641cd44b3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "17d3558e-f1fd-49ad-91c4-e31fa151b338"
+    },
+    "created_time": "2022-10-15T13:06:00.000Z",
+    "last_edited_time": "2022-10-15T13:07:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Purse mews a lot during the night and I find him licking the scab on my elbow lovingly at one point. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Purse mews a lot during the night and I find him licking the scab on my elbow lovingly at one point. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ea068a03-e61c-4038-b0d0-366b3ac6c815",
+    "parent": {
+      "type": "page_id",
+      "page_id": "17d3558e-f1fd-49ad-91c4-e31fa151b338"
+    },
+    "created_time": "2022-10-15T12:55:00.000Z",
+    "last_edited_time": "2022-10-15T12:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

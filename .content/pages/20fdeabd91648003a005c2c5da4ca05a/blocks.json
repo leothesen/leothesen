@@ -1,0 +1,317 @@
+[
+  {
+    "object": "block",
+    "id": "210deabd-9164-8082-a93b-d875fbbc5052",
+    "parent": {
+      "type": "page_id",
+      "page_id": "20fdeabd-9164-8003-a005-c2c5da4ca05a"
+    },
+    "created_time": "2025-06-12T05:53:00.000Z",
+    "last_edited_time": "2025-06-12T05:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Post-employment (rather than unemployment as per my brother’s framing) has allowed Cait and I to head off on a trip. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Post-employment (rather than unemployment as per my brother’s framing) has allowed Cait and I to head off on a trip. ",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "emoji",
+        "emoji": "🎈"
+      },
+      "color": "blue_background"
+    },
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "210deabd-9164-80f6-9ad0-fa47d7dccd58",
+        "parent": {
+          "type": "block_id",
+          "block_id": "210deabd-9164-8082-a93b-d875fbbc5052"
+        },
+        "created_time": "2025-06-12T05:56:00.000Z",
+        "last_edited_time": "2025-06-12T05:57:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Portugal, Spain and France: with the Camino as a centerpiece, yet not in the completely conventional fashion. Making this adventure “Camino-ish”. ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Portugal, Spain and France: with the Camino as a centerpiece, yet not in the completely conventional fashion. Making this adventure “Camino-ish”. ",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "322deabd-9164-8053-b3c8-ded25e173153",
+    "parent": {
+      "type": "page_id",
+      "page_id": "20fdeabd-9164-8003-a005-c2c5da4ca05a"
+    },
+    "created_time": "2026-03-13T07:12:00.000Z",
+    "last_edited_time": "2026-03-13T07:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "322deabd-9164-8060-b635-d6974e1dca6c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "20fdeabd-9164-8003-a005-c2c5da4ca05a"
+    },
+    "created_time": "2026-03-13T07:12:00.000Z",
+    "last_edited_time": "2026-03-13T07:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "child_database",
+    "child_database": {
+      "title": "Things we noticed"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "210deabd-9164-801d-affe-c2981520d743",
+    "parent": {
+      "type": "page_id",
+      "page_id": "20fdeabd-9164-8003-a005-c2c5da4ca05a"
+    },
+    "created_time": "2025-06-12T05:56:00.000Z",
+    "last_edited_time": "2025-06-12T05:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "211deabd-9164-80d6-8da5-f9e54861c493",
+    "parent": {
+      "type": "page_id",
+      "page_id": "20fdeabd-9164-8003-a005-c2c5da4ca05a"
+    },
+    "created_time": "2025-06-13T15:56:00.000Z",
+    "last_edited_time": "2025-06-13T15:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "211deabd-9164-80ed-a20c-ec4d8721f206",
+    "parent": {
+      "type": "page_id",
+      "page_id": "20fdeabd-9164-8003-a005-c2c5da4ca05a"
+    },
+    "created_time": "2025-06-13T15:56:00.000Z",
+    "last_edited_time": "2025-07-03T10:54:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "child_database",
+    "child_database": {
+      "title": "Tour de Pastel de nata"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "21cdeabd-9164-8050-943b-f9aa868d82b0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "20fdeabd-9164-8003-a005-c2c5da4ca05a"
+    },
+    "created_time": "2025-06-24T11:14:00.000Z",
+    "last_edited_time": "2025-07-07T06:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Rendering of the Pastel de nata ratings doesn’t seem to be working properly and I’m on holiday and can’t fix it. So visit this link to view them: ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Rendering of the Pastel de nata ratings doesn’t seem to be working properly and I’m on holiday and can’t fix it. So visit this link to view them: ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "https://leo-thesen.notion.site/211deabd916480eda20cec4d8721f206?v=211deabd9164803b8c96000c1d65373e",
+            "link": {
+              "url": "https://leo-thesen.notion.site/211deabd916480eda20cec4d8721f206?v=211deabd9164803b8c96000c1d65373e"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "https://leo-thesen.notion.site/211deabd916480eda20cec4d8721f206?v=211deabd9164803b8c96000c1d65373e",
+          "href": "https://leo-thesen.notion.site/211deabd916480eda20cec4d8721f206?v=211deabd9164803b8c96000c1d65373e"
+        }
+      ],
+      "icon": {
+        "type": "emoji",
+        "emoji": "💡"
+      },
+      "color": "gray_background"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "229deabd-9164-80c8-9864-e05a223324a6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "20fdeabd-9164-8003-a005-c2c5da4ca05a"
+    },
+    "created_time": "2025-07-07T06:38:00.000Z",
+    "last_edited_time": "2025-07-07T06:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

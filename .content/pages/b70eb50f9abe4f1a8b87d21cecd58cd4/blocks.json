@@ -1,0 +1,2003 @@
+[
+  {
+    "object": "block",
+    "id": "e19e1e55-a303-4778-8a86-0d5d22b80365",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T13:33:00.000Z",
+    "last_edited_time": "2023-10-25T14:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_1",
+    "heading_1": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Introduction",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Introduction",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "261da81e-501e-4e7d-aec1-975adabf130f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T13:38:00.000Z",
+    "last_edited_time": "2023-10-26T11:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I took three months off work in 2022, and I decided to write a blog about my experience. I owned the domain ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I took three months off work in 2022, and I decided to write a blog about my experience. I owned the domain ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "leothesen.com",
+            "link": {
+              "url": "http://leothesen.com/"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "leothesen.com",
+          "href": "http://leothesen.com/"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " and began shopping around for a way to build and host a website",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " and began shopping around for a way to build and host a website",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "emoji",
+        "emoji": "💡"
+      },
+      "color": "green_background"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e6661d8b-23ef-4022-853a-7815a9377f65",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-26T11:55:00.000Z",
+    "last_edited_time": "2023-10-26T11:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "column_list",
+    "column_list": {},
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "56e021b7-f94d-4663-a9a2-97f4779a3c1f",
+        "parent": {
+          "type": "block_id",
+          "block_id": "e6661d8b-23ef-4022-853a-7815a9377f65"
+        },
+        "created_time": "2023-10-26T11:55:00.000Z",
+        "last_edited_time": "2023-10-26T11:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "48ec7ad3-6890-415b-8afb-1f7b6ed837fc",
+            "parent": {
+              "type": "block_id",
+              "block_id": "56e021b7-f94d-4663-a9a2-97f4779a3c1f"
+            },
+            "created_time": "2023-10-25T13:30:00.000Z",
+            "last_edited_time": "2023-10-26T11:55:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "This is what the blog became:",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "This is what the blog became:",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          }
+        ]
+      },
+      {
+        "object": "block",
+        "id": "b1582481-9fde-46b9-add9-2b019a244ed1",
+        "parent": {
+          "type": "block_id",
+          "block_id": "e6661d8b-23ef-4022-853a-7815a9377f65"
+        },
+        "created_time": "2023-10-26T11:55:00.000Z",
+        "last_edited_time": "2023-10-26T11:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "ee47285e-9b5c-46cb-845b-6fe9e5625d0e",
+            "parent": {
+              "type": "block_id",
+              "block_id": "b1582481-9fde-46b9-add9-2b019a244ed1"
+            },
+            "created_time": "2023-10-25T13:31:00.000Z",
+            "last_edited_time": "2023-10-26T11:55:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "link_to_page",
+            "link_to_page": {
+              "type": "page_id",
+              "page_id": "b8ae34f8-9316-4387-b061-a71123e699f5"
+            },
+            "archived": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "e451457f-4972-4029-ac5e-14a3afe712da",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T13:30:00.000Z",
+    "last_edited_time": "2023-10-26T11:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7df92853-4a78-4377-bc54-f3b53ebf9975",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T13:30:00.000Z",
+    "last_edited_time": "2023-10-26T11:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The only requirements that I had for this website were:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The only requirements that I had for this website were:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3890b702-cb8c-4cf6-91c0-011ed7345ee8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T13:33:00.000Z",
+    "last_edited_time": "2023-10-25T13:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "It shouldn’t cost me any money, only a little bit of time",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "It shouldn’t cost me any money, only a little bit of time",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "178f2b4d-4be2-4a43-84ea-c92417013aa1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T13:33:00.000Z",
+    "last_edited_time": "2023-10-25T13:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "It should use Notion as a CMS (I’m truly obsessed with Notion)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "It should use Notion as a CMS (I’m truly obsessed with Notion)",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ba353489-a164-41c3-b065-b66d0c984e59",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-26T11:51:00.000Z",
+    "last_edited_time": "2023-10-26T11:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "2d6acd6a-70a1-4718-bd61-64517e0be21e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T13:33:00.000Z",
+    "last_edited_time": "2023-10-26T11:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "After fishing around for a while I found ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "After fishing around for a while I found ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "nextjs-notion-starter-kit",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "nextjs-notion-starter-kit",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ", which just ticked all the boxes ✅  ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ", which just ticked all the boxes ✅  ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a00d5d06-3b26-4c53-a809-de9c36e593d8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T13:35:00.000Z",
+    "last_edited_time": "2026-03-12T01:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "8773a82d-f2e0-4229-8675-690e7c0959e6"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "link_preview",
+    "link_preview": {
+      "url": "https://github.com/transitive-bullshit/nextjs-notion-starter-kit"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0183026d-d717-41ae-96f6-d8ef436fbec2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T13:39:00.000Z",
+    "last_edited_time": "2023-10-26T11:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "dbf683bf-759b-4970-8780-55673036a040",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T13:39:00.000Z",
+    "last_edited_time": "2023-10-26T11:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Firstly it used Next.js, which I am just such a huge fan of as a fullstack framework. And don’t get me started on Vercel’s product offering - it’s absurdly good.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Firstly it used Next.js, which I am just such a huge fan of as a fullstack framework. And don’t get me started on Vercel’s product offering - it’s absurdly good.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0c369286-a91d-40f3-81b3-fdb1d52c80ca",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T13:37:00.000Z",
+    "last_edited_time": "2023-10-25T13:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_1",
+    "heading_1": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "How does it work?",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "How does it work?",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5c789f48-b864-4186-81c7-2c089c148559",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T13:39:00.000Z",
+    "last_edited_time": "2023-10-26T11:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "In a nutshell",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "In a nutshell",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "\n\nVercel hosts the Next.js application for free (on the Hobby tier). I’ve attached the domain ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "\n\nVercel hosts the Next.js application for free (on the Hobby tier). I’ve attached the domain ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "leothesen.com",
+            "link": {
+              "url": "http://leothesen.com/"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "leothesen.com",
+          "href": "http://leothesen.com/"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " - which is owned through AWS Route 53 - to Vercel to allow for it to be accessible on the public internet. \n\nThe Next.js application looks through the whole Notion page and all nested subpages and renders those into a site map. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " - which is owned through AWS Route 53 - to Vercel to allow for it to be accessible on the public internet. \n\nThe Next.js application looks through the whole Notion page and all nested subpages and renders those into a site map. ",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "emoji",
+        "emoji": "🥜"
+      },
+      "color": "yellow_background"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "47616e40-3bfa-4749-a1f8-9aa30e1d20c2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T13:43:00.000Z",
+    "last_edited_time": "2023-10-26T11:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "10e7bdca-0327-400c-8da4-1643a04269c2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T13:43:00.000Z",
+    "last_edited_time": "2023-10-26T11:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Feel free to look around the ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Feel free to look around the ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "repository",
+            "link": {
+              "url": "https://github.com/leothesen/leothesen"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "repository",
+          "href": "https://github.com/leothesen/leothesen"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ":",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ":",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "94c7503f-8d47-463d-8754-a2d8a57630d1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T13:43:00.000Z",
+    "last_edited_time": "2026-03-12T01:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "8773a82d-f2e0-4229-8675-690e7c0959e6"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "link_preview",
+    "link_preview": {
+      "url": "https://github.com/leothesen/leothesen"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "90d17153-c6cd-4790-8550-b2108f21371b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T13:30:00.000Z",
+    "last_edited_time": "2023-10-26T06:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a06fde11-ab0e-4681-811a-b8f3f0abccf0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T13:30:00.000Z",
+    "last_edited_time": "2023-10-25T13:44:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Pages",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Pages",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "2e06556d-b0b4-4b84-b804-fcc24b81475a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T13:44:00.000Z",
+    "last_edited_time": "2023-10-25T13:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Each ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Each ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "page",
+            "link": {
+              "url": "https://github.com/leothesen/leothesen/blob/main/pages/%5BpageId%5D.tsx"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "page",
+          "href": "https://github.com/leothesen/leothesen/blob/main/pages/%5BpageId%5D.tsx"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " within the website - such as this one - is using ISR. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " within the website - such as this one - is using ISR. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "db1910c2-76bb-4686-9f11-441c35c83718",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T13:47:00.000Z",
+    "last_edited_time": "2023-10-25T13:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bookmark",
+    "bookmark": {
+      "caption": [],
+      "url": "https://nextjs.org/docs/pages/building-your-application/data-fetching/incremental-static-regeneration"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d842ba50-4463-4e8e-b512-c07190b1e936",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T13:48:00.000Z",
+    "last_edited_time": "2023-10-25T13:48:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "da697cb2-76bf-4f58-83d9-dd4d3e355ce0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T13:48:00.000Z",
+    "last_edited_time": "2023-10-25T13:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "This means that pages are statically generated at build time, but are able to be updated without rebuilding the whole website if the content on the Notion page changes. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "This means that pages are statically generated at build time, but are able to be updated without rebuilding the whole website if the content on the Notion page changes. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a0c12705-60d9-4dbf-be1a-e27442855536",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T13:44:00.000Z",
+    "last_edited_time": "2023-10-25T13:44:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "APIs",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "APIs",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "865d7a67-8ea7-4d30-92af-28c014d1d09a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T13:52:00.000Z",
+    "last_edited_time": "2023-10-26T06:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "api/search-notion",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "api/search-notion",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c7f3074c-7caa-44ca-ab38-c8849358ac42",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T13:52:00.000Z",
+    "last_edited_time": "2023-12-05T11:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "AKA the search button in the top right. It is simply a RESTful API served by Next.js that proxied the request through to the Notion API. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "AKA the search button in the top right. It is simply a RESTful API served by Next.js that proxied the request through to the Notion API. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "00e53080-8726-47de-a2e3-be92ffda1018",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T13:53:00.000Z",
+    "last_edited_time": "2023-10-25T13:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3e87451c-bba2-423d-ba44-0a72101b9015",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T13:53:00.000Z",
+    "last_edited_time": "2023-10-26T06:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "api/social-image",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "api/social-image",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "09bebc1e-4cc4-48a9-abbd-22d4b5c48a81",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T13:53:00.000Z",
+    "last_edited_time": "2023-10-25T13:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "This is a great one. It is used to generate the Open Graph images (like the thumbnails that you see expanding when a link is posted on Whatsapp/Facebook/LinkedIn). ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "This is a great one. It is used to generate the Open Graph images (like the thumbnails that you see expanding when a link is posted on Whatsapp/Facebook/LinkedIn). ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4ffbd4fb-6008-424d-ac07-46e663236a76",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T13:55:00.000Z",
+    "last_edited_time": "2023-10-25T13:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a22c74de-0e19-4946-a5a5-ccf795b3d3d6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-26T11:58:00.000Z",
+    "last_edited_time": "2023-10-26T11:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "column_list",
+    "column_list": {},
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "37637c9d-3420-43de-a6bc-f1bbb71654f7",
+        "parent": {
+          "type": "block_id",
+          "block_id": "a22c74de-0e19-4946-a5a5-ccf795b3d3d6"
+        },
+        "created_time": "2023-10-26T11:58:00.000Z",
+        "last_edited_time": "2023-10-26T11:58:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "1880d771-144d-4251-8955-b9366b038cb9",
+            "parent": {
+              "type": "block_id",
+              "block_id": "37637c9d-3420-43de-a6bc-f1bbb71654f7"
+            },
+            "created_time": "2023-10-25T13:55:00.000Z",
+            "last_edited_time": "2023-12-05T11:22:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "For example, the NotionID for this page is ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "For example, the NotionID for this page is ",
+                  "href": null
+                },
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "b70eb50f9abe4f1a8b87d21cecd58cd4",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": true,
+                    "color": "default"
+                  },
+                  "plain_text": "b70eb50f9abe4f1a8b87d21cecd58cd4",
+                  "href": null
+                },
+                {
+                  "type": "text",
+                  "text": {
+                    "content": " . The OG image will be set to ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": " . The OG image will be set to ",
+                  "href": null
+                },
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "leothesen.com/api/social-image?id=b70eb50f9abe4f1a8b87d21cecd58cd4",
+                    "link": {
+                      "url": "http://leothesen.com/api/social-image?id=b70eb50f9abe4f1a8b87d21cecd58cd4"
+                    }
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "leothesen.com/api/social-image?id=b70eb50f9abe4f1a8b87d21cecd58cd4",
+                  "href": "http://leothesen.com/api/social-image?id=b70eb50f9abe4f1a8b87d21cecd58cd4"
+                },
+                {
+                  "type": "text",
+                  "text": {
+                    "content": ", which will result in the following image being returned. It renders the name of the page and the cover photo.",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": ", which will result in the following image being returned. It renders the name of the page and the cover photo.",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          }
+        ]
+      },
+      {
+        "object": "block",
+        "id": "21c91cb7-b4a5-4050-8112-9f06a3faefac",
+        "parent": {
+          "type": "block_id",
+          "block_id": "a22c74de-0e19-4946-a5a5-ccf795b3d3d6"
+        },
+        "created_time": "2023-10-26T11:58:00.000Z",
+        "last_edited_time": "2023-10-26T11:58:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "e758b497-f27d-49f1-a792-cb06bf7810bb",
+            "parent": {
+              "type": "block_id",
+              "block_id": "21c91cb7-b4a5-4050-8112-9f06a3faefac"
+            },
+            "created_time": "2023-10-26T11:58:00.000Z",
+            "last_edited_time": "2023-10-26T11:58:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "image",
+            "image": {
+              "caption": [],
+              "type": "file",
+              "file": {
+                "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/9651edfc9e643587.png",
+                "expiry_time": "2026-03-12T12:11:59.537Z"
+              }
+            },
+            "archived": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "2d13563f-95ef-4f25-9e35-83a0d0af7dd5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-26T11:58:00.000Z",
+    "last_edited_time": "2023-10-26T11:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "583d580e-b92c-4c06-b30c-19b0a1766c9b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T13:20:00.000Z",
+    "last_edited_time": "2023-10-25T13:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_1",
+    "heading_1": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Monitoring",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Monitoring",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ae8c194f-719a-4381-96f2-ef9e70cdd7c2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T13:58:00.000Z",
+    "last_edited_time": "2023-10-25T14:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Maybe this was vanity, but I was interested to see who was actually looking at the website. I used ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Maybe this was vanity, but I was interested to see who was actually looking at the website. I used ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Posthog",
+            "link": {
+              "url": "https://posthog.com/"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Posthog",
+          "href": "https://posthog.com/"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " to extract metrics from usage of the website. It’s not Facebook level traffic, but always interesting to see who pops in:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " to extract metrics from usage of the website. It’s not Facebook level traffic, but always interesting to see who pops in:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "80359745-a0c7-4084-bb6b-346a699b6d4c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T13:20:00.000Z",
+    "last_edited_time": "2023-10-25T14:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "embed",
+    "embed": {
+      "caption": [],
+      "url": "https://app.posthog.com/shared/hqvus0uiJo9_R1uMmJi88gDf4p_4_Q"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "491ad3cb-3a69-4ff5-b14c-72c4d3b05173",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T14:19:00.000Z",
+    "last_edited_time": "2023-10-25T14:19:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "849537cd-ca41-45c0-a6f2-df8cceee86b2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T14:19:00.000Z",
+    "last_edited_time": "2023-10-26T06:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_1",
+    "heading_1": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Issues",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Issues",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "088e4f77-bc6c-4037-9869-04145407bcc1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-25T14:19:00.000Z",
+    "last_edited_time": "2023-10-25T14:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I found that some of the images would break, and the fix would be that I needed to rebuild the application. I think that it had to do with the URL that Notion returns for the image hosted in S3 expiring. I solved this by setting up a cron job to rebuild the site every morning, it isn’t an ideal solution but it keeps things fresh. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I found that some of the images would break, and the fix would be that I needed to rebuild the application. I think that it had to do with the URL that Notion returns for the image hosted in S3 expiring. I solved this by setting up a cron job to rebuild the site every morning, it isn’t an ideal solution but it keeps things fresh. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8a44db6a-7b28-48f9-a9a7-d7279b56328b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-26T06:32:00.000Z",
+    "last_edited_time": "2023-10-26T06:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "81f51ca2-b3b2-4ea7-b615-8164de30271c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "b70eb50f-9abe-4f1a-8b87-d21cecd58cd4"
+    },
+    "created_time": "2023-10-26T06:32:00.000Z",
+    "last_edited_time": "2023-10-26T06:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

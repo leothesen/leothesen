@@ -1,0 +1,924 @@
+[
+  {
+    "object": "block",
+    "id": "bd0faf52-86ae-4d9d-b5e4-13ebb3929071",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9dcbea56-0491-4c14-be88-d10d8cccbc48"
+    },
+    "created_time": "2022-09-03T15:41:00.000Z",
+    "last_edited_time": "2022-09-03T15:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The swell is meant to be dropping today - there should be a potential for a wave or two. I hear Lorenzo’s voice in the morning talking about going surfing but I’m in no rush, so I turn over and allow a sleep in to happen. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The swell is meant to be dropping today - there should be a potential for a wave or two. I hear Lorenzo’s voice in the morning talking about going surfing but I’m in no rush, so I turn over and allow a sleep in to happen. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f2ff3b70-28c7-4516-9a99-d617e926aefb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9dcbea56-0491-4c14-be88-d10d8cccbc48"
+    },
+    "created_time": "2022-09-03T15:42:00.000Z",
+    "last_edited_time": "2022-09-03T15:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "61b7e478-034f-42d8-b7b0-ec75099409f6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9dcbea56-0491-4c14-be88-d10d8cccbc48"
+    },
+    "created_time": "2022-09-03T15:42:00.000Z",
+    "last_edited_time": "2022-09-03T15:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Once up I take a coffee down to the point and watch Jude, Dom and Lorenzo trade a few waves in pretty average conditions. The point is not working but they are sitting on the beach break section getting a few shorter waves. It doesn’t entice me so I opt for some reading and writing instead. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Once up I take a coffee down to the point and watch Jude, Dom and Lorenzo trade a few waves in pretty average conditions. The point is not working but they are sitting on the beach break section getting a few shorter waves. It doesn’t entice me so I opt for some reading and writing instead. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "dc746d38-d612-4fda-807b-a9ab2dc36dd8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9dcbea56-0491-4c14-be88-d10d8cccbc48"
+    },
+    "created_time": "2022-09-03T17:34:00.000Z",
+    "last_edited_time": "2022-09-03T17:34:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "655ebfd0-c936-4756-bff2-fc2f242eb1e9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9dcbea56-0491-4c14-be88-d10d8cccbc48"
+    },
+    "created_time": "2022-09-03T17:34:00.000Z",
+    "last_edited_time": "2022-09-03T17:35:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/0f26b0d1441448ed.jpeg",
+        "expiry_time": "2026-03-12T11:25:52.607Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "85ee8de1-9e57-41f2-aa8e-8e4dd4f64097",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9dcbea56-0491-4c14-be88-d10d8cccbc48"
+    },
+    "created_time": "2022-09-03T15:43:00.000Z",
+    "last_edited_time": "2022-09-03T17:34:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0e3d225e-c902-4641-a7bc-51989627bca9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9dcbea56-0491-4c14-be88-d10d8cccbc48"
+    },
+    "created_time": "2022-09-03T15:43:00.000Z",
+    "last_edited_time": "2022-09-03T17:34:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Around lunch time I feel the wind change and take go back to take a look at the point. It’s similar to this morning just maybe slightly cleaner. I paddle out alone and Jude comes to join me in boardshorts a little while later.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Around lunch time I feel the wind change and take go back to take a look at the point. It’s similar to this morning just maybe slightly cleaner. I paddle out alone and Jude comes to join me in boardshorts a little while later.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7f371fae-ba04-4080-8cf9-818bec35f498",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9dcbea56-0491-4c14-be88-d10d8cccbc48"
+    },
+    "created_time": "2022-09-03T15:45:00.000Z",
+    "last_edited_time": "2022-09-03T15:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9691c755-9e00-4e2c-b3db-dc83af2a7cda",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9dcbea56-0491-4c14-be88-d10d8cccbc48"
+    },
+    "created_time": "2022-09-03T15:45:00.000Z",
+    "last_edited_time": "2022-09-03T15:46:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The surf is fun - mostly a Glen Beacheque closeout that offers mostly a floater or two. I do manage to find some rhythm and am quite pleased with my surfing. It’s quite interesting surfing a beach break again after a month or so of only point breaks. You learn to get excited again about a wave that runs for 20m. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The surf is fun - mostly a Glen Beacheque closeout that offers mostly a floater or two. I do manage to find some rhythm and am quite pleased with my surfing. It’s quite interesting surfing a beach break again after a month or so of only point breaks. You learn to get excited again about a wave that runs for 20m. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "22469364-ea68-48e7-8753-0d8860bdc5bf",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9dcbea56-0491-4c14-be88-d10d8cccbc48"
+    },
+    "created_time": "2022-09-03T17:27:00.000Z",
+    "last_edited_time": "2022-09-03T17:27:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5d8ad2e7-dcc3-4ee1-8af8-73332dc501c0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9dcbea56-0491-4c14-be88-d10d8cccbc48"
+    },
+    "created_time": "2022-09-03T17:28:00.000Z",
+    "last_edited_time": "2022-09-03T17:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "embed",
+    "embed": {
+      "caption": [],
+      "url": "https://connect.garmin.com/modern/activity/embed/9527039761"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "121dc768-56eb-481a-b3a4-ebbc0603bd18",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9dcbea56-0491-4c14-be88-d10d8cccbc48"
+    },
+    "created_time": "2022-09-03T15:48:00.000Z",
+    "last_edited_time": "2022-09-03T15:48:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "65292ffd-e109-4b40-aa50-186daf1e2e95",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9dcbea56-0491-4c14-be88-d10d8cccbc48"
+    },
+    "created_time": "2022-09-03T15:48:00.000Z",
+    "last_edited_time": "2022-09-03T15:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I take a little walk with Dom and Lorenzo to the Cool Bananas spaza shop to stock up. I walk away with a packet of chips, soya mince, some vegetables and a beer. The plan is to make a potjie for dinner. And in classic potjie fashion we only start the fire after dark. We drink some beers and call it the “yes potjie” on the condition that we have to say yes every time somebody suggests another ingredient to add.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I take a little walk with Dom and Lorenzo to the Cool Bananas spaza shop to stock up. I walk away with a packet of chips, soya mince, some vegetables and a beer. The plan is to make a potjie for dinner. And in classic potjie fashion we only start the fire after dark. We drink some beers and call it the “yes potjie” on the condition that we have to say yes every time somebody suggests another ingredient to add.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "cb011e4e-1182-4d8d-9460-1246c3627c47",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9dcbea56-0491-4c14-be88-d10d8cccbc48"
+    },
+    "created_time": "2022-09-03T16:24:00.000Z",
+    "last_edited_time": "2022-09-03T16:24:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8534e5ab-b076-40df-b56e-20ee6e01d366",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9dcbea56-0491-4c14-be88-d10d8cccbc48"
+    },
+    "created_time": "2022-09-03T16:24:00.000Z",
+    "last_edited_time": "2022-09-03T17:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I have a beautiful moment on the sunny grass lying on Eco (the big fluffy white dog), looking up at the sky and giving him a big scratch. Mzanzi comes to join in the cuddles and licks us both indecently.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I have a beautiful moment on the sunny grass lying on Eco (the big fluffy white dog), looking up at the sky and giving him a big scratch. Mzanzi comes to join in the cuddles and licks us both indecently.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "27ae5c4b-2618-4dcc-ac65-d8c8093ccd5f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9dcbea56-0491-4c14-be88-d10d8cccbc48"
+    },
+    "created_time": "2022-09-03T15:49:00.000Z",
+    "last_edited_time": "2022-09-03T15:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e0e13ced-6b7c-4684-b049-04d4b23c1dbb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9dcbea56-0491-4c14-be88-d10d8cccbc48"
+    },
+    "created_time": "2022-09-03T15:49:00.000Z",
+    "last_edited_time": "2022-09-03T15:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Lina, Elly, Keegan and Jeandre join us and start an even later crayfish potjie. We haven’t all really hung out together before but it’s lovely. I play music through the speaker, initially unsure how it was going to go down - but Lina seems to know all my music and gives a lot of compliments. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Lina, Elly, Keegan and Jeandre join us and start an even later crayfish potjie. We haven’t all really hung out together before but it’s lovely. I play music through the speaker, initially unsure how it was going to go down - but Lina seems to know all my music and gives a lot of compliments. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c3c2b65c-1c2f-44e7-9e46-e1840f9a3990",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9dcbea56-0491-4c14-be88-d10d8cccbc48"
+    },
+    "created_time": "2022-09-03T15:50:00.000Z",
+    "last_edited_time": "2022-09-03T15:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "877966a3-3a3d-42f4-880d-df807cc951ea",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9dcbea56-0491-4c14-be88-d10d8cccbc48"
+    },
+    "created_time": "2022-09-03T15:50:00.000Z",
+    "last_edited_time": "2022-09-03T16:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Neil arrives and is immediately a huge character. After a few minutes of his truly ridiculous tales and inappropriate jokes I realise that he has almost exactly the same sense of humor as the rather dubious insurance salesman that I met in Port St Johns named Dean. When I tell him about his resemblance to Dean, he replies with something that I imagine Dean would too: “does Dean also have a great ass?”",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Neil arrives and is immediately a huge character. After a few minutes of his truly ridiculous tales and inappropriate jokes I realise that he has almost exactly the same sense of humor as the rather dubious insurance salesman that I met in Port St Johns named Dean. When I tell him about his resemblance to Dean, he replies with something that I imagine Dean would too: “does Dean also have a great ass?”",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6673cd67-f16d-4ff7-a9bb-940edce3e2a4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9dcbea56-0491-4c14-be88-d10d8cccbc48"
+    },
+    "created_time": "2022-09-03T16:04:00.000Z",
+    "last_edited_time": "2022-09-03T16:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b30a9d2c-83ff-4ad7-a213-3f28af2efa67",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9dcbea56-0491-4c14-be88-d10d8cccbc48"
+    },
+    "created_time": "2022-09-03T16:04:00.000Z",
+    "last_edited_time": "2022-09-03T16:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "He goes on a ten or so minute tangent about how having a nice ass leads to a comfortable sitting experience he then starts to get a little dark. He’s just had a bit of a meltdown and he says that Mdumbi is his safe space. It takes quite a few questions before I manage to break his spiral and get him talking about more positive things that he enjoys. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "He goes on a ten or so minute tangent about how having a nice ass leads to a comfortable sitting experience he then starts to get a little dark. He’s just had a bit of a meltdown and he says that Mdumbi is his safe space. It takes quite a few questions before I manage to break his spiral and get him talking about more positive things that he enjoys. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d1d6fba7-f8a5-4b57-967a-055bb6504dd6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9dcbea56-0491-4c14-be88-d10d8cccbc48"
+    },
+    "created_time": "2022-09-03T16:08:00.000Z",
+    "last_edited_time": "2022-09-03T16:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e0576570-12bf-4cb4-8a10-b404ea698122",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9dcbea56-0491-4c14-be88-d10d8cccbc48"
+    },
+    "created_time": "2022-09-03T16:08:00.000Z",
+    "last_edited_time": "2022-09-03T16:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "He lays down some rather inappropriate comments that are met with nervous giggles by the crowd around the baais. I do love it and ensure that I meet his eyes and make sure that I did appreciate the joke even though it might have been a bit offside. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "He lays down some rather inappropriate comments that are met with nervous giggles by the crowd around the baais. I do love it and ensure that I meet his eyes and make sure that I did appreciate the joke even though it might have been a bit offside. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5ca8aa5d-fc2a-42d2-8404-b3e162643cca",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9dcbea56-0491-4c14-be88-d10d8cccbc48"
+    },
+    "created_time": "2022-09-03T16:10:00.000Z",
+    "last_edited_time": "2022-09-03T16:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c5881995-bf58-45c7-8f1c-f14bdc9a919b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9dcbea56-0491-4c14-be88-d10d8cccbc48"
+    },
+    "created_time": "2022-09-03T16:10:00.000Z",
+    "last_edited_time": "2022-09-03T16:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "He rolls a potently strong hash joint and it discombobulates a few of us - somehow not Neil. He has an assistant dog for his mental health called Charlie that is an absolute angle. After about half an hour he says his farewells and heads off to bed. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "He rolls a potently strong hash joint and it discombobulates a few of us - somehow not Neil. He has an assistant dog for his mental health called Charlie that is an absolute angle. After about half an hour he says his farewells and heads off to bed. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6512b25f-cb73-4b05-8f6a-89631a73aa67",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9dcbea56-0491-4c14-be88-d10d8cccbc48"
+    },
+    "created_time": "2022-09-03T16:12:00.000Z",
+    "last_edited_time": "2022-09-03T16:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "182a1401-655d-4baf-be65-0b7ba59907c2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9dcbea56-0491-4c14-be88-d10d8cccbc48"
+    },
+    "created_time": "2022-09-03T16:12:00.000Z",
+    "last_edited_time": "2022-09-03T16:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We call the potjie done at about 9pm and tuck it. It’s absolutely delicious. The sleepiness and night comes in quite soon after that and I head off to bed for a little bit of reading. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We call the potjie done at about 9pm and tuck it. It’s absolutely delicious. The sleepiness and night comes in quite soon after that and I head off to bed for a little bit of reading. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

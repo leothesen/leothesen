@@ -1,0 +1,382 @@
+[
+  {
+    "object": "block",
+    "id": "ab3bcd77-c2de-47f2-93b8-8ea2174c4a1f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "aeb7f47a-ab99-4221-81a1-1d28e39d2316"
+    },
+    "created_time": "2022-09-15T07:42:00.000Z",
+    "last_edited_time": "2022-09-15T07:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We wake up late in the lounge. I have a shower as my head is itchy and put on some colourful clothes for the first time in a few days. Corduroy pants and a blue t-shirt - but I’m on the fence. Then Jordan emerges in a great outfit and I’m inspired to try dressing myself again.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We wake up late in the lounge. I have a shower as my head is itchy and put on some colourful clothes for the first time in a few days. Corduroy pants and a blue t-shirt - but I’m on the fence. Then Jordan emerges in a great outfit and I’m inspired to try dressing myself again.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c6181e2c-f23f-45b3-9355-f71d4291ceb4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "aeb7f47a-ab99-4221-81a1-1d28e39d2316"
+    },
+    "created_time": "2022-09-15T07:45:00.000Z",
+    "last_edited_time": "2022-09-15T07:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b5e6ff49-2f69-420e-8569-3f679e1ccf22",
+    "parent": {
+      "type": "page_id",
+      "page_id": "aeb7f47a-ab99-4221-81a1-1d28e39d2316"
+    },
+    "created_time": "2022-09-15T07:44:00.000Z",
+    "last_edited_time": "2022-09-15T07:44:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/07ae126daf4baf27.jpeg",
+        "expiry_time": "2026-03-12T09:47:58.478Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8abeaf8c-20f4-4e80-8202-d79dccc2d096",
+    "parent": {
+      "type": "page_id",
+      "page_id": "aeb7f47a-ab99-4221-81a1-1d28e39d2316"
+    },
+    "created_time": "2022-09-15T07:45:00.000Z",
+    "last_edited_time": "2022-09-15T07:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4d5f8161-6896-42c8-a9f9-f6d450743f67",
+    "parent": {
+      "type": "page_id",
+      "page_id": "aeb7f47a-ab99-4221-81a1-1d28e39d2316"
+    },
+    "created_time": "2022-09-15T07:45:00.000Z",
+    "last_edited_time": "2022-09-15T07:46:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We make a pretty crazy breakfast of chocolate Futurelife crunch, chocolate Futurelife, peanut butter and milk and I must say that it doesn’t mix well with the half bottle of wine from last night. I catch up on some travel journals. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We make a pretty crazy breakfast of chocolate Futurelife crunch, chocolate Futurelife, peanut butter and milk and I must say that it doesn’t mix well with the half bottle of wine from last night. I catch up on some travel journals. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e9dafd3c-6c1c-4020-b897-0c4f9bccaece",
+    "parent": {
+      "type": "page_id",
+      "page_id": "aeb7f47a-ab99-4221-81a1-1d28e39d2316"
+    },
+    "created_time": "2022-09-16T05:45:00.000Z",
+    "last_edited_time": "2022-09-16T05:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "573004dd-3dff-43c0-ad43-34ce6eeba474",
+    "parent": {
+      "type": "page_id",
+      "page_id": "aeb7f47a-ab99-4221-81a1-1d28e39d2316"
+    },
+    "created_time": "2022-09-16T05:45:00.000Z",
+    "last_edited_time": "2022-09-16T05:46:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Jordan and I head over to Fred’s house. We make ourselves comfortable and lock into a fun day of work. Bolognaise on toast with melted cheese and avo for lunch. We have several coffees and it begins to feel like a university study session with friends.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Jordan and I head over to Fred’s house. We make ourselves comfortable and lock into a fun day of work. Bolognaise on toast with melted cheese and avo for lunch. We have several coffees and it begins to feel like a university study session with friends.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1894c2eb-6097-457a-83f5-0fd26ef2fee3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "aeb7f47a-ab99-4221-81a1-1d28e39d2316"
+    },
+    "created_time": "2022-09-16T05:46:00.000Z",
+    "last_edited_time": "2022-09-16T05:46:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "23b31d9f-f2b2-4ad2-9353-5d1542c01b70",
+    "parent": {
+      "type": "page_id",
+      "page_id": "aeb7f47a-ab99-4221-81a1-1d28e39d2316"
+    },
+    "created_time": "2022-09-16T05:46:00.000Z",
+    "last_edited_time": "2022-09-16T05:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We play a little spike ball game before leaving which is great fun, but severely lacking as there are only three of us. On the way back we stop at the Trasol (Trendy Sasol) that Kate describes as the place you stop at on the way after an affair to buy your wife an expensive guilty chocolate. We get some shortbread, jellybeans and chips.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We play a little spike ball game before leaving which is great fun, but severely lacking as there are only three of us. On the way back we stop at the Trasol (Trendy Sasol) that Kate describes as the place you stop at on the way after an affair to buy your wife an expensive guilty chocolate. We get some shortbread, jellybeans and chips.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "847ce698-5190-443f-a350-92602cf63556",
+    "parent": {
+      "type": "page_id",
+      "page_id": "aeb7f47a-ab99-4221-81a1-1d28e39d2316"
+    },
+    "created_time": "2022-09-16T05:48:00.000Z",
+    "last_edited_time": "2022-09-16T05:48:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f0c3803c-182d-468e-b78d-86623b464acd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "aeb7f47a-ab99-4221-81a1-1d28e39d2316"
+    },
+    "created_time": "2022-09-16T05:48:00.000Z",
+    "last_edited_time": "2022-09-16T05:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "At home we I call some friends and then we make some pasta for the last of the bolognaise. The power is going out at 8pm and Jordan jumps onto The Pirate Bay to download Sherlock Holmes. That carries us through to bed.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "At home we I call some friends and then we make some pasta for the last of the bolognaise. The power is going out at 8pm and Jordan jumps onto The Pirate Bay to download Sherlock Holmes. That carries us through to bed.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

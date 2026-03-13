@@ -1,0 +1,686 @@
+[
+  {
+    "object": "block",
+    "id": "9d4c04bc-98d4-4150-983d-67e81c36d23b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "81ab4f66-7054-4f9c-b46a-657ae621bf64"
+    },
+    "created_time": "2022-09-26T08:22:00.000Z",
+    "last_edited_time": "2022-09-29T17:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We were set to leave this morning, but poor Jordan was hit but a stomach bug in the night. We’re just taking it super easy today. She’s sleeping and I’m hanging out in the room with her catching up with some travel journals. I eat breakfast on the stoep outside our room.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We were set to leave this morning, but poor Jordan was hit but a stomach bug in the night. We’re just taking it super easy today. She’s sleeping and I’m hanging out in the room with her catching up with some travel journals. I eat breakfast on the stoep outside our room.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "def026e8-abfa-490e-8327-895fc00c1cf3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "81ab4f66-7054-4f9c-b46a-657ae621bf64"
+    },
+    "created_time": "2022-09-26T10:24:00.000Z",
+    "last_edited_time": "2022-09-26T10:24:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "96d89827-3720-498d-a943-fc534b888a2d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "81ab4f66-7054-4f9c-b46a-657ae621bf64"
+    },
+    "created_time": "2022-09-26T10:24:00.000Z",
+    "last_edited_time": "2022-09-26T10:25:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I achieve the impossible and find two cokes, a large amount of ice and lemon and Jordan is a happy babe. Her nausea seems to have faded and she’s doing ok! ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I achieve the impossible and find two cokes, a large amount of ice and lemon and Jordan is a happy babe. Her nausea seems to have faded and she’s doing ok! ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9caa7f61-a01e-421c-be79-fe70be8cae67",
+    "parent": {
+      "type": "page_id",
+      "page_id": "81ab4f66-7054-4f9c-b46a-657ae621bf64"
+    },
+    "created_time": "2022-09-26T18:06:00.000Z",
+    "last_edited_time": "2022-09-26T18:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a3fcf263-9ae4-4ebf-84aa-333d1c7269bf",
+    "parent": {
+      "type": "page_id",
+      "page_id": "81ab4f66-7054-4f9c-b46a-657ae621bf64"
+    },
+    "created_time": "2022-09-26T18:06:00.000Z",
+    "last_edited_time": "2022-09-26T18:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "column_list",
+    "column_list": {},
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "9e5879cb-b65b-4e64-a613-0f17c4588f75",
+        "parent": {
+          "type": "block_id",
+          "block_id": "a3fcf263-9ae4-4ebf-84aa-333d1c7269bf"
+        },
+        "created_time": "2022-09-26T18:06:00.000Z",
+        "last_edited_time": "2022-09-26T18:06:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "e137c45f-638b-4c83-a389-c666cca044a2",
+            "parent": {
+              "type": "block_id",
+              "block_id": "9e5879cb-b65b-4e64-a613-0f17c4588f75"
+            },
+            "created_time": "2022-09-26T18:05:00.000Z",
+            "last_edited_time": "2022-09-26T18:06:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "image",
+            "image": {
+              "caption": [],
+              "type": "file",
+              "file": {
+                "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/c43ba23c0de6a182.jpeg",
+                "expiry_time": "2026-03-12T09:47:16.138Z"
+              }
+            },
+            "archived": false
+          }
+        ]
+      },
+      {
+        "object": "block",
+        "id": "78f23908-4df5-4464-ae25-2d9d96f2cd7f",
+        "parent": {
+          "type": "block_id",
+          "block_id": "a3fcf263-9ae4-4ebf-84aa-333d1c7269bf"
+        },
+        "created_time": "2022-09-26T18:06:00.000Z",
+        "last_edited_time": "2022-09-26T18:06:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "88068566-b1de-42e5-8b46-87316ae877df",
+            "parent": {
+              "type": "block_id",
+              "block_id": "78f23908-4df5-4464-ae25-2d9d96f2cd7f"
+            },
+            "created_time": "2022-09-26T18:05:00.000Z",
+            "last_edited_time": "2022-09-26T18:06:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "image",
+            "image": {
+              "caption": [],
+              "type": "file",
+              "file": {
+                "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/de471f0ab44ea635.jpeg",
+                "expiry_time": "2026-03-12T09:47:13.782Z"
+              }
+            },
+            "archived": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "80ad9b46-f3c2-41d4-bfc4-56ddda092de2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "81ab4f66-7054-4f9c-b46a-657ae621bf64"
+    },
+    "created_time": "2022-09-26T17:54:00.000Z",
+    "last_edited_time": "2022-09-26T17:54:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5080f7ed-59b5-4457-9729-8da7b9c5969c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "81ab4f66-7054-4f9c-b46a-657ae621bf64"
+    },
+    "created_time": "2022-09-26T17:54:00.000Z",
+    "last_edited_time": "2022-09-26T17:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I do some writing on the bed while Jordan sleeps. At lunch we go outside and Jordan perks up a lot. She attends a meeting and I get started on the Bovineiterology blog post. We play some Sudoku and Jordan manages another meeting before a wave of nausea arrives.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I do some writing on the bed while Jordan sleeps. At lunch we go outside and Jordan perks up a lot. She attends a meeting and I get started on the Bovineiterology blog post. We play some Sudoku and Jordan manages another meeting before a wave of nausea arrives.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b5c987f6-a1ef-4175-8e75-4d460277ba91",
+    "parent": {
+      "type": "page_id",
+      "page_id": "81ab4f66-7054-4f9c-b46a-657ae621bf64"
+    },
+    "created_time": "2022-09-26T18:06:00.000Z",
+    "last_edited_time": "2022-09-26T18:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "column_list",
+    "column_list": {},
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "f816cc10-bb86-4150-a83c-c2a6d7ea7191",
+        "parent": {
+          "type": "block_id",
+          "block_id": "b5c987f6-a1ef-4175-8e75-4d460277ba91"
+        },
+        "created_time": "2022-09-26T18:06:00.000Z",
+        "last_edited_time": "2022-09-26T18:06:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "fb1f1783-eded-494e-92e7-1b8590ce739e",
+            "parent": {
+              "type": "block_id",
+              "block_id": "f816cc10-bb86-4150-a83c-c2a6d7ea7191"
+            },
+            "created_time": "2022-09-26T18:05:00.000Z",
+            "last_edited_time": "2022-09-26T18:06:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "image",
+            "image": {
+              "caption": [],
+              "type": "file",
+              "file": {
+                "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/de9919de0910f265.jpeg",
+                "expiry_time": "2026-03-12T09:47:10.926Z"
+              }
+            },
+            "archived": false
+          }
+        ]
+      },
+      {
+        "object": "block",
+        "id": "37b60afe-aef0-4a2d-a72d-ef40ea052a24",
+        "parent": {
+          "type": "block_id",
+          "block_id": "b5c987f6-a1ef-4175-8e75-4d460277ba91"
+        },
+        "created_time": "2022-09-26T18:06:00.000Z",
+        "last_edited_time": "2022-09-26T18:06:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "ba4eb400-8935-4d83-aecb-8446135e04f5",
+            "parent": {
+              "type": "block_id",
+              "block_id": "37b60afe-aef0-4a2d-a72d-ef40ea052a24"
+            },
+            "created_time": "2022-09-26T18:05:00.000Z",
+            "last_edited_time": "2022-09-26T18:06:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "image",
+            "image": {
+              "caption": [],
+              "type": "file",
+              "file": {
+                "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/e3cac9390afe63f6.jpeg",
+                "expiry_time": "2026-03-12T09:47:11.201Z"
+              }
+            },
+            "archived": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "12195cec-72d8-4f9d-a626-4adb483694c9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "81ab4f66-7054-4f9c-b46a-657ae621bf64"
+    },
+    "created_time": "2022-09-26T18:06:00.000Z",
+    "last_edited_time": "2022-09-26T18:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c7ac6636-b024-4e93-9868-04e7009e948b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "81ab4f66-7054-4f9c-b46a-657ae621bf64"
+    },
+    "created_time": "2022-09-26T17:55:00.000Z",
+    "last_edited_time": "2022-09-26T17:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We come up with the science of vomitology while staring out over the lake. Basically you vomit when the waves of nausea surpass a threshold. The amplitudes of the nausea increase at first and then slowly decrease.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We come up with the science of vomitology while staring out over the lake. Basically you vomit when the waves of nausea surpass a threshold. The amplitudes of the nausea increase at first and then slowly decrease.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8c7e49ee-eba4-41e5-b82b-7b45157c266c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "81ab4f66-7054-4f9c-b46a-657ae621bf64"
+    },
+    "created_time": "2022-09-26T18:03:00.000Z",
+    "last_edited_time": "2022-09-26T18:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1efce439-8637-48a4-b24e-5dfb52fff131",
+    "parent": {
+      "type": "page_id",
+      "page_id": "81ab4f66-7054-4f9c-b46a-657ae621bf64"
+    },
+    "created_time": "2022-09-26T18:03:00.000Z",
+    "last_edited_time": "2022-09-26T18:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/f7e3e16c5d8dee31.png",
+        "expiry_time": "2026-03-12T09:47:09.933Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0dd86cc9-2e51-4201-9747-49ba674354d0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "81ab4f66-7054-4f9c-b46a-657ae621bf64"
+    },
+    "created_time": "2022-09-26T10:25:00.000Z",
+    "last_edited_time": "2022-09-26T18:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "2dbfca44-127b-4023-b386-d61c1d5f4e1f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "81ab4f66-7054-4f9c-b46a-657ae621bf64"
+    },
+    "created_time": "2022-09-26T10:25:00.000Z",
+    "last_edited_time": "2022-09-26T18:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Jordan hits the threshold for what we think is the last time and then immediately feels great. We both eat something and then settle into bed to watch some more Community. An early night is on the cards.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Jordan hits the threshold for what we think is the last time and then immediately feels great. We both eat something and then settle into bed to watch some more Community. An early night is on the cards.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

@@ -1,0 +1,760 @@
+[
+  {
+    "object": "block",
+    "id": "cebcff67-f0a5-495d-bb2a-5f18360fcf44",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fb07b3fb-465d-42c8-8939-65f4f405b1d6"
+    },
+    "created_time": "2022-08-17T12:07:00.000Z",
+    "last_edited_time": "2022-08-17T12:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We leave Johannesburg at 5am. It’s cold and dark but the stars are shining. Jordan has a work day today and as a champion sleeper she's out before we leave the suburb. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We leave Johannesburg at 5am. It’s cold and dark but the stars are shining. Jordan has a work day today and as a champion sleeper she's out before we leave the suburb. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "259cac94-38e8-42f1-ad4d-ed0e1e34c967",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fb07b3fb-465d-42c8-8939-65f4f405b1d6"
+    },
+    "created_time": "2022-08-17T12:15:00.000Z",
+    "last_edited_time": "2022-08-17T12:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1097b529-d7c1-4001-b2e1-e9203ef3d272",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fb07b3fb-465d-42c8-8939-65f4f405b1d6"
+    },
+    "created_time": "2022-08-17T12:15:00.000Z",
+    "last_edited_time": "2022-08-17T12:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/499868c2421e06d1.jpeg",
+        "expiry_time": "2026-03-12T09:48:50.803Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0e8b6c61-5be9-495b-845c-947ec9ae1cb6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fb07b3fb-465d-42c8-8939-65f4f405b1d6"
+    },
+    "created_time": "2022-08-17T12:15:00.000Z",
+    "last_edited_time": "2022-08-17T12:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "40bdbb1a-d85c-4721-9428-8968ef1b17f8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fb07b3fb-465d-42c8-8939-65f4f405b1d6"
+    },
+    "created_time": "2022-08-17T12:14:00.000Z",
+    "last_edited_time": "2022-08-17T12:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I put on headphones and listen to some Giegling set that seems to suit the early morning drive. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I put on headphones and listen to some Giegling set that seems to suit the early morning drive. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "85f63c5c-4a4a-48f9-aaa2-3af3ba5d81a1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fb07b3fb-465d-42c8-8939-65f4f405b1d6"
+    },
+    "created_time": "2022-08-17T12:16:00.000Z",
+    "last_edited_time": "2022-08-17T12:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ce6e93c2-fca5-4617-b6d7-d89d23e7cef6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fb07b3fb-465d-42c8-8939-65f4f405b1d6"
+    },
+    "created_time": "2022-08-17T12:16:00.000Z",
+    "last_edited_time": "2022-08-17T12:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Jordan and I have a long and incredible conversation about the end of the year and what that brings, traveling together and our relationship. I will forever be grateful for our incredible communication. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Jordan and I have a long and incredible conversation about the end of the year and what that brings, traveling together and our relationship. I will forever be grateful for our incredible communication. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "427b9100-4caa-43ba-bb16-6aa43cd43cb3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fb07b3fb-465d-42c8-8939-65f4f405b1d6"
+    },
+    "created_time": "2022-08-17T12:16:00.000Z",
+    "last_edited_time": "2022-08-17T12:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "145ad5bd-05b8-4ba2-aab9-85c1a5342374",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fb07b3fb-465d-42c8-8939-65f4f405b1d6"
+    },
+    "created_time": "2022-08-17T12:16:00.000Z",
+    "last_edited_time": "2022-08-17T12:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We’re at the Little Church just after it opens for two scones and a Rooibos tea. The happiest cat in the world jumps off its chair by the fire to get some scratches. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We’re at the Little Church just after it opens for two scones and a Rooibos tea. The happiest cat in the world jumps off its chair by the fire to get some scratches. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5ff80748-2600-43fd-a121-a8796b8c2c57",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fb07b3fb-465d-42c8-8939-65f4f405b1d6"
+    },
+    "created_time": "2022-08-17T12:17:00.000Z",
+    "last_edited_time": "2022-08-17T12:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "826c676a-2d81-4689-b4ab-4780fa81e066",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fb07b3fb-465d-42c8-8939-65f4f405b1d6"
+    },
+    "created_time": "2022-08-17T12:17:00.000Z",
+    "last_edited_time": "2022-08-17T12:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We’re heading off to Mbona near Hilton where Kath is house sitting for a while and Jordan will come stay with her. I’m going to spend a few days here before heading off to east London for the run. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We’re heading off to Mbona near Hilton where Kath is house sitting for a while and Jordan will come stay with her. I’m going to spend a few days here before heading off to east London for the run. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "163f7002-dba4-4731-a09b-1499bcc3eecb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fb07b3fb-465d-42c8-8939-65f4f405b1d6"
+    },
+    "created_time": "2022-08-17T12:18:00.000Z",
+    "last_edited_time": "2022-08-17T12:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "80ef7bee-d931-4a8f-b027-2eafbf40e2d2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fb07b3fb-465d-42c8-8939-65f4f405b1d6"
+    },
+    "created_time": "2022-08-17T12:18:00.000Z",
+    "last_edited_time": "2022-08-17T12:19:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Lunch is a pumpkin seed pesto on toast with leftover cheese soufflé which is truly amazing. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Lunch is a pumpkin seed pesto on toast with leftover cheese soufflé which is truly amazing. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "71a0dbdd-39a3-48a5-b5c9-590a39bb500d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fb07b3fb-465d-42c8-8939-65f4f405b1d6"
+    },
+    "created_time": "2022-08-18T13:53:00.000Z",
+    "last_edited_time": "2022-08-18T13:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0ba6384d-0348-4b68-be7a-505f6115e3de",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fb07b3fb-465d-42c8-8939-65f4f405b1d6"
+    },
+    "created_time": "2022-08-18T13:53:00.000Z",
+    "last_edited_time": "2022-08-18T13:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I spend some time on the laptop writing the Bovineiterology, but I’m feeling tired and don’t have the spice that I need to finish it off so I don’t force it.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I spend some time on the laptop writing the Bovineiterology, but I’m feeling tired and don’t have the spice that I need to finish it off so I don’t force it.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7e24306a-d4bd-4a7b-a40f-e35418f95a77",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fb07b3fb-465d-42c8-8939-65f4f405b1d6"
+    },
+    "created_time": "2022-08-18T13:53:00.000Z",
+    "last_edited_time": "2022-08-18T13:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4847ce63-e158-4d04-be63-86117fd6a659",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fb07b3fb-465d-42c8-8939-65f4f405b1d6"
+    },
+    "created_time": "2022-08-18T13:52:00.000Z",
+    "last_edited_time": "2022-08-18T13:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/6c74b91effe7091a.jpeg",
+        "expiry_time": "2026-03-12T09:48:50.803Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d8a281bf-516e-4e74-aa5f-e4fe5fe0d032",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fb07b3fb-465d-42c8-8939-65f4f405b1d6"
+    },
+    "created_time": "2022-08-18T13:53:00.000Z",
+    "last_edited_time": "2022-08-18T13:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c7e5a8ec-4236-4c97-a954-83acddd0f347",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fb07b3fb-465d-42c8-8939-65f4f405b1d6"
+    },
+    "created_time": "2022-08-18T13:53:00.000Z",
+    "last_edited_time": "2022-08-18T13:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We make a curry for dinner that Jordan rates a 4/10 - but she’s a tough critic. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We make a curry for dinner that Jordan rates a 4/10 - but she’s a tough critic. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a065ebd3-c691-4c3f-bc51-eba13801daa3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fb07b3fb-465d-42c8-8939-65f4f405b1d6"
+    },
+    "created_time": "2022-08-18T13:52:00.000Z",
+    "last_edited_time": "2022-08-18T13:54:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/bbc81c75cc5cb935.jpeg",
+        "expiry_time": "2026-03-12T09:48:50.803Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4746882e-5619-43ed-8df3-7852fa460c5d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fb07b3fb-465d-42c8-8939-65f4f405b1d6"
+    },
+    "created_time": "2022-08-18T13:52:00.000Z",
+    "last_edited_time": "2022-08-18T14:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "video",
+    "video": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/87693a07f8466727.jpg",
+        "expiry_time": "2026-03-12T09:48:50.803Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "92a26850-9600-43f5-a87d-a34954153a73",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fb07b3fb-465d-42c8-8939-65f4f405b1d6"
+    },
+    "created_time": "2022-08-18T13:53:00.000Z",
+    "last_edited_time": "2022-08-18T13:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ca09786d-1832-4645-96cb-57b456226721",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fb07b3fb-465d-42c8-8939-65f4f405b1d6"
+    },
+    "created_time": "2022-08-18T13:53:00.000Z",
+    "last_edited_time": "2022-08-18T13:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

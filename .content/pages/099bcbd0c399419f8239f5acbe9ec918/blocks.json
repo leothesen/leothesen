@@ -1,0 +1,1138 @@
+[
+  {
+    "object": "block",
+    "id": "6a315f0d-4c08-456b-80ab-03e185581999",
+    "parent": {
+      "type": "page_id",
+      "page_id": "099bcbd0-c399-419f-8239-f5acbe9ec918"
+    },
+    "created_time": "2023-10-06T09:55:00.000Z",
+    "last_edited_time": "2023-10-06T09:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "So I was writing some Python for the first time in a few years, and wasn’t filled with confidence that I was producing code of sufficient quality. ChatGPT to the rescue.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "So I was writing some Python for the first time in a few years, and wasn’t filled with confidence that I was producing code of sufficient quality. ChatGPT to the rescue.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "683127ef-b3f5-4d9f-8477-38f0004bdbad",
+    "parent": {
+      "type": "page_id",
+      "page_id": "099bcbd0-c399-419f-8239-f5acbe9ec918"
+    },
+    "created_time": "2023-10-06T09:56:00.000Z",
+    "last_edited_time": "2023-10-06T09:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a4cc0b84-0b6a-42d9-8ad3-1f03dfeaa5a7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "099bcbd0-c399-419f-8239-f5acbe9ec918"
+    },
+    "created_time": "2023-10-06T09:55:00.000Z",
+    "last_edited_time": "2023-10-06T09:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I'm not going to go into the details about the work too much, but basically I had to create a validation class that would iterate through all the rows in the current bill of materials (BoM) and perform ask the AI to make sure that the variant commodity links make sense (eg: that the steering wheel isn't part of the window grouping).",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I'm not going to go into the details about the work too much, but basically I had to create a validation class that would iterate through all the rows in the current bill of materials (BoM) and perform ask the AI to make sure that the variant commodity links make sense (eg: that the steering wheel isn't part of the window grouping).",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "90c9d9f3-ec8b-4931-8f63-01c40c2dd406",
+    "parent": {
+      "type": "page_id",
+      "page_id": "099bcbd0-c399-419f-8239-f5acbe9ec918"
+    },
+    "created_time": "2023-10-06T09:55:00.000Z",
+    "last_edited_time": "2023-10-06T10:02:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_1",
+    "heading_1": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "👩‍💻 Rough workflow:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "👩‍💻 Rough workflow:",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a7f9e5c4-4cc7-4909-bb41-4a7baf36646b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "099bcbd0-c399-419f-8239-f5acbe9ec918"
+    },
+    "created_time": "2023-10-06T09:56:00.000Z",
+    "last_edited_time": "2023-10-06T09:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Create basic file and structure",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Create basic file and structure",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0f5f75eb-1a5f-4c1d-bbee-87e56906a23d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "099bcbd0-c399-419f-8239-f5acbe9ec918"
+    },
+    "created_time": "2023-10-06T09:56:00.000Z",
+    "last_edited_time": "2023-10-06T09:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Commit 📥",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Commit 📥",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f291688f-ab2e-49bb-85e5-1650c8d94ee3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "099bcbd0-c399-419f-8239-f5acbe9ec918"
+    },
+    "created_time": "2023-10-06T09:56:00.000Z",
+    "last_edited_time": "2023-10-06T09:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Add dummy call to the database to check that I could create an issue",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Add dummy call to the database to check that I could create an issue",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "32158526-f42a-4e0f-8364-0e2ab83f8ea8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "099bcbd0-c399-419f-8239-f5acbe9ec918"
+    },
+    "created_time": "2023-10-06T09:56:00.000Z",
+    "last_edited_time": "2023-10-06T09:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Commit 📥",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Commit 📥",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7da4c62c-fa7f-44ec-97e4-dd1dec6d8639",
+    "parent": {
+      "type": "page_id",
+      "page_id": "099bcbd0-c399-419f-8239-f5acbe9ec918"
+    },
+    "created_time": "2023-10-06T09:56:00.000Z",
+    "last_edited_time": "2023-10-06T09:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Get the current BoM and create a loop to go through each row",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Get the current BoM and create a loop to go through each row",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e119ae2e-a708-40db-9028-2d0a3a83e836",
+    "parent": {
+      "type": "page_id",
+      "page_id": "099bcbd0-c399-419f-8239-f5acbe9ec918"
+    },
+    "created_time": "2023-10-06T09:56:00.000Z",
+    "last_edited_time": "2023-10-06T09:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Commit 📥",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Commit 📥",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8aec5c66-ad9c-4215-a773-7c88353eb6fb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "099bcbd0-c399-419f-8239-f5acbe9ec918"
+    },
+    "created_time": "2023-10-06T09:56:00.000Z",
+    "last_edited_time": "2023-10-06T09:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Create a prompt template and send the current row to ChatGPT to validate the commodity links",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Create a prompt template and send the current row to ChatGPT to validate the commodity links",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c4a5e086-d2f4-4154-b69f-f376df336e1b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "099bcbd0-c399-419f-8239-f5acbe9ec918"
+    },
+    "created_time": "2023-10-06T09:56:00.000Z",
+    "last_edited_time": "2023-10-06T09:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Commit 📥",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Commit 📥",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d92047bb-6966-46d3-b26e-5d94ddae60b6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "099bcbd0-c399-419f-8239-f5acbe9ec918"
+    },
+    "created_time": "2023-10-06T09:56:00.000Z",
+    "last_edited_time": "2023-10-06T09:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Tie up all the pieces by getting ChatGPT to return an expected Python dictionary, and save that issue to the database with a suggestion from the AI",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Tie up all the pieces by getting ChatGPT to return an expected Python dictionary, and save that issue to the database with a suggestion from the AI",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8a0ab93c-9387-431e-8d34-0aca96816859",
+    "parent": {
+      "type": "page_id",
+      "page_id": "099bcbd0-c399-419f-8239-f5acbe9ec918"
+    },
+    "created_time": "2023-10-06T09:56:00.000Z",
+    "last_edited_time": "2023-10-06T09:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Commit 📥",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Commit 📥",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1bd4cc2d-1330-4040-b896-3cce27cd0d25",
+    "parent": {
+      "type": "page_id",
+      "page_id": "099bcbd0-c399-419f-8239-f5acbe9ec918"
+    },
+    "created_time": "2023-10-06T09:56:00.000Z",
+    "last_edited_time": "2023-10-06T09:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "This was the important step",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "This was the important step",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ". I was basically done at this point. But my code looked like it was written by someone who hadn't written Python code in two years 👀. I made a request to ChatGPT (using GPT4) and it honestly did a refactor better than anything that I could have imagined. The functionality was unchanged, but the structure, documentation, organisation and modularity of the class was - if I say so myself - pretty superb.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ". I was basically done at this point. But my code looked like it was written by someone who hadn't written Python code in two years 👀. I made a request to ChatGPT (using GPT4) and it honestly did a refactor better than anything that I could have imagined. The functionality was unchanged, but the structure, documentation, organisation and modularity of the class was - if I say so myself - pretty superb.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "01bd59ea-bdff-4980-b438-a458c9efac28",
+    "parent": {
+      "type": "page_id",
+      "page_id": "099bcbd0-c399-419f-8239-f5acbe9ec918"
+    },
+    "created_time": "2023-10-06T09:59:00.000Z",
+    "last_edited_time": "2023-10-06T09:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "08a6ee26-8f96-4bfa-9c91-c8ffcb61b93e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "099bcbd0-c399-419f-8239-f5acbe9ec918"
+    },
+    "created_time": "2023-10-06T09:59:00.000Z",
+    "last_edited_time": "2023-10-06T09:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The prompt I used was:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The prompt I used was:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "cbde7100-ace2-4ce8-82b8-40100f72ee5b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "099bcbd0-c399-419f-8239-f5acbe9ec918"
+    },
+    "created_time": "2023-10-06T09:59:00.000Z",
+    "last_edited_time": "2023-10-06T15:48:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "code",
+    "code": {
+      "caption": [],
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I have the following python file:\n```py\n# Insert the whole Python file here\n```\n\nYou are an expert software developer specilising in Python. \nPlease refector and cleanup the Python file above ensuring that you do the following:\n- Make the code more professional\n- Make the code more modular\n- Make variable and function names more descriptive\n- Ensure that the code is human readable ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I have the following python file:\n```py\n# Insert the whole Python file here\n```\n\nYou are an expert software developer specilising in Python. \nPlease refector and cleanup the Python file above ensuring that you do the following:\n- Make the code more professional\n- Make the code more modular\n- Make variable and function names more descriptive\n- Ensure that the code is human readable ",
+          "href": null
+        }
+      ],
+      "language": "markdown"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "beef608a-10d2-4467-96c1-803d876b2335",
+    "parent": {
+      "type": "page_id",
+      "page_id": "099bcbd0-c399-419f-8239-f5acbe9ec918"
+    },
+    "created_time": "2023-10-06T09:59:00.000Z",
+    "last_edited_time": "2023-10-06T10:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The result was amazing ⭐",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The result was amazing ⭐",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a6aa444b-74fe-40e1-873b-e82a987f9088",
+    "parent": {
+      "type": "page_id",
+      "page_id": "099bcbd0-c399-419f-8239-f5acbe9ec918"
+    },
+    "created_time": "2023-10-06T09:59:00.000Z",
+    "last_edited_time": "2023-10-06T09:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "25b9f9c6-9d56-4236-974e-bbf32a7f1c0c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "099bcbd0-c399-419f-8239-f5acbe9ec918"
+    },
+    "created_time": "2023-10-06T09:57:00.000Z",
+    "last_edited_time": "2023-10-06T09:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Commit 📥",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Commit 📥",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f169a2e6-35db-4f03-a87c-e9c32b1f1efe",
+    "parent": {
+      "type": "page_id",
+      "page_id": "099bcbd0-c399-419f-8239-f5acbe9ec918"
+    },
+    "created_time": "2023-10-06T09:57:00.000Z",
+    "last_edited_time": "2023-10-06T09:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Create a PR 💌",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Create a PR 💌",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "879c4300-c05f-480c-bca8-e7c872faeb05",
+    "parent": {
+      "type": "page_id",
+      "page_id": "099bcbd0-c399-419f-8239-f5acbe9ec918"
+    },
+    "created_time": "2023-10-06T10:01:00.000Z",
+    "last_edited_time": "2023-10-06T10:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Enjoy the lack of doubt that I now have in my life, knowing that I can say that I’m a professional Python engineer once again (well, kind of) 🥲",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Enjoy the lack of doubt that I now have in my life, knowing that I can say that I’m a professional Python engineer once again (well, kind of) 🥲",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5916ebf7-e59b-45f9-a563-3bb74325605f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "099bcbd0-c399-419f-8239-f5acbe9ec918"
+    },
+    "created_time": "2023-10-06T09:57:00.000Z",
+    "last_edited_time": "2023-10-06T09:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5f824673-07c3-48ac-8046-7023efaef2da",
+    "parent": {
+      "type": "page_id",
+      "page_id": "099bcbd0-c399-419f-8239-f5acbe9ec918"
+    },
+    "created_time": "2023-10-06T09:55:00.000Z",
+    "last_edited_time": "2023-10-06T10:02:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_1",
+    "heading_1": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "🥡 Takeaways",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "🥡 Takeaways",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5aac7fa1-3644-4af5-947a-89080d42cd34",
+    "parent": {
+      "type": "page_id",
+      "page_id": "099bcbd0-c399-419f-8239-f5acbe9ec918"
+    },
+    "created_time": "2023-10-06T09:58:00.000Z",
+    "last_edited_time": "2023-10-06T09:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Commit often, every time that you've added value to the codebase and have a working application. It's basically a snapshot in time of a working version of the application. Think of it as a \"save game\" that you can fall back to if you make a mistake and lose against the boss.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Commit often, every time that you've added value to the codebase and have a working application. It's basically a snapshot in time of a working version of the application. Think of it as a \"save game\" that you can fall back to if you make a mistake and lose against the boss.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4f6c03d5-6439-443f-adbc-3222b82b4248",
+    "parent": {
+      "type": "page_id",
+      "page_id": "099bcbd0-c399-419f-8239-f5acbe9ec918"
+    },
+    "created_time": "2023-10-06T09:58:00.000Z",
+    "last_edited_time": "2023-10-06T09:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "\nIt takes five minutes to get an omniscient AI to perform a refactor, clean up and even add performance improvements to your code that make you look like a veteran of the industry. You performed the hard part, solving the problem; use the tools at your disposal to do the time consuming pieces.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "\nIt takes five minutes to get an omniscient AI to perform a refactor, clean up and even add performance improvements to your code that make you look like a veteran of the industry. You performed the hard part, solving the problem; use the tools at your disposal to do the time consuming pieces.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

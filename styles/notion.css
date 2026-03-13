@@ -44,12 +44,14 @@
   transition: transform 300ms ease;
 }
 
-.notion-header.notion-header-hidden {
-  transform: translateY(-100%);
+@media (max-width: 768px) {
+  .notion-header.notion-header-hidden {
+    transform: translateY(-100%);
+  }
 }
 
 .dark .notion-header {
-  background: transparent;
+  background: hsla(203, 8%, 20%, 0.8);
   box-shadow: inset 0 -1px 0 0 rgba(0, 0, 0, 0.1);
   backdrop-filter: saturate(180%) blur(8px);
 }
@@ -104,10 +106,15 @@
   cursor: pointer;
   font-size: 14px;
   padding: 4px 8px;
+  background: rgba(55, 53, 47, 0.06);
   border-radius: 4px;
   transition: background 100ms ease-out;
   display: inline-flex;
   align-items: center;
+}
+
+.dark .breadcrumb.button {
+  background: rgba(255, 255, 255, 0.06);
 }
 
 .breadcrumb.button:hover {
@@ -149,6 +156,12 @@
   width: 100%;
   height: 30vh;
   object-fit: cover;
+  transition: filter 0.4s ease-out, opacity 0.4s ease-out;
+}
+
+.notion-page-cover.notion-image-loading {
+  filter: blur(20px);
+  opacity: 0.6;
 }
 
 .notion-page-content {
@@ -170,6 +183,12 @@
   border-radius: 50%;
   box-shadow: 0 8px 40px 0 rgb(0 0 0 / 21%);
   object-fit: cover;
+  transition: filter 0.4s ease-out, opacity 0.4s ease-out;
+}
+
+.notion-page-icon-image.notion-image-loading {
+  filter: blur(20px);
+  opacity: 0.6;
 }
 
 .notion-page-icon-emoji {
@@ -441,6 +460,12 @@
   width: 100%;
   height: auto;
   border-radius: 4px;
+  transition: filter 0.4s ease-out, opacity 0.4s ease-out;
+}
+
+.notion-image-wrapper img.notion-image-loading {
+  filter: blur(20px);
+  opacity: 0.6;
 }
 
 .notion-asset-caption {
@@ -451,7 +476,7 @@
 }
 
 /* Video */
-.notion-asset-wrapper-video > div,
+.notion-asset-wrapper-video>div,
 .notion-asset-wrapper-video video {
   width: 100% !important;
 }
@@ -655,10 +680,17 @@ th.notion-table-cell {
 }
 
 .notion-collection-card-cover img {
+  display: block;
   width: 100%;
   height: 200px;
   object-fit: cover;
   border-radius: 5px;
+  transition: filter 0.4s ease-out, opacity 0.4s ease-out;
+}
+
+.notion-collection-card-cover img.notion-image-loading {
+  filter: blur(20px);
+  opacity: 0.6;
 }
 
 .notion-collection-card-body {
@@ -683,45 +715,149 @@ th.notion-table-cell {
 }
 
 /* Color classes */
-.notion-color-gray { color: #9b9a97; }
-.notion-color-brown { color: #64473a; }
-.notion-color-orange { color: #d9730d; }
-.notion-color-yellow { color: #dfab01; }
-.notion-color-green { color: #0f7b6c; }
-.notion-color-blue { color: #0b6e99; }
-.notion-color-purple { color: #6940a5; }
-.notion-color-pink { color: #ad1a72; }
-.notion-color-red { color: #e03e3e; }
+.notion-color-gray {
+  color: #9b9a97;
+}
 
-.notion-color-gray_background { background: #ebeced; }
-.notion-color-brown_background { background: #e9e5e3; }
-.notion-color-orange_background { background: #faebdd; }
-.notion-color-yellow_background { background: #fbf3db; }
-.notion-color-green_background { background: #ddedea; }
-.notion-color-blue_background { background: #ddebf1; }
-.notion-color-purple_background { background: #eae4f2; }
-.notion-color-pink_background { background: #f4dfeb; }
-.notion-color-red_background { background: #fbe4e4; }
+.notion-color-brown {
+  color: #64473a;
+}
 
-.dark .notion-color-gray { color: #979a9b; }
-.dark .notion-color-brown { color: #937264; }
-.dark .notion-color-orange { color: #ffa344; }
-.dark .notion-color-yellow { color: #ffdc49; }
-.dark .notion-color-green { color: #4dab9a; }
-.dark .notion-color-blue { color: #529cca; }
-.dark .notion-color-purple { color: #9a6dd7; }
-.dark .notion-color-pink { color: #e255a1; }
-.dark .notion-color-red { color: #ff7369; }
+.notion-color-orange {
+  color: #d9730d;
+}
 
-.dark .notion-color-gray_background { background: #454b4e; }
-.dark .notion-color-brown_background { background: #434040; }
-.dark .notion-color-orange_background { background: #594a3a; }
-.dark .notion-color-yellow_background { background: #59563b; }
-.dark .notion-color-green_background { background: #354c4b; }
-.dark .notion-color-blue_background { background: #364954; }
-.dark .notion-color-purple_background { background: #443f57; }
-.dark .notion-color-pink_background { background: #533b4c; }
-.dark .notion-color-red_background { background: #594141; }
+.notion-color-yellow {
+  color: #dfab01;
+}
+
+.notion-color-green {
+  color: #0f7b6c;
+}
+
+.notion-color-blue {
+  color: #0b6e99;
+}
+
+.notion-color-purple {
+  color: #6940a5;
+}
+
+.notion-color-pink {
+  color: #ad1a72;
+}
+
+.notion-color-red {
+  color: #e03e3e;
+}
+
+.notion-color-gray_background {
+  background: #ebeced;
+}
+
+.notion-color-brown_background {
+  background: #e9e5e3;
+}
+
+.notion-color-orange_background {
+  background: #faebdd;
+}
+
+.notion-color-yellow_background {
+  background: #fbf3db;
+}
+
+.notion-color-green_background {
+  background: #ddedea;
+}
+
+.notion-color-blue_background {
+  background: #ddebf1;
+}
+
+.notion-color-purple_background {
+  background: #eae4f2;
+}
+
+.notion-color-pink_background {
+  background: #f4dfeb;
+}
+
+.notion-color-red_background {
+  background: #fbe4e4;
+}
+
+.dark .notion-color-gray {
+  color: #979a9b;
+}
+
+.dark .notion-color-brown {
+  color: #937264;
+}
+
+.dark .notion-color-orange {
+  color: #ffa344;
+}
+
+.dark .notion-color-yellow {
+  color: #ffdc49;
+}
+
+.dark .notion-color-green {
+  color: #4dab9a;
+}
+
+.dark .notion-color-blue {
+  color: #529cca;
+}
+
+.dark .notion-color-purple {
+  color: #9a6dd7;
+}
+
+.dark .notion-color-pink {
+  color: #e255a1;
+}
+
+.dark .notion-color-red {
+  color: #ff7369;
+}
+
+.dark .notion-color-gray_background {
+  background: #454b4e;
+}
+
+.dark .notion-color-brown_background {
+  background: #434040;
+}
+
+.dark .notion-color-orange_background {
+  background: #594a3a;
+}
+
+.dark .notion-color-yellow_background {
+  background: #59563b;
+}
+
+.dark .notion-color-green_background {
+  background: #354c4b;
+}
+
+.dark .notion-color-blue_background {
+  background: #364954;
+}
+
+.dark .notion-color-purple_background {
+  background: #443f57;
+}
+
+.dark .notion-color-pink_background {
+  background: #533b4c;
+}
+
+.dark .notion-color-red_background {
+  background: #594141;
+}
 
 /* Breadcrumbs */
 .breadcrumbs {

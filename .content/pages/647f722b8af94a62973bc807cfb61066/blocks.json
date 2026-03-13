@@ -1,0 +1,1372 @@
+[
+  {
+    "object": "block",
+    "id": "32c79e88-4fde-41ce-814e-8f2c14dfe987",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-07T18:10:00.000Z",
+    "last_edited_time": "2022-09-07T18:11:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I’ve got an early alarm set just incase there are waves this morning. I take a walk down to the point with a coffee and am greeted by small waves and hundreds of dolphins. I spend a little while down there taking it all in.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I’ve got an early alarm set just incase there are waves this morning. I take a walk down to the point with a coffee and am greeted by small waves and hundreds of dolphins. I spend a little while down there taking it all in.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "af98dcef-97fe-480d-8193-fa12e617f6f8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-07T18:11:00.000Z",
+    "last_edited_time": "2022-09-07T18:11:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ee89b564-4957-46be-a38b-d4def52b866b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-07T18:11:00.000Z",
+    "last_edited_time": "2022-09-07T18:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Philen is in the kitchen making breakfast, we get talking. He tells me about the car accident that he was in that led to him being in a coma. His lost of smell is the only thing that wasn’t able to be healed. It started quite a journey for him. He’s written a book called “My Africa”.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Philen is in the kitchen making breakfast, we get talking. He tells me about the car accident that he was in that led to him being in a coma. His lost of smell is the only thing that wasn’t able to be healed. It started quite a journey for him. He’s written a book called “My Africa”.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b46514dd-4c35-4ee3-b209-1b0c890de9e9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-07T18:13:00.000Z",
+    "last_edited_time": "2022-09-07T18:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7add5e42-e14b-4c08-8b1f-ff04ddf65391",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-07T18:13:00.000Z",
+    "last_edited_time": "2022-09-07T18:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "As per usual it takes me ages to pack and and leave. At around 9:30am I’ve managed to say goodbye to everyone three times and I think that it’s time to go. Philen and I get in the car - I’m going to be dropping him in town - and get chatting again.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "As per usual it takes me ages to pack and and leave. At around 9:30am I’ve managed to say goodbye to everyone three times and I think that it’s time to go. Philen and I get in the car - I’m going to be dropping him in town - and get chatting again.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0bad402d-4d99-4952-84e7-9f49dfba2dea",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-07T18:14:00.000Z",
+    "last_edited_time": "2022-09-07T18:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "2ab92e4e-0dcd-4eeb-8902-aabfc5ac1a3e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-07T18:14:00.000Z",
+    "last_edited_time": "2022-09-07T18:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I enjoy speaking to him, he’s got a huge amount of lived experience throughout many cultures and places. I ask him questions that I have had on the topic of free will and he answers them beautifully. Just as I get to the real crux of the questions that I’ve been wanting to ask him, I realise that we have a flat tyre. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I enjoy speaking to him, he’s got a huge amount of lived experience throughout many cultures and places. I ask him questions that I have had on the topic of free will and he answers them beautifully. Just as I get to the real crux of the questions that I’ve been wanting to ask him, I realise that we have a flat tyre. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "de8bb8b1-eb79-4fa7-a5bb-6f71d96103fa",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-07T18:15:00.000Z",
+    "last_edited_time": "2022-09-07T18:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c5008007-fb84-45c5-9508-688c5c329509",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-07T18:15:00.000Z",
+    "last_edited_time": "2022-09-07T18:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I am proud of my reaction to this situation and really take it in my stride. As continue the conversation, but it loses some of its energy. I tell Philen that my number one rule of changing a tyre is to eat first, and then immediately break it and dive right in.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I am proud of my reaction to this situation and really take it in my stride. As continue the conversation, but it loses some of its energy. I tell Philen that my number one rule of changing a tyre is to eat first, and then immediately break it and dive right in.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "df84356d-a30a-405c-808e-277e5252712a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-08T08:47:00.000Z",
+    "last_edited_time": "2022-09-08T08:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "31eafe7b-1c8a-4b9a-9032-4721de1da614",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-08T08:42:00.000Z",
+    "last_edited_time": "2022-09-08T08:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/aee3cc47cf15be5b.jpeg",
+        "expiry_time": "2026-03-12T09:46:50.069Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ff13faec-2ce6-416a-a7df-9b37427adf33",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-07T18:16:00.000Z",
+    "last_edited_time": "2022-09-07T18:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e111bedc-4d97-4723-a16d-c010c2129e0a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-07T18:16:00.000Z",
+    "last_edited_time": "2022-09-07T18:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We get the bolts off but the wheel won’t budge. We erroneously think that a central threaded nut is holding on the wheel and then think that we’re going to go into town to get a roughly 30mm spanner. Philen hails a car and hops in, promising to be back soon with a plan. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We get the bolts off but the wheel won’t budge. We erroneously think that a central threaded nut is holding on the wheel and then think that we’re going to go into town to get a roughly 30mm spanner. Philen hails a car and hops in, promising to be back soon with a plan. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "2049d602-1607-47be-94c9-af1eb9b26339",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-07T18:17:00.000Z",
+    "last_edited_time": "2022-09-07T18:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7e50cd6e-3e2c-49d1-ace0-b70ced45c3cb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-07T18:17:00.000Z",
+    "last_edited_time": "2022-09-07T18:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Shortly after that the classic three men in a bakkie full of tools drive past. They manage to remove the nut only to realise that it’s not holding on the wheel. We kind of laugh and grimace together. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Shortly after that the classic three men in a bakkie full of tools drive past. They manage to remove the nut only to realise that it’s not holding on the wheel. We kind of laugh and grimace together. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "cf99f485-1793-4d45-97a8-550d7725b20a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-07T18:17:00.000Z",
+    "last_edited_time": "2022-09-07T18:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3d7b1576-d1e7-430d-bb5b-e5b758ad0787",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-07T18:17:00.000Z",
+    "last_edited_time": "2022-09-07T18:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I give Philen a call - thanking him and telling him that I’m all good and off to fix the tyre. I head down the road but none of the tyre repair places fill me with confidence. I push on a bit further and then just before the N2 is a reputable looking place. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I give Philen a call - thanking him and telling him that I’m all good and off to fix the tyre. I head down the road but none of the tyre repair places fill me with confidence. I push on a bit further and then just before the N2 is a reputable looking place. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "45507c0d-3177-47c4-b600-5f76f0208aee",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-07T18:18:00.000Z",
+    "last_edited_time": "2022-09-07T18:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "df642a6a-fca0-4527-a586-0cd9ec7dc49d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-07T18:18:00.000Z",
+    "last_edited_time": "2022-09-07T18:19:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The staff are lots of fun and we get chatting quickly. They show me how to find the whole and replace the tyre. Not that I would ever be able to do it myself without their massive air compressor and fancy machines. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The staff are lots of fun and we get chatting quickly. They show me how to find the whole and replace the tyre. Not that I would ever be able to do it myself without their massive air compressor and fancy machines. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d300f803-802e-4a3d-829d-b46be3f77148",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-08T08:47:00.000Z",
+    "last_edited_time": "2022-09-08T08:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6b1d8460-054d-402a-9b68-1ef4a62827c2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-08T08:47:00.000Z",
+    "last_edited_time": "2022-09-08T08:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "column_list",
+    "column_list": {},
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "d1f4c104-61d8-4feb-aed0-bd6fbb4aba61",
+        "parent": {
+          "type": "block_id",
+          "block_id": "6b1d8460-054d-402a-9b68-1ef4a62827c2"
+        },
+        "created_time": "2022-09-08T08:47:00.000Z",
+        "last_edited_time": "2022-09-08T08:47:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "59e71e79-8dbb-43dc-ac29-a92ad3e00570",
+            "parent": {
+              "type": "block_id",
+              "block_id": "d1f4c104-61d8-4feb-aed0-bd6fbb4aba61"
+            },
+            "created_time": "2022-09-08T08:42:00.000Z",
+            "last_edited_time": "2022-09-08T08:47:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "image",
+            "image": {
+              "caption": [],
+              "type": "file",
+              "file": {
+                "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/4499be7d90fc9a23.jpeg",
+                "expiry_time": "2026-03-12T09:46:51.278Z"
+              }
+            },
+            "archived": false
+          }
+        ]
+      },
+      {
+        "object": "block",
+        "id": "d88acd6c-f5f4-41fa-b99b-46f01740ea21",
+        "parent": {
+          "type": "block_id",
+          "block_id": "6b1d8460-054d-402a-9b68-1ef4a62827c2"
+        },
+        "created_time": "2022-09-08T08:47:00.000Z",
+        "last_edited_time": "2022-09-08T08:47:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "01e73119-0b21-4aca-8187-80b94bad9fce",
+            "parent": {
+              "type": "block_id",
+              "block_id": "d88acd6c-f5f4-41fa-b99b-46f01740ea21"
+            },
+            "created_time": "2022-09-08T08:42:00.000Z",
+            "last_edited_time": "2022-09-08T08:47:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "image",
+            "image": {
+              "caption": [],
+              "type": "file",
+              "file": {
+                "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/77a36101782f1819.jpeg",
+                "expiry_time": "2026-03-12T09:46:51.291Z"
+              }
+            },
+            "archived": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "bf348c21-a4a7-427f-af9a-dac2eebb7570",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-07T18:19:00.000Z",
+    "last_edited_time": "2022-09-07T18:19:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3e645872-456a-4d9a-890f-ba0801f9403b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-07T18:19:00.000Z",
+    "last_edited_time": "2022-09-07T18:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "There’s one classic drunk guy outside who takes a liking to me. He repeats my name consistently for about five minutes at a time and then promptly forgets it. He slurs a lot, so I didn’t get all the words from his stories, but if my suspicions are correct he had a wild time with his boss in Cape Town many years ago. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "There’s one classic drunk guy outside who takes a liking to me. He repeats my name consistently for about five minutes at a time and then promptly forgets it. He slurs a lot, so I didn’t get all the words from his stories, but if my suspicions are correct he had a wild time with his boss in Cape Town many years ago. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "cc37677e-cab6-4248-9f6c-65f2d50b5956",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-07T18:21:00.000Z",
+    "last_edited_time": "2022-09-07T18:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "fb291fd7-cb32-4cbe-9e85-f348c4c5a1d3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-07T18:21:00.000Z",
+    "last_edited_time": "2022-09-07T18:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Tyre is good. Spare is back under the car and I’m on the road. I listen to music happily for a while until Clair de Lune comes on, and it has a very faint Allan Watts monolog in the background. So I immediately pause the song and put on Allan Watts. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Tyre is good. Spare is back under the car and I’m on the road. I listen to music happily for a while until Clair de Lune comes on, and it has a very faint Allan Watts monolog in the background. So I immediately pause the song and put on Allan Watts. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9494b547-08dd-4047-ab37-e17d3970ac69",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-07T18:22:00.000Z",
+    "last_edited_time": "2022-09-07T18:22:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8bae43f7-727d-4ace-a018-bbd037f90f3c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-07T18:22:00.000Z",
+    "last_edited_time": "2022-09-07T18:25:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I’m driving through some absolutely chaotic Eastern Cape Town. Google suggested a detour around the main road but I kind of wanted to see what it would be like. Throngs of people emerge from shops and markets and move through the cars. The cars seem to move around the people actually. Walking is faster than driving. Cars hoot. People do U-turns, and then I see them doing another U-turn 20m later. Music blares from taxis. There are dogs, goats and a cow or two amongst it all. Then there’s this pale white dude driving a car with a surfboard on top listening to Allan Watts on full volume with the window down smoking a cigarette. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I’m driving through some absolutely chaotic Eastern Cape Town. Google suggested a detour around the main road but I kind of wanted to see what it would be like. Throngs of people emerge from shops and markets and move through the cars. The cars seem to move around the people actually. Walking is faster than driving. Cars hoot. People do U-turns, and then I see them doing another U-turn 20m later. Music blares from taxis. There are dogs, goats and a cow or two amongst it all. Then there’s this pale white dude driving a car with a surfboard on top listening to Allan Watts on full volume with the window down smoking a cigarette. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "303281dc-402c-4ffa-8432-2623e1291cc9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-07T18:25:00.000Z",
+    "last_edited_time": "2022-09-07T18:25:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "cd082b60-52a2-4932-b202-17cf827e9721",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-07T18:25:00.000Z",
+    "last_edited_time": "2022-09-07T18:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "To make the whole situation more absurd; the content of Alan’s talk was on embracing the chaos and disorder that is life - I can safely say that I understood what he was saying in that moment. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "To make the whole situation more absurd; the content of Alan’s talk was on embracing the chaos and disorder that is life - I can safely say that I understood what he was saying in that moment. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "046eeb50-ef35-43ad-ad21-278dbe8a06b9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-08T08:48:00.000Z",
+    "last_edited_time": "2022-09-08T08:48:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1f61f05f-f335-457a-b7e3-7033761c17d6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-08T08:48:00.000Z",
+    "last_edited_time": "2022-09-08T08:48:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "column_list",
+    "column_list": {},
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "6e7bba02-6e0d-47e5-8029-ccaaf0a65376",
+        "parent": {
+          "type": "block_id",
+          "block_id": "1f61f05f-f335-457a-b7e3-7033761c17d6"
+        },
+        "created_time": "2022-09-08T08:48:00.000Z",
+        "last_edited_time": "2022-09-08T08:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "a2fd2e49-9afc-4e8d-91b4-d7d89b2554a5",
+            "parent": {
+              "type": "block_id",
+              "block_id": "6e7bba02-6e0d-47e5-8029-ccaaf0a65376"
+            },
+            "created_time": "2022-09-08T08:42:00.000Z",
+            "last_edited_time": "2022-09-08T08:48:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "image",
+            "image": {
+              "caption": [],
+              "type": "file",
+              "file": {
+                "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/fe6918ed30d7ba77.jpeg",
+                "expiry_time": "2026-03-12T09:46:51.345Z"
+              }
+            },
+            "archived": false
+          }
+        ]
+      },
+      {
+        "object": "block",
+        "id": "9e59ecd9-ec6f-4274-bb8c-8b1eb359af7c",
+        "parent": {
+          "type": "block_id",
+          "block_id": "1f61f05f-f335-457a-b7e3-7033761c17d6"
+        },
+        "created_time": "2022-09-08T08:48:00.000Z",
+        "last_edited_time": "2022-09-08T08:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "9d5948f6-888e-452f-8079-7181997d232c",
+            "parent": {
+              "type": "block_id",
+              "block_id": "9e59ecd9-ec6f-4274-bb8c-8b1eb359af7c"
+            },
+            "created_time": "2022-09-08T08:42:00.000Z",
+            "last_edited_time": "2022-09-08T08:48:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "image",
+            "image": {
+              "caption": [],
+              "type": "file",
+              "file": {
+                "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/d3c81f1b81e40d8b.jpeg",
+                "expiry_time": "2026-03-12T09:46:51.417Z"
+              }
+            },
+            "archived": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "ba4c9128-02ec-4d16-9b45-b8d835305a18",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-07T18:29:00.000Z",
+    "last_edited_time": "2022-09-07T18:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5ecda262-6044-463c-b03c-5535ceffb375",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-07T18:29:00.000Z",
+    "last_edited_time": "2022-09-07T18:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The rest of the drive was less eventful. Plus I’m tired now and don’t really care much for describing the beautiful roads, ever growing mountains and their gravitational pull, remarkably good quality roads for KZN and my arrival at Khotso in the dark to be welcomed by the cutest and fluffiest cat that seems that have taken a fancy for me. Goodnight!",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The rest of the drive was less eventful. Plus I’m tired now and don’t really care much for describing the beautiful roads, ever growing mountains and their gravitational pull, remarkably good quality roads for KZN and my arrival at Khotso in the dark to be welcomed by the cutest and fluffiest cat that seems that have taken a fancy for me. Goodnight!",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e3e6b9ed-326e-40cd-9b4f-4fa50320197e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "647f722b-8af9-4a62-973b-c807cfb61066"
+    },
+    "created_time": "2022-09-08T08:42:00.000Z",
+    "last_edited_time": "2022-09-08T08:48:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/1ea7df2c94750b30.jpeg",
+        "expiry_time": "2026-03-12T09:46:50.280Z"
+      }
+    },
+    "archived": false
+  }
+]

@@ -1,0 +1,193 @@
+[
+  {
+    "object": "block",
+    "id": "f4ebe0bc-efe4-4587-a331-6e084f9881a3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "4284d2da-051a-4deb-9f13-26c38001c315"
+    },
+    "created_time": "2023-10-06T09:31:00.000Z",
+    "last_edited_time": "2023-10-06T09:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I’ve decided to lean into the LLM life, but take it all with a pinch of 🧂. This means ChatGPT Plus, Github Copilot, Notion AI (to a lesser degree) and all the wonderful text to image tools out there. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I’ve decided to lean into the LLM life, but take it all with a pinch of 🧂. This means ChatGPT Plus, Github Copilot, Notion AI (to a lesser degree) and all the wonderful text to image tools out there. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3b1f1337-9197-47d3-8da8-fb8f69e2898d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "4284d2da-051a-4deb-9f13-26c38001c315"
+    },
+    "created_time": "2023-10-06T09:36:00.000Z",
+    "last_edited_time": "2023-10-06T09:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "feb6df35-81e8-4479-98f8-abfbae9ab71b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "4284d2da-051a-4deb-9f13-26c38001c315"
+    },
+    "created_time": "2023-10-06T09:36:00.000Z",
+    "last_edited_time": "2023-10-06T10:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "There’s a lot of wheel spinning out there - tools that seem flashy and helpful, but when used once are never picked up again. I aspire to keep this blog post up to date with the tools or features that I found really helpful, or use repeatedly. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "There’s a lot of wheel spinning out there - tools that seem flashy and helpful, but when used once are never picked up again. I aspire to keep this blog post up to date with the tools or features that I found really helpful, or use repeatedly. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4b6f9138-5614-477f-9101-c6a46a27db9f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "4284d2da-051a-4deb-9f13-26c38001c315"
+    },
+    "created_time": "2023-10-06T09:38:00.000Z",
+    "last_edited_time": "2023-10-06T09:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a6d5473b-1b37-4b1c-ae89-5a0b16294e16",
+    "parent": {
+      "type": "page_id",
+      "page_id": "4284d2da-051a-4deb-9f13-26c38001c315"
+    },
+    "created_time": "2023-10-06T09:38:00.000Z",
+    "last_edited_time": "2023-11-01T08:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "child_database",
+    "child_database": {
+      "title": "Useful things"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5b30a9d0-80b2-41a3-8d0d-e7b135b00941",
+    "parent": {
+      "type": "page_id",
+      "page_id": "4284d2da-051a-4deb-9f13-26c38001c315"
+    },
+    "created_time": "2023-10-06T09:36:00.000Z",
+    "last_edited_time": "2023-10-06T09:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

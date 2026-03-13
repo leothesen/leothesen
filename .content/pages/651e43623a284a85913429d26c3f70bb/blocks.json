@@ -1,0 +1,462 @@
+[
+  {
+    "object": "block",
+    "id": "bcff25a9-35ac-47fa-9378-2717161a278e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "651e4362-3a28-4a85-9134-29d26c3f70bb"
+    },
+    "created_time": "2023-10-06T10:08:00.000Z",
+    "last_edited_time": "2023-10-06T10:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "MOHARA ",
+            "link": {
+              "url": "https://mohara.co/"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "MOHARA ",
+          "href": "https://mohara.co/"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "rolled out Github Copilot a little while back, and recently ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "rolled out Github Copilot a little while back, and recently ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Copilot Chat",
+            "link": {
+              "url": "https://docs.github.com/en/copilot/github-copilot-chat/using-github-copilot-chat"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Copilot Chat",
+          "href": "https://docs.github.com/en/copilot/github-copilot-chat/using-github-copilot-chat"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " come out into public beta. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " come out into public beta. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7e311e6f-13f9-4627-b176-b42e26fa34a6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "651e4362-3a28-4a85-9134-29d26c3f70bb"
+    },
+    "created_time": "2023-10-06T10:09:00.000Z",
+    "last_edited_time": "2023-10-06T10:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3b7903e7-38c3-407c-b0fd-319aa30758d0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "651e4362-3a28-4a85-9134-29d26c3f70bb"
+    },
+    "created_time": "2023-10-06T10:09:00.000Z",
+    "last_edited_time": "2023-10-06T10:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I’m just scratching the surface of ways to use it, but here was something that I found helpful:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I’m just scratching the surface of ways to use it, but here was something that I found helpful:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9f0e1ed3-6837-4383-bf7d-2d969047b8dd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "651e4362-3a28-4a85-9134-29d26c3f70bb"
+    },
+    "created_time": "2023-10-06T10:09:00.000Z",
+    "last_edited_time": "2023-10-06T10:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Highlight the code in question",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Highlight the code in question",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e867cfe0-41b1-4f70-b3ca-d7d96aea9fbf",
+    "parent": {
+      "type": "page_id",
+      "page_id": "651e4362-3a28-4a85-9134-29d26c3f70bb"
+    },
+    "created_time": "2023-10-06T10:09:00.000Z",
+    "last_edited_time": "2023-10-06T10:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Right click and select, ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Right click and select, ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Copilot",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "Copilot",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " then ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " then ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Start code chat",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "Start code chat",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "59e035a7-f6e3-4b61-824e-ff663d8e9a45",
+    "parent": {
+      "type": "page_id",
+      "page_id": "651e4362-3a28-4a85-9134-29d26c3f70bb"
+    },
+    "created_time": "2023-10-06T10:09:00.000Z",
+    "last_edited_time": "2023-10-06T10:11:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Write a prompt in there ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Write a prompt in there ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "4a0d4bbd-ef8d-4f06-8522-8da4ef12fa80",
+        "parent": {
+          "type": "block_id",
+          "block_id": "59e035a7-f6e3-4b61-824e-ff663d8e9a45"
+        },
+        "created_time": "2023-10-06T10:10:00.000Z",
+        "last_edited_time": "2023-10-06T10:11:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "image",
+        "image": {
+          "caption": [],
+          "type": "file",
+          "file": {
+            "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/cccab07a4e428f1d.png",
+            "expiry_time": "2026-03-12T11:22:04.983Z"
+          }
+        },
+        "archived": false
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "cb8d821c-64c9-42b0-84eb-f6b83b77768e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "651e4362-3a28-4a85-9134-29d26c3f70bb"
+    },
+    "created_time": "2023-10-06T10:09:00.000Z",
+    "last_edited_time": "2023-10-06T10:11:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "It will then give you a diff to show the changes that it suggests and you can accept or reject it right there in the file 🎉",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "It will then give you a diff to show the changes that it suggests and you can accept or reject it right there in the file 🎉",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "55061dde-2d13-46f3-b59f-567e208d0e9d",
+        "parent": {
+          "type": "block_id",
+          "block_id": "cb8d821c-64c9-42b0-84eb-f6b83b77768e"
+        },
+        "created_time": "2023-10-06T10:10:00.000Z",
+        "last_edited_time": "2023-10-06T10:11:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "image",
+        "image": {
+          "caption": [],
+          "type": "file",
+          "file": {
+            "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/c72bad4d50775be6.png",
+            "expiry_time": "2026-03-12T11:22:03.910Z"
+          }
+        },
+        "archived": false
+      }
+    ]
+  }
+]

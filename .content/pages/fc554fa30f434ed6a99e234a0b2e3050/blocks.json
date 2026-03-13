@@ -1,0 +1,522 @@
+[
+  {
+    "object": "block",
+    "id": "aab2f068-7372-401e-9aae-cff0d219c4d8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fc554fa3-0f43-4ed6-a99e-234a0b2e3050"
+    },
+    "created_time": "2022-08-07T10:37:00.000Z",
+    "last_edited_time": "2022-08-07T10:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "It’s raining when I wake up, in a nostalgic warm kind of way. The way that only rain in a tropical rainforest can make you feel. Birds, frogs and drops lull me back to sleep. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "It’s raining when I wake up, in a nostalgic warm kind of way. The way that only rain in a tropical rainforest can make you feel. Birds, frogs and drops lull me back to sleep. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ab408388-9f87-42aa-b830-5a2ea7bbc04f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fc554fa3-0f43-4ed6-a99e-234a0b2e3050"
+    },
+    "created_time": "2022-08-07T10:38:00.000Z",
+    "last_edited_time": "2022-08-07T10:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "10bef391-91fa-4cee-8725-20f55064c30a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fc554fa3-0f43-4ed6-a99e-234a0b2e3050"
+    },
+    "created_time": "2022-08-07T10:38:00.000Z",
+    "last_edited_time": "2022-08-07T10:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I take it easy and make some breakfast and do my goodbyes. I pop over to the ocean to see if it will entice me, but it’s stormy and quite small. I head over to Oribi gorge as per Samantha’s suggestion. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I take it easy and make some breakfast and do my goodbyes. I pop over to the ocean to see if it will entice me, but it’s stormy and quite small. I head over to Oribi gorge as per Samantha’s suggestion. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0dca34d5-9bab-41a0-8760-320909b4ee4c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fc554fa3-0f43-4ed6-a99e-234a0b2e3050"
+    },
+    "created_time": "2022-08-07T10:39:00.000Z",
+    "last_edited_time": "2022-08-07T10:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ee52f6bc-25cb-4e82-872e-5a5e19c91df6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fc554fa3-0f43-4ed6-a99e-234a0b2e3050"
+    },
+    "created_time": "2022-08-07T10:37:00.000Z",
+    "last_edited_time": "2022-08-07T10:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Making a coffee on the rocks at the back of the river I meet Kgmotso. She is a newly ordained sangoma. She speak about her journey and how she used to be a “slay queen” in the third dimension. Now in the fifth dimension things are slightly more lovey, but she’s found her calling. Togozani with two claps - hands on top of eachother and kneeling - is the greeting for healers. We speak about Leo’s and how I am on this journey as I am a strong person. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Making a coffee on the rocks at the back of the river I meet Kgmotso. She is a newly ordained sangoma. She speak about her journey and how she used to be a “slay queen” in the third dimension. Now in the fifth dimension things are slightly more lovey, but she’s found her calling. Togozani with two claps - hands on top of eachother and kneeling - is the greeting for healers. We speak about Leo’s and how I am on this journey as I am a strong person. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4cc2f032-b38a-4048-89f0-7fde567c001b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fc554fa3-0f43-4ed6-a99e-234a0b2e3050"
+    },
+    "created_time": "2022-08-07T19:06:00.000Z",
+    "last_edited_time": "2022-08-07T19:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5b035378-58be-457f-b2ba-a02f07cb5cb7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fc554fa3-0f43-4ed6-a99e-234a0b2e3050"
+    },
+    "created_time": "2022-08-07T19:06:00.000Z",
+    "last_edited_time": "2022-08-07T19:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "embed",
+    "embed": {
+      "caption": [],
+      "url": "https://connect.garmin.com/modern/activity/embed/9355597467"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "955015e7-8811-4954-9bfa-7cc40c905fce",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fc554fa3-0f43-4ed6-a99e-234a0b2e3050"
+    },
+    "created_time": "2022-08-08T19:52:00.000Z",
+    "last_edited_time": "2022-08-08T19:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/ffe703b56cf10428.jpeg",
+        "expiry_time": "2026-03-12T09:48:51.388Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5294d5d6-a0c6-41e8-bdf9-7be455acfe3a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fc554fa3-0f43-4ed6-a99e-234a0b2e3050"
+    },
+    "created_time": "2022-08-07T10:37:00.000Z",
+    "last_edited_time": "2022-08-07T19:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The run is beautiful. Vegetation compatible to the coastal garden route forests with dense buses forming tunnels through the undergrowth. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The run is beautiful. Vegetation compatible to the coastal garden route forests with dense buses forming tunnels through the undergrowth. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d17d4291-5e9c-4da9-bc9b-c67ed6627906",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fc554fa3-0f43-4ed6-a99e-234a0b2e3050"
+    },
+    "created_time": "2022-08-07T19:06:00.000Z",
+    "last_edited_time": "2022-08-07T19:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d8715453-d020-4d9c-9f61-4e050fc7ded1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fc554fa3-0f43-4ed6-a99e-234a0b2e3050"
+    },
+    "created_time": "2022-08-07T19:06:00.000Z",
+    "last_edited_time": "2022-08-07T19:07:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I eat a 5 star and half a chicken wrap and run back to the car. It’s a quick operation. I have a little swim at the river and get back on my way. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I eat a 5 star and half a chicken wrap and run back to the car. It’s a quick operation. I have a little swim at the river and get back on my way. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5a9303b4-67e8-44f9-b55e-7cc03189940b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fc554fa3-0f43-4ed6-a99e-234a0b2e3050"
+    },
+    "created_time": "2022-08-07T19:07:00.000Z",
+    "last_edited_time": "2022-08-07T19:07:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5a9be989-d97b-4b65-b196-77d8dfe682cb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fc554fa3-0f43-4ed6-a99e-234a0b2e3050"
+    },
+    "created_time": "2022-08-07T19:07:00.000Z",
+    "last_edited_time": "2022-08-07T19:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Heading towards Durban but unsure of where to stay. I know that the piers might have some waves tomorrow when the wind turns. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Heading towards Durban but unsure of where to stay. I know that the piers might have some waves tomorrow when the wind turns. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "27217226-a360-4601-bc7e-32fcde965f99",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fc554fa3-0f43-4ed6-a99e-234a0b2e3050"
+    },
+    "created_time": "2022-08-07T19:08:00.000Z",
+    "last_edited_time": "2022-08-07T19:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ed834d1f-4f0b-45f4-b330-1e963f84025a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fc554fa3-0f43-4ed6-a99e-234a0b2e3050"
+    },
+    "created_time": "2022-08-07T19:08:00.000Z",
+    "last_edited_time": "2022-08-07T19:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I ask Jordan for some advice but end up settling at a weird holiday resort that has camping called Bluff Eco Park. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I ask Jordan for some advice but end up settling at a weird holiday resort that has camping called Bluff Eco Park. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

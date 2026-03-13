@@ -1,0 +1,804 @@
+[
+  {
+    "object": "block",
+    "id": "a99b646e-5436-44a1-a158-fdd81fab156b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c8027d2f-c27d-40ad-a4dd-d8babc451fd9"
+    },
+    "created_time": "2023-09-28T13:24:00.000Z",
+    "last_edited_time": "2023-09-28T18:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The airplane dips threateningly close to the impenetrable cloud bank below us. We toy with it for a while before taking the plunge. Turbulence and iridescent white sparkles takes over the plane until we break out the bottom and are presented with a magnificent delta, mangroves and the turquoise ocean expanding forever below us. The black sails of the dhows providing some contrast. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The airplane dips threateningly close to the impenetrable cloud bank below us. We toy with it for a while before taking the plunge. Turbulence and iridescent white sparkles takes over the plane until we break out the bottom and are presented with a magnificent delta, mangroves and the turquoise ocean expanding forever below us. The black sails of the dhows providing some contrast. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4eef4d2c-e2df-4d5d-b6cd-d96b5f224c3e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c8027d2f-c27d-40ad-a4dd-d8babc451fd9"
+    },
+    "created_time": "2023-09-28T18:20:00.000Z",
+    "last_edited_time": "2023-09-28T18:20:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "cd658db5-a203-4cbd-b5dd-8ae540ee180f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c8027d2f-c27d-40ad-a4dd-d8babc451fd9"
+    },
+    "created_time": "2023-09-28T18:21:00.000Z",
+    "last_edited_time": "2023-09-28T18:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/87cefa950005ea8c.jpeg",
+        "expiry_time": "2026-03-13T08:30:24.728Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e98b3466-2ffc-4ac7-be43-952bc371f957",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c8027d2f-c27d-40ad-a4dd-d8babc451fd9"
+    },
+    "created_time": "2023-09-28T13:25:00.000Z",
+    "last_edited_time": "2023-09-28T13:25:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e2f672a9-835b-4cc2-9e48-1bc3a2c0b3ae",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c8027d2f-c27d-40ad-a4dd-d8babc451fd9"
+    },
+    "created_time": "2023-09-28T13:25:00.000Z",
+    "last_edited_time": "2023-09-28T18:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Political party flags on cars and stickers on the walls. Election Day is coming and people are public about their opinions. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Political party flags on cars and stickers on the walls. Election Day is coming and people are public about their opinions. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3b9d13f0-a976-41d3-86b4-f7a347a5409f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c8027d2f-c27d-40ad-a4dd-d8babc451fd9"
+    },
+    "created_time": "2023-09-28T18:21:00.000Z",
+    "last_edited_time": "2023-09-28T18:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "cf8dfe2b-0f9d-47f1-a88e-8aaf25eda25e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c8027d2f-c27d-40ad-a4dd-d8babc451fd9"
+    },
+    "created_time": "2023-09-28T18:21:00.000Z",
+    "last_edited_time": "2023-09-28T18:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/d6a4b32e05ac95dc.jpeg",
+        "expiry_time": "2026-03-13T08:30:24.728Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "90a11b7f-f478-47f7-8f61-338ddebc772b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c8027d2f-c27d-40ad-a4dd-d8babc451fd9"
+    },
+    "created_time": "2023-09-28T13:26:00.000Z",
+    "last_edited_time": "2023-09-28T13:26:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f56036ba-4143-4b3a-a98e-8fceb6868cd0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c8027d2f-c27d-40ad-a4dd-d8babc451fd9"
+    },
+    "created_time": "2023-09-28T13:26:00.000Z",
+    "last_edited_time": "2023-09-28T13:26:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/1804ed4210a90007.jpeg",
+        "expiry_time": "2026-03-13T08:30:24.728Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ba2aff88-90e6-47c8-a48c-2ca84a341c27",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c8027d2f-c27d-40ad-a4dd-d8babc451fd9"
+    },
+    "created_time": "2023-09-28T13:26:00.000Z",
+    "last_edited_time": "2023-09-28T13:26:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Baobab above our campsite with a V in the tree with another branch perfectly slotted through, just like the tree knows where it’s other parts are. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Baobab above our campsite with a V in the tree with another branch perfectly slotted through, just like the tree knows where it’s other parts are. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5ad4fc9e-c8bd-40f5-8b43-c49d37b8ee8c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c8027d2f-c27d-40ad-a4dd-d8babc451fd9"
+    },
+    "created_time": "2023-09-28T13:26:00.000Z",
+    "last_edited_time": "2023-09-28T13:26:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c1a8bde9-0779-4bf1-824b-6b36184c51d5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c8027d2f-c27d-40ad-a4dd-d8babc451fd9"
+    },
+    "created_time": "2023-09-28T13:26:00.000Z",
+    "last_edited_time": "2023-09-28T13:27:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Roasted cashews with the odd cashew who was subjected to more roasting than the rest. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Roasted cashews with the odd cashew who was subjected to more roasting than the rest. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3786bda4-6636-4362-a722-abc040ecbd78",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c8027d2f-c27d-40ad-a4dd-d8babc451fd9"
+    },
+    "created_time": "2023-09-28T15:46:00.000Z",
+    "last_edited_time": "2023-09-28T15:46:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "886e6a60-f070-49ee-8847-c4277c888cc2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c8027d2f-c27d-40ad-a4dd-d8babc451fd9"
+    },
+    "created_time": "2023-09-28T15:46:00.000Z",
+    "last_edited_time": "2023-09-28T18:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "A 2M beer with Jules and a swim. The black sails are because they use plastic tarp on the dhow. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "A 2M beer with Jules and a swim. The black sails are because they use plastic tarp on the dhow. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a6aa1847-8015-44c7-83dd-9de85b68eb95",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c8027d2f-c27d-40ad-a4dd-d8babc451fd9"
+    },
+    "created_time": "2023-09-28T18:21:00.000Z",
+    "last_edited_time": "2023-09-28T18:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5df6de73-6dec-41f7-9071-7905b7b7db11",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c8027d2f-c27d-40ad-a4dd-d8babc451fd9"
+    },
+    "created_time": "2023-09-28T15:47:00.000Z",
+    "last_edited_time": "2023-09-28T15:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/a7b32f65b8d2a890.jpeg",
+        "expiry_time": "2026-03-13T08:30:24.728Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "24ffd367-5234-4f02-b944-77f7803f503a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c8027d2f-c27d-40ad-a4dd-d8babc451fd9"
+    },
+    "created_time": "2023-09-28T18:14:00.000Z",
+    "last_edited_time": "2023-09-28T18:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "288864ef-190d-40e5-a827-5d20bd05814f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c8027d2f-c27d-40ad-a4dd-d8babc451fd9"
+    },
+    "created_time": "2023-09-28T18:14:00.000Z",
+    "last_edited_time": "2023-09-28T18:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Camp for the night is magical. Warm air penetrates everywhere expect for the fridge in the back of the fully kitted Hilux. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Camp for the night is magical. Warm air penetrates everywhere expect for the fridge in the back of the fully kitted Hilux. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "da7dca86-f9f8-4cd0-a7ed-3f2219508f82",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c8027d2f-c27d-40ad-a4dd-d8babc451fd9"
+    },
+    "created_time": "2023-09-28T18:15:00.000Z",
+    "last_edited_time": "2023-09-28T18:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9a1be375-1f6f-404e-bd24-d88399a53d6e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c8027d2f-c27d-40ad-a4dd-d8babc451fd9"
+    },
+    "created_time": "2023-09-28T18:15:00.000Z",
+    "last_edited_time": "2023-09-28T18:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "90s rap in the house at the backpackers restaurant. Some more 2Ms and a conversation with Julian that hits all the important places.  Prawn curry is, well, shrimpy. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "90s rap in the house at the backpackers restaurant. Some more 2Ms and a conversation with Julian that hits all the important places.  Prawn curry is, well, shrimpy. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "56b178f9-1fff-40da-9d9f-a3604092e771",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c8027d2f-c27d-40ad-a4dd-d8babc451fd9"
+    },
+    "created_time": "2023-09-28T18:16:00.000Z",
+    "last_edited_time": "2023-09-28T18:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d0054cd7-1268-411c-a34f-f9126809e262",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c8027d2f-c27d-40ad-a4dd-d8babc451fd9"
+    },
+    "created_time": "2023-09-28T18:16:00.000Z",
+    "last_edited_time": "2023-09-28T18:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The moon is lighting up the ocean. Two lights shine from the distant island of Margerut, I wonder if there are people there looking back at the main land. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The moon is lighting up the ocean. Two lights shine from the distant island of Margerut, I wonder if there are people there looking back at the main land. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8297a545-bf51-44e8-91da-7e737d7dd408",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c8027d2f-c27d-40ad-a4dd-d8babc451fd9"
+    },
+    "created_time": "2023-09-28T18:17:00.000Z",
+    "last_edited_time": "2023-09-28T18:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ccd7d151-b948-4131-9358-4e0428643058",
+    "parent": {
+      "type": "page_id",
+      "page_id": "c8027d2f-c27d-40ad-a4dd-d8babc451fd9"
+    },
+    "created_time": "2023-09-28T18:17:00.000Z",
+    "last_edited_time": "2023-09-28T18:19:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Body and mind is tired. In the tent, little support due to the mattress I didn’t bring, but there’s something powerful about a firm bed. Let’s hope that no mosquitoes share the tent with me tonight, it’s too hot for blankets. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Body and mind is tired. In the tent, little support due to the mattress I didn’t bring, but there’s something powerful about a firm bed. Let’s hope that no mosquitoes share the tent with me tonight, it’s too hot for blankets. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

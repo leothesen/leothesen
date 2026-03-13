@@ -1,0 +1,3173 @@
+[
+  {
+    "object": "block",
+    "id": "8b2aa2ed-4377-4435-aa0e-cf1857c35e85",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:13:00.000Z",
+    "last_edited_time": "2024-06-17T08:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_1",
+    "heading_1": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Leo Thesen - Solutions Architect",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Leo Thesen - Solutions Architect",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e53281e8-4da3-49d6-8d39-d644eca9c95f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:13:00.000Z",
+    "last_edited_time": "2024-06-17T08:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "column_list",
+    "column_list": {},
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "fe2ad81c-bd55-4dcf-9302-888683db9797",
+        "parent": {
+          "type": "block_id",
+          "block_id": "e53281e8-4da3-49d6-8d39-d644eca9c95f"
+        },
+        "created_time": "2024-06-17T08:13:00.000Z",
+        "last_edited_time": "2024-06-17T08:14:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.9375
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "76b6ef35-29d2-4192-ba63-1cb4a9c63d8c",
+            "parent": {
+              "type": "block_id",
+              "block_id": "fe2ad81c-bd55-4dcf-9302-888683db9797"
+            },
+            "created_time": "2024-06-17T08:13:00.000Z",
+            "last_edited_time": "2024-06-17T08:15:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "quote",
+            "quote": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "I am a solutions architect working with digital startups based in web and native applications. Coming from a background in electro-mechanical engineering, I pivoted into the software world due to a life long interest in coding. \n\nI began to lead teams early on in my career. Continuing to develop my leadership skills has led me to co-managing the MOHARA South African hub of over 50 employees. \n\nMy skillset is comprised of technical skills in modern software development, with a speciality in designing simple, robust and evolutionary architectures. And accompanied by strong emotional intelligence which allows me to create and grow high-performing teams.",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "I am a solutions architect working with digital startups based in web and native applications. Coming from a background in electro-mechanical engineering, I pivoted into the software world due to a life long interest in coding. \n\nI began to lead teams early on in my career. Continuing to develop my leadership skills has led me to co-managing the MOHARA South African hub of over 50 employees. \n\nMy skillset is comprised of technical skills in modern software development, with a speciality in designing simple, robust and evolutionary architectures. And accompanied by strong emotional intelligence which allows me to create and grow high-performing teams.",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          }
+        ]
+      },
+      {
+        "object": "block",
+        "id": "ce14e33a-1e4f-4917-a4c2-0c19dbfa8796",
+        "parent": {
+          "type": "block_id",
+          "block_id": "e53281e8-4da3-49d6-8d39-d644eca9c95f"
+        },
+        "created_time": "2024-06-17T08:13:00.000Z",
+        "last_edited_time": "2024-06-17T08:14:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.0625
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "63bef55c-213e-499f-91db-f893b73b7249",
+            "parent": {
+              "type": "block_id",
+              "block_id": "ce14e33a-1e4f-4917-a4c2-0c19dbfa8796"
+            },
+            "created_time": "2024-06-17T08:13:00.000Z",
+            "last_edited_time": "2024-06-17T08:13:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [],
+              "color": "default"
+            },
+            "archived": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "b2d021f3-d895-4f60-bdc4-a1ca460b28d5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:13:00.000Z",
+    "last_edited_time": "2024-06-17T08:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "divider",
+    "divider": {},
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d53ee9f6-a1b4-4ec4-b739-150e56690c2d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:13:00.000Z",
+    "last_edited_time": "2024-06-17T08:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "column_list",
+    "column_list": {},
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "c8bf2552-3079-4978-843f-831ff39dd6bf",
+        "parent": {
+          "type": "block_id",
+          "block_id": "d53ee9f6-a1b4-4ec4-b739-150e56690c2d"
+        },
+        "created_time": "2024-06-17T08:13:00.000Z",
+        "last_edited_time": "2024-06-17T08:16:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.3333333333333333
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "d84bcc8e-dd77-4362-9993-91286617c195",
+            "parent": {
+              "type": "block_id",
+              "block_id": "c8bf2552-3079-4978-843f-831ff39dd6bf"
+            },
+            "created_time": "2024-06-17T08:13:00.000Z",
+            "last_edited_time": "2024-06-17T08:13:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "heading_2",
+            "heading_2": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Skills",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Skills",
+                  "href": null
+                }
+              ],
+              "is_toggleable": false,
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "2b11ad69-438f-4d52-b8cc-aa2d5177c852",
+            "parent": {
+              "type": "block_id",
+              "block_id": "c8bf2552-3079-4978-843f-831ff39dd6bf"
+            },
+            "created_time": "2024-06-17T08:13:00.000Z",
+            "last_edited_time": "2024-06-17T08:16:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "🤲 Leadership",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "🤲 Leadership",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "c67d56c9-f4de-4006-a9c3-0bf6d4c460a3",
+            "parent": {
+              "type": "block_id",
+              "block_id": "c8bf2552-3079-4978-843f-831ff39dd6bf"
+            },
+            "created_time": "2024-06-17T08:16:00.000Z",
+            "last_edited_time": "2024-06-17T08:16:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "💡 Problem solving",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "💡 Problem solving",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "56d02f34-c1a3-4f0e-a814-92748af3d199",
+            "parent": {
+              "type": "block_id",
+              "block_id": "c8bf2552-3079-4978-843f-831ff39dd6bf"
+            },
+            "created_time": "2024-06-17T08:16:00.000Z",
+            "last_edited_time": "2024-06-17T08:16:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "🗣️ Communication",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "🗣️ Communication",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          }
+        ]
+      },
+      {
+        "object": "block",
+        "id": "cf986931-b390-48a8-9dd2-cf4d75ceed5d",
+        "parent": {
+          "type": "block_id",
+          "block_id": "d53ee9f6-a1b4-4ec4-b739-150e56690c2d"
+        },
+        "created_time": "2024-06-17T08:13:00.000Z",
+        "last_edited_time": "2024-06-17T08:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.375
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "399ee802-85d1-4cf7-854e-e8d0ef15cb5f",
+            "parent": {
+              "type": "block_id",
+              "block_id": "cf986931-b390-48a8-9dd2-cf4d75ceed5d"
+            },
+            "created_time": "2024-06-17T08:13:00.000Z",
+            "last_edited_time": "2024-06-17T08:13:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "heading_2",
+            "heading_2": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Technologies",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Technologies",
+                  "href": null
+                }
+              ],
+              "is_toggleable": false,
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "f96808ef-dc8a-4702-bdf2-292dfa3e0822",
+            "parent": {
+              "type": "block_id",
+              "block_id": "cf986931-b390-48a8-9dd2-cf4d75ceed5d"
+            },
+            "created_time": "2024-06-17T08:13:00.000Z",
+            "last_edited_time": "2024-06-17T08:17:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "⚙️ Solution architecture",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "⚙️ Solution architecture",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "edb070d8-134a-4bc9-a98a-bd4756035a6c",
+            "parent": {
+              "type": "block_id",
+              "block_id": "cf986931-b390-48a8-9dd2-cf4d75ceed5d"
+            },
+            "created_time": "2024-06-17T08:13:00.000Z",
+            "last_edited_time": "2024-06-17T08:17:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "⚙️ Typescript",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "⚙️ Typescript",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "55859120-5cff-4a92-b6a7-1d15fdc9abc4",
+            "parent": {
+              "type": "block_id",
+              "block_id": "cf986931-b390-48a8-9dd2-cf4d75ceed5d"
+            },
+            "created_time": "2024-06-17T08:13:00.000Z",
+            "last_edited_time": "2024-06-17T08:17:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "⚙️ AWS",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "⚙️ AWS",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          }
+        ]
+      },
+      {
+        "object": "block",
+        "id": "ae2fd05f-eb2a-47b7-9629-1e87cd145c50",
+        "parent": {
+          "type": "block_id",
+          "block_id": "d53ee9f6-a1b4-4ec4-b739-150e56690c2d"
+        },
+        "created_time": "2024-06-17T08:13:00.000Z",
+        "last_edited_time": "2024-06-17T08:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.2916666666666668
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "7daacdb2-c8f7-4e0c-8411-10ee7a9acc20",
+            "parent": {
+              "type": "block_id",
+              "block_id": "ae2fd05f-eb2a-47b7-9629-1e87cd145c50"
+            },
+            "created_time": "2024-06-17T08:13:00.000Z",
+            "last_edited_time": "2024-06-17T08:13:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "heading_2",
+            "heading_2": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Languages",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Languages",
+                  "href": null
+                }
+              ],
+              "is_toggleable": false,
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "44c3b1a0-3beb-4206-8114-2ec1ba9f288d",
+            "parent": {
+              "type": "block_id",
+              "block_id": "ae2fd05f-eb2a-47b7-9629-1e87cd145c50"
+            },
+            "created_time": "2024-06-17T08:13:00.000Z",
+            "last_edited_time": "2024-06-17T08:13:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "🇬🇧 English",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "🇬🇧 English",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "df0935f7-e9cf-4b02-ba5c-c24b004f1e0b",
+            "parent": {
+              "type": "block_id",
+              "block_id": "ae2fd05f-eb2a-47b7-9629-1e87cd145c50"
+            },
+            "created_time": "2024-06-17T08:13:00.000Z",
+            "last_edited_time": "2024-06-17T08:17:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "🇮🇩 Indonesian",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "🇮🇩 Indonesian",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "f487126d-0c87-440e-838e-3c6710fa0c09",
+            "parent": {
+              "type": "block_id",
+              "block_id": "ae2fd05f-eb2a-47b7-9629-1e87cd145c50"
+            },
+            "created_time": "2024-06-17T08:13:00.000Z",
+            "last_edited_time": "2025-04-22T12:30:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "💻 TS, Python",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "💻 TS, Python",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "3a6627ce-53c8-4a24-a8a9-3d62a2dc7437",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:13:00.000Z",
+    "last_edited_time": "2024-06-17T08:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "divider",
+    "divider": {},
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a40f2c1c-f473-4249-bf86-00de9a649d77",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:13:00.000Z",
+    "last_edited_time": "2024-06-17T08:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Work Experience",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Work Experience",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "189e8779-cadd-463f-b3d9-7a68bd5cde01",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:13:00.000Z",
+    "last_edited_time": "2024-06-17T08:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Solutions Architect",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Solutions Architect",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7fded2a9-63c7-4fdd-a380-f0b3e7dee7da",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:13:00.000Z",
+    "last_edited_time": "2025-05-20T11:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "MOHARA",
+            "link": {
+              "url": "https://mohara.co/"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "gray"
+          },
+          "plain_text": "MOHARA",
+          "href": "https://mohara.co/"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ", South Africa | April 2019 - May 2025",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "gray"
+          },
+          "plain_text": ", South Africa | April 2019 - May 2025",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "59d911db-a22d-4926-a5d5-98fee7901332",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:13:00.000Z",
+    "last_edited_time": "2024-06-17T08:27:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Co-managing director of MOHARA South Africa ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Co-managing director of MOHARA South Africa ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "20afcbbd-a755-44f1-b9d1-44a4874a80ed",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:27:00.000Z",
+    "last_edited_time": "2024-06-17T08:27:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Leading out the Solution Design function within MOHARA ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Leading out the Solution Design function within MOHARA ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8163eacb-cd3a-4a2d-9fe1-565124b63299",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:27:00.000Z",
+    "last_edited_time": "2024-06-17T08:27:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Technical lead on multiple projects",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Technical lead on multiple projects",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c1f489c7-3c05-4dc9-8619-47f92ef59901",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:38:00.000Z",
+    "last_edited_time": "2024-06-17T08:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Client management",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Client management",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ea68e352-5ef2-4e53-9059-7228c1e8ddd2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:13:00.000Z",
+    "last_edited_time": "2024-06-17T09:07:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I have progressed at MOHARA from Junior Engineer to Solutions Architect and co-manager of the South African hub; with over 50 employees. I have been involved in the business and technical strategy of the company, partaking in leadership traction meetings and sitting on “engineering steering” which oversees the engineering function as a whole. \n\nI have honed both my leadership and technical skills and have led many of the most critical projects - usually in fintech. I thrive in a team environment, with some of my best work being mentoring and teaching other engineers. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I have progressed at MOHARA from Junior Engineer to Solutions Architect and co-manager of the South African hub; with over 50 employees. I have been involved in the business and technical strategy of the company, partaking in leadership traction meetings and sitting on “engineering steering” which oversees the engineering function as a whole. \n\nI have honed both my leadership and technical skills and have led many of the most critical projects - usually in fintech. I thrive in a team environment, with some of my best work being mentoring and teaching other engineers. ",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/cbf19ebb-e38f-4800-84fd-1d31b9fba01f/mohara_logo.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666TT2TKWV%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T114701Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIF%2FgI8O63NC84rYoS55MIY3s5ojDNLtsGc07Lqzcli0IAiEAo1W3gFZxWVfqTIi%2FDH6EaZoIvtDe2sApcuDOdu978hYq%2FwMIdRAAGgw2Mzc0MjMxODM4MDUiDFoBhiBLQdwamByBuCrcA0KTL%2BI0kkORcmHo5VgUTW6PAYLsBTEjZ5FJ%2FGy2c3Eu5oYrr%2F8Ot5w4hPG%2FqJ5jJdDsATXqCHyL6jHCJsxfOCR7vuswqgpSYtM5dwRdJoAD4TGwiswQ9VgxckkFFVHpl9RxorgDOEvVLtmn4SZS3w9GzFMql7cNugrnbNthEYn8fdUTjOtKiYuiVBHsUz6TUi8hll4%2FmP9frTXoSNz1sZCO%2BdKgnOD%2FWc0Fo7m6ehr%2FlVA9w2h3sFgkdfLjuPIH6kaxeyBxbNSe4BsovfS%2BgTkGhcu2wNXjcuRoHLz4ebb3QDbdUu%2BNpVPb%2Bs17Q4buIhGNMsagJtNU9CqO0zGlsw2e8zWzALI8R8Mg3VqYX64WoLovyVG%2Fg%2Bwy8G8Bl38v9Jh6y%2BN0S90YCCW%2FyDStJ14JiahmSm8eSgxkPan778gp6T%2BbZMS%2F5vq2DpuaZfG8fyCKA1gYjqCzN25KH%2FAyP1lh%2BKNPoLibRSwB2iZst%2BypmijDcjtUAeYtefH94e%2FMDz6%2BTFLTWPcGQbtVqv%2B9BX1yQdFPYx2gKpFZItKMJluQNBjuNSsn7CAgIvNfQORe0sWd%2F30tdHCcJWfI1pm5T2OyINHsSsxboI3SPWeMT0bmEIpugtCHJVWJV8vlMMfGys0GOqUBxT1%2Ffk%2BBsrXJFryQwQlN9DOIdsNU73o26AD7Yn1Xe63XYQkPnOhhER2FpY7BhhHQK4pOb9PUD8k%2BggNUJ6VRG%2FiHvW4XqtubgYcDIB0SOfB9k3TSgudR%2B9EhsKDveaoCpMVf79UogOY9po%2FUQuH1W5XlbC%2FUg1FOJCy5JVHKophAWx%2FmEXLzbtSWWw%2By9L6WQZYowE%2FBTXrBeR1GTomdfGjQq1WQ&X-Amz-Signature=cf0cb95ca38eacdb7ff5fea1a11691d049f32d89832700a5116eebe9b963e5a0&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2026-03-12T12:47:01.524Z"
+        }
+      },
+      "color": "gray_background"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7e5f7e84-fd62-4875-9cbf-702dd8a1c518",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:13:00.000Z",
+    "last_edited_time": "2024-06-17T08:25:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Technical lead",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Technical lead",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "97a0aff1-9603-4f28-aca9-042b3decd5f1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:13:00.000Z",
+    "last_edited_time": "2025-05-20T11:44:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "ekko",
+            "link": {
+              "url": "https://ekko.earth/"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "gray"
+          },
+          "plain_text": "ekko",
+          "href": "https://ekko.earth/"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ", United Kingdom | 2022 - 2024",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "gray"
+          },
+          "plain_text": ", United Kingdom | 2022 - 2024",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "956f1c7b-0850-41c0-84eb-5b9694754c5b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:13:00.000Z",
+    "last_edited_time": "2024-06-17T08:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Designed several new products",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Designed several new products",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d851b14a-088c-4c4b-ab1b-8b1fd1bc9f8c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:40:00.000Z",
+    "last_edited_time": "2024-06-17T08:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Individual contributions to the codebases",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Individual contributions to the codebases",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e4defaa7-65da-4a61-980d-861a2604c2b4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:13:00.000Z",
+    "last_edited_time": "2024-06-17T08:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Interfacing with founders",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Interfacing with founders",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "fab39fb6-071d-402c-89f6-857804b53d5b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:13:00.000Z",
+    "last_edited_time": "2024-06-17T08:40:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Team leadership",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Team leadership",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e4fac905-4e69-4ff9-b90c-ebdf4d39b754",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:13:00.000Z",
+    "last_edited_time": "2024-06-17T09:07:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I took over technical leadership of ekko after they had released their initial application, the customer facing eco-banking application. I led planning and development of new features on that codebase, as well as maintenance of the codebase. The team size ranged from 2 to 13 engineers. \n\nekko launched several new products, mostly B2B API based applications, that I also designed and led the development on.\n\nekko has recently ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I took over technical leadership of ekko after they had released their initial application, the customer facing eco-banking application. I led planning and development of new features on that codebase, as well as maintenance of the codebase. The team size ranged from 2 to 13 engineers. \n\nekko launched several new products, mostly B2B API based applications, that I also designed and led the development on.\n\nekko has recently ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "raised $2.5M",
+            "link": {
+              "url": "https://finance.yahoo.com/news/uk-based-green-fintech-ekko-073706349.html"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "raised $2.5M",
+          "href": "https://finance.yahoo.com/news/uk-based-green-fintech-ekko-073706349.html"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ".",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ".",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/16e33eb9-4b17-452b-ac51-b22b7ea56da5/Ekko-logo.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666TT2TKWV%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T114701Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIF%2FgI8O63NC84rYoS55MIY3s5ojDNLtsGc07Lqzcli0IAiEAo1W3gFZxWVfqTIi%2FDH6EaZoIvtDe2sApcuDOdu978hYq%2FwMIdRAAGgw2Mzc0MjMxODM4MDUiDFoBhiBLQdwamByBuCrcA0KTL%2BI0kkORcmHo5VgUTW6PAYLsBTEjZ5FJ%2FGy2c3Eu5oYrr%2F8Ot5w4hPG%2FqJ5jJdDsATXqCHyL6jHCJsxfOCR7vuswqgpSYtM5dwRdJoAD4TGwiswQ9VgxckkFFVHpl9RxorgDOEvVLtmn4SZS3w9GzFMql7cNugrnbNthEYn8fdUTjOtKiYuiVBHsUz6TUi8hll4%2FmP9frTXoSNz1sZCO%2BdKgnOD%2FWc0Fo7m6ehr%2FlVA9w2h3sFgkdfLjuPIH6kaxeyBxbNSe4BsovfS%2BgTkGhcu2wNXjcuRoHLz4ebb3QDbdUu%2BNpVPb%2Bs17Q4buIhGNMsagJtNU9CqO0zGlsw2e8zWzALI8R8Mg3VqYX64WoLovyVG%2Fg%2Bwy8G8Bl38v9Jh6y%2BN0S90YCCW%2FyDStJ14JiahmSm8eSgxkPan778gp6T%2BbZMS%2F5vq2DpuaZfG8fyCKA1gYjqCzN25KH%2FAyP1lh%2BKNPoLibRSwB2iZst%2BypmijDcjtUAeYtefH94e%2FMDz6%2BTFLTWPcGQbtVqv%2B9BX1yQdFPYx2gKpFZItKMJluQNBjuNSsn7CAgIvNfQORe0sWd%2F30tdHCcJWfI1pm5T2OyINHsSsxboI3SPWeMT0bmEIpugtCHJVWJV8vlMMfGys0GOqUBxT1%2Ffk%2BBsrXJFryQwQlN9DOIdsNU73o26AD7Yn1Xe63XYQkPnOhhER2FpY7BhhHQK4pOb9PUD8k%2BggNUJ6VRG%2FiHvW4XqtubgYcDIB0SOfB9k3TSgudR%2B9EhsKDveaoCpMVf79UogOY9po%2FUQuH1W5XlbC%2FUg1FOJCy5JVHKophAWx%2FmEXLzbtSWWw%2By9L6WQZYowE%2FBTXrBeR1GTomdfGjQq1WQ&X-Amz-Signature=fae43626f2bfa49e2a1918b120b62db2906f01042257de072dd1cf6900828358&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2026-03-12T12:47:01.524Z"
+        }
+      },
+      "color": "green_background"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b72f6743-3263-4b22-bb4b-19975416f352",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:26:00.000Z",
+    "last_edited_time": "2024-06-17T08:26:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "15d2df26-6046-45fc-8760-da21f6bf06ed",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:26:00.000Z",
+    "last_edited_time": "2024-06-17T08:26:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Technical lead",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Technical lead",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "bf533e96-7fdd-4f34-9d59-1c65f3e81de5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:26:00.000Z",
+    "last_edited_time": "2025-05-20T11:44:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Kikapay, United Kingdom | 2020 - 2022",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "gray"
+          },
+          "plain_text": "Kikapay, United Kingdom | 2020 - 2022",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b798aebf-fca9-458d-9d39-fa5f284295fb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:26:00.000Z",
+    "last_edited_time": "2024-06-17T08:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Designed architecture",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Designed architecture",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "494c744e-7ba8-426c-9211-fa551900915a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:45:00.000Z",
+    "last_edited_time": "2024-06-17T08:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Individual contributions to the codebases",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Individual contributions to the codebases",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c77fdabe-647e-4132-8ed0-311bfa9ee658",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:45:00.000Z",
+    "last_edited_time": "2024-06-17T08:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Interfacing with founders",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Interfacing with founders",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d6abeaa5-5e7e-4591-9cc3-c765883d1cf8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:45:00.000Z",
+    "last_edited_time": "2024-06-17T08:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Team leadership",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Team leadership",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "44df334f-741d-4b14-a07e-59b69c41ae5c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:26:00.000Z",
+    "last_edited_time": "2024-06-17T09:07:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I led Kikapay through the full project lifecycle from initiation to closure: designing the initial architecture, development, new feature design development, monitoring and maintenance. I led a team ranging from 3 to 12 engineers.\n\nKikapay was an early adopter of the Open Banking specification and we developed applications that were not yet available to the world. It was a fast paced environment with much uncertainty around user’s needs. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I led Kikapay through the full project lifecycle from initiation to closure: designing the initial architecture, development, new feature design development, monitoring and maintenance. I led a team ranging from 3 to 12 engineers.\n\nKikapay was an early adopter of the Open Banking specification and we developed applications that were not yet available to the world. It was a fast paced environment with much uncertainty around user’s needs. ",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/e07d1076-8605-4622-815a-6fef4ad854f7/kikapay_logo.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666TT2TKWV%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T114701Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIF%2FgI8O63NC84rYoS55MIY3s5ojDNLtsGc07Lqzcli0IAiEAo1W3gFZxWVfqTIi%2FDH6EaZoIvtDe2sApcuDOdu978hYq%2FwMIdRAAGgw2Mzc0MjMxODM4MDUiDFoBhiBLQdwamByBuCrcA0KTL%2BI0kkORcmHo5VgUTW6PAYLsBTEjZ5FJ%2FGy2c3Eu5oYrr%2F8Ot5w4hPG%2FqJ5jJdDsATXqCHyL6jHCJsxfOCR7vuswqgpSYtM5dwRdJoAD4TGwiswQ9VgxckkFFVHpl9RxorgDOEvVLtmn4SZS3w9GzFMql7cNugrnbNthEYn8fdUTjOtKiYuiVBHsUz6TUi8hll4%2FmP9frTXoSNz1sZCO%2BdKgnOD%2FWc0Fo7m6ehr%2FlVA9w2h3sFgkdfLjuPIH6kaxeyBxbNSe4BsovfS%2BgTkGhcu2wNXjcuRoHLz4ebb3QDbdUu%2BNpVPb%2Bs17Q4buIhGNMsagJtNU9CqO0zGlsw2e8zWzALI8R8Mg3VqYX64WoLovyVG%2Fg%2Bwy8G8Bl38v9Jh6y%2BN0S90YCCW%2FyDStJ14JiahmSm8eSgxkPan778gp6T%2BbZMS%2F5vq2DpuaZfG8fyCKA1gYjqCzN25KH%2FAyP1lh%2BKNPoLibRSwB2iZst%2BypmijDcjtUAeYtefH94e%2FMDz6%2BTFLTWPcGQbtVqv%2B9BX1yQdFPYx2gKpFZItKMJluQNBjuNSsn7CAgIvNfQORe0sWd%2F30tdHCcJWfI1pm5T2OyINHsSsxboI3SPWeMT0bmEIpugtCHJVWJV8vlMMfGys0GOqUBxT1%2Ffk%2BBsrXJFryQwQlN9DOIdsNU73o26AD7Yn1Xe63XYQkPnOhhER2FpY7BhhHQK4pOb9PUD8k%2BggNUJ6VRG%2FiHvW4XqtubgYcDIB0SOfB9k3TSgudR%2B9EhsKDveaoCpMVf79UogOY9po%2FUQuH1W5XlbC%2FUg1FOJCy5JVHKophAWx%2FmEXLzbtSWWw%2By9L6WQZYowE%2FBTXrBeR1GTomdfGjQq1WQ&X-Amz-Signature=e0b78da5d69584cd4722813f512160c755d80dc225dc40ab8bf65470bd8d11cb&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2026-03-12T12:47:01.844Z"
+        }
+      },
+      "color": "blue_background"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1f9deabd-9164-80b5-a430-ec50af345838",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2025-05-20T11:44:00.000Z",
+    "last_edited_time": "2025-05-20T11:44:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Technical lead",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Technical lead",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1f9deabd-9164-80c6-a72b-d7bce16c0d2f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2025-05-20T11:44:00.000Z",
+    "last_edited_time": "2025-05-20T11:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "EMSOL, United Kingdom | 2019 - 2021",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "gray"
+          },
+          "plain_text": "EMSOL, United Kingdom | 2019 - 2021",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1f9deabd-9164-8025-9541-e7bcbf12da26",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2025-05-20T11:44:00.000Z",
+    "last_edited_time": "2025-05-20T11:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Rewrote the application ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Rewrote the application ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1f9deabd-9164-80ce-a8d3-ed81aff9911a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2025-05-20T11:45:00.000Z",
+    "last_edited_time": "2025-05-20T11:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Launched new products",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Launched new products",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1f9deabd-9164-80ba-a2ea-f85cabf98fad",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2025-05-20T11:44:00.000Z",
+    "last_edited_time": "2025-05-20T11:48:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I led EMSOL through a complete rewrite, launch and further product development cycles. \n\nI managed a team of two engineers. EMSOL hired an in-house team and is still operating today. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I led EMSOL through a complete rewrite, launch and further product development cycles. \n\nI managed a team of two engineers. EMSOL hired an in-house team and is still operating today. ",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/4a242461-6e76-404d-ae1f-dd64f71fbf3c/emsol_logo-2.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666TT2TKWV%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T114701Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIF%2FgI8O63NC84rYoS55MIY3s5ojDNLtsGc07Lqzcli0IAiEAo1W3gFZxWVfqTIi%2FDH6EaZoIvtDe2sApcuDOdu978hYq%2FwMIdRAAGgw2Mzc0MjMxODM4MDUiDFoBhiBLQdwamByBuCrcA0KTL%2BI0kkORcmHo5VgUTW6PAYLsBTEjZ5FJ%2FGy2c3Eu5oYrr%2F8Ot5w4hPG%2FqJ5jJdDsATXqCHyL6jHCJsxfOCR7vuswqgpSYtM5dwRdJoAD4TGwiswQ9VgxckkFFVHpl9RxorgDOEvVLtmn4SZS3w9GzFMql7cNugrnbNthEYn8fdUTjOtKiYuiVBHsUz6TUi8hll4%2FmP9frTXoSNz1sZCO%2BdKgnOD%2FWc0Fo7m6ehr%2FlVA9w2h3sFgkdfLjuPIH6kaxeyBxbNSe4BsovfS%2BgTkGhcu2wNXjcuRoHLz4ebb3QDbdUu%2BNpVPb%2Bs17Q4buIhGNMsagJtNU9CqO0zGlsw2e8zWzALI8R8Mg3VqYX64WoLovyVG%2Fg%2Bwy8G8Bl38v9Jh6y%2BN0S90YCCW%2FyDStJ14JiahmSm8eSgxkPan778gp6T%2BbZMS%2F5vq2DpuaZfG8fyCKA1gYjqCzN25KH%2FAyP1lh%2BKNPoLibRSwB2iZst%2BypmijDcjtUAeYtefH94e%2FMDz6%2BTFLTWPcGQbtVqv%2B9BX1yQdFPYx2gKpFZItKMJluQNBjuNSsn7CAgIvNfQORe0sWd%2F30tdHCcJWfI1pm5T2OyINHsSsxboI3SPWeMT0bmEIpugtCHJVWJV8vlMMfGys0GOqUBxT1%2Ffk%2BBsrXJFryQwQlN9DOIdsNU73o26AD7Yn1Xe63XYQkPnOhhER2FpY7BhhHQK4pOb9PUD8k%2BggNUJ6VRG%2FiHvW4XqtubgYcDIB0SOfB9k3TSgudR%2B9EhsKDveaoCpMVf79UogOY9po%2FUQuH1W5XlbC%2FUg1FOJCy5JVHKophAWx%2FmEXLzbtSWWw%2By9L6WQZYowE%2FBTXrBeR1GTomdfGjQq1WQ&X-Amz-Signature=01aedb45f1acadc9da966bdb6e26173a59ac91d4745b66dd45affe28b6cfa974&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2026-03-12T12:47:01.845Z"
+        }
+      },
+      "color": "blue_background"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6846e2c1-455e-4731-907b-b4ef2dedf1e6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:13:00.000Z",
+    "last_edited_time": "2024-06-17T08:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Certifications and awards",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Certifications and awards",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4dfb313a-0614-49b8-b9f7-f09a6d8e27ed",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:13:00.000Z",
+    "last_edited_time": "2024-06-17T09:07:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "AWS Certified Solutions Architect – Associate",
+            "link": {
+              "url": "https://www.credly.com/badges/d95ea608-1a46-4777-9c63-30316740e8d4"
+            }
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "AWS Certified Solutions Architect – Associate",
+          "href": "https://www.credly.com/badges/d95ea608-1a46-4777-9c63-30316740e8d4"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " ",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "\n",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "\n",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "2021",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "2021",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "emoji",
+        "emoji": "☁️"
+      },
+      "color": "orange_background"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "759b5cb1-fbf6-4a4c-acba-a73035de5dc4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:51:00.000Z",
+    "last_edited_time": "2024-06-17T09:07:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Golden Key International Honours Society",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Golden Key International Honours Society",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "\n",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "\n",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "2016\n\n”Golden Key is the world's largest collegiate honor society. Membership into the Society is by invitation only and applies to the top 15% of college and university sophomores, juniors and seniors, as well as top-performing graduate students in all fields of study, based solely on their academic achievements. As an international honor society with more than 400 chapters at colleges and universities around the world, Golden Key is committed to a high standard of scholastic achievement, and an ethos of integrity, innovation, respect, collaboration and diversity.”",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "2016\n\n”Golden Key is the world's largest collegiate honor society. Membership into the Society is by invitation only and applies to the top 15% of college and university sophomores, juniors and seniors, as well as top-performing graduate students in all fields of study, based solely on their academic achievements. As an international honor society with more than 400 chapters at colleges and universities around the world, Golden Key is committed to a high standard of scholastic achievement, and an ethos of integrity, innovation, respect, collaboration and diversity.”",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "emoji",
+        "emoji": "🏆"
+      },
+      "color": "yellow_background"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "197616e8-bb20-4e95-a95c-ba5d80e1eeaf",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:53:00.000Z",
+    "last_edited_time": "2024-06-17T09:07:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Class Medal for Computer Programming in Matlab - University of Cape Town\n",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Class Medal for Computer Programming in Matlab - University of Cape Town\n",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "2016\n\n",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "2016\n\n",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "”Received the top mark in the class (97%)”",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "”Received the top mark in the class (97%)”",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "emoji",
+        "emoji": "🥇"
+      },
+      "color": "purple_background"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7de37528-235c-471f-9e11-5efcd3c3198d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:50:00.000Z",
+    "last_edited_time": "2024-06-17T09:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Dean's Merit List - University of Cape Town ",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Dean's Merit List - University of Cape Town ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "\n",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "\n",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "2013 - 2016\n",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "2013 - 2016\n",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "\n”The Dean's Merit List, which is published annually, contains the names of students whose academic performance over the year is meritorious and hence worthy of recognition.”",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "\n”The Dean's Merit List, which is published annually, contains the names of students whose academic performance over the year is meritorious and hence worthy of recognition.”",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "emoji",
+        "emoji": "🎓"
+      },
+      "color": "pink_background"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "32f0d33b-3674-4e67-bd3a-1604f745d11a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:56:00.000Z",
+    "last_edited_time": "2024-06-17T09:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Paul van Niekerk award - Oakhill School\n\n",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Paul van Niekerk award - Oakhill School\n\n",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "”This is the most prestigious award at Oakhill. It goes to a learner who generally and for a length of time has represented all that Oakhill stands for”",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "”This is the most prestigious award at Oakhill. It goes to a learner who generally and for a length of time has represented all that Oakhill stands for”",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "emoji",
+        "emoji": "🥇"
+      },
+      "color": "green_background"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c627a860-abd8-476b-a413-f2570221cc2e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:13:00.000Z",
+    "last_edited_time": "2024-06-17T08:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Education",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Education",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e17df8a5-8dcf-4d42-bfa5-315eb1926e12",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:13:00.000Z",
+    "last_edited_time": "2024-06-17T08:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Bachelor of Science in Engineering - BSc (Eng)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Bachelor of Science in Engineering - BSc (Eng)",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4d22108d-fc39-4861-974a-5ae9f4c34708",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:13:00.000Z",
+    "last_edited_time": "2024-06-17T09:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "University of Cape Town",
+            "link": {
+              "url": "https://uct.ac.za/"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "University of Cape Town",
+          "href": "https://uct.ac.za/"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "| 2013 - 2016\n",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "| 2013 - 2016\n",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "168a0e0a-8990-469d-af6a-fa5abec0d06b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:58:00.000Z",
+    "last_edited_time": "2024-06-17T09:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "University of Cape Town description of Electro-mechanical Engineering:\n\nIn today's computerised world, industry welcomes our graduates who understand both the mechanical and electrical engineering disciplines and can design, build, control, and maintain a wide range of engineering products and processes. Examples of these include: motor-cars and aeroplanes (where computers control the engines and ensure that the engines are working efficiently); production machine tools such as automated lathes and milling machines; artificial hearts, and many other products used in the world of medicine; robots that are increasingly used in industry and medicine; even the humble washing machine which is now computer controlled.\nElectro-Mechanical Engineering entails the study of mathematics, physics, chemistry, materials, basic electrical engineering, basic mechanical engineering, and the integration of these in carefully structured design courses.\n\nAwards:\nGolden Key Honors Society Member 2016, Top Student: MAM2082F Programming in MATLAB, Dean's Merit List 2013-2016",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "University of Cape Town description of Electro-mechanical Engineering:\n\nIn today's computerised world, industry welcomes our graduates who understand both the mechanical and electrical engineering disciplines and can design, build, control, and maintain a wide range of engineering products and processes. Examples of these include: motor-cars and aeroplanes (where computers control the engines and ensure that the engines are working efficiently); production machine tools such as automated lathes and milling machines; artificial hearts, and many other products used in the world of medicine; robots that are increasingly used in industry and medicine; even the humble washing machine which is now computer controlled.\nElectro-Mechanical Engineering entails the study of mathematics, physics, chemistry, materials, basic electrical engineering, basic mechanical engineering, and the integration of these in carefully structured design courses.\n\nAwards:\nGolden Key Honors Society Member 2016, Top Student: MAM2082F Programming in MATLAB, Dean's Merit List 2013-2016",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/665382fd-e00a-4d2c-8220-e21760e8daa6/uct_logo.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666TT2TKWV%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T114701Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIF%2FgI8O63NC84rYoS55MIY3s5ojDNLtsGc07Lqzcli0IAiEAo1W3gFZxWVfqTIi%2FDH6EaZoIvtDe2sApcuDOdu978hYq%2FwMIdRAAGgw2Mzc0MjMxODM4MDUiDFoBhiBLQdwamByBuCrcA0KTL%2BI0kkORcmHo5VgUTW6PAYLsBTEjZ5FJ%2FGy2c3Eu5oYrr%2F8Ot5w4hPG%2FqJ5jJdDsATXqCHyL6jHCJsxfOCR7vuswqgpSYtM5dwRdJoAD4TGwiswQ9VgxckkFFVHpl9RxorgDOEvVLtmn4SZS3w9GzFMql7cNugrnbNthEYn8fdUTjOtKiYuiVBHsUz6TUi8hll4%2FmP9frTXoSNz1sZCO%2BdKgnOD%2FWc0Fo7m6ehr%2FlVA9w2h3sFgkdfLjuPIH6kaxeyBxbNSe4BsovfS%2BgTkGhcu2wNXjcuRoHLz4ebb3QDbdUu%2BNpVPb%2Bs17Q4buIhGNMsagJtNU9CqO0zGlsw2e8zWzALI8R8Mg3VqYX64WoLovyVG%2Fg%2Bwy8G8Bl38v9Jh6y%2BN0S90YCCW%2FyDStJ14JiahmSm8eSgxkPan778gp6T%2BbZMS%2F5vq2DpuaZfG8fyCKA1gYjqCzN25KH%2FAyP1lh%2BKNPoLibRSwB2iZst%2BypmijDcjtUAeYtefH94e%2FMDz6%2BTFLTWPcGQbtVqv%2B9BX1yQdFPYx2gKpFZItKMJluQNBjuNSsn7CAgIvNfQORe0sWd%2F30tdHCcJWfI1pm5T2OyINHsSsxboI3SPWeMT0bmEIpugtCHJVWJV8vlMMfGys0GOqUBxT1%2Ffk%2BBsrXJFryQwQlN9DOIdsNU73o26AD7Yn1Xe63XYQkPnOhhER2FpY7BhhHQK4pOb9PUD8k%2BggNUJ6VRG%2FiHvW4XqtubgYcDIB0SOfB9k3TSgudR%2B9EhsKDveaoCpMVf79UogOY9po%2FUQuH1W5XlbC%2FUg1FOJCy5JVHKophAWx%2FmEXLzbtSWWw%2By9L6WQZYowE%2FBTXrBeR1GTomdfGjQq1WQ&X-Amz-Signature=7ad86ad56dddd4c92e2e3c4de176f47c6ec2c141cea93537f1dcbc987ecb49c0&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2026-03-12T12:47:01.845Z"
+        }
+      },
+      "color": "blue_background"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "bc3c114e-f38e-42aa-b9cc-602f804e6124",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:13:00.000Z",
+    "last_edited_time": "2024-06-17T08:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "School",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "School",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "21957d46-1f39-4eb4-856e-e63bd9517715",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:13:00.000Z",
+    "last_edited_time": "2024-06-17T09:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Oakhill School ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Oakhill School ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "| 2001 - 2012",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "| 2001 - 2012",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d6eb86dd-3fe6-46f3-85e7-6ce7ddc3e08c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T09:00:00.000Z",
+    "last_edited_time": "2024-06-17T09:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Grade 81% average",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Grade 81% average",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/1d116440-469c-4628-a62f-8761f97cb911/oakhill_logo.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666TT2TKWV%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T114701Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIF%2FgI8O63NC84rYoS55MIY3s5ojDNLtsGc07Lqzcli0IAiEAo1W3gFZxWVfqTIi%2FDH6EaZoIvtDe2sApcuDOdu978hYq%2FwMIdRAAGgw2Mzc0MjMxODM4MDUiDFoBhiBLQdwamByBuCrcA0KTL%2BI0kkORcmHo5VgUTW6PAYLsBTEjZ5FJ%2FGy2c3Eu5oYrr%2F8Ot5w4hPG%2FqJ5jJdDsATXqCHyL6jHCJsxfOCR7vuswqgpSYtM5dwRdJoAD4TGwiswQ9VgxckkFFVHpl9RxorgDOEvVLtmn4SZS3w9GzFMql7cNugrnbNthEYn8fdUTjOtKiYuiVBHsUz6TUi8hll4%2FmP9frTXoSNz1sZCO%2BdKgnOD%2FWc0Fo7m6ehr%2FlVA9w2h3sFgkdfLjuPIH6kaxeyBxbNSe4BsovfS%2BgTkGhcu2wNXjcuRoHLz4ebb3QDbdUu%2BNpVPb%2Bs17Q4buIhGNMsagJtNU9CqO0zGlsw2e8zWzALI8R8Mg3VqYX64WoLovyVG%2Fg%2Bwy8G8Bl38v9Jh6y%2BN0S90YCCW%2FyDStJ14JiahmSm8eSgxkPan778gp6T%2BbZMS%2F5vq2DpuaZfG8fyCKA1gYjqCzN25KH%2FAyP1lh%2BKNPoLibRSwB2iZst%2BypmijDcjtUAeYtefH94e%2FMDz6%2BTFLTWPcGQbtVqv%2B9BX1yQdFPYx2gKpFZItKMJluQNBjuNSsn7CAgIvNfQORe0sWd%2F30tdHCcJWfI1pm5T2OyINHsSsxboI3SPWeMT0bmEIpugtCHJVWJV8vlMMfGys0GOqUBxT1%2Ffk%2BBsrXJFryQwQlN9DOIdsNU73o26AD7Yn1Xe63XYQkPnOhhER2FpY7BhhHQK4pOb9PUD8k%2BggNUJ6VRG%2FiHvW4XqtubgYcDIB0SOfB9k3TSgudR%2B9EhsKDveaoCpMVf79UogOY9po%2FUQuH1W5XlbC%2FUg1FOJCy5JVHKophAWx%2FmEXLzbtSWWw%2By9L6WQZYowE%2FBTXrBeR1GTomdfGjQq1WQ&X-Amz-Signature=cc2ecd54f5a90bc960665aa9b7397b062826f0362939fee9cfa60a575a96076d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2026-03-12T12:47:01.845Z"
+        }
+      },
+      "color": "green_background"
+    },
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "6020ba65-124a-4f9f-87b2-6c4d17cda64f",
+        "parent": {
+          "type": "block_id",
+          "block_id": "d6eb86dd-3fe6-46f3-85e7-6ce7ddc3e08c"
+        },
+        "created_time": "2024-06-17T09:00:00.000Z",
+        "last_edited_time": "2024-06-17T09:00:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Awards:\n• Paul van Niekerk award – “this is the most prestigious award at Oakhill. It goes to a learner who generally and for a length of time has represented all that Oakhill stands for.”\n• Head of House 2012",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Awards:\n• Paul van Niekerk award – “this is the most prestigious award at Oakhill. It goes to a learner who generally and for a length of time has represented all that Oakhill stands for.”\n• Head of House 2012",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "5801a21b-3bf9-4a48-8fa5-573c412096c9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:13:00.000Z",
+    "last_edited_time": "2024-06-17T08:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "33524e0e-3628-4075-9c5b-eba12975e2f8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T08:13:00.000Z",
+    "last_edited_time": "2024-06-17T08:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "divider",
+    "divider": {},
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "fbda7746-3b78-4e13-880d-3ba2bc094d26",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2024-06-17T09:08:00.000Z",
+    "last_edited_time": "2024-06-17T09:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

@@ -1,0 +1,1120 @@
+[
+  {
+    "object": "block",
+    "id": "c603ec9e-2da6-4fc4-ae09-62195c1b1de6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "690fa194-b71b-4d9a-91eb-0ee05af36ecd"
+    },
+    "created_time": "2022-01-20T11:05:00.000Z",
+    "last_edited_time": "2022-01-20T11:20:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I went to Injesuti in the Drakensberg over Christmas 2021. The intention was not for a running holiday, but I did manage to sneak in one longer run:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I went to Injesuti in the Drakensberg over Christmas 2021. The intention was not for a running holiday, but I did manage to sneak in one longer run:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ccbda2a4-8490-4795-9a2c-e61b76f74bb0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "690fa194-b71b-4d9a-91eb-0ee05af36ecd"
+    },
+    "created_time": "2022-01-20T11:20:00.000Z",
+    "last_edited_time": "2022-01-22T11:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "embed",
+    "embed": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Here is another link ",
+            "link": {
+              "url": "https://www.strava.com/activities/6433434424"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Here is another link ",
+          "href": "https://www.strava.com/activities/6433434424"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "to the run if the embed above doesn’t work.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "to the run if the embed above doesn’t work.",
+          "href": null
+        }
+      ],
+      "url": "https://connect.garmin.com/modern/activity/embed/8016508975"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8d6324bf-0d8b-4000-b482-822fb5ffe9ea",
+    "parent": {
+      "type": "page_id",
+      "page_id": "690fa194-b71b-4d9a-91eb-0ee05af36ecd"
+    },
+    "created_time": "2022-01-22T11:04:00.000Z",
+    "last_edited_time": "2022-01-22T11:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "369e7d73-323d-4d3e-b07d-c21b45ae5846",
+    "parent": {
+      "type": "page_id",
+      "page_id": "690fa194-b71b-4d9a-91eb-0ee05af36ecd"
+    },
+    "created_time": "2022-01-20T11:20:00.000Z",
+    "last_edited_time": "2022-01-22T11:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I’m writing this to share some of the things that I discovered, hopefully with the intension of being better prepared for Ultra Trail Drakensberg in April 2022. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I’m writing this to share some of the things that I discovered, hopefully with the intension of being better prepared for Ultra Trail Drakensberg in April 2022. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e1a96f9e-4afb-4e48-9e2a-b69aaa5e0298",
+    "parent": {
+      "type": "page_id",
+      "page_id": "690fa194-b71b-4d9a-91eb-0ee05af36ecd"
+    },
+    "created_time": "2022-01-20T11:22:00.000Z",
+    "last_edited_time": "2022-01-20T11:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_1",
+    "heading_1": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The run",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The run",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ca03a128-259c-47c9-886b-80b82d448601",
+    "parent": {
+      "type": "page_id",
+      "page_id": "690fa194-b71b-4d9a-91eb-0ee05af36ecd"
+    },
+    "created_time": "2022-01-20T11:23:00.000Z",
+    "last_edited_time": "2022-01-22T10:48:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "To cut a long story short. I set off at about 6am, telling everyone that I’d be back at midday before the 2pm thunderstorms. I had an incredible first ~17km of blissful running, then roughly at the halfway mark I discovered that the path was absolutely gone in an overgrown shady valley. I did some bushwacking, and luckily was able to follow a route that a herd of cattle had created earlier that day. The head high vegetation proved to be slow going. I managed to get back out onto the grassy hillside and all was perfect again.\n\nLow and behold, whenever the trail edged closer to the base of “",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "To cut a long story short. I set off at about 6am, telling everyone that I’d be back at midday before the 2pm thunderstorms. I had an incredible first ~17km of blissful running, then roughly at the halfway mark I discovered that the path was absolutely gone in an overgrown shady valley. I did some bushwacking, and luckily was able to follow a route that a herd of cattle had created earlier that day. The head high vegetation proved to be slow going. I managed to get back out onto the grassy hillside and all was perfect again.\n\nLow and behold, whenever the trail edged closer to the base of “",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "The Monk’s Cowl",
+            "link": {
+              "url": "https://www.wheretostay.co.za/topic/3253-monks-cowl-nature-reserve"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The Monk’s Cowl",
+          "href": "https://www.wheretostay.co.za/topic/3253-monks-cowl-nature-reserve"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "”; the dense vegetation set in and the path was nowhere to be seen. Suddenly, 800m sections were taking closer to an hour. All in all I think that there were about five of these hard to navigate sections. Throwing a bit of a spanner in the works of my midday arrival back at camp. \n\nThe time was now 11:30am and I was 22km in. I knew that I had roughly 10km more so I tried to send out an SMS to let my family know that all was well, and that I would be back closer to 2pm. There was a beautiful moment when one bar of reception appeared and everything was easy, but by some act of god there was a thunder clap in the distance and it was all “No Service” from there on out”. Of course this was the day that the thunderstorm comes early.\n\nI had to go as fast as I could the remaining 10km to get back to the camp. Lightning, thunder and rain set in, but to be honest I had the best time. To keep my mind of the fact that there were probably some pretty worried people waiting for me at the end I thought about the things that I was going to write in here to help you all prepare for your UTD.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "”; the dense vegetation set in and the path was nowhere to be seen. Suddenly, 800m sections were taking closer to an hour. All in all I think that there were about five of these hard to navigate sections. Throwing a bit of a spanner in the works of my midday arrival back at camp. \n\nThe time was now 11:30am and I was 22km in. I knew that I had roughly 10km more so I tried to send out an SMS to let my family know that all was well, and that I would be back closer to 2pm. There was a beautiful moment when one bar of reception appeared and everything was easy, but by some act of god there was a thunder clap in the distance and it was all “No Service” from there on out”. Of course this was the day that the thunderstorm comes early.\n\nI had to go as fast as I could the remaining 10km to get back to the camp. Lightning, thunder and rain set in, but to be honest I had the best time. To keep my mind of the fact that there were probably some pretty worried people waiting for me at the end I thought about the things that I was going to write in here to help you all prepare for your UTD.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9905d85f-fa33-42d6-912c-18988d286b72",
+    "parent": {
+      "type": "page_id",
+      "page_id": "690fa194-b71b-4d9a-91eb-0ee05af36ecd"
+    },
+    "created_time": "2022-01-20T11:22:00.000Z",
+    "last_edited_time": "2022-01-20T11:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_1",
+    "heading_1": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Terrain",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Terrain",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e174fb65-521c-4a9e-b8cb-971faed7296d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "690fa194-b71b-4d9a-91eb-0ee05af36ecd"
+    },
+    "created_time": "2022-01-20T11:33:00.000Z",
+    "last_edited_time": "2022-01-22T10:20:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The the signal was terrible, the views were magnificent.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The the signal was terrible, the views were magnificent.",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/c89d34291afc766a.png",
+        "expiry_time": "2026-03-12T11:22:59.343Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "2bbd5172-ef1a-41af-bf81-1764555ce057",
+    "parent": {
+      "type": "page_id",
+      "page_id": "690fa194-b71b-4d9a-91eb-0ee05af36ecd"
+    },
+    "created_time": "2022-01-20T11:30:00.000Z",
+    "last_edited_time": "2022-01-22T10:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Injisuti",
+            "link": {
+              "url": "https://drakensberghikes.com/directory/explore-by-region/central-drakensberg/injisuthi"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Injisuti",
+          "href": "https://drakensberghikes.com/directory/explore-by-region/central-drakensberg/injisuthi"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " is pretty quintessential Drakensberg; rolling grassy hills, meandering paths cut by cattle, steep mountain climbs and views as far as the eye can see. The UTD course will be similar, and I think that some of this advice will be transferrable. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " is pretty quintessential Drakensberg; rolling grassy hills, meandering paths cut by cattle, steep mountain climbs and views as far as the eye can see. The UTD course will be similar, and I think that some of this advice will be transferrable. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3e3f4680-8069-4d5a-aa61-41c93da39d20",
+    "parent": {
+      "type": "page_id",
+      "page_id": "690fa194-b71b-4d9a-91eb-0ee05af36ecd"
+    },
+    "created_time": "2022-01-20T11:33:00.000Z",
+    "last_edited_time": "2022-01-20T11:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Rolling grassy hills",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Rolling grassy hills",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7b58582e-f4d8-40c4-be25-dac5ab0f7345",
+    "parent": {
+      "type": "page_id",
+      "page_id": "690fa194-b71b-4d9a-91eb-0ee05af36ecd"
+    },
+    "created_time": "2022-01-20T11:32:00.000Z",
+    "last_edited_time": "2022-01-22T09:25:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I found the rolling grassy hills both the most enjoyable and challenging terrain to run through. Most of these trails are created and maintained by the herds of cattle that roam these mountains. This leads to very compact small trails that are firm underfoot, but still uneven due to hoof sized holes.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I found the rolling grassy hills both the most enjoyable and challenging terrain to run through. Most of these trails are created and maintained by the herds of cattle that roam these mountains. This leads to very compact small trails that are firm underfoot, but still uneven due to hoof sized holes.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "144d7510-fb66-43a0-8f4c-128f31a7c6c6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "690fa194-b71b-4d9a-91eb-0ee05af36ecd"
+    },
+    "created_time": "2022-01-22T09:28:00.000Z",
+    "last_edited_time": "2022-01-22T10:19:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Does it get any better than this?",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Does it get any better than this?",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/ccad0af4ee73a12a.png",
+        "expiry_time": "2026-03-12T11:22:59.344Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b49f10ad-f64a-412e-9d7f-91a865b39175",
+    "parent": {
+      "type": "page_id",
+      "page_id": "690fa194-b71b-4d9a-91eb-0ee05af36ecd"
+    },
+    "created_time": "2022-01-22T09:29:00.000Z",
+    "last_edited_time": "2022-01-22T10:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "There was an absolutely iconic section of the run that traverses a grassy ridge line, with deep valleys on either side. Both said valleys were home to overgrown forrest sections that caused things to slow drastically down, but along the ridge, life was good. \n\nThis photo accurately depicts the classic path that you would find on these grassy hills; small, about a human foot wide. Short, shin high grassy on either side. With a firm, but uneven dirt trail underlying it all.\n\nThe most important thing to note here is how the grass bends over from both ends to cover the trail. It means that when you are running, you actually can’t see the trail under the bent grass. Twisted ankle terrain. I found that the only way to safely run here was to spring along with very quick steps on my toes. The reason for this was to ensure that if I landed on uneven ground, I would be able to sense the unevenness as soon as my toe touched the ground. Due to the fact that my heel still had a little way to go before it touched the ground, it gives you just enough time to catch your balance and prevent your ankle from rolling. Ensuring that you keep your cadence high, or your steps quick, you ensure that the amount of time each foot has to spend on the ground is greatly reduced. This therefore allows your feet to work as a team; the foot in the air is always able to quick shoot down and find another point of contact if the other foot yells: “Aaaah! there’s a loose rock here, help me out!”\n\nContrast this was a more traditional heel strike gait; your heel is not as sensitive as the ball of your foot. This means that if your heel strikes uneven ground, you will not be able to sense the unevenness, causing your ankle to begin to roll. If you have incredibly strong and quick acting ankles then your muscles will be able to prevent your ankle rolling past a dangerous angle before the other foot is able to reach the ground. Most people, myself included, don’t ankles capable of preventing an injury on that inevitable loose rock that absentmindedly ruins your day. \n\nFrom a gear point of view, I think that shoes and socks definitely must be mentioned here. I was running in ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "There was an absolutely iconic section of the run that traverses a grassy ridge line, with deep valleys on either side. Both said valleys were home to overgrown forrest sections that caused things to slow drastically down, but along the ridge, life was good. \n\nThis photo accurately depicts the classic path that you would find on these grassy hills; small, about a human foot wide. Short, shin high grassy on either side. With a firm, but uneven dirt trail underlying it all.\n\nThe most important thing to note here is how the grass bends over from both ends to cover the trail. It means that when you are running, you actually can’t see the trail under the bent grass. Twisted ankle terrain. I found that the only way to safely run here was to spring along with very quick steps on my toes. The reason for this was to ensure that if I landed on uneven ground, I would be able to sense the unevenness as soon as my toe touched the ground. Due to the fact that my heel still had a little way to go before it touched the ground, it gives you just enough time to catch your balance and prevent your ankle from rolling. Ensuring that you keep your cadence high, or your steps quick, you ensure that the amount of time each foot has to spend on the ground is greatly reduced. This therefore allows your feet to work as a team; the foot in the air is always able to quick shoot down and find another point of contact if the other foot yells: “Aaaah! there’s a loose rock here, help me out!”\n\nContrast this was a more traditional heel strike gait; your heel is not as sensitive as the ball of your foot. This means that if your heel strikes uneven ground, you will not be able to sense the unevenness, causing your ankle to begin to roll. If you have incredibly strong and quick acting ankles then your muscles will be able to prevent your ankle rolling past a dangerous angle before the other foot is able to reach the ground. Most people, myself included, don’t ankles capable of preventing an injury on that inevitable loose rock that absentmindedly ruins your day. \n\nFrom a gear point of view, I think that shoes and socks definitely must be mentioned here. I was running in ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Altra Lone Peak 5s",
+            "link": {
+              "url": "https://altrafootwear.co.za/collections/lone-peak-5"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Altra Lone Peak 5s",
+          "href": "https://altrafootwear.co.za/collections/lone-peak-5"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ", and while I’m not here to sell the shoe to you, let me tell you the characteristics that made me choose it: first and foremost, I can still feel the ground that I’m stepping on. That really allows you to still make use of all the nerves in the bottom of your foot, that give you vital information on what the ground is like that you’re stepping on. While big cushy shoes are lovely for other reasons, I sometimes feel it’s a blindfold for the “eyes” on my feet. It’s definitely case by case, but if you’re reading this and have never thought of minimal shoes in this way; I urge you to try out a pair to feel what it’s like to see the ground with your feet.\n\nA final piece of advice here is going to be ankle strength. While toe striking on these trails may give you the edge over heel striking, it doesn’t make you immune to a twisted ankle. Your ankle still needs to support itself until the other foot is able to land and restore balance. If your ankle is weak there will be times that the other foot doesn’t land in time and your ankle bends too much. \n\nIn that same breath, your balance as a whole doesn’t rely on your ankles. Almost all other muscles in your body are responsible for keeping you upright. If there were to be any muscles you really couldn’t do without, it would be your core and back; be sure to keep them strong.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ", and while I’m not here to sell the shoe to you, let me tell you the characteristics that made me choose it: first and foremost, I can still feel the ground that I’m stepping on. That really allows you to still make use of all the nerves in the bottom of your foot, that give you vital information on what the ground is like that you’re stepping on. While big cushy shoes are lovely for other reasons, I sometimes feel it’s a blindfold for the “eyes” on my feet. It’s definitely case by case, but if you’re reading this and have never thought of minimal shoes in this way; I urge you to try out a pair to feel what it’s like to see the ground with your feet.\n\nA final piece of advice here is going to be ankle strength. While toe striking on these trails may give you the edge over heel striking, it doesn’t make you immune to a twisted ankle. Your ankle still needs to support itself until the other foot is able to land and restore balance. If your ankle is weak there will be times that the other foot doesn’t land in time and your ankle bends too much. \n\nIn that same breath, your balance as a whole doesn’t rely on your ankles. Almost all other muscles in your body are responsible for keeping you upright. If there were to be any muscles you really couldn’t do without, it would be your core and back; be sure to keep them strong.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b19a75be-9a86-4511-9117-cb87f270cb11",
+    "parent": {
+      "type": "page_id",
+      "page_id": "690fa194-b71b-4d9a-91eb-0ee05af36ecd"
+    },
+    "created_time": "2022-01-22T09:32:00.000Z",
+    "last_edited_time": "2022-01-22T09:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Slippery when wet",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Slippery when wet",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1740ca55-7054-4114-9802-ba90b493c310",
+    "parent": {
+      "type": "page_id",
+      "page_id": "690fa194-b71b-4d9a-91eb-0ee05af36ecd"
+    },
+    "created_time": "2022-01-22T09:45:00.000Z",
+    "last_edited_time": "2022-01-22T10:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Once it started to rain, it got slippery. Like ice. No photos were taken during this part of the run for obvious reasons.\n\nThere’s not much to say here other than it was impossible to run on. I had to brave it out in the wet grassy mounts, void of any path. It was slow going and required a lot of concentration. \n\nIf you are running any race in the Drakensberg; check the weather. If it’s raining then account for some walking. \n\nWith regards to gear, I personally don’t like wet feet. My shoes are able to drain very quickly and pretty efficiently. It also really helps to cross the numerous streams in the Drakensberg without worry. It goes without saying that shoe grip is the most important thing.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Once it started to rain, it got slippery. Like ice. No photos were taken during this part of the run for obvious reasons.\n\nThere’s not much to say here other than it was impossible to run on. I had to brave it out in the wet grassy mounts, void of any path. It was slow going and required a lot of concentration. \n\nIf you are running any race in the Drakensberg; check the weather. If it’s raining then account for some walking. \n\nWith regards to gear, I personally don’t like wet feet. My shoes are able to drain very quickly and pretty efficiently. It also really helps to cross the numerous streams in the Drakensberg without worry. It goes without saying that shoe grip is the most important thing.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b096b3ed-9709-49f3-b405-cecc0d97638f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "690fa194-b71b-4d9a-91eb-0ee05af36ecd"
+    },
+    "created_time": "2022-01-20T11:22:00.000Z",
+    "last_edited_time": "2022-01-20T11:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_1",
+    "heading_1": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Equipment",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Equipment",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "cc8278c3-a9d2-4b73-83ab-78b07ebeba93",
+    "parent": {
+      "type": "page_id",
+      "page_id": "690fa194-b71b-4d9a-91eb-0ee05af36ecd"
+    },
+    "created_time": "2022-01-22T10:53:00.000Z",
+    "last_edited_time": "2022-01-22T10:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Setting off from the camp.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Setting off from the camp.",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/91c2306140659d53.png",
+        "expiry_time": "2026-03-12T11:22:59.344Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "537f0e02-5208-417b-a0b7-2621df9da30b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "690fa194-b71b-4d9a-91eb-0ee05af36ecd"
+    },
+    "created_time": "2022-01-22T10:17:00.000Z",
+    "last_edited_time": "2022-01-22T10:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f7a54eab-3dfc-4ac4-a240-07a7e156d43e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "690fa194-b71b-4d9a-91eb-0ee05af36ecd"
+    },
+    "created_time": "2022-01-20T11:23:00.000Z",
+    "last_edited_time": "2022-01-22T10:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The UTD trail list is comprehensive. And while it’s possible to rent or borrow most things, in the back of your mind you wonder that “if it is on the compulsory trail list, then maybe it would actually be quite useful to me?” \n\nLet’s start from the top. Hats are important anywhere in South Africa. For shirts, I found that the temperatures fluctuate quickly. It was very hot during the middle of the day, and suddenly when the clouds set in the temperate plummets. I find that a thin top that offers sun protection and allows airflow works for the heat of the day. Then when the cold sets in I use a thermal layer underneath. The rain comes in fast and hard; a rain jacket is imperitive.  \n\nI use a 12L hydration pack. I carried 1L of water as there was plenty of water in the mountains this time of the year. Carry as much water as the race recommends. I brought lots of food, a medical kit, snacks, electrolytes, a pack of ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The UTD trail list is comprehensive. And while it’s possible to rent or borrow most things, in the back of your mind you wonder that “if it is on the compulsory trail list, then maybe it would actually be quite useful to me?” \n\nLet’s start from the top. Hats are important anywhere in South Africa. For shirts, I found that the temperatures fluctuate quickly. It was very hot during the middle of the day, and suddenly when the clouds set in the temperate plummets. I find that a thin top that offers sun protection and allows airflow works for the heat of the day. Then when the cold sets in I use a thermal layer underneath. The rain comes in fast and hard; a rain jacket is imperitive.  \n\nI use a 12L hydration pack. I carried 1L of water as there was plenty of water in the mountains this time of the year. Carry as much water as the race recommends. I brought lots of food, a medical kit, snacks, electrolytes, a pack of ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Rennie",
+            "link": {
+              "url": "https://www.rennie.co.za/?gclid=CjwKCAiA866PBhAYEiwANkIneDfw4H7Na3XfmXHGkIGOnz8VfHAuu-9ugm2r9viiHFfJRxtQjNOV0hoCZWAQAvD_BwE"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Rennie",
+          "href": "https://www.rennie.co.za/?gclid=CjwKCAiA866PBhAYEiwANkIneDfw4H7Na3XfmXHGkIGOnz8VfHAuu-9ugm2r9viiHFfJRxtQjNOV0hoCZWAQAvD_BwE"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "’s that is a miracle cure in the case of a cramp, suncream, a head torch even though I thought to be home 7 hours before dark, a space blanket, a whistle, a cellphone and coffee because obviously. \n\nI didn’t have gloves, but oh how I wish I had gloves. On multiple occasions while running through rain my fingers have become incredibly cold. The blood doesn’t travel all the way to your extremities when you’re cold, and during a run your body is clever enough to realise that your hands aren’t the most useful parts of the body at the moment. Waterproof gloves, I need them. \n\nI don’t have poles, have never used them and am not sure what I think of them. I didn’t really wish that I had them during this run. That being said I have no idea what I might be missing out on without them. \n\nI wore short tights. I wish I had long tights. My legs were freely bleeding by the time that I got home. There were brambles, old burnt sticks waiting to scratch you and thorns of all shapes and sizes around some corners. While I wasn’t too affected by them during the run, I still have scabs almost a month later. I must admit that if I had worn long pants, they might not have had much of a life after that. So it’s a hard decision to make next time, come to think of it; I’ll probably wear shorts again though.\n\nIn a similar tone to poles, I have had no experience with gaters. Although here are the reasons that I think I might have loved them: my shoes got full of sand on either side of crossing streams, a myriad of small thorns, twigs and burs made their way into my shoes and socks and any extra leg protection would have been welcome during this run. I personally will get gaters before I run through the Drakensberg again. \n\nSocks are very subjective. I used ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "’s that is a miracle cure in the case of a cramp, suncream, a head torch even though I thought to be home 7 hours before dark, a space blanket, a whistle, a cellphone and coffee because obviously. \n\nI didn’t have gloves, but oh how I wish I had gloves. On multiple occasions while running through rain my fingers have become incredibly cold. The blood doesn’t travel all the way to your extremities when you’re cold, and during a run your body is clever enough to realise that your hands aren’t the most useful parts of the body at the moment. Waterproof gloves, I need them. \n\nI don’t have poles, have never used them and am not sure what I think of them. I didn’t really wish that I had them during this run. That being said I have no idea what I might be missing out on without them. \n\nI wore short tights. I wish I had long tights. My legs were freely bleeding by the time that I got home. There were brambles, old burnt sticks waiting to scratch you and thorns of all shapes and sizes around some corners. While I wasn’t too affected by them during the run, I still have scabs almost a month later. I must admit that if I had worn long pants, they might not have had much of a life after that. So it’s a hard decision to make next time, come to think of it; I’ll probably wear shorts again though.\n\nIn a similar tone to poles, I have had no experience with gaters. Although here are the reasons that I think I might have loved them: my shoes got full of sand on either side of crossing streams, a myriad of small thorns, twigs and burs made their way into my shoes and socks and any extra leg protection would have been welcome during this run. I personally will get gaters before I run through the Drakensberg again. \n\nSocks are very subjective. I used ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "these socks",
+            "link": {
+              "url": "https://versussocks.com/collections/running-socks/products/shadow-stripes-running-socks"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "these socks",
+          "href": "https://versussocks.com/collections/running-socks/products/shadow-stripes-running-socks"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " and found them wonderful because they dried quickly even after being submerged, didn’t cause blisters and were thin enough to not distort the feeling of the ground. \n\nShoes have been covered already. Ground sensitivity, grip and water draining ability is what I look for.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " and found them wonderful because they dried quickly even after being submerged, didn’t cause blisters and were thin enough to not distort the feeling of the ground. \n\nShoes have been covered already. Ground sensitivity, grip and water draining ability is what I look for.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "541d912c-ed2d-47b7-bd66-1c8d96d0837f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "690fa194-b71b-4d9a-91eb-0ee05af36ecd"
+    },
+    "created_time": "2022-01-20T11:23:00.000Z",
+    "last_edited_time": "2022-01-20T11:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_1",
+    "heading_1": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Altitude ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Altitude ",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "fee18f58-4c5a-4d0c-9814-63657ea5be8c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "690fa194-b71b-4d9a-91eb-0ee05af36ecd"
+    },
+    "created_time": "2022-01-22T10:39:00.000Z",
+    "last_edited_time": "2022-01-22T10:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/048a4a4dbaaecb2a.png",
+        "expiry_time": "2026-03-12T11:22:59.344Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9e7da896-d8e1-49a5-9aed-2e0a1a242ca2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "690fa194-b71b-4d9a-91eb-0ee05af36ecd"
+    },
+    "created_time": "2022-01-20T11:34:00.000Z",
+    "last_edited_time": "2022-01-22T10:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I’m going to preface this with the fact that I do not have any experience doing exercise of any kind at altitude. I was curious to see if the altitude would be perceivable when I got to the Drakensberg. \n\nPrior to arriving in Injisuti, I had been at sea level for months before. We drove to the Drakensberg, spending a night in Hilton before and then arriving and going for a hike and jog the next day. During this first run I was very much aware that I was short of breath, and noticeably more tired than I should have been. It feels very similar to waking up the morning after smoking more than 10 cigarettes.\n\nI went for two more runs before this specific longer run. During the longer run I noticed that my shortness of breath was much better, yet not completely normal. I arrived back in the camp after this run not exhausted, and I felt that I wasn’t more tired that I should have been. During the run I didn’t notice anything completely out of the ordinary with regards to my respiratory system. So all in all, I had acclimatised well after 5 days.\n\nI think that if I had done the long run on day one then it would have been a very different story.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I’m going to preface this with the fact that I do not have any experience doing exercise of any kind at altitude. I was curious to see if the altitude would be perceivable when I got to the Drakensberg. \n\nPrior to arriving in Injisuti, I had been at sea level for months before. We drove to the Drakensberg, spending a night in Hilton before and then arriving and going for a hike and jog the next day. During this first run I was very much aware that I was short of breath, and noticeably more tired than I should have been. It feels very similar to waking up the morning after smoking more than 10 cigarettes.\n\nI went for two more runs before this specific longer run. During the longer run I noticed that my shortness of breath was much better, yet not completely normal. I arrived back in the camp after this run not exhausted, and I felt that I wasn’t more tired that I should have been. During the run I didn’t notice anything completely out of the ordinary with regards to my respiratory system. So all in all, I had acclimatised well after 5 days.\n\nI think that if I had done the long run on day one then it would have been a very different story.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

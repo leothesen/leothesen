@@ -1,0 +1,2494 @@
+[
+  {
+    "object": "block",
+    "id": "b4c7a76a-b409-4079-b13b-297d9e32b2ae",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-08T08:43:00.000Z",
+    "last_edited_time": "2022-09-08T08:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The fluffy cat (named Pebbles) spent the entire night cuddled up against me inside the sleeping bag. She was incessant that she would not suffer in the cold when she knew that there was a warm cocoon to be enjoyed.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The fluffy cat (named Pebbles) spent the entire night cuddled up against me inside the sleeping bag. She was incessant that she would not suffer in the cold when she knew that there was a warm cocoon to be enjoyed.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "999cd8dd-8049-4dfb-8701-e5c7f1542135",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-08T08:43:00.000Z",
+    "last_edited_time": "2022-09-08T08:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c89094ed-73e0-48bf-a7cc-5b40221e610b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-08T08:43:00.000Z",
+    "last_edited_time": "2022-09-08T08:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "When I wake she doesn’t seem ready to leave and headbutts me in the nose to try and let her back inside the sleeping bag. I’m resolute and begin the morning. Disaster! I’m out of coffee. I knew that this day would come so I dig through my food crate for my absolute worst case disaster emergency supply of Jakob’s Gold - oh forgive me Cape Town, for I have sinned.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "When I wake she doesn’t seem ready to leave and headbutts me in the nose to try and let her back inside the sleeping bag. I’m resolute and begin the morning. Disaster! I’m out of coffee. I knew that this day would come so I dig through my food crate for my absolute worst case disaster emergency supply of Jakob’s Gold - oh forgive me Cape Town, for I have sinned.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a3eb1ada-adea-4950-ab03-1cb5070ca9a1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-08T08:50:00.000Z",
+    "last_edited_time": "2022-09-08T08:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a5ea00a4-46cd-4491-bb9c-2544e0665fe4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-08T08:49:00.000Z",
+    "last_edited_time": "2022-09-08T08:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/3b97604341cf4824.jpeg",
+        "expiry_time": "2026-03-12T09:45:49.520Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f6469420-ae2b-49d0-ae5b-bbf06c89fa39",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-08T08:45:00.000Z",
+    "last_edited_time": "2022-09-08T08:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d1874b3d-168f-4733-bbed-74c118772934",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-08T08:45:00.000Z",
+    "last_edited_time": "2022-09-08T08:46:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I douse the coffee in honey and it’s less terrible. Some reading in the sun; Red Dog is coming to an end and I’m savouring every page. I potter around and go up to the common room to speak to the owners who are having a meeting. They encourage me to go for a hike and then to do a horseback ride tomorrow morning.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I douse the coffee in honey and it’s less terrible. Some reading in the sun; Red Dog is coming to an end and I’m savouring every page. I potter around and go up to the common room to speak to the owners who are having a meeting. They encourage me to go for a hike and then to do a horseback ride tomorrow morning.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7bc8f43d-475c-4ad4-bcac-4e68e6aefcf3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-08T08:46:00.000Z",
+    "last_edited_time": "2022-09-08T08:46:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "604b1cca-251e-4bcf-a156-a2048c5af89a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-08T08:49:00.000Z",
+    "last_edited_time": "2022-09-08T08:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/0a46624f-b82f-40dc-bfe6-fed50e43d72f/FE7C6F70-AC8D-49DA-8350-1875AABE6645.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466T2VV5MTW%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084549Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDYKM2ooljVTcdpBijNo7pNdPj%2BLB6etrrLo%2FYVcCPEFQIhAOX3WMbzmPcOwH4wLrMd7rlMyWrQC%2FgRUEhThI5Ka6sDKv8DCHEQABoMNjM3NDIzMTgzODA1Igwehphy7R2y%2BUJKrgsq3AP%2BtvNdbC%2BeQnHToXpxu3BZI8vXU18PeERwctRLOYo2QbYY34z8kBDgMdu8KXtbGHwaCcJbt%2BHyfYyUF2J87N%2F8%2BMeFcIBYRMZNkqflZ5vLwXX72QH8P2BEgPdMS%2FKkwddM50KKMqGw%2FfhoV7j2cIELV10Rpvf8R9UE2Yc%2FCnZ7ruAVb24CC0Xqg2f6dxnDu478JL7yC0vWwFUTJV9rtrBeaXgpHNfKII281OlthhyJVgswfKl%2Ff8SxP2fNyqfE42IG6SiPkZZcm5iec1HjgFbe1Bl07ChlKCxZ3o6x6%2FVst%2BmPB%2BIvQwiMEktLutz2VQQ6O%2F2DcZ0LybKn8P%2FFbP6yuJkRcZQpoWKToPFDQf3Q1CHMtUzCHsVlYw%2BcJ%2BzmeHXrRUepCfKPSCsafcFP9qjUXTHlVMp9uuL81diTQwlmYu8WvXolFjobqHWyKvIMreIrkZy9oQCshox%2BEc0YH%2F2dynF%2FEz%2BUHLJzWzeb1JjVgt9y2vNkVzPjevcQdCRiEhTiPFBU5XViOuCJh69feYeuF4r8WgoAQeZtJmDok%2BcGrKjOq82%2BTYE%2FcnCxmUV7Sm2l1APfTjN0aFnCj5Y2LYBYPcgC8ySbTYmiKktiEY3uUm%2F7QGQvojHVUA%2FA%2FDCv7MnNBjqkAWgDlTqqh24yJPO%2FO%2Fmdh62xwK4GYKoPBOWE8gwACwYdWd4ROIHkP5DBMHKUL2RB1smqhL2ikw3ycJ2%2Ftmo%2BEij5CbdFbYV0c%2BZeizXz24k31bzmgLL0PtTyWrAIUJ1O8y7pq9zvJ5tG9n5bYOrNBkQHEErD6svck82RgJQ5MlxZpjVu3TxcNttfAWldTSK1OyYKC%2FKhDyOcGYn4X0gFrFfxc8JD&X-Amz-Signature=e8527332fd940a29eb21f9362fb0a2f746cceccfada2d7a03a9e72206670e83f&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2026-03-12T09:45:49.520Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8887b8a5-3b44-4577-a26b-ff419a3b1872",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-08T08:46:00.000Z",
+    "last_edited_time": "2022-09-08T08:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7abce535-8913-44bb-8852-53001a00ccc7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-08T08:46:00.000Z",
+    "last_edited_time": "2022-09-08T15:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I make a quick oats and then come up to answer one work request. Time to pack the bag and spend head off into the hills.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I make a quick oats and then come up to answer one work request. Time to pack the bag and spend head off into the hills.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f7feb249-12d6-4d66-a8a9-d83baf2d0f47",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-08T15:36:00.000Z",
+    "last_edited_time": "2022-09-08T15:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1bc30c80-df72-4e7a-9be0-932d59b9e49a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-08T15:36:00.000Z",
+    "last_edited_time": "2022-09-08T15:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I basically just go up the river, without a plan. I am half considering eating some mushrooms that I bought in Mdumbi - but it’s been a long time since I’ve done any and I definitely have a little bit of an internal debate going on. I discover some really beautiful little cascading pools that the river trips down. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I basically just go up the river, without a plan. I am half considering eating some mushrooms that I bought in Mdumbi - but it’s been a long time since I’ve done any and I definitely have a little bit of an internal debate going on. I discover some really beautiful little cascading pools that the river trips down. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "89806ca7-bfdb-4836-a19e-7275b56c616f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-08T15:38:00.000Z",
+    "last_edited_time": "2022-09-08T15:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d5ea5874-6a00-4136-a82b-1e187e8348e5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-08T15:38:00.000Z",
+    "last_edited_time": "2022-09-09T18:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The land is barren and bare, there has been a fire here recently and the thick clumps of grass crunch satisfyingly under foot. I continue walking up the river, there seems to be a distant path on either bank. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The land is barren and bare, there has been a fire here recently and the thick clumps of grass crunch satisfyingly under foot. I continue walking up the river, there seems to be a distant path on either bank. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3837fa5e-ad51-48ef-a7f5-bcbe589cedc5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:13:00.000Z",
+    "last_edited_time": "2022-09-09T18:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "232ce5fa-27d5-438e-a519-fe8c89579a21",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:10:00.000Z",
+    "last_edited_time": "2022-09-09T18:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/4a4129577d0f147d.jpeg",
+        "expiry_time": "2026-03-12T09:45:49.520Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b2937b08-019c-42a4-bf6d-4c3579f05a88",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:09:00.000Z",
+    "last_edited_time": "2022-09-09T18:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "14377eb4-7078-4bc4-af07-74f0848bbf87",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:09:00.000Z",
+    "last_edited_time": "2022-09-09T18:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I come across an absolutely beautiful rock pool. A perfect circle with a small cliff on the one side sprouting a small waterfall. Dense vegetation surrounds the upstream hemisphere and a small wooden house peeks out from the trees above. I’m slightly conflicted whether if I should stay here or move on further up river. It is both absolutely perfect, but I’m slightly put off by the house and I also haven’t really been walking for very long at this point.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I come across an absolutely beautiful rock pool. A perfect circle with a small cliff on the one side sprouting a small waterfall. Dense vegetation surrounds the upstream hemisphere and a small wooden house peeks out from the trees above. I’m slightly conflicted whether if I should stay here or move on further up river. It is both absolutely perfect, but I’m slightly put off by the house and I also haven’t really been walking for very long at this point.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1a0cb3cc-ffb8-4a64-9e1a-5aa7e67af434",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:13:00.000Z",
+    "last_edited_time": "2022-09-09T18:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f37b05eb-061f-44cb-9b45-58c4bdc5214b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:11:00.000Z",
+    "last_edited_time": "2022-09-09T18:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I decide to continue up the river, but will come back here if there is nothing better. Up the river there are more cascading pools, but nothing as deep and swimmable as the perfect pool. I feel slightly more at ease in the midday heat knowing that there is a pool back there with some shade, so I decide to eat half of the mushrooms - alway wise to eat half the dosage and then see.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I decide to continue up the river, but will come back here if there is nothing better. Up the river there are more cascading pools, but nothing as deep and swimmable as the perfect pool. I feel slightly more at ease in the midday heat knowing that there is a pool back there with some shade, so I decide to eat half of the mushrooms - alway wise to eat half the dosage and then see.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0e528712-47ee-48af-a974-550678754b6a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:15:00.000Z",
+    "last_edited_time": "2022-09-09T18:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "28acc455-d1e8-4a2a-a3d8-82deb1d7bcf2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:15:00.000Z",
+    "last_edited_time": "2022-09-09T18:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I sit under a tree and try mask the taste with some Energade jellies. Some people would probably be shocked at this, but I really struggle with the taste and consistency of mushrooms as they are. Heading off up the river I discover an almost perfect spot. It’s just slightly tainted by the fact that I can hear logging trucks over the hill, and the large ferns that would have hung over the pool succumbed to the fire. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I sit under a tree and try mask the taste with some Energade jellies. Some people would probably be shocked at this, but I really struggle with the taste and consistency of mushrooms as they are. Heading off up the river I discover an almost perfect spot. It’s just slightly tainted by the fact that I can hear logging trucks over the hill, and the large ferns that would have hung over the pool succumbed to the fire. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1d906c1d-2280-413c-91c1-3f6191db82a0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:17:00.000Z",
+    "last_edited_time": "2022-09-09T18:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e4a88b80-081a-4043-b7f9-a7d7c313fa49",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:17:00.000Z",
+    "last_edited_time": "2022-09-09T18:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I have an urge to move my body, and also see the logging trucks. There’s a small path along the river bank and I sprint for all my body is worth until I see the dust clouds and destruction from the plantation. It makes me feel all kinds of things, but I wouldn’t say that anger or blame were in the list.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I have an urge to move my body, and also see the logging trucks. There’s a small path along the river bank and I sprint for all my body is worth until I see the dust clouds and destruction from the plantation. It makes me feel all kinds of things, but I wouldn’t say that anger or blame were in the list.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "42f1ada3-7a4a-4866-be78-a816ce677140",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:18:00.000Z",
+    "last_edited_time": "2022-09-09T18:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "78a92b06-47d5-464c-a89e-86e9d8020525",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:18:00.000Z",
+    "last_edited_time": "2022-09-09T18:20:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I head back to the perfect pool. The last little piece of anxiety that I would like to clear up is if anyone is in the house. I do some yelling of “hello” and other strange noises and then peer inside. It’s abandoned and falling apart, although it still has a magic about it due to the location. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I head back to the perfect pool. The last little piece of anxiety that I would like to clear up is if anyone is in the house. I do some yelling of “hello” and other strange noises and then peer inside. It’s abandoned and falling apart, although it still has a magic about it due to the location. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "558fa9ad-c639-4ea1-be13-825bf7d2bd81",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:20:00.000Z",
+    "last_edited_time": "2022-09-09T18:20:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ca76ca70-8804-4532-ba9a-44b92a4718b4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:20:00.000Z",
+    "last_edited_time": "2022-09-09T18:22:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I clammer down to the pool and settle down on a rock next to the water. It’s on the other side of midday and know that I’m not going to be wanting to eat much soon, let alone biltong. So I gulp down the bag before they start to come alive. Classic Leo, you need to floss again. Oh wait, there’s a toothpick at the bottom of the packet. It’s upon breaking the tip of the toothpick in a back molar and honestly struggling for five minutes to get it out all the while laughing at the absurdity of the situation that I know that the experience is beginning. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I clammer down to the pool and settle down on a rock next to the water. It’s on the other side of midday and know that I’m not going to be wanting to eat much soon, let alone biltong. So I gulp down the bag before they start to come alive. Classic Leo, you need to floss again. Oh wait, there’s a toothpick at the bottom of the packet. It’s upon breaking the tip of the toothpick in a back molar and honestly struggling for five minutes to get it out all the while laughing at the absurdity of the situation that I know that the experience is beginning. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "bd35d583-fdb5-46d4-a4a6-9753958b306d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:22:00.000Z",
+    "last_edited_time": "2022-09-09T18:22:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "fd268180-adb3-4d4d-a573-8f97d16034cb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:22:00.000Z",
+    "last_edited_time": "2022-09-09T18:25:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I wonder if I should set some intentions for the trip, so I begin to think up a few. I’ve had a question about determinism recently that I haven’t answered convincingly: “do you have the free will to move your attention from one thing to the next, or is that too governed by prior experiences like our thoughts?”. Will such a questions on mushroom could go any number of ways, so I decide to give it a shot. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I wonder if I should set some intentions for the trip, so I begin to think up a few. I’ve had a question about determinism recently that I haven’t answered convincingly: “do you have the free will to move your attention from one thing to the next, or is that too governed by prior experiences like our thoughts?”. Will such a questions on mushroom could go any number of ways, so I decide to give it a shot. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a92badf0-3581-4ae5-af52-049fc2d9f2ae",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:25:00.000Z",
+    "last_edited_time": "2022-09-09T18:25:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a7a21da6-32c5-4c37-a230-2ef70276cde5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:25:00.000Z",
+    "last_edited_time": "2022-09-09T18:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The bodily sensations of warmth and a heightened awareness if smaller stimulus affecting the skin begin. Colours exaggerate and solid edges blur slightly. I’m happy with the dosage, I’m reticent of a complete change in the conscious experience - mostly because I’m just enjoying my sober mind so much at the moment. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The bodily sensations of warmth and a heightened awareness if smaller stimulus affecting the skin begin. Colours exaggerate and solid edges blur slightly. I’m happy with the dosage, I’m reticent of a complete change in the conscious experience - mostly because I’m just enjoying my sober mind so much at the moment. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "548519e9-88aa-4e6f-98b2-9827aedd4505",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:28:00.000Z",
+    "last_edited_time": "2022-09-09T18:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f3b940a6-796f-47ca-b0fc-f3ce9900b640",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:28:00.000Z",
+    "last_edited_time": "2022-09-09T18:30:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I spend about fifteen minutes walking to the opposite bank, finding a rock in the sun and then squatting and rolling a cigarette. Against all odds I prevail! I think about how a friend told me that smoking a cigarette on mushrooms made I’m quit. I unfortunately enjoy it very much. Although that reminds me - I must go and buy some nicotine chewing gum and try that out.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I spend about fifteen minutes walking to the opposite bank, finding a rock in the sun and then squatting and rolling a cigarette. Against all odds I prevail! I think about how a friend told me that smoking a cigarette on mushrooms made I’m quit. I unfortunately enjoy it very much. Although that reminds me - I must go and buy some nicotine chewing gum and try that out.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "443e0217-688a-4f75-91eb-4446a8ba91d4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:30:00.000Z",
+    "last_edited_time": "2022-09-09T18:30:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6d3523fe-d0b0-45d2-9a60-73581d57a013",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:30:00.000Z",
+    "last_edited_time": "2022-09-09T18:34:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I’m hot. Must swim. I squat on the rock naked, poking a finger into to the water occasionally and giggling. I have been observing my mind over the last little bit and notice that it still behaves basically the same; the spotlight awareness jumping from thing to thing and the floodlight awareness dishing up the next thing for the spotlight. It’s just that the things in the floodlight seem to be different. All the sensations and stimulus from the world seem to be analysed slightly differently. Important things are not thoughts, pains and movements as when you are sober, but are replaced by almost everything at once. I notice feelings in my body that normally never get conscious attention. Thoughts reach the surface that are quite obscure but also brilliant. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I’m hot. Must swim. I squat on the rock naked, poking a finger into to the water occasionally and giggling. I have been observing my mind over the last little bit and notice that it still behaves basically the same; the spotlight awareness jumping from thing to thing and the floodlight awareness dishing up the next thing for the spotlight. It’s just that the things in the floodlight seem to be different. All the sensations and stimulus from the world seem to be analysed slightly differently. Important things are not thoughts, pains and movements as when you are sober, but are replaced by almost everything at once. I notice feelings in my body that normally never get conscious attention. Thoughts reach the surface that are quite obscure but also brilliant. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5e274d9b-df80-4fdf-9c32-d64d9ebcb7f6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:34:00.000Z",
+    "last_edited_time": "2022-09-09T18:34:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "97531533-08e1-4431-85c0-a245e1ecf6ed",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:34:00.000Z",
+    "last_edited_time": "2022-09-09T18:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I watch my mind trying to bring it to itself to dive in the water. It does a good job of talking its way out of it and trying to become interested in psychedelic patterns in the water. I mean yes, they are quite interesting, but you’ve been staring at them for some time now - just jump. It takes a while and then it just happens. Determinism wim and I swim without free will in bliss. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I watch my mind trying to bring it to itself to dive in the water. It does a good job of talking its way out of it and trying to become interested in psychedelic patterns in the water. I mean yes, they are quite interesting, but you’ve been staring at them for some time now - just jump. It takes a while and then it just happens. Determinism wim and I swim without free will in bliss. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d26b2b3e-5b4f-4cc0-8b13-0a3916d81cc1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:11:00.000Z",
+    "last_edited_time": "2022-09-09T18:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I’ve scrounged up the last remaining coffee grounds from various places and have almost enough for a coffee. The burner is setup and I boil some water. Of course I drop the Aeropress and a little coffee falls into the pool, I giggle at that for a bit. The coffee is good and upon opening the packet of mini eet-sum-mors I am relieved to see that they aren’t behaving like living organisms and eat them far too quickly dunked in the coffee.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I’ve scrounged up the last remaining coffee grounds from various places and have almost enough for a coffee. The burner is setup and I boil some water. Of course I drop the Aeropress and a little coffee falls into the pool, I giggle at that for a bit. The coffee is good and upon opening the packet of mini eet-sum-mors I am relieved to see that they aren’t behaving like living organisms and eat them far too quickly dunked in the coffee.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b4d1b3f6-abfa-4b71-8ce6-303a4fa3157d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:38:00.000Z",
+    "last_edited_time": "2022-09-09T18:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "396bb7c6-e46d-4c8d-aaca-a6e76316fe97",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:38:00.000Z",
+    "last_edited_time": "2022-09-09T18:41:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I’ve brought the fastpack and the tools required to paint a watercolour. I don’t think too much and just start. The 0.3mm fineliner is the only pen that seems to say “pick me”. The lines kind of draw themselves in a crude representation of where the boundaries between things should be. The colours are so much fun to paint, I watch the colour melt outwards, into the page and become new colours when they reach a friend. The picture as it looked in the moment that I took this picture truly was a work of art, it’s true essence doesn’t seem to have endured the end of the psychedelic experience though. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I’ve brought the fastpack and the tools required to paint a watercolour. I don’t think too much and just start. The 0.3mm fineliner is the only pen that seems to say “pick me”. The lines kind of draw themselves in a crude representation of where the boundaries between things should be. The colours are so much fun to paint, I watch the colour melt outwards, into the page and become new colours when they reach a friend. The picture as it looked in the moment that I took this picture truly was a work of art, it’s true essence doesn’t seem to have endured the end of the psychedelic experience though. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "2fda5b2a-5c0a-4af2-aa16-1eca314ef6d9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:11:00.000Z",
+    "last_edited_time": "2022-09-09T18:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "11462022-48f8-4e57-a11d-8a2c4a590e72",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:10:00.000Z",
+    "last_edited_time": "2022-09-09T18:11:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/e539c2dbd8f8da3f.jpeg",
+        "expiry_time": "2026-03-12T09:45:49.747Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "2b7840d3-e43a-4dc1-82c2-731ad0795ee2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:42:00.000Z",
+    "last_edited_time": "2022-09-09T18:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c97d3efc-7df4-47b8-ac3b-d38fc1d79e38",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:42:00.000Z",
+    "last_edited_time": "2022-09-09T18:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I spend some time watching ants and other small creatures. A ladybug catches my eye and heart. I don’t name it yet talk to it as if we’re friends. And then it’s time to leave I decide. Not that I’m in a rush, but just that I’d like to do some walking. The peak of the trip has come and gone and my mind is feeling analogous to the perfect pool.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I spend some time watching ants and other small creatures. A ladybug catches my eye and heart. I don’t name it yet talk to it as if we’re friends. And then it’s time to leave I decide. Not that I’m in a rush, but just that I’d like to do some walking. The peak of the trip has come and gone and my mind is feeling analogous to the perfect pool.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "64e7c533-a6b3-411a-908e-daae5f3a08c0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:42:00.000Z",
+    "last_edited_time": "2022-09-09T18:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5884fae1-dbde-49bd-99b6-4cc09b623641",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:10:00.000Z",
+    "last_edited_time": "2022-09-09T18:11:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/86fc1a8dca4debe0.jpeg",
+        "expiry_time": "2026-03-12T09:45:49.748Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a725512d-1eef-4437-b55e-c165159fd6ae",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:43:00.000Z",
+    "last_edited_time": "2022-09-09T18:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6ecf9c65-108e-4f54-ae87-63774d89fa22",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:43:00.000Z",
+    "last_edited_time": "2022-09-09T18:46:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The burnt grass is so fun to crunch underfoot. I crunch my way off the path and in the direction of the looming Drakensberg to take a picture. They seem to have done some controlled burning here recently, but hadn’t cleared the land completely of nonorganic objects. I find strange forms of melted metal and some broken grass. I pick up the triangular shard from a beer bottle and inspect it closely. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The burnt grass is so fun to crunch underfoot. I crunch my way off the path and in the direction of the looming Drakensberg to take a picture. They seem to have done some controlled burning here recently, but hadn’t cleared the land completely of nonorganic objects. I find strange forms of melted metal and some broken grass. I pick up the triangular shard from a beer bottle and inspect it closely. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f61b1fab-fc72-4010-a9a3-3946dddaa64d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:47:00.000Z",
+    "last_edited_time": "2022-09-09T18:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1bdb8fbe-9476-44c9-80dd-3cf6f74abba9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:44:00.000Z",
+    "last_edited_time": "2022-09-09T18:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/6f423683475a18f2.jpeg",
+        "expiry_time": "2026-03-12T09:45:50.007Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3333a207-7616-4075-8a1c-830f79a20606",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:43:00.000Z",
+    "last_edited_time": "2022-09-09T18:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "948c8d86-5fdc-4ede-8272-1404fd9fbd29",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:43:00.000Z",
+    "last_edited_time": "2022-09-09T18:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The view of the Berg is beautiful. The mountains are still under a purple hue in the far distance. The contrast between them, the sky and the dry farmlands is captivating. I notice the rest of the beer bottle and am immediately compelled to break it. I pick up a deformed metal poll and tap it with enough force to break the bottle. I laugh at why I’ve just done this “it’s so unlike me”, I ponder this whole conundrum for a while, make peace with it - literally shaking my two hands together - and then cleaning up the bottle.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The view of the Berg is beautiful. The mountains are still under a purple hue in the far distance. The contrast between them, the sky and the dry farmlands is captivating. I notice the rest of the beer bottle and am immediately compelled to break it. I pick up a deformed metal poll and tap it with enough force to break the bottle. I laugh at why I’ve just done this “it’s so unlike me”, I ponder this whole conundrum for a while, make peace with it - literally shaking my two hands together - and then cleaning up the bottle.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0b215906-eac0-465a-abf7-ab16ad277fb3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:43:00.000Z",
+    "last_edited_time": "2022-09-09T18:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7b8ac56f-257f-4739-8b4f-c98914d94382",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:44:00.000Z",
+    "last_edited_time": "2022-09-09T18:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/d321eeafb650e4be.jpeg",
+        "expiry_time": "2026-03-12T09:45:50.007Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e67079a3-4000-4ac8-974c-d45c99e8081a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:50:00.000Z",
+    "last_edited_time": "2022-09-09T18:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6eca3713-bb1f-40ff-8e3d-dacb754190e2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:50:00.000Z",
+    "last_edited_time": "2022-09-09T18:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I see a truck on a distant hill loaded with hay bales. Two people are trying to throw the bales off the truck into a fenced off area. The whole scene is quite picturesque and interesting so I squat on a rock and watch for a while. They seem to listen to the thoughts that I’m having and one gets into the truck, reverses it very fast and then slams on the breaks. We’re all quite disappointed when this doesn’t work in dislodging all the load.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I see a truck on a distant hill loaded with hay bales. Two people are trying to throw the bales off the truck into a fenced off area. The whole scene is quite picturesque and interesting so I squat on a rock and watch for a while. They seem to listen to the thoughts that I’m having and one gets into the truck, reverses it very fast and then slams on the breaks. We’re all quite disappointed when this doesn’t work in dislodging all the load.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "70e4ad86-ca77-44b9-95e1-374ae4585902",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:52:00.000Z",
+    "last_edited_time": "2022-09-09T18:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "73883569-02ef-4304-a7b7-b1ddb7ce7ae4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:52:00.000Z",
+    "last_edited_time": "2022-09-09T18:54:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Pebbles meets me at my car and we have a cuddle. I take a shower and play some music. Two 4x4s arrive; one older couple in a Land Rover Defender with a rooftop tent that raises itself and the other a young Dutch couple in a Toyota Pajero that had seen better days. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Pebbles meets me at my car and we have a cuddle. I take a shower and play some music. Two 4x4s arrive; one older couple in a Land Rover Defender with a rooftop tent that raises itself and the other a young Dutch couple in a Toyota Pajero that had seen better days. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "bcebd633-58fc-4cd5-b54f-be4a9ee91aa4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:54:00.000Z",
+    "last_edited_time": "2022-09-09T18:54:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "fc2d15b4-5c49-4eb6-8c4e-d2aec2e043b9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:54:00.000Z",
+    "last_edited_time": "2022-09-09T18:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I potter around for a while and then go to chat to the Dutch Couple, Luke and Leonard. I go up to talk they’re fun, interesting and interested. Steve - the owner of Khotso - and Clinton bring some beers and we have a chat while watching the sun set and the nearly full moon come out. Steve invites me for dinner at this house.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I potter around for a while and then go to chat to the Dutch Couple, Luke and Leonard. I go up to talk they’re fun, interesting and interested. Steve - the owner of Khotso - and Clinton bring some beers and we have a chat while watching the sun set and the nearly full moon come out. Steve invites me for dinner at this house.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6a81e23f-3f70-459d-9227-3178c50010e5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:56:00.000Z",
+    "last_edited_time": "2022-09-09T18:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "bc0e24dd-af50-448a-bd0c-2b00a01ba629",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:56:00.000Z",
+    "last_edited_time": "2022-09-09T18:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I smoke a cigarette with Luke and Leonard. They are delighted to see that I have filters and I give them some. They have been rolling cardboard filters for weeks after not being near a big enough shop. They’ve just finished up their studies and have bought this car to travel around Africa for six months and are near the end of their trip. They have wild stories and they definitely have done the trip properly. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I smoke a cigarette with Luke and Leonard. They are delighted to see that I have filters and I give them some. They have been rolling cardboard filters for weeks after not being near a big enough shop. They’ve just finished up their studies and have bought this car to travel around Africa for six months and are near the end of their trip. They have wild stories and they definitely have done the trip properly. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "652f090a-059c-46a1-ae59-3b346c7c0839",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:58:00.000Z",
+    "last_edited_time": "2022-09-09T18:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f5abcf26-524e-4b21-bd56-ea9a204019bb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:58:00.000Z",
+    "last_edited_time": "2022-09-09T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I walk up to the main house and Lulu is outside yelling things in Spanish to someone on the phone with lots of laughter in between. She waves me inside and I find Steve watching TV. We go to the kitchen which has a lovely large warm Aga oven. He starts reheating the stew and we talk about ourselves a bit to share some context. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I walk up to the main house and Lulu is outside yelling things in Spanish to someone on the phone with lots of laughter in between. She waves me inside and I find Steve watching TV. We go to the kitchen which has a lovely large warm Aga oven. He starts reheating the stew and we talk about ourselves a bit to share some context. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b4e016b6-140a-464f-ba80-20ad2a9e080d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T19:00:00.000Z",
+    "last_edited_time": "2022-09-09T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "606ac1cc-603b-4311-8e92-4ffc3ed0ab64",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T19:00:00.000Z",
+    "last_edited_time": "2022-09-09T19:02:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Lulu comes to join and we talk about their travels around the wold, their next travels and other matters concerning living on a horse farm. After dinner Steve whips out some Timtams and Lulu is mind blown when I show her how to bite both ends off and use it as a straw to drink tea. Then suddenly Steve gets a message that the Queen of England has died and we get thrown into a whole different world.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Lulu comes to join and we talk about their travels around the wold, their next travels and other matters concerning living on a horse farm. After dinner Steve whips out some Timtams and Lulu is mind blown when I show her how to bite both ends off and use it as a straw to drink tea. Then suddenly Steve gets a message that the Queen of England has died and we get thrown into a whole different world.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c057206f-cd61-4fdb-a115-f3b31e91a353",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T19:02:00.000Z",
+    "last_edited_time": "2022-09-09T19:02:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7c5373ca-de3c-4bcf-9c0c-997fc526a540",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T19:02:00.000Z",
+    "last_edited_time": "2022-09-09T19:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Both Steve and Lulu are quite mortified and shocked. We sit on the couch and watch the news as British reporters bumble to find things to continue talking about after they’ve shown all the footage that they have. I don’t have the slightest feeling towards the British royalty but I’m quite captivated by the story. Then after almost an hour I show myself out and thank them for dinner.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Both Steve and Lulu are quite mortified and shocked. We sit on the couch and watch the news as British reporters bumble to find things to continue talking about after they’ve shown all the footage that they have. I don’t have the slightest feeling towards the British royalty but I’m quite captivated by the story. Then after almost an hour I show myself out and thank them for dinner.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9e37abb3-4c0b-48f4-9ff7-d7f958c78e95",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T19:04:00.000Z",
+    "last_edited_time": "2022-09-09T19:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6a13ab98-1309-4f42-8556-8661d5303185",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T19:04:00.000Z",
+    "last_edited_time": "2022-09-09T19:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I bump into Luke and Leonard again and we discuss the queen as they have a similar affiliation to her. We share a laugh or two and head off to bed. Pebbles is charging around the farm hellbent on catching things that I cannot see. I finish Red Dog and am just blown away - I think that this is one of the best books I’ve read in a long time. Just as I’m about to close my eyes Pebbles mews and then settles in for a sleep between my legs. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I bump into Luke and Leonard again and we discuss the queen as they have a similar affiliation to her. We share a laugh or two and head off to bed. Pebbles is charging around the farm hellbent on catching things that I cannot see. I finish Red Dog and am just blown away - I think that this is one of the best books I’ve read in a long time. Just as I’m about to close my eyes Pebbles mews and then settles in for a sleep between my legs. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6565fdc7-0069-4aed-b639-9b3b39e0b4a5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:50:00.000Z",
+    "last_edited_time": "2022-09-09T18:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f6f87d3b-bdcc-4e78-a111-25047ded13a8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1a470b4c-9dc8-4f11-8576-43897307b439"
+    },
+    "created_time": "2022-09-09T18:50:00.000Z",
+    "last_edited_time": "2022-09-09T18:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

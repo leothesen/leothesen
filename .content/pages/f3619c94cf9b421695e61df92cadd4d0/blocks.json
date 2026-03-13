@@ -1,0 +1,938 @@
+[
+  {
+    "object": "block",
+    "id": "b9ed8f9e-f2e8-47aa-85c7-d278370fa8b3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f3619c94-cf9b-4216-95e6-1df92cadd4d0"
+    },
+    "created_time": "2022-08-30T11:47:00.000Z",
+    "last_edited_time": "2022-08-30T11:48:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The aim is to get to Mdumbi early to have a surf. In actuality it turns out that leaving quickly is still very hard for me. A coffee, breakfast and one too many long goodbyes later I’m on the road.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The aim is to get to Mdumbi early to have a surf. In actuality it turns out that leaving quickly is still very hard for me. A coffee, breakfast and one too many long goodbyes later I’m on the road.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "bc0a290d-b111-4949-a11a-09ad7ece32e5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f3619c94-cf9b-4216-95e6-1df92cadd4d0"
+    },
+    "created_time": "2022-08-30T11:48:00.000Z",
+    "last_edited_time": "2022-08-30T11:48:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "80ccb894-7563-4728-8b08-64080e0e8218",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f3619c94-cf9b-4216-95e6-1df92cadd4d0"
+    },
+    "created_time": "2022-08-30T11:48:00.000Z",
+    "last_edited_time": "2022-08-30T11:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I’m feeling so comfortable in the Eastern Cape now. Traffic is familiar. Hazard lights seem to turn themselves on when there are animals on the road. Interactions with people are effortless and cherished.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I’m feeling so comfortable in the Eastern Cape now. Traffic is familiar. Hazard lights seem to turn themselves on when there are animals on the road. Interactions with people are effortless and cherished.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "efc618d9-c33d-4aa2-b83d-e7d476e977be",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f3619c94-cf9b-4216-95e6-1df92cadd4d0"
+    },
+    "created_time": "2022-08-30T11:49:00.000Z",
+    "last_edited_time": "2022-08-30T11:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ba972cd8-4cf7-4a19-907c-95e060762915",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f3619c94-cf9b-4216-95e6-1df92cadd4d0"
+    },
+    "created_time": "2022-08-30T11:49:00.000Z",
+    "last_edited_time": "2022-08-30T11:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I got stuck into some podcasts in the car. I finished off the last interview that Sam Harris did with Will Macaskill that was great. It was discussing the moral issue around what weight the future generations and world should be given when making decisions around what is correct to do and support today.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I got stuck into some podcasts in the car. I finished off the last interview that Sam Harris did with Will Macaskill that was great. It was discussing the moral issue around what weight the future generations and world should be given when making decisions around what is correct to do and support today.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4e926e8d-3244-4250-94e8-f23b888c0c3b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f3619c94-cf9b-4216-95e6-1df92cadd4d0"
+    },
+    "created_time": "2022-08-30T11:56:00.000Z",
+    "last_edited_time": "2022-08-30T11:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f0ffae79-2a04-4bb4-b3c6-b28a1794d6c0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f3619c94-cf9b-4216-95e6-1df92cadd4d0"
+    },
+    "created_time": "2022-08-30T11:56:00.000Z",
+    "last_edited_time": "2022-08-30T11:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "After that I finished off the series called “Time management for mere mortals” on the Waking Up app that was absolutely brilliant. I really loved how Oliver wrapped it up by justifying that there is no real point or meaning to life, but deducing that the only thing that we can actually do in context of that is to make the absolute most of every moment. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "After that I finished off the series called “Time management for mere mortals” on the Waking Up app that was absolutely brilliant. I really loved how Oliver wrapped it up by justifying that there is no real point or meaning to life, but deducing that the only thing that we can actually do in context of that is to make the absolute most of every moment. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "122d841a-66ab-4426-b97c-67e081211f24",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f3619c94-cf9b-4216-95e6-1df92cadd4d0"
+    },
+    "created_time": "2022-08-30T11:57:00.000Z",
+    "last_edited_time": "2022-08-30T11:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f10f8b68-bb69-425a-b423-4b573aae7e91",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f3619c94-cf9b-4216-95e6-1df92cadd4d0"
+    },
+    "created_time": "2022-08-30T11:57:00.000Z",
+    "last_edited_time": "2022-08-30T11:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I’m driving through Mthatha when I am struck by a mental reminder to buy a “Koi” portable watercolour set. Painting is not something that I find myself doing very often at all - but it’s definitely been something that I want to get into. When I saw Fred painting a cute little scene of the Mdumbi backpacker’s sunroom I really thought that this was the sign that I was looking for. Mthatha surely has a art supply store? It did! And I walked out with a kiddies watercolour set and two brushes. I’m excited to make use of the Moleskine book that my mom gifted me. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I’m driving through Mthatha when I am struck by a mental reminder to buy a “Koi” portable watercolour set. Painting is not something that I find myself doing very often at all - but it’s definitely been something that I want to get into. When I saw Fred painting a cute little scene of the Mdumbi backpacker’s sunroom I really thought that this was the sign that I was looking for. Mthatha surely has a art supply store? It did! And I walked out with a kiddies watercolour set and two brushes. I’m excited to make use of the Moleskine book that my mom gifted me. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "93cae858-a951-493e-91c9-e9fb87037f9d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f3619c94-cf9b-4216-95e6-1df92cadd4d0"
+    },
+    "created_time": "2022-08-30T11:59:00.000Z",
+    "last_edited_time": "2022-08-30T11:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d048089d-ef2e-4b87-b94c-32d30e303b22",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f3619c94-cf9b-4216-95e6-1df92cadd4d0"
+    },
+    "created_time": "2022-08-30T11:59:00.000Z",
+    "last_edited_time": "2022-08-30T12:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The drive goes quickly - the route is familiar. When I hit the dirt road for the last forty minutes of the drive I slow right down and just enjoy it. Arriving at Mdumbi backpackers for the third time in a month is great - I’m given such a warm reception and welcome back. Julian comes out of his rondavel for a hug and a hello. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The drive goes quickly - the route is familiar. When I hit the dirt road for the last forty minutes of the drive I slow right down and just enjoy it. Arriving at Mdumbi backpackers for the third time in a month is great - I’m given such a warm reception and welcome back. Julian comes out of his rondavel for a hug and a hello. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "fafc3aa9-6c74-41b1-ae4e-3396a4a42fc3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f3619c94-cf9b-4216-95e6-1df92cadd4d0"
+    },
+    "created_time": "2022-08-30T12:01:00.000Z",
+    "last_edited_time": "2022-08-30T12:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1732c883-1154-4af5-a631-32d53dd710bb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f3619c94-cf9b-4216-95e6-1df92cadd4d0"
+    },
+    "created_time": "2022-08-30T12:01:00.000Z",
+    "last_edited_time": "2022-08-30T12:20:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We have a lovely chat and I make a quick lunch of “Transkei nachos” which is basically just Salticrax with melted cheese and some vegetable sautéd in curry paste. People are impressed. The surf seems to be on and we take a coffee down there to check. By coffee I obviously mean a oat milk latte because Julian is Julian. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We have a lovely chat and I make a quick lunch of “Transkei nachos” which is basically just Salticrax with melted cheese and some vegetable sautéd in curry paste. People are impressed. The surf seems to be on and we take a coffee down there to check. By coffee I obviously mean a oat milk latte because Julian is Julian. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "05644018-15a3-4411-8a87-347d3e233be2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f3619c94-cf9b-4216-95e6-1df92cadd4d0"
+    },
+    "created_time": "2022-08-30T12:04:00.000Z",
+    "last_edited_time": "2022-08-30T12:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "88ccc598-758b-4d90-a7f4-71bcd9d007bd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f3619c94-cf9b-4216-95e6-1df92cadd4d0"
+    },
+    "created_time": "2022-08-30T12:04:00.000Z",
+    "last_edited_time": "2022-08-30T12:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "There is a whole crew of people here: Dom the Tasmanian is still here, Lisa the volunteer, Lorenzo from Italy, Lina from Mozambique and her boyfriend XXXXX, Elly and XXXX.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "There is a whole crew of people here: Dom the Tasmanian is still here, Lisa the volunteer, Lorenzo from Italy, Lina from Mozambique and her boyfriend XXXXX, Elly and XXXX.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "20b16b5c-97dd-4a99-858b-d2c780b6aa57",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f3619c94-cf9b-4216-95e6-1df92cadd4d0"
+    },
+    "created_time": "2022-08-30T12:03:00.000Z",
+    "last_edited_time": "2022-08-30T12:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "464ef2b6-be0b-442d-8e2e-4cd0c47531df",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f3619c94-cf9b-4216-95e6-1df92cadd4d0"
+    },
+    "created_time": "2022-08-30T12:03:00.000Z",
+    "last_edited_time": "2022-08-30T12:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "It’s looking quite small and rather average - but I’m here and I haven’t surfed in ages. Angelica is the go I decide and lag behind the others and I sort out my surf crate and various things. The water is slightly cold and the wind is blowing. It’s small and navigable on the log but the chop makes the board a challenge. I get a couple decent ones before calling it quits after seeing some really fun lefts come through on the inside and running back to get Kim.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "It’s looking quite small and rather average - but I’m here and I haven’t surfed in ages. Angelica is the go I decide and lag behind the others and I sort out my surf crate and various things. The water is slightly cold and the wind is blowing. It’s small and navigable on the log but the chop makes the board a challenge. I get a couple decent ones before calling it quits after seeing some really fun lefts come through on the inside and running back to get Kim.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d3a288e8-0a47-4d8f-bcf5-ddfdea31f7e3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f3619c94-cf9b-4216-95e6-1df92cadd4d0"
+    },
+    "created_time": "2022-08-30T12:09:00.000Z",
+    "last_edited_time": "2022-08-30T12:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "be01c00d-3e5b-4292-8673-231e87f7fe60",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f3619c94-cf9b-4216-95e6-1df92cadd4d0"
+    },
+    "created_time": "2022-08-30T12:09:00.000Z",
+    "last_edited_time": "2022-08-30T12:11:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I nearly get blown off the hill while hanging onto the massive longboard. Kim proves much easier on the water back down. Everyone else gets out the water and I struggle through relentless duck dives while searching for the illusive left that I saw previously. I’m feeling rather shaky on my feet but manage to find one that offers as cutback on the face and floater and I’m content to go back for a warm shower and some dinner.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I nearly get blown off the hill while hanging onto the massive longboard. Kim proves much easier on the water back down. Everyone else gets out the water and I struggle through relentless duck dives while searching for the illusive left that I saw previously. I’m feeling rather shaky on my feet but manage to find one that offers as cutback on the face and floater and I’m content to go back for a warm shower and some dinner.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e519ead5-f4b1-4c9d-952f-cf52174902c2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f3619c94-cf9b-4216-95e6-1df92cadd4d0"
+    },
+    "created_time": "2022-08-30T12:25:00.000Z",
+    "last_edited_time": "2022-08-30T12:25:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "75dfe8aa-96a5-4d74-9d18-6ea5702a083a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f3619c94-cf9b-4216-95e6-1df92cadd4d0"
+    },
+    "created_time": "2022-08-30T12:25:00.000Z",
+    "last_edited_time": "2022-08-30T12:26:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "embed",
+    "embed": {
+      "caption": [],
+      "url": "https://connect.garmin.com/modern/activity/embed/9506754871"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1c516865-31c2-457b-9725-1934ab4dc06f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f3619c94-cf9b-4216-95e6-1df92cadd4d0"
+    },
+    "created_time": "2022-08-30T12:11:00.000Z",
+    "last_edited_time": "2022-08-30T12:11:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f03a1919-4092-4eac-a7f1-e8e635de9266",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f3619c94-cf9b-4216-95e6-1df92cadd4d0"
+    },
+    "created_time": "2022-08-30T12:11:00.000Z",
+    "last_edited_time": "2022-08-30T12:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Julian and I smoke dirty rollies and catch up on all matters concerning a well rounded human existence while sitting in camp chairs outside his hut - drinking St Francis brewery beers. Dinner is calling and we whip together a decent curry with the few vegetables that I’ve brought down with me. Some white wine accompanies a lovely time. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Julian and I smoke dirty rollies and catch up on all matters concerning a well rounded human existence while sitting in camp chairs outside his hut - drinking St Francis brewery beers. Dinner is calling and we whip together a decent curry with the few vegetables that I’ve brought down with me. Some white wine accompanies a lovely time. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c6c14853-3917-413d-b656-9ef405159554",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f3619c94-cf9b-4216-95e6-1df92cadd4d0"
+    },
+    "created_time": "2022-08-30T12:29:00.000Z",
+    "last_edited_time": "2022-08-30T12:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3970409a-a3a0-42fc-a2b3-9a40c98b89f7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f3619c94-cf9b-4216-95e6-1df92cadd4d0"
+    },
+    "created_time": "2022-08-30T12:29:00.000Z",
+    "last_edited_time": "2022-08-30T12:30:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Maximillian from the Netherlands and Ramco from Germany arrive and join is for a dinner.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Maximillian from the Netherlands and Ramco from Germany arrive and join is for a dinner.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1c0be06b-1ff2-42e7-b609-f6b82d5fc887",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f3619c94-cf9b-4216-95e6-1df92cadd4d0"
+    },
+    "created_time": "2022-08-30T12:12:00.000Z",
+    "last_edited_time": "2022-08-30T12:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8ff22ca6-b6a6-42c2-b5cc-2e11c35089da",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f3619c94-cf9b-4216-95e6-1df92cadd4d0"
+    },
+    "created_time": "2022-08-30T12:12:00.000Z",
+    "last_edited_time": "2022-08-30T12:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "It’s raining and moving the car and setting things up for a night’s sleep seems daunting. I opt for a my inflatable camping mattress and Julian’s floor instead. We chat in the dark and it feels like a sleepover when I was young. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "It’s raining and moving the car and setting things up for a night’s sleep seems daunting. I opt for a my inflatable camping mattress and Julian’s floor instead. We chat in the dark and it feels like a sleepover when I was young. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

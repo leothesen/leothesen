@@ -1,0 +1,680 @@
+[
+  {
+    "object": "block",
+    "id": "7798a932-21fb-4468-8a07-4650669481b5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fa9de0a6-e8cd-4c19-9488-e9b2c1ca59a7"
+    },
+    "created_time": "2022-10-13T18:11:00.000Z",
+    "last_edited_time": "2022-10-13T18:11:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "This morning me and Sasha rode to work on HumanForest bicycles through the London morning commute.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "This morning me and Sasha rode to work on HumanForest bicycles through the London morning commute.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a03287cd-c317-4a79-a11c-e510ceaac85c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fa9de0a6-e8cd-4c19-9488-e9b2c1ca59a7"
+    },
+    "created_time": "2022-10-13T18:11:00.000Z",
+    "last_edited_time": "2022-10-13T18:11:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "58a53b7a-66c5-410f-9d29-c26edd51046a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fa9de0a6-e8cd-4c19-9488-e9b2c1ca59a7"
+    },
+    "created_time": "2022-10-13T18:11:00.000Z",
+    "last_edited_time": "2022-10-13T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Beautiful streets and houses flavored the way and it was an amazing way to get to the office. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Beautiful streets and houses flavored the way and it was an amazing way to get to the office. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d7b51b1e-03f2-4f5f-af8f-5044a8134232",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fa9de0a6-e8cd-4c19-9488-e9b2c1ca59a7"
+    },
+    "created_time": "2022-10-13T18:12:00.000Z",
+    "last_edited_time": "2022-10-13T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5d5c0afa-184b-4629-9432-8b229c5dc56f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fa9de0a6-e8cd-4c19-9488-e9b2c1ca59a7"
+    },
+    "created_time": "2022-10-13T18:12:00.000Z",
+    "last_edited_time": "2022-10-13T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "A fun work day followed. I’m really enjoying being back. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "A fun work day followed. I’m really enjoying being back. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4287de5f-6946-41d5-bb49-af03e19c9e9d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fa9de0a6-e8cd-4c19-9488-e9b2c1ca59a7"
+    },
+    "created_time": "2022-10-13T18:12:00.000Z",
+    "last_edited_time": "2022-10-13T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a2f53dd7-a2c4-4819-b236-6ad45d91bf60",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fa9de0a6-e8cd-4c19-9488-e9b2c1ca59a7"
+    },
+    "created_time": "2022-10-13T18:12:00.000Z",
+    "last_edited_time": "2022-10-13T18:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "At 5pm a bell rings. The company with who we share the office don’t work on Friday and it’s time for drinks and a game. We all give our birth dates and years and Oscar compiles a playlist of the songs that were top of the charts for that day. He plays the songs one by one and we have to guess the name, the artist and the person‘s who‘s birth year it correspends to. We tally up the points and our team wins.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "At 5pm a bell rings. The company with who we share the office don’t work on Friday and it’s time for drinks and a game. We all give our birth dates and years and Oscar compiles a playlist of the songs that were top of the charts for that day. He plays the songs one by one and we have to guess the name, the artist and the person‘s who‘s birth year it correspends to. We tally up the points and our team wins.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "31b18aa7-8700-485c-82dc-1dfc3bc922e5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fa9de0a6-e8cd-4c19-9488-e9b2c1ca59a7"
+    },
+    "created_time": "2022-10-13T18:17:00.000Z",
+    "last_edited_time": "2022-10-13T18:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5603f4fb-6259-4291-a2a4-94586d2b9d64",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fa9de0a6-e8cd-4c19-9488-e9b2c1ca59a7"
+    },
+    "created_time": "2022-10-13T18:24:00.000Z",
+    "last_edited_time": "2022-10-13T18:24:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/77046d559933ff3e.jpeg",
+        "expiry_time": "2026-03-12T09:48:50.182Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "56e93810-cf2e-42e6-846c-ee7c3bdfbcc4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fa9de0a6-e8cd-4c19-9488-e9b2c1ca59a7"
+    },
+    "created_time": "2022-10-13T18:18:00.000Z",
+    "last_edited_time": "2022-10-13T18:24:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ba30e676-11e5-4c21-b3d9-4244e6229ea4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fa9de0a6-e8cd-4c19-9488-e9b2c1ca59a7"
+    },
+    "created_time": "2022-10-13T18:18:00.000Z",
+    "last_edited_time": "2022-10-13T18:24:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5318c6d1-e2cf-444e-a098-d88b91ef23d0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fa9de0a6-e8cd-4c19-9488-e9b2c1ca59a7"
+    },
+    "created_time": "2022-10-13T18:18:00.000Z",
+    "last_edited_time": "2022-10-13T18:25:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I’m quite tipsy and get onto a series of trains to get to Stoke Newington to visit Robynne for dinner. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I’m quite tipsy and get onto a series of trains to get to Stoke Newington to visit Robynne for dinner. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "47e832e6-c668-4f82-860d-b318879bae47",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fa9de0a6-e8cd-4c19-9488-e9b2c1ca59a7"
+    },
+    "created_time": "2022-10-13T21:05:00.000Z",
+    "last_edited_time": "2022-10-13T21:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5e42caf1-d7cc-43f4-a3b2-8f703181e00c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fa9de0a6-e8cd-4c19-9488-e9b2c1ca59a7"
+    },
+    "created_time": "2022-10-13T21:05:00.000Z",
+    "last_edited_time": "2022-10-13T21:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/629f9ba6a47ba212.jpeg",
+        "expiry_time": "2026-03-12T09:48:50.190Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "af49248c-fa9d-43bc-b3d6-fb222149fdcb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fa9de0a6-e8cd-4c19-9488-e9b2c1ca59a7"
+    },
+    "created_time": "2022-10-13T22:14:00.000Z",
+    "last_edited_time": "2022-10-13T22:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f97df223-8620-460d-947d-db7e6ad83907",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fa9de0a6-e8cd-4c19-9488-e9b2c1ca59a7"
+    },
+    "created_time": "2022-10-13T22:14:00.000Z",
+    "last_edited_time": "2022-10-13T22:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I take a bus back, a little disappointed at the fact that it isn’t a double decker meaning that I can’t sit at the top at watch London go past underneath me. I’ve been listening to this quite often and find it quite beautiful:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I take a bus back, a little disappointed at the fact that it isn’t a double decker meaning that I can’t sit at the top at watch London go past underneath me. I’ve been listening to this quite often and find it quite beautiful:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3bcfe80e-216a-4d17-b7a7-2634428a84b0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fa9de0a6-e8cd-4c19-9488-e9b2c1ca59a7"
+    },
+    "created_time": "2022-10-13T22:15:00.000Z",
+    "last_edited_time": "2022-10-13T22:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "https://dynamic.wakingup.com/course/CB5E50?source=content share&share_id=B34507E6&pack=PK6CD43",
+            "link": {
+              "url": "https://dynamic.wakingup.com/course/CB5E50?share_id=B34507E6&pack=PK6CD43"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "https://dynamic.wakingup.com/course/CB5E50?source=content share&share_id=B34507E6&pack=PK6CD43",
+          "href": "https://dynamic.wakingup.com/course/CB5E50?share_id=B34507E6&pack=PK6CD43"
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "30a350fc-25a7-459d-a77d-bde122c6cc64",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fa9de0a6-e8cd-4c19-9488-e9b2c1ca59a7"
+    },
+    "created_time": "2022-10-13T22:15:00.000Z",
+    "last_edited_time": "2022-10-13T22:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "It makes the bus ride home feel like a dream. I’m walking back along the park and see that I’m going to get home before it finishes so take a moment to sit on a bench, smoke a cigarette and finish listening to what is the most amazing letter to a mother ever written. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "It makes the bus ride home feel like a dream. I’m walking back along the park and see that I’m going to get home before it finishes so take a moment to sit on a bench, smoke a cigarette and finish listening to what is the most amazing letter to a mother ever written. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d4c0400c-6f40-4358-b747-c9072403c439",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fa9de0a6-e8cd-4c19-9488-e9b2c1ca59a7"
+    },
+    "created_time": "2022-10-13T22:16:00.000Z",
+    "last_edited_time": "2022-10-13T22:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d82cad6d-caee-4899-8211-1807973e799e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fa9de0a6-e8cd-4c19-9488-e9b2c1ca59a7"
+    },
+    "created_time": "2022-10-13T22:17:00.000Z",
+    "last_edited_time": "2022-10-13T22:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/3aede305f8d218d8.jpeg",
+        "expiry_time": "2026-03-12T09:48:50.182Z"
+      }
+    },
+    "archived": false
+  }
+]

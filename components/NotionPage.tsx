@@ -4,14 +4,13 @@ import { useRouter } from 'next/router'
 import cs from 'classnames'
 
 import * as config from '@/lib/config'
-import { getPageCover, getPageIcon, getPageTitle, getPagePropertyText } from '@/lib/notion-api'
-import type { NotionBlock as NotionBlockType } from '@/lib/notion-api'
-import type { ChildPageInfo } from '@/lib/notion'
+import type { NotionBlock } from '@/lib/notion-api'
 import type { Breadcrumb, DatabaseEntry, PageError, Site } from '@/lib/types'
+import type { ChildPageInfo } from '@/lib/notion'
 import { formatDate } from '@/lib/notion-utils'
 
 import { NotionBlocks } from './NotionRenderer'
-import { TableOfContents } from './TableOfContents'
+import { BlockTableOfContents, extractHeadingsFromBlocks } from './BlockTableOfContents'
 import { Footer } from './Footer'
 import { Loading } from './Loading'
 import { NotionPageHeader } from './NotionPageHeader'
@@ -20,8 +19,19 @@ import { PageHead } from './PageHead'
 
 interface NotionPageProps {
   site?: Site
-  page?: any
-  blocks?: NotionBlockType[]
+  pageMeta?: {
+    id: string
+    title: string
+    icon: string | null
+    cover: string | null
+    description: string | null
+    published: string | null
+    author: string | null
+    lastEdited: string
+    slug: string
+    order: number | null
+  }
+  blocks?: NotionBlock[]
   databaseEntriesMap?: Record<string, DatabaseEntry[]> | null
   childPageMap?: Record<string, ChildPageInfo> | null
   breadcrumbs?: Breadcrumb[]
@@ -31,7 +41,7 @@ interface NotionPageProps {
 
 export const NotionPage: React.FC<NotionPageProps> = ({
   site,
-  page,
+  pageMeta,
   blocks,
   databaseEntriesMap,
   childPageMap,
@@ -41,25 +51,25 @@ export const NotionPage: React.FC<NotionPageProps> = ({
 }) => {
   const router = useRouter()
 
-  const mapPageUrl = React.useCallback(
-    (slugOrId: string) => `/${slugOrId}`,
-    []
-  )
-
   if (router.isFallback) {
     return <Loading />
   }
 
-  if (error || !site || !page) {
+  if (error || !site || !pageMeta) {
     return <Page404 site={site} pageId={pageId} error={error} />
   }
 
-  const title = getPageTitle(page) || site.name
-  const cover = getPageCover(page)
-  const icon = getPageIcon(page)
-  const description = getPagePropertyText(page, 'Description') || config.description
+  const title = pageMeta.title || site.name
+  const cover = pageMeta.cover
+  const icon = pageMeta.icon
+  const description = pageMeta.description || config.description
   const isRootPage = pageId === site.rootNotionPageId
-  const publishedDate = getPagePropertyText(page, 'Published')
+  const publishedDate = pageMeta.published
+
+  const headings = React.useMemo(
+    () => blocks ? extractHeadingsFromBlocks(blocks) : [],
+    [blocks]
+  )
 
   return (
     <>
@@ -76,7 +86,12 @@ export const NotionPage: React.FC<NotionPageProps> = ({
 
         {cover && (
           <div className="notion-page-cover-wrapper">
-            <img src={cover} alt={title} className="notion-page-cover" />
+            <img
+              src={cover}
+              alt={title}
+              className="notion-page-cover notion-image-loading"
+              onLoad={(e) => e.currentTarget.classList.remove('notion-image-loading')}
+            />
           </div>
         )}
 
@@ -85,8 +100,13 @@ export const NotionPage: React.FC<NotionPageProps> = ({
             <div className="notion-page-content">
               {icon && (
                 <div className="notion-page-icon-hero">
-                  {icon.startsWith('http') ? (
-                    <img src={icon} alt="" className="notion-page-icon-image" />
+                  {icon.startsWith('http') || icon.startsWith('/') ? (
+                    <img
+                      src={icon}
+                      alt=""
+                      className="notion-page-icon-image notion-image-loading"
+                      onLoad={(e) => e.currentTarget.classList.remove('notion-image-loading')}
+                    />
                   ) : (
                     <span className="notion-page-icon-emoji">{icon}</span>
                   )}
@@ -95,16 +115,16 @@ export const NotionPage: React.FC<NotionPageProps> = ({
 
               <h1 className="notion-title">{title}</h1>
 
-              {!isRootPage && (publishedDate || page.last_edited_time) && (
+              {!isRootPage && (publishedDate || pageMeta.lastEdited) && (
                 <div className="notion-page-meta">
                   {publishedDate && (
                     <span className="notion-page-date">
                       {formatDate(publishedDate, { month: 'long' })}
                     </span>
                   )}
-                  {page.last_edited_time && (
+                  {pageMeta.lastEdited && (
                     <span className="notion-page-date">
-                      Last edited {formatDate(page.last_edited_time, { month: 'long' })}
+                      Last edited {formatDate(pageMeta.lastEdited, { month: 'long' })}
                     </span>
                   )}
                 </div>
@@ -114,7 +134,6 @@ export const NotionPage: React.FC<NotionPageProps> = ({
                 <div className="notion-page-body">
                   <NotionBlocks
                     blocks={blocks}
-                    mapPageUrl={mapPageUrl}
                     databaseEntriesMap={databaseEntriesMap}
                     childPageMap={childPageMap}
                   />
@@ -124,7 +143,7 @@ export const NotionPage: React.FC<NotionPageProps> = ({
           </main>
 
           {blocks && !isRootPage && (
-            <TableOfContents blocks={blocks} />
+            <BlockTableOfContents headings={headings} />
           )}
         </div>
 

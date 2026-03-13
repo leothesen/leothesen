@@ -1,5 +1,4 @@
 import * as React from 'react'
-import Image from 'next/image'
 import Link from 'next/link'
 
 import type { NotionBlock } from '@/lib/notion-api'
@@ -172,10 +171,17 @@ export function NotionBlock({ block, mapPageUrl, databaseEntriesMap, childPageMa
       const image = (block as any).image
       const src = image.type === 'external' ? image.external.url : image.file.url
       const caption = image.caption || []
+      const alt = caption.map((c: any) => c.plain_text).join('') || ''
       return (
         <figure className="notion-asset-wrapper">
           <div className="notion-image-wrapper">
-            <img src={src} alt={caption.map((c: any) => c.plain_text).join('') || ''} loading="lazy" />
+            <img
+              src={src}
+              alt={alt}
+              loading="lazy"
+              className="notion-image notion-image-loading"
+              onLoad={(e) => e.currentTarget.classList.remove('notion-image-loading')}
+            />
           </div>
           {caption.length > 0 && (
             <figcaption className="notion-asset-caption">
@@ -365,6 +371,30 @@ export function NotionBlock({ block, mapPageUrl, databaseEntriesMap, childPageMa
       )
     }
 
+    case 'link_to_page': {
+      const linkData = (block as any).link_to_page
+      const targetId = linkData?.page_id || linkData?.database_id
+      if (!targetId) return null
+      const cleanId = targetId.replace(/-/g, '')
+      const info = childPageMap?.[targetId] || childPageMap?.[cleanId]
+      const href = info ? `/${info.slug}` : (mapPageUrl ? mapPageUrl(targetId) : `/${targetId}`)
+      const title = info?.title || 'Link'
+      return (
+        <div className="notion-page-link">
+          <Link href={href}>
+            {info?.icon && (
+              <span className="notion-page-link-icon">
+                {info.icon.startsWith('http') ? (
+                  <img src={info.icon} alt="" className="notion-page-icon-inline" />
+                ) : info.icon}
+              </span>
+            )}
+            {title}
+          </Link>
+        </div>
+      )
+    }
+
     case 'child_database': {
       const entries = databaseEntriesMap?.[block.id]
       if (!entries?.length) return null
@@ -462,7 +492,13 @@ export function DatabaseView({ entries }: { entries: DatabaseEntry[] }) {
           <Link key={entry.id} href={href} className="notion-collection-card">
             {entry.cover && (
               <div className="notion-collection-card-cover">
-                <img src={entry.cover} alt={entry.title} loading="lazy" />
+                <img
+                  src={entry.cover}
+                  alt={entry.title}
+                  loading="lazy"
+                  className="notion-image-loading"
+                  onLoad={(e) => e.currentTarget.classList.remove('notion-image-loading')}
+                />
               </div>
             )}
             <div className="notion-collection-card-body">

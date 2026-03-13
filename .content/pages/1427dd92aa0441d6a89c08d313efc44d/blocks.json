@@ -1,0 +1,908 @@
+[
+  {
+    "object": "block",
+    "id": "d4f799ba-2893-4033-94cc-21359666ff17",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1427dd92-aa04-41d6-a89c-08d313efc44d"
+    },
+    "created_time": "2022-07-25T07:26:00.000Z",
+    "last_edited_time": "2022-07-25T07:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "A early surf alarm goes off but gravity feels twice its normal strength and the snooze button is the only thing my brain moves for. Finally, at 7am I stir and take a glance at the waves from the fence. It warrants a coffee and further inspection after breakfast. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "A early surf alarm goes off but gravity feels twice its normal strength and the snooze button is the only thing my brain moves for. Finally, at 7am I stir and take a glance at the waves from the fence. It warrants a coffee and further inspection after breakfast. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6ad88e93-0e71-4ec8-a0a9-7fe5bf95cdfb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1427dd92-aa04-41d6-a89c-08d313efc44d"
+    },
+    "created_time": "2022-07-25T07:33:00.000Z",
+    "last_edited_time": "2022-07-25T07:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/efb0d82949c0e4b3.jpeg",
+        "expiry_time": "2026-03-12T09:45:35.556Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "52099640-a176-4fb4-9a94-1f46ceef63a1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1427dd92-aa04-41d6-a89c-08d313efc44d"
+    },
+    "created_time": "2022-07-25T07:28:00.000Z",
+    "last_edited_time": "2022-07-25T07:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "One of the Richard’s Bay (snoring?) crew come through the kitchen while I’m making oats. It’s immediately evident that this is a man suffering from the lack of good waves today. After remarking at how kuk the waves are multiple times he drifts off to complain to someone else. Keisha shares a similar story from this mornings encounters with the core surf unit from up the coast. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "One of the Richard’s Bay (snoring?) crew come through the kitchen while I’m making oats. It’s immediately evident that this is a man suffering from the lack of good waves today. After remarking at how kuk the waves are multiple times he drifts off to complain to someone else. Keisha shares a similar story from this mornings encounters with the core surf unit from up the coast. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f55995e7-3615-424d-ae2d-d140a022b9a7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1427dd92-aa04-41d6-a89c-08d313efc44d"
+    },
+    "created_time": "2022-07-25T07:31:00.000Z",
+    "last_edited_time": "2022-07-25T07:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e312ba55-4116-4b75-8929-7aebaef68b30",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1427dd92-aa04-41d6-a89c-08d313efc44d"
+    },
+    "created_time": "2022-07-25T07:31:00.000Z",
+    "last_edited_time": "2022-07-25T07:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I read a bit of Red Dog while eating breakfast and it’s all very pleasant. Keisha and I take a walk down to check the waves - they aren’t running all the way through and look quite soft. A dog takes a nip at a calf while I tell the story about why I’m so scared of the Bovine Beasts.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I read a bit of Red Dog while eating breakfast and it’s all very pleasant. Keisha and I take a walk down to check the waves - they aren’t running all the way through and look quite soft. A dog takes a nip at a calf while I tell the story about why I’m so scared of the Bovine Beasts.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "265a98a0-9556-4d5a-b42d-92833deebad3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1427dd92-aa04-41d6-a89c-08d313efc44d"
+    },
+    "created_time": "2022-07-25T07:33:00.000Z",
+    "last_edited_time": "2022-07-25T07:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "75043f93-a1c2-4789-8ca9-c44a4eadf927",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1427dd92-aa04-41d6-a89c-08d313efc44d"
+    },
+    "created_time": "2022-07-25T07:33:00.000Z",
+    "last_edited_time": "2022-07-25T13:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I come back up to the common area and finally dive into learning some basic Xhosa phrases. They’re playing reggae, it’s warm in the sunroom - people and dogs lounge about. I book myself in for a Xhosa lesson at 4pm and do some planning for ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I come back up to the common area and finally dive into learning some basic Xhosa phrases. They’re playing reggae, it’s warm in the sunroom - people and dogs lounge about. I book myself in for a Xhosa lesson at 4pm and do some planning for ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "European visas",
+            "link": {
+              "url": "/49007e51f28a4d91932c634d21282f56"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "European visas",
+          "href": "/49007e51f28a4d91932c634d21282f56"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ". It’s time to take a wee and check the waves again, which again aren’t too persuasive.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ". It’s time to take a wee and check the waves again, which again aren’t too persuasive.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "21e9cd71-db26-42f0-a873-1a602e9f1cbc",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1427dd92-aa04-41d6-a89c-08d313efc44d"
+    },
+    "created_time": "2022-07-25T13:57:00.000Z",
+    "last_edited_time": "2022-07-25T13:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a3590664-b4cf-497d-9a10-3d8cd3b2e340",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1427dd92-aa04-41d6-a89c-08d313efc44d"
+    },
+    "created_time": "2022-07-25T13:57:00.000Z",
+    "last_edited_time": "2022-07-25T13:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I spend some time chatting with people in the common room. Make a tuna mayo and avo lunch on Salticrax which is truly amazing. I have a coffee with Jemma and Gareth while making jokes about “cool cool” people. I settle into the back of the bakkie for what I realise is my first afternoon nap since Joburg with Jordan. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I spend some time chatting with people in the common room. Make a tuna mayo and avo lunch on Salticrax which is truly amazing. I have a coffee with Jemma and Gareth while making jokes about “cool cool” people. I settle into the back of the bakkie for what I realise is my first afternoon nap since Joburg with Jordan. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7da23a1b-38f2-4e4a-bdab-5bf065d14040",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1427dd92-aa04-41d6-a89c-08d313efc44d"
+    },
+    "created_time": "2022-07-25T13:59:00.000Z",
+    "last_edited_time": "2022-07-25T13:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ebebc607-384c-43ae-9b84-8960b2356dbd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1427dd92-aa04-41d6-a89c-08d313efc44d"
+    },
+    "created_time": "2022-07-25T13:59:00.000Z",
+    "last_edited_time": "2022-07-26T06:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I come back to the common room for my 4pm Xhosa lesson with Neliswe. I’m recognising how enabling it would be to have some even very basic Xhosa phrases for the run with Damo. As per Jemma’s suggestion I order a milkshake which is great. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I come back to the common room for my 4pm Xhosa lesson with Neliswe. I’m recognising how enabling it would be to have some even very basic Xhosa phrases for the run with Damo. As per Jemma’s suggestion I order a milkshake which is great. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b2c922cd-f58a-4444-802d-99373ecde476",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1427dd92-aa04-41d6-a89c-08d313efc44d"
+    },
+    "created_time": "2022-07-26T06:54:00.000Z",
+    "last_edited_time": "2022-07-26T06:54:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4503afac-c3f7-46a4-a375-a95017b1c67f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1427dd92-aa04-41d6-a89c-08d313efc44d"
+    },
+    "created_time": "2022-07-26T06:54:00.000Z",
+    "last_edited_time": "2022-07-26T06:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The lesson is great and Neliswe is extremely sassy and funny. I learn a lot and now need to practice. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The lesson is great and Neliswe is extremely sassy and funny. I learn a lot and now need to practice. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "620eee81-a1b1-402f-a6f6-4bf4c0300100",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1427dd92-aa04-41d6-a89c-08d313efc44d"
+    },
+    "created_time": "2022-07-26T06:55:00.000Z",
+    "last_edited_time": "2022-07-26T06:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6514a3a6-ea1e-4e99-a74c-ae1a73c3dd22",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1427dd92-aa04-41d6-a89c-08d313efc44d"
+    },
+    "created_time": "2022-07-26T06:55:00.000Z",
+    "last_edited_time": "2022-07-26T06:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "After the lesson I take a quick run down the beach and bump into Toto again. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "After the lesson I take a quick run down the beach and bump into Toto again. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c73d073d-6f2f-41f6-ae69-8ab2c98438d2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1427dd92-aa04-41d6-a89c-08d313efc44d"
+    },
+    "created_time": "2022-07-26T06:56:00.000Z",
+    "last_edited_time": "2022-07-26T06:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "13d75110-096a-4ff8-b29c-7f9d7903fc2d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1427dd92-aa04-41d6-a89c-08d313efc44d"
+    },
+    "created_time": "2022-07-26T06:56:00.000Z",
+    "last_edited_time": "2022-07-28T10:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Coming back from the run Jemma asks if I’d like to go get a pizza with a few people at Vukani backpackers. We slowly walk over there. They aren’t serving pizzas but there are burgers in Amagwenya (Xhosa vetkoek) buns which are great. Sheera and Rudy are there and we play darts and have a great chat. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Coming back from the run Jemma asks if I’d like to go get a pizza with a few people at Vukani backpackers. We slowly walk over there. They aren’t serving pizzas but there are burgers in Amagwenya (Xhosa vetkoek) buns which are great. Sheera and Rudy are there and we play darts and have a great chat. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1c0cd8ee-4e52-45c3-8e0b-eb4f229587b9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1427dd92-aa04-41d6-a89c-08d313efc44d"
+    },
+    "created_time": "2022-07-26T06:58:00.000Z",
+    "last_edited_time": "2022-07-26T06:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "19c8b95b-ea1b-4e55-a9a0-c05f3b3ed6eb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1427dd92-aa04-41d6-a89c-08d313efc44d"
+    },
+    "created_time": "2022-07-26T06:58:00.000Z",
+    "last_edited_time": "2022-07-28T10:11:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We head over to the shabeen to buy some beers. We go into the little room next to it first with some people wasted and dancing; the walls bear barring a boom box in the corner. The one wasted dude goes to buy us beers. He walks back and forth between the room and the shabeen, and each time he’s back without beers and slightly less money haha. In the end we go buy the beers ourself down R20 but up one good story.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We head over to the shabeen to buy some beers. We go into the little room next to it first with some people wasted and dancing; the walls bear barring a boom box in the corner. The one wasted dude goes to buy us beers. He walks back and forth between the room and the shabeen, and each time he’s back without beers and slightly less money haha. In the end we go buy the beers ourself down R20 but up one good story.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b622b8f1-b23f-48be-b66c-7e4162dc0e7e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1427dd92-aa04-41d6-a89c-08d313efc44d"
+    },
+    "created_time": "2022-07-26T07:06:00.000Z",
+    "last_edited_time": "2022-07-26T07:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4b359ce8-6875-41e8-bc93-dd9f57ed2f7e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1427dd92-aa04-41d6-a89c-08d313efc44d"
+    },
+    "created_time": "2022-07-26T07:05:00.000Z",
+    "last_edited_time": "2022-07-28T10:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Gareth, Bas and Cam pull into the backpackers and we have a big laugh. The burgers great, chips excellent and we slowly walk back to Mdumbi under the stars. We light and fire and sheera whips out a taser - I let him taser me through my jacket because I’m addicted to thrills.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Gareth, Bas and Cam pull into the backpackers and we have a big laugh. The burgers great, chips excellent and we slowly walk back to Mdumbi under the stars. We light and fire and sheera whips out a taser - I let him taser me through my jacket because I’m addicted to thrills.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "2a785d75-5b90-403c-a3dc-bd3e394e3ddd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1427dd92-aa04-41d6-a89c-08d313efc44d"
+    },
+    "created_time": "2022-07-26T07:08:00.000Z",
+    "last_edited_time": "2022-07-26T07:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "05e50586-7b26-48a8-8193-0573f5e886b0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1427dd92-aa04-41d6-a89c-08d313efc44d"
+    },
+    "created_time": "2022-07-26T07:08:00.000Z",
+    "last_edited_time": "2022-07-28T10:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Gareth rolls a hash joint that is atomically strong. We start up the foosball table and proceed to have the most exciting game. Me and Gareth against Sheera and Rudy. We start off on top and score 5 goals in quick succession, to which they respond with a comeback and suddenly we both need to score to win. They score an own goal and we claim victory with heart rates dangerously high. I struggle to go to sleep after all that.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Gareth rolls a hash joint that is atomically strong. We start up the foosball table and proceed to have the most exciting game. Me and Gareth against Sheera and Rudy. We start off on top and score 5 goals in quick succession, to which they respond with a comeback and suddenly we both need to score to win. They score an own goal and we claim victory with heart rates dangerously high. I struggle to go to sleep after all that.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "496f995e-aa05-416d-a304-d5577d11e481",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1427dd92-aa04-41d6-a89c-08d313efc44d"
+    },
+    "created_time": "2022-07-26T06:55:00.000Z",
+    "last_edited_time": "2022-07-26T06:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ec3448d0-00aa-4a67-a015-8178572915fb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1427dd92-aa04-41d6-a89c-08d313efc44d"
+    },
+    "created_time": "2022-07-26T06:54:00.000Z",
+    "last_edited_time": "2022-07-26T06:54:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

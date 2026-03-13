@@ -1,0 +1,188 @@
+[
+  {
+    "object": "block",
+    "id": "1f5b1f40-013b-4eec-9797-b69d314123b5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "7ac06b8d-1334-4be2-ba85-e80e761aeacc"
+    },
+    "created_time": "2023-09-25T12:12:00.000Z",
+    "last_edited_time": "2023-09-25T12:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Listening to ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Listening to ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Rob Walker",
+            "link": {
+              "url": "https://robwalker.substack.com/"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Rob Walker",
+          "href": "https://robwalker.substack.com/"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "’s section on the Waking Up app titled ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "’s section on the Waking Up app titled ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "The Art of Noticing",
+            "link": {
+              "url": "https://dynamic.wakingup.com/pack/PKB005A"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The Art of Noticing",
+          "href": "https://dynamic.wakingup.com/pack/PKB005A"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "; he suggested an exercise whereby one should write recollections of things that you paid attention to and deemed special. Things that normally pass you by, and could even be labelled as mundane or normal. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "; he suggested an exercise whereby one should write recollections of things that you paid attention to and deemed special. Things that normally pass you by, and could even be labelled as mundane or normal. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "825823cd-2c19-4243-be72-daf72e4194f4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "7ac06b8d-1334-4be2-ba85-e80e761aeacc"
+    },
+    "created_time": "2023-09-25T12:15:00.000Z",
+    "last_edited_time": "2023-09-25T12:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "edcd86a1-ff83-4ed6-bad6-24a9d6d51054",
+    "parent": {
+      "type": "page_id",
+      "page_id": "7ac06b8d-1334-4be2-ba85-e80e761aeacc"
+    },
+    "created_time": "2023-09-25T12:15:00.000Z",
+    "last_edited_time": "2023-09-25T12:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "It’s stuck with me for some time, and I’ve had (one of many) reminders continuously popping up and being snoozed until today. I aspire to keep this little section of the website going over time, even just with small little anecdotes or descriptions of things that I noticed while moving through life. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "It’s stuck with me for some time, and I’ve had (one of many) reminders continuously popping up and being snoozed until today. I aspire to keep this little section of the website going over time, even just with small little anecdotes or descriptions of things that I noticed while moving through life. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

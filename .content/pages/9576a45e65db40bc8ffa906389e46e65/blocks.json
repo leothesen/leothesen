@@ -1,0 +1,1300 @@
+[
+  {
+    "object": "block",
+    "id": "daf109ac-ad48-42c5-90b9-70445a7b0449",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T05:20:00.000Z",
+    "last_edited_time": "2022-09-27T08:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I wake before the alarm and try find my book in the room. After failing many times I locate it under a pile of clothes. Jordan stirs and says how good she’s feeling this morning; what a relief. I leave her to sleep and go read a book.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I wake before the alarm and try find my book in the room. After failing many times I locate it under a pile of clothes. Jordan stirs and says how good she’s feeling this morning; what a relief. I leave her to sleep and go read a book.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "dd1c5c47-4857-4fda-8a16-67fa18892ff2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T08:23:00.000Z",
+    "last_edited_time": "2022-09-27T08:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "74b4da2e-fc20-438c-8788-0a3beec2a828",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T08:16:00.000Z",
+    "last_edited_time": "2022-09-27T08:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/0de18ee33eee5554.jpeg",
+        "expiry_time": "2026-03-12T09:47:31.028Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3c942aa6-b828-4373-879c-64fd0c278dc2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T08:23:00.000Z",
+    "last_edited_time": "2022-09-27T08:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "89ddfe0c-afb1-4880-915c-3da3315aa6e3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T08:23:00.000Z",
+    "last_edited_time": "2022-09-29T17:34:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Jordan is feeling hungry again and we’re eat breakfast and discuss out plans for the rest of the trip. We’re at a point where we can go north or south. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Jordan is feeling hungry again and we’re eat breakfast and discuss out plans for the rest of the trip. We’re at a point where we can go north or south. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ff450de2-2507-4f3e-bb5c-a86ed0372207",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T08:28:00.000Z",
+    "last_edited_time": "2022-09-27T08:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c39edf32-7833-4b5d-9529-c65aa2857bc4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T08:28:00.000Z",
+    "last_edited_time": "2022-09-27T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "North takes us to Senga Bay where the Sand Festival is taking place this weekend. Unfortunately it doesn’t really work out date wise for us as we could only go for one night which might not be worth it. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "North takes us to Senga Bay where the Sand Festival is taking place this weekend. Unfortunately it doesn’t really work out date wise for us as we could only go for one night which might not be worth it. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ae08a334-c620-40c4-8a52-1a1cdc6be0ea",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T08:29:00.000Z",
+    "last_edited_time": "2022-09-27T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3352e664-52f0-4e3c-926b-cb366607fa78",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T08:29:00.000Z",
+    "last_edited_time": "2022-09-27T08:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "South takes us past Monkey Bay towards Mangochi where we find a nice lodge. We decide to do it and continue the relaxed beach vibe rather than jump into a busy festival Town. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "South takes us past Monkey Bay towards Mangochi where we find a nice lodge. We decide to do it and continue the relaxed beach vibe rather than jump into a busy festival Town. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "947cf0ff-3d29-4752-9a96-1ff9978fa3ab",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T08:31:00.000Z",
+    "last_edited_time": "2022-09-27T08:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7881c559-7e18-4053-ae59-9b08da2349ca",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T08:31:00.000Z",
+    "last_edited_time": "2022-09-27T08:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We pay our bill and Jordan goes for a quick sleep. I pop down to the little shop and somehow find a bottle of kombucha in the fridge that would be great for the depleted stomach of my partner. She’s shocked to see such a drink in Malawi. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We pay our bill and Jordan goes for a quick sleep. I pop down to the little shop and somehow find a bottle of kombucha in the fridge that would be great for the depleted stomach of my partner. She’s shocked to see such a drink in Malawi. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "79f412bc-967b-40e5-86e2-7dc28e27d73c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T08:23:00.000Z",
+    "last_edited_time": "2022-09-27T08:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4d2598ae-e71f-40e0-a1e5-88727773fd15",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T08:16:00.000Z",
+    "last_edited_time": "2022-09-27T08:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/7050e24819f8934d.jpeg",
+        "expiry_time": "2026-03-12T09:47:31.028Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1928c38d-1f56-4421-bf97-d0f42f544fd6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T08:33:00.000Z",
+    "last_edited_time": "2022-09-27T08:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "981181e3-bde1-4450-bea6-228c4f4ef07f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T08:33:00.000Z",
+    "last_edited_time": "2022-09-27T13:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I go back to one of the deck chairs to write this up. The ginger kombucha isn’t too bad at all. We pack our bags, say our goodbyes and head off to Monkey Bay to draw some money and have lunch. Once again the drive through the national park is beautiful and we’re there in no time.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I go back to one of the deck chairs to write this up. The ginger kombucha isn’t too bad at all. We pack our bags, say our goodbyes and head off to Monkey Bay to draw some money and have lunch. Once again the drive through the national park is beautiful and we’re there in no time.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1a85f63c-9264-4c9d-95f2-d6df1e631e02",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T13:42:00.000Z",
+    "last_edited_time": "2022-09-27T13:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "89c8fd08-ecb7-45eb-b801-bd99fa296f2b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T13:42:00.000Z",
+    "last_edited_time": "2022-09-27T13:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "When we arrive the ATM is rebooting so we buy some small supplies in a supermarket, draw the money and then head to Linda’s - a small local restaurant and pawn shop that had been mentioned quite a few times at Mufasa. We play a game of backgammon while we wait. I win and the score is now 2 - 1.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "When we arrive the ATM is rebooting so we buy some small supplies in a supermarket, draw the money and then head to Linda’s - a small local restaurant and pawn shop that had been mentioned quite a few times at Mufasa. We play a game of backgammon while we wait. I win and the score is now 2 - 1.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "cdc5b9e5-90e5-4116-8e99-998d21cd546a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T13:41:00.000Z",
+    "last_edited_time": "2022-09-27T13:41:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "column_list",
+    "column_list": {},
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "aba7ddbf-ed81-405c-b5f4-24c21be8d37d",
+        "parent": {
+          "type": "block_id",
+          "block_id": "cdc5b9e5-90e5-4116-8e99-998d21cd546a"
+        },
+        "created_time": "2022-09-27T13:41:00.000Z",
+        "last_edited_time": "2022-09-27T13:41:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "39d408a5-8bae-46e0-92cd-fea726150cba",
+            "parent": {
+              "type": "block_id",
+              "block_id": "aba7ddbf-ed81-405c-b5f4-24c21be8d37d"
+            },
+            "created_time": "2022-09-27T13:39:00.000Z",
+            "last_edited_time": "2022-09-27T13:41:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "image",
+            "image": {
+              "caption": [],
+              "type": "file",
+              "file": {
+                "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/aac6fe679fe71549.jpeg",
+                "expiry_time": "2026-03-12T09:47:32.788Z"
+              }
+            },
+            "archived": false
+          }
+        ]
+      },
+      {
+        "object": "block",
+        "id": "c1fe0ea9-44b5-4d7a-82fa-18dafa075fce",
+        "parent": {
+          "type": "block_id",
+          "block_id": "cdc5b9e5-90e5-4116-8e99-998d21cd546a"
+        },
+        "created_time": "2022-09-27T13:41:00.000Z",
+        "last_edited_time": "2022-09-27T13:41:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "a70d54bf-5a0f-4f6a-bf90-66de0d08cdeb",
+            "parent": {
+              "type": "block_id",
+              "block_id": "c1fe0ea9-44b5-4d7a-82fa-18dafa075fce"
+            },
+            "created_time": "2022-09-27T13:39:00.000Z",
+            "last_edited_time": "2022-09-27T13:41:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "image",
+            "image": {
+              "caption": [],
+              "type": "file",
+              "file": {
+                "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/0655f7be7c56b301.jpeg",
+                "expiry_time": "2026-03-12T09:47:32.526Z"
+              }
+            },
+            "archived": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "679155c3-43e0-4ef9-a704-939351c287cc",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T13:39:00.000Z",
+    "last_edited_time": "2022-09-29T17:35:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Back on the bike - heading down towards Mangochi. It’s a short drive to Nanchengwa Lodge that where we will be staying for a few days. A nice tar road takes us to a place that Google Maps is unable to. We arrive on the lake at a beautiful little lodge with old Victorian style buildings. We immediately have a swim and Jordan gets a bit of work done. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Back on the bike - heading down towards Mangochi. It’s a short drive to Nanchengwa Lodge that where we will be staying for a few days. A nice tar road takes us to a place that Google Maps is unable to. We arrive on the lake at a beautiful little lodge with old Victorian style buildings. We immediately have a swim and Jordan gets a bit of work done. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7ba8f28c-e5a4-4eb0-bf6a-024b89ca310b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T13:50:00.000Z",
+    "last_edited_time": "2022-09-27T13:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0d77c518-4449-4c3f-aa81-ae39f25a0479",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-10-11T11:52:00.000Z",
+    "last_edited_time": "2022-10-11T11:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "column_list",
+    "column_list": {},
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "fd4c9d77-fc65-43e9-b0c8-7491264bc027",
+        "parent": {
+          "type": "block_id",
+          "block_id": "0d77c518-4449-4c3f-aa81-ae39f25a0479"
+        },
+        "created_time": "2022-10-11T11:52:00.000Z",
+        "last_edited_time": "2022-10-11T11:52:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "aca55f7a-b5dd-4afd-b3aa-c8a892003797",
+            "parent": {
+              "type": "block_id",
+              "block_id": "fd4c9d77-fc65-43e9-b0c8-7491264bc027"
+            },
+            "created_time": "2022-09-27T13:49:00.000Z",
+            "last_edited_time": "2022-10-11T11:52:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "image",
+            "image": {
+              "caption": [],
+              "type": "file",
+              "file": {
+                "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/58518a1f0cfa4046.jpeg",
+                "expiry_time": "2026-03-12T09:47:36.070Z"
+              }
+            },
+            "archived": false
+          }
+        ]
+      },
+      {
+        "object": "block",
+        "id": "a2d48f33-7d1b-49a6-9cf2-b769a64460c4",
+        "parent": {
+          "type": "block_id",
+          "block_id": "0d77c518-4449-4c3f-aa81-ae39f25a0479"
+        },
+        "created_time": "2022-10-11T11:52:00.000Z",
+        "last_edited_time": "2022-10-11T11:52:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "2332e28f-3c34-4968-be1f-0fe24364bffe",
+            "parent": {
+              "type": "block_id",
+              "block_id": "a2d48f33-7d1b-49a6-9cf2-b769a64460c4"
+            },
+            "created_time": "2022-09-27T13:49:00.000Z",
+            "last_edited_time": "2022-10-11T11:52:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "image",
+            "image": {
+              "caption": [],
+              "type": "file",
+              "file": {
+                "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/053ebc053effabbb.jpeg",
+                "expiry_time": "2026-03-12T09:47:36.056Z"
+              }
+            },
+            "archived": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "8eb68e5f-ac79-4e73-a4f9-c28b27251b33",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T15:21:00.000Z",
+    "last_edited_time": "2022-09-27T15:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "eb536909-1bd2-4b46-98e4-836bbe14d6c9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T15:21:00.000Z",
+    "last_edited_time": "2022-09-27T15:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I get really stuck into writing the Bovineiterology blog and thoroughly enjoy it. Jordan finishes her work and comes to read The Mountain Shadow next to me. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I get really stuck into writing the Bovineiterology blog and thoroughly enjoy it. Jordan finishes her work and comes to read The Mountain Shadow next to me. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "819239bd-7e0b-4d31-b44a-36a38738e02f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T15:23:00.000Z",
+    "last_edited_time": "2022-09-27T15:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "31dd1cf1-d93e-4f21-af93-ac033ae085cb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T15:23:00.000Z",
+    "last_edited_time": "2022-09-27T15:24:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/7c5ad3f1e13e3d3e.jpeg",
+        "expiry_time": "2026-03-12T09:47:31.028Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c5b01492-07fb-483c-bc58-b0e3ed96d440",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T15:57:00.000Z",
+    "last_edited_time": "2022-09-27T15:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f3a0ad10-efa7-4be9-8723-911dd8f7e3ed",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T15:57:00.000Z",
+    "last_edited_time": "2022-09-27T15:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We play another game of backgammon and Jordan gets her ass handed to her - much to her disgruntlement. The puppies make it easier to stomach the loss though. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We play another game of backgammon and Jordan gets her ass handed to her - much to her disgruntlement. The puppies make it easier to stomach the loss though. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "70a4a9ef-b61b-4d30-bf37-f32416118f74",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T15:57:00.000Z",
+    "last_edited_time": "2022-09-27T15:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "29fb51a3-9fca-45e0-a463-634b4bfcc0ac",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T15:57:00.000Z",
+    "last_edited_time": "2022-09-27T15:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/edc143bae51de932.jpeg",
+        "expiry_time": "2026-03-12T09:47:31.433Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c789ada2-e5ac-42b8-8000-b036a20583e6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T18:16:00.000Z",
+    "last_edited_time": "2022-09-27T18:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0ecf4da4-a0cc-4ce5-a2f0-1e55e085ff5e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T18:16:00.000Z",
+    "last_edited_time": "2022-09-27T18:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We play another game of backgammon and it seems one sided until Jordan makes a miracle comeback. We pause the game for dinner which is curried fish - my new favourite, kampango - and rice. Jordan has samoosas with salad that is also excellent. We resume the game but Jordan’s luck is not enough. 3 -1.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We play another game of backgammon and it seems one sided until Jordan makes a miracle comeback. We pause the game for dinner which is curried fish - my new favourite, kampango - and rice. Jordan has samoosas with salad that is also excellent. We resume the game but Jordan’s luck is not enough. 3 -1.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "eb8e2ae3-3cc4-498c-9d9e-53c44a65cf3c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T18:18:00.000Z",
+    "last_edited_time": "2022-09-27T18:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f0fa4bfa-7975-4c8f-9169-c098f375a689",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9576a45e-65db-40bc-8ffa-906389e46e65"
+    },
+    "created_time": "2022-09-27T18:18:00.000Z",
+    "last_edited_time": "2022-09-27T18:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

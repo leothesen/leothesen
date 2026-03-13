@@ -1,0 +1,5295 @@
+[
+  {
+    "object": "block",
+    "id": "1280c443-f962-4737-a20b-44d5e52da395",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-05T18:35:00.000Z",
+    "last_edited_time": "2024-03-12T20:27:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Hello! ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Hello! ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "af63ff33-1c18-4b1f-87f2-37ff0fbdf206",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:27:00.000Z",
+    "last_edited_time": "2024-03-12T19:27:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e3a553a4-ae3d-4292-96bf-8a354aca13d3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:27:00.000Z",
+    "last_edited_time": "2024-03-12T19:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "So you’re coming fastpacking in the Cederberg - how ridiculously exciting. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "So you’re coming fastpacking in the Cederberg - how ridiculously exciting. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e46c6a45-77d9-4180-9235-131109929981",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:29:00.000Z",
+    "last_edited_time": "2024-03-12T19:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3f316cd7-9892-4ab9-abe6-5d7719101f41",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:29:00.000Z",
+    "last_edited_time": "2024-03-12T19:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "What is fastpacking? It’s basically overnight hiking, without the tents and general comforts. Those are traded for increasing the distance that can be covered each day. Smaller and lighter bags allow the flats and declines to be jogged and the uphills to be hiked quicker than on a hike. These increases in speed allow for more coffee breaks, stops and general nonsense. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "What is fastpacking? It’s basically overnight hiking, without the tents and general comforts. Those are traded for increasing the distance that can be covered each day. Smaller and lighter bags allow the flats and declines to be jogged and the uphills to be hiked quicker than on a hike. These increases in speed allow for more coffee breaks, stops and general nonsense. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d3059197-a7af-4749-9e3c-479307b85f02",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:32:00.000Z",
+    "last_edited_time": "2024-03-12T19:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "67d8131b-00db-4a24-b275-8316e88f5b0b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:32:00.000Z",
+    "last_edited_time": "2024-03-12T19:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "This page should give you an overview of what to expect, pack and prepare for. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "This page should give you an overview of what to expect, pack and prepare for. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "daf33ba9-4c75-4576-bc3a-9425cb0c5d3a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T20:14:00.000Z",
+    "last_edited_time": "2024-03-12T20:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e6510e09-9276-4f71-9171-3d3f48f12386",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T20:14:00.000Z",
+    "last_edited_time": "2024-03-12T20:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_1",
+    "heading_1": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Logistics",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Logistics",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "blue_background"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4cbec172-7b6f-411d-8564-f40424ffdf33",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T20:14:00.000Z",
+    "last_edited_time": "2024-03-12T20:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We are going to camp in Algeria on the evening of Wednesday 20th March. Ensure that you’ve organised lifts and bring a tent. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We are going to camp in Algeria on the evening of Wednesday 20th March. Ensure that you’ve organised lifts and bring a tent. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "22c48077-ea2a-427a-b6f2-89b8b1b3f4b0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T20:15:00.000Z",
+    "last_edited_time": "2024-03-12T20:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We are going to leave cars:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We are going to leave cars:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "fc358673-a2dc-4996-b337-4c3b8a67f066",
+        "parent": {
+          "type": "block_id",
+          "block_id": "22c48077-ea2a-427a-b6f2-89b8b1b3f4b0"
+        },
+        "created_time": "2024-03-12T20:15:00.000Z",
+        "last_edited_time": "2024-03-12T20:15:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "At Algeria (keep your Saturday/Sunday food in here)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "At Algeria (keep your Saturday/Sunday food in here)",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "0408173d-edc5-4df6-a155-74f08329225b",
+        "parent": {
+          "type": "block_id",
+          "block_id": "22c48077-ea2a-427a-b6f2-89b8b1b3f4b0"
+        },
+        "created_time": "2024-03-12T20:15:00.000Z",
+        "last_edited_time": "2024-03-12T20:16:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "At Cederberg wines (near Sanddrif) which is where we start",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "At Cederberg wines (near Sanddrif) which is where we start",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "ca869468-02a7-4bf0-ab83-82343a10020c",
+        "parent": {
+          "type": "block_id",
+          "block_id": "22c48077-ea2a-427a-b6f2-89b8b1b3f4b0"
+        },
+        "created_time": "2024-03-12T20:16:00.000Z",
+        "last_edited_time": "2024-03-12T20:18:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Uitkyk pass - with Friday night food in it",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Uitkyk pass - with Friday night food in it",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "0b946d92-20b4-43a8-8096-444b78a31f50",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:28:00.000Z",
+    "last_edited_time": "2024-03-12T20:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_1",
+    "heading_1": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Route",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Route",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "purple_background"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7fb73caf-2c01-49c7-898e-84431554b5ec",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:33:00.000Z",
+    "last_edited_time": "2024-03-12T20:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The page below contains the basic route information. Please note that the route should be taken as a guideline: mountains are mountains, paths are paths - we should always trust what is happening in-front of us over what a pre-set GPX file is telling us. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The page below contains the basic route information. Please note that the route should be taken as a guideline: mountains are mountains, paths are paths - we should always trust what is happening in-front of us over what a pre-set GPX file is telling us. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7d6355a0-6c04-4dda-a9c7-4aa67162f34e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:38:00.000Z",
+    "last_edited_time": "2024-03-12T20:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8f7d48ba-8e7e-4258-807a-ab7a4a7f96c9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:38:00.000Z",
+    "last_edited_time": "2024-03-12T20:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We will inevitably stray from the prescribed route for any number of reasons: fun or less fun. The route is set to provide a baseline that we can organise logistics around, when we are out in the mountains we will be dynamic, smart and safe. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We will inevitably stray from the prescribed route for any number of reasons: fun or less fun. The route is set to provide a baseline that we can organise logistics around, when we are out in the mountains we will be dynamic, smart and safe. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e731e27d-00b9-4f15-bd71-d48f2620385a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T20:17:00.000Z",
+    "last_edited_time": "2024-03-12T20:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8f7de9b9-fc69-41a1-8361-1303852df768",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T20:17:00.000Z",
+    "last_edited_time": "2024-03-12T20:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "This route is broken up by running past Algeria on Saturday morning. This allows for an exit point in the case of injury. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "This route is broken up by running past Algeria on Saturday morning. This allows for an exit point in the case of injury. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "dcc54afe-133d-49d9-808f-24bb11556c44",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:39:00.000Z",
+    "last_edited_time": "2024-03-12T20:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f84068a2-eab5-4014-b734-9256d9058347",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T20:27:00.000Z",
+    "last_edited_time": "2024-03-12T20:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "column_list",
+    "column_list": {},
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "005a6a9f-3e31-4ca0-8dca-5b6a46f781f3",
+        "parent": {
+          "type": "block_id",
+          "block_id": "f84068a2-eab5-4014-b734-9256d9058347"
+        },
+        "created_time": "2024-03-12T20:28:00.000Z",
+        "last_edited_time": "2024-03-12T20:28:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "f51b18ab-8c2e-4ea0-a1e5-21d90cbdf4f1",
+            "parent": {
+              "type": "block_id",
+              "block_id": "005a6a9f-3e31-4ca0-8dca-5b6a46f781f3"
+            },
+            "created_time": "2024-03-07T19:50:00.000Z",
+            "last_edited_time": "2024-03-20T13:49:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": true,
+            "in_trash": false,
+            "type": "child_page",
+            "child_page": {
+              "title": "Cederberg Fastpack 2024: Route"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "816e2d74-9159-4fec-92e5-95608589343e",
+            "parent": {
+              "type": "block_id",
+              "block_id": "005a6a9f-3e31-4ca0-8dca-5b6a46f781f3"
+            },
+            "created_time": "2024-03-12T20:28:00.000Z",
+            "last_edited_time": "2024-03-12T20:28:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [],
+              "color": "default"
+            },
+            "archived": false
+          }
+        ]
+      },
+      {
+        "object": "block",
+        "id": "7137c97e-7be8-4519-b461-8b081e1ac54f",
+        "parent": {
+          "type": "block_id",
+          "block_id": "f84068a2-eab5-4014-b734-9256d9058347"
+        },
+        "created_time": "2024-03-12T20:27:00.000Z",
+        "last_edited_time": "2024-03-12T20:28:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5000000000000001
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "947571e9-34c7-4351-852a-392bd693e00d",
+            "parent": {
+              "type": "block_id",
+              "block_id": "7137c97e-7be8-4519-b461-8b081e1ac54f"
+            },
+            "created_time": "2024-03-12T19:28:00.000Z",
+            "last_edited_time": "2024-03-12T20:27:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "If you have a GPS watch, please load the GPX files for each day. ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "If you have a GPS watch, please load the GPX files for each day. ",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "01f8d01a-e103-4389-8cec-2e62f60ba00c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:28:00.000Z",
+    "last_edited_time": "2024-03-12T20:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_1",
+    "heading_1": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Packing",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Packing",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "green_background"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b299305a-fec6-4bcf-85ca-fa5731d9863e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:40:00.000Z",
+    "last_edited_time": "2024-03-12T19:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Packing for fastpacking can become stressful if you allow it to be. I wrote a long piece a few years ago when preparing for a fastpacking trip through the Transkei with Fred and Damo:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Packing for fastpacking can become stressful if you allow it to be. I wrote a long piece a few years ago when preparing for a fastpacking trip through the Transkei with Fred and Damo:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a936b91a-35b6-4115-a84a-13e149331d92",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:43:00.000Z",
+    "last_edited_time": "2024-03-12T19:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "link_to_page",
+    "link_to_page": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0b981d71-e2be-4818-a599-11f5e7293eb5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:28:00.000Z",
+    "last_edited_time": "2024-03-12T19:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "It is a fairly long article, to summarise the main takeaway points with regard to packing:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "It is a fairly long article, to summarise the main takeaway points with regard to packing:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1c791c36-5fc1-4f7b-b682-3df3c24f3394",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:45:00.000Z",
+    "last_edited_time": "2024-03-12T19:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9f1047d5-7379-442d-a2f0-2e03995d3cc1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:45:00.000Z",
+    "last_edited_time": "2024-03-12T20:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Weight is something to minimise",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Weight is something to minimise",
+          "href": null
+        }
+      ],
+      "color": "pink"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "cd642926-c3bc-4680-b906-e6987ef37788",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:45:00.000Z",
+    "last_edited_time": "2024-03-12T19:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Running is less enjoyable the heavier you are. We’re going there to do a lot of running - try and maximise the enjoyment of it.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Running is less enjoyable the heavier you are. We’re going there to do a lot of running - try and maximise the enjoyment of it.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5c35e5aa-91d2-413b-b444-7da02c55fde0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:45:00.000Z",
+    "last_edited_time": "2024-03-12T19:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ef4f84c4-7cc6-4ebd-a147-65db14a28c54",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:45:00.000Z",
+    "last_edited_time": "2024-03-12T20:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Pack what you have",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Pack what you have",
+          "href": null
+        }
+      ],
+      "color": "purple"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "553bfe0f-ac22-4fe2-9fb8-b0d5c2167153",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:45:00.000Z",
+    "last_edited_time": "2024-03-12T19:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "It’s so easy to want all the high tech, ultralight, ultra-small and vastly overpriced gear out there. You’ll never get it all, there will always be something else. Borrow gear where possible, and then use what you have without regret.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "It’s so easy to want all the high tech, ultralight, ultra-small and vastly overpriced gear out there. You’ll never get it all, there will always be something else. Borrow gear where possible, and then use what you have without regret.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1f1f2bd9-9aab-4916-aa32-6f45d748c882",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:45:00.000Z",
+    "last_edited_time": "2024-03-12T19:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "33d319e7-5acf-40fb-90e6-df2751fb071d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:45:00.000Z",
+    "last_edited_time": "2024-03-12T20:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Pack things that can prevent your trip being ruined",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Pack things that can prevent your trip being ruined",
+          "href": null
+        }
+      ],
+      "color": "blue"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ad8eccff-908e-4198-8d9e-73b116b35a68",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:45:00.000Z",
+    "last_edited_time": "2024-03-12T19:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The adventure of fastpacking is incredible as it is - you don’t need many extra things. These are simple things that you will kick yourself if you don’t have. Some of them are obvious, others less so:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The adventure of fastpacking is incredible as it is - you don’t need many extra things. These are simple things that you will kick yourself if you don’t have. Some of them are obvious, others less so:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "66e58f6c-73e5-433b-809f-928e1b93b4b5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:45:00.000Z",
+    "last_edited_time": "2024-03-12T19:46:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Medical kit - a comprehensive one; we can share these.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Medical kit - a comprehensive one; we can share these.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ea7fa411-e7b0-4e85-bd91-03ca4a2f07ed",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:45:00.000Z",
+    "last_edited_time": "2024-03-12T19:46:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Vaseline - just ask Damo about his chafe in the Transkei.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Vaseline - just ask Damo about his chafe in the Transkei.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6fbd1b6d-9224-4372-8522-bc42088e4779",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:45:00.000Z",
+    "last_edited_time": "2024-03-12T19:46:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Good sleeping equipment - running on poor night’s sleep is like adding 5kg to your bag. Try maximise the quality of sleep you’re going to get.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Good sleeping equipment - running on poor night’s sleep is like adding 5kg to your bag. Try maximise the quality of sleep you’re going to get.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f5a882a0-4374-471e-9b6b-0a160afc6e26",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:45:00.000Z",
+    "last_edited_time": "2024-03-12T19:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d1520061-0a25-4313-97ec-814381863dd9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:45:00.000Z",
+    "last_edited_time": "2024-03-12T20:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Pack for running, not for camp",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Pack for running, not for camp",
+          "href": null
+        }
+      ],
+      "color": "green"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "787d7f23-6941-4a7c-b4a0-235c10970480",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:45:00.000Z",
+    "last_edited_time": "2024-03-12T19:48:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "This is something that I changed my mind on. I brought many nice things for the camp up the mountain with me, but in the effort of dragging them up 2000m of Drakensberg mountains we weren’t able to play more than two games of backgammon, truly enjoy a slab of Lint and really appreciate how nice the cave was with top down lighting. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "This is something that I changed my mind on. I brought many nice things for the camp up the mountain with me, but in the effort of dragging them up 2000m of Drakensberg mountains we weren’t able to play more than two games of backgammon, truly enjoy a slab of Lint and really appreciate how nice the cave was with top down lighting. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9f6ea7be-785c-425b-a657-99f52c2151fb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:45:00.000Z",
+    "last_edited_time": "2024-03-12T19:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d42a202e-d807-48f9-ad16-f31e165b1c13",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:45:00.000Z",
+    "last_edited_time": "2024-03-12T19:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I will probably bring the backgammon set to the Transkei because I love the game, but the extra light and Lint will have to stay home. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I will probably bring the backgammon set to the Transkei because I love the game, but the extra light and Lint will have to stay home. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "57d6b5a6-db77-45f2-9aa2-e0dd2ed7f525",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:45:00.000Z",
+    "last_edited_time": "2024-03-12T19:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ed14b327-5d1a-4e73-aae6-e80c07c96de4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:45:00.000Z",
+    "last_edited_time": "2024-03-12T20:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Bring suncream lip balm",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Bring suncream lip balm",
+          "href": null
+        }
+      ],
+      "color": "yellow"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "fa52535e-fc82-47f4-9fbf-a5aee6d05aca",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:45:00.000Z",
+    "last_edited_time": "2024-03-12T19:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Almost four days after coming back from the mountains my lips still resemble a dry river bed. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Almost four days after coming back from the mountains my lips still resemble a dry river bed. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b68bad6b-db4d-4330-99de-dfc8f77273a5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:45:00.000Z",
+    "last_edited_time": "2024-03-12T19:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0eb10fd3-f3de-46c6-be26-dd00ac415a79",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:45:00.000Z",
+    "last_edited_time": "2024-03-12T20:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Water is heavy, take that into account",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Water is heavy, take that into account",
+          "href": null
+        }
+      ],
+      "color": "orange"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "2cd92d1f-4bc9-428a-9391-2951aeb147f6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:45:00.000Z",
+    "last_edited_time": "2024-03-12T19:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "On top of that - we are going to be running through the Cederberg at the end of the dry season. This means that we’re going to be refilling all our water as often as possible. Personally I will aim to carry about 2.5L of water on me as often as possible. Factor in the extra weight.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "On top of that - we are going to be running through the Cederberg at the end of the dry season. This means that we’re going to be refilling all our water as often as possible. Personally I will aim to carry about 2.5L of water on me as often as possible. Factor in the extra weight.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "06fd89a0-5489-42dc-b9db-51808aa2be8f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:28:00.000Z",
+    "last_edited_time": "2024-03-12T20:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Food",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Food",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "green_background"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5246bcc6-5946-4549-87a9-11ffe1f65001",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:48:00.000Z",
+    "last_edited_time": "2024-03-12T19:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Food is quite subjective. I’m going to do something along these lines:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Food is quite subjective. I’m going to do something along these lines:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9a5bb832-f222-4ea4-a058-8f4dcd09c0e1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:49:00.000Z",
+    "last_edited_time": "2024-03-12T19:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Breakfastnut butter and a banana if I can pack it safely. And coffee. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Breakfastnut butter and a banana if I can pack it safely. And coffee. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d71d407c-62a9-4331-b09a-80887984bd6c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:50:00.000Z",
+    "last_edited_time": "2024-03-12T19:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Snacks: nuts, biltong, a bar or two",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Snacks: nuts, biltong, a bar or two",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3c003d36-bcb5-498d-9f58-91392b388dc1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:50:00.000Z",
+    "last_edited_time": "2024-03-12T19:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Lunch: maybe some tuna, I haven’t thought too much about this yet",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Lunch: maybe some tuna, I haven’t thought too much about this yet",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0a1fd569-7815-42d4-b2e5-4d021d524fa0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:53:00.000Z",
+    "last_edited_time": "2024-03-12T19:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Dinner: ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Dinner: ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Mama Alles",
+            "link": {
+              "url": "https://mamaalles.com/collections/dinner-1"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Mama Alles",
+          "href": "https://mamaalles.com/collections/dinner-1"
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1e802adc-1433-46ed-9d71-3aa66a994553",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:48:00.000Z",
+    "last_edited_time": "2024-03-12T19:48:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "15163390-7f37-4306-948a-6d93cc29e5b5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:48:00.000Z",
+    "last_edited_time": "2024-03-12T19:54:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Bring what you’re comfortable with. My body does great on solid foods (barring the exception of nut butter). ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Bring what you’re comfortable with. My body does great on solid foods (barring the exception of nut butter). ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e87c89b2-fb7a-4647-ae64-d5e1fdcb2c01",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T20:18:00.000Z",
+    "last_edited_time": "2024-03-12T20:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "41339eae-851b-45e7-807b-4569e5caabfd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T20:18:00.000Z",
+    "last_edited_time": "2024-03-12T20:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I would suggest packing food in bags with the following labels as you need to leave food all over the place to reduce the weight:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I would suggest packing food in bags with the following labels as you need to leave food all over the place to reduce the weight:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "81a1a44d-77cf-449e-8b24-9f2c082558f8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T20:19:00.000Z",
+    "last_edited_time": "2024-03-12T20:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "To carry on Day 1 and Day 2 (bring to the start):",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "To carry on Day 1 and Day 2 (bring to the start):",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "0032276f-c09e-4d2c-b814-2821dac0ba97",
+        "parent": {
+          "type": "block_id",
+          "block_id": "81a1a44d-77cf-449e-8b24-9f2c082558f8"
+        },
+        "created_time": "2024-03-12T20:19:00.000Z",
+        "last_edited_time": "2024-03-12T20:20:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "numbered_list_item",
+        "numbered_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Thursday ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Thursday ",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "6ba7e419-cf74-4594-b6b4-ce0df4ff2433",
+            "parent": {
+              "type": "block_id",
+              "block_id": "0032276f-c09e-4d2c-b814-2821dac0ba97"
+            },
+            "created_time": "2024-03-12T20:19:00.000Z",
+            "last_edited_time": "2024-03-12T20:19:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "numbered_list_item",
+            "numbered_list_item": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "lunch",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "lunch",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "98036146-328e-4df2-b64c-914f947c2fee",
+            "parent": {
+              "type": "block_id",
+              "block_id": "0032276f-c09e-4d2c-b814-2821dac0ba97"
+            },
+            "created_time": "2024-03-12T20:19:00.000Z",
+            "last_edited_time": "2024-03-12T20:19:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "numbered_list_item",
+            "numbered_list_item": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "snacks",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "snacks",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "4ae56805-8ec5-4d84-a437-0d8bb064d9a7",
+            "parent": {
+              "type": "block_id",
+              "block_id": "0032276f-c09e-4d2c-b814-2821dac0ba97"
+            },
+            "created_time": "2024-03-12T20:19:00.000Z",
+            "last_edited_time": "2024-03-12T20:20:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "numbered_list_item",
+            "numbered_list_item": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "dinner",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "dinner",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          }
+        ]
+      },
+      {
+        "object": "block",
+        "id": "815ecab7-9ee3-43c6-8bc1-20b56976ec1f",
+        "parent": {
+          "type": "block_id",
+          "block_id": "81a1a44d-77cf-449e-8b24-9f2c082558f8"
+        },
+        "created_time": "2024-03-12T20:19:00.000Z",
+        "last_edited_time": "2024-03-12T20:20:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "numbered_list_item",
+        "numbered_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Friday ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Friday ",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "13f691c7-3b83-40f4-916a-79e56f750363",
+            "parent": {
+              "type": "block_id",
+              "block_id": "815ecab7-9ee3-43c6-8bc1-20b56976ec1f"
+            },
+            "created_time": "2024-03-12T20:20:00.000Z",
+            "last_edited_time": "2024-03-12T20:20:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "numbered_list_item",
+            "numbered_list_item": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "breakfast",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "breakfast",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "7edc838e-8399-4af1-bcaa-b39d47cd2a34",
+            "parent": {
+              "type": "block_id",
+              "block_id": "815ecab7-9ee3-43c6-8bc1-20b56976ec1f"
+            },
+            "created_time": "2024-03-12T20:20:00.000Z",
+            "last_edited_time": "2024-03-12T20:20:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "numbered_list_item",
+            "numbered_list_item": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "lunch ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "lunch ",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "5a048347-f3f4-44fe-afd1-3c3be9e06fa6",
+            "parent": {
+              "type": "block_id",
+              "block_id": "815ecab7-9ee3-43c6-8bc1-20b56976ec1f"
+            },
+            "created_time": "2024-03-12T20:20:00.000Z",
+            "last_edited_time": "2024-03-12T20:20:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "numbered_list_item",
+            "numbered_list_item": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "snacks",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "snacks",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "dd6850d6-dd7f-4742-aa0b-5a080245fbd7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T20:19:00.000Z",
+    "last_edited_time": "2024-03-20T13:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Leave in the car at Uitkuk pass:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Leave in the car at Uitkuk pass:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "a30f0cb2-fa3a-4936-a507-e18fad187c38",
+        "parent": {
+          "type": "block_id",
+          "block_id": "dd6850d6-dd7f-4742-aa0b-5a080245fbd7"
+        },
+        "created_time": "2024-03-12T20:20:00.000Z",
+        "last_edited_time": "2024-03-20T13:31:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "numbered_list_item",
+        "numbered_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Friday ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Friday ",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "b99c2531-205d-4e24-ae5a-f4bd918af7fe",
+            "parent": {
+              "type": "block_id",
+              "block_id": "a30f0cb2-fa3a-4936-a507-e18fad187c38"
+            },
+            "created_time": "2024-03-20T13:31:00.000Z",
+            "last_edited_time": "2024-03-20T13:31:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "numbered_list_item",
+            "numbered_list_item": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "dinner",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "dinner",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          }
+        ]
+      },
+      {
+        "object": "block",
+        "id": "04aee904-9308-4b58-92dd-989682633e5f",
+        "parent": {
+          "type": "block_id",
+          "block_id": "dd6850d6-dd7f-4742-aa0b-5a080245fbd7"
+        },
+        "created_time": "2024-03-12T20:20:00.000Z",
+        "last_edited_time": "2024-03-20T13:31:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "numbered_list_item",
+        "numbered_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Saturday",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Saturday",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "0a783cbf-fc6b-4d3d-a173-3ec7343ca58f",
+            "parent": {
+              "type": "block_id",
+              "block_id": "04aee904-9308-4b58-92dd-989682633e5f"
+            },
+            "created_time": "2024-03-20T13:31:00.000Z",
+            "last_edited_time": "2024-03-20T13:31:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "numbered_list_item",
+            "numbered_list_item": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Breakfast ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Breakfast ",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "61109565-af48-4ddf-9573-a66b82725724",
+            "parent": {
+              "type": "block_id",
+              "block_id": "04aee904-9308-4b58-92dd-989682633e5f"
+            },
+            "created_time": "2024-03-12T20:20:00.000Z",
+            "last_edited_time": "2024-03-20T13:31:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "numbered_list_item",
+            "numbered_list_item": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "lunch",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "lunch",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "a6e22464-9cc8-4dcc-b410-12ab3e74b648",
+            "parent": {
+              "type": "block_id",
+              "block_id": "04aee904-9308-4b58-92dd-989682633e5f"
+            },
+            "created_time": "2024-03-12T20:21:00.000Z",
+            "last_edited_time": "2024-03-20T13:31:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "numbered_list_item",
+            "numbered_list_item": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "snacks",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "snacks",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "67a383aa-9b7a-408c-b8fd-6032364f2dfd",
+            "parent": {
+              "type": "block_id",
+              "block_id": "04aee904-9308-4b58-92dd-989682633e5f"
+            },
+            "created_time": "2024-03-12T20:21:00.000Z",
+            "last_edited_time": "2024-03-20T13:31:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "numbered_list_item",
+            "numbered_list_item": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "dinner",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "dinner",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          }
+        ]
+      },
+      {
+        "object": "block",
+        "id": "ae0b174e-5619-4216-a944-9aac5213e40c",
+        "parent": {
+          "type": "block_id",
+          "block_id": "dd6850d6-dd7f-4742-aa0b-5a080245fbd7"
+        },
+        "created_time": "2024-03-12T20:21:00.000Z",
+        "last_edited_time": "2024-03-20T13:31:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "numbered_list_item",
+        "numbered_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Sunday",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Sunday",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "ddb27644-5817-4c3f-abea-5cbcd4dab439",
+            "parent": {
+              "type": "block_id",
+              "block_id": "ae0b174e-5619-4216-a944-9aac5213e40c"
+            },
+            "created_time": "2024-03-12T20:21:00.000Z",
+            "last_edited_time": "2024-03-20T13:31:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "numbered_list_item",
+            "numbered_list_item": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "breakfast",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "breakfast",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          },
+          {
+            "object": "block",
+            "id": "375b1513-a456-43dc-878f-ffec5e9ea0e8",
+            "parent": {
+              "type": "block_id",
+              "block_id": "ae0b174e-5619-4216-a944-9aac5213e40c"
+            },
+            "created_time": "2024-03-12T20:21:00.000Z",
+            "last_edited_time": "2024-03-20T13:31:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "numbered_list_item",
+            "numbered_list_item": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "snacks",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "snacks",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "86ed74e4-0ffb-4681-a2c9-27eea12f9b93",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:28:00.000Z",
+    "last_edited_time": "2024-03-12T20:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Gear",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Gear",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "green_background"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1c068923-4ab5-4a16-a606-a83832fbe592",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:28:00.000Z",
+    "last_edited_time": "2024-03-12T19:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I have created a packing list for fastpacking here:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I have created a packing list for fastpacking here:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "36b89b0b-8c08-40d4-b6ed-b46c4e202e61",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:57:00.000Z",
+    "last_edited_time": "2024-03-12T19:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "unsupported",
+    "unsupported": {
+      "block_type": "alias"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "bfa5c0a1-e290-4729-b254-bbfebc0d747b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:28:00.000Z",
+    "last_edited_time": "2024-03-12T19:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "It’s definitely quite verbose - but it should give you a feeling for how you could approach this. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "It’s definitely quite verbose - but it should give you a feeling for how you could approach this. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "2886aa58-b32c-4e79-9932-f7d9e52620ba",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:57:00.000Z",
+    "last_edited_time": "2024-03-12T19:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "69f59b70-1327-4c5c-9892-088a6dd2c36a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:57:00.000Z",
+    "last_edited_time": "2024-03-12T20:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I have a 40L fastpack, I will fill it with:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I have a 40L fastpack, I will fill it with:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "01ab9f24-8d14-40a2-95ad-33fc88a79bb9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:57:00.000Z",
+    "last_edited_time": "2024-03-12T19:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Small sleeping bag - try borrow a light one; this makes a difference",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Small sleeping bag - try borrow a light one; this makes a difference",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "45ca2ad7-27e0-4fb4-a187-846207595464",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:58:00.000Z",
+    "last_edited_time": "2024-03-12T19:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "One running outfit",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "One running outfit",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8954ed8e-87b1-4df9-bf5f-7b4111154d97",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:58:00.000Z",
+    "last_edited_time": "2024-03-12T19:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "One warm outfit for the evenings/sleeping ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "One warm outfit for the evenings/sleeping ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "328d58d8-cb86-496a-b23f-0f603c19b615",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T20:16:00.000Z",
+    "last_edited_time": "2024-03-12T20:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "An inflatable mattress ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "An inflatable mattress ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "69109d3d-8e9a-4e9f-8da8-5e3b1c07eb4d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:58:00.000Z",
+    "last_edited_time": "2024-03-12T19:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Food",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Food",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7c93bb50-ab92-48e8-b468-d3e4dfd11d3f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:58:00.000Z",
+    "last_edited_time": "2024-03-12T19:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Cooking ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Cooking ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "bd12a617-63c0-4c09-b054-d210d444582b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:58:00.000Z",
+    "last_edited_time": "2024-03-12T19:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Medical kit",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Medical kit",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "308bc4f0-a512-4e23-ab9e-ec1393d25102",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:59:00.000Z",
+    "last_edited_time": "2024-03-12T19:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Other smaller items (such as head torch)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Other smaller items (such as head torch)",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b32da5cd-3dca-47ed-b2b9-7a3f86139524",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T20:45:00.000Z",
+    "last_edited_time": "2024-03-12T20:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "75610cd8-0818-48f3-a08c-52a699f4da32",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T20:45:00.000Z",
+    "last_edited_time": "2024-03-12T20:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Please note - it’s not vital to have a pack designed specifically for fastpacking. They are definitely incredible in terms of comfort while running, but any pack between 30L → 40L should be fine if it won’t bounce around too much. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Please note - it’s not vital to have a pack designed specifically for fastpacking. They are definitely incredible in terms of comfort while running, but any pack between 30L → 40L should be fine if it won’t bounce around too much. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "78fb1169-9bf4-46b0-9f80-850c2210de07",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:28:00.000Z",
+    "last_edited_time": "2024-03-12T20:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_1",
+    "heading_1": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Safety",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Safety",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "red_background"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "da243adb-394e-43cc-8c93-ae1e942ca3a8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:29:00.000Z",
+    "last_edited_time": "2024-03-12T20:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We’re heading off into a remote part of the world. We are going to be self-propelled and self-sufficient. While we will do everything possible to ensure that this goes smoothly, it’s possible that things can go wrong. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We’re heading off into a remote part of the world. We are going to be self-propelled and self-sufficient. While we will do everything possible to ensure that this goes smoothly, it’s possible that things can go wrong. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f8f1475f-5b40-4daa-b5ea-99c648a76f2a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:29:00.000Z",
+    "last_edited_time": "2024-03-12T20:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Water",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Water",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "red_background"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f85cc674-4068-4849-acc6-1059adce903d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:29:00.000Z",
+    "last_edited_time": "2024-03-12T20:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The largest risk will be water. From what I’ve seen the Cederberg isn’t as dry as it could be after summer - so that is on our side. Yet running out of water while fastpacking is always something to be aware of. Ultimately, your water management will be up to you; you know the impertinence of hydration when it comes to running long distances. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The largest risk will be water. From what I’ve seen the Cederberg isn’t as dry as it could be after summer - so that is on our side. Yet running out of water while fastpacking is always something to be aware of. Ultimately, your water management will be up to you; you know the impertinence of hydration when it comes to running long distances. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4be92048-ec75-4d2a-af02-e3e91537319e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T20:05:00.000Z",
+    "last_edited_time": "2024-03-12T20:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "82454044-c467-45c3-a2f8-28b23e3c2b29",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T20:05:00.000Z",
+    "last_edited_time": "2024-03-12T20:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I would suggest doing the following:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I would suggest doing the following:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a4180e22-8127-4c93-b7c2-1747f55cd32a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T20:05:00.000Z",
+    "last_edited_time": "2024-03-12T20:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Running with >2.5L of water capacity",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Running with >2.5L of water capacity",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4551963d-b3a3-436c-9a45-e4b9782f0e01",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T20:05:00.000Z",
+    "last_edited_time": "2024-03-12T20:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Filling up your water capacity whenever possible ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Filling up your water capacity whenever possible ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "82746ef4-9ddd-48f3-a706-13525707737c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T20:06:00.000Z",
+    "last_edited_time": "2024-03-12T20:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e410bf27-ea55-4941-ba09-0b6c4d40d154",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T20:06:00.000Z",
+    "last_edited_time": "2024-03-12T20:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Dehydration can hit quickly and end the trip quite abruptly. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Dehydration can hit quickly and end the trip quite abruptly. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d2f2e0a0-1bf8-442a-b341-c6015eb851f7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:29:00.000Z",
+    "last_edited_time": "2024-03-12T20:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Emergency",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Emergency",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "red_background"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3884070f-32a1-4eee-a046-5985a1391205",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:51:00.000Z",
+    "last_edited_time": "2024-03-12T19:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I am going to borrow a ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I am going to borrow a ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "satellite communicator",
+            "link": {
+              "url": "https://www.garmin.com/en-GB/p/592606?gad_source=1&gclid=Cj0KCQjw-r-vBhC-ARIsAGgUO2CP-WbWmJ2IeJltrk7DBR63toMqFkv68ktK4aHA75pDFe7v_npJ-VcaAssgEALw_wcB"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "satellite communicator",
+          "href": "https://www.garmin.com/en-GB/p/592606?gad_source=1&gclid=Cj0KCQjw-r-vBhC-ARIsAGgUO2CP-WbWmJ2IeJltrk7DBR63toMqFkv68ktK4aHA75pDFe7v_npJ-VcaAssgEALw_wcB"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " from a friend to ensure that we can contact help if we need. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " from a friend to ensure that we can contact help if we need. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0d20ce81-2d0c-46ba-9d0a-d52034432a34",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T20:06:00.000Z",
+    "last_edited_time": "2024-03-12T20:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d1f5521b-5a3e-4098-ae87-20ddc75e9599",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T20:06:00.000Z",
+    "last_edited_time": "2024-03-12T20:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "In the case of an emergency, we will contact the Cederberg rangers as well as a friend back in Cape Town who will be able to coordinate things on the phone. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "In the case of an emergency, we will contact the Cederberg rangers as well as a friend back in Cape Town who will be able to coordinate things on the phone. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "49458951-a75e-4ec4-84bc-ba0c6387247e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T20:08:00.000Z",
+    "last_edited_time": "2024-03-12T20:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8d1982f4-1003-4588-9c12-0a2b6e2a7ae3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T20:08:00.000Z",
+    "last_edited_time": "2024-03-12T20:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "In the case of an injury, it will depend on where we are on the route. It’s likely that two people will accompany the injured person out if the rest of the group can continue. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "In the case of an injury, it will depend on where we are on the route. It’s likely that two people will accompany the injured person out if the rest of the group can continue. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "941280d9-8544-42d6-9aef-33dfb6de4446",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T20:10:00.000Z",
+    "last_edited_time": "2024-03-12T20:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9f2040a2-2ece-47d4-bfbe-be0044b62aaf",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T20:10:00.000Z",
+    "last_edited_time": "2024-03-12T20:11:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We will have a comprehensive medical kit with us. If you are allergic to anything or require any special medication - please bring it. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We will have a comprehensive medical kit with us. If you are allergic to anything or require any special medication - please bring it. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "fa1085e9-e066-4374-a78e-37fddcc701c8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:28:00.000Z",
+    "last_edited_time": "2024-03-12T19:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "70e25aca-181a-4074-b20c-9ed1ba240ce3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:28:00.000Z",
+    "last_edited_time": "2024-03-12T20:11:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_1",
+    "heading_1": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Enough words - let’s go already",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Enough words - let’s go already",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "yellow_background"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "579d9051-8ef0-411c-97ac-a66d0ad749ee",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:28:00.000Z",
+    "last_edited_time": "2024-03-12T20:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I can assure you this is going to be a healthy dose of type 1 fun (and likely a sprinkle of type 2 fun). We are going to go slow and steady. Believe in your body - it can go much further than you may think. Enjoy the process and take in the views, it’s one of the more spectacular places on earth. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I can assure you this is going to be a healthy dose of type 1 fun (and likely a sprinkle of type 2 fun). We are going to go slow and steady. Believe in your body - it can go much further than you may think. Enjoy the process and take in the views, it’s one of the more spectacular places on earth. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ef30a062-0f8d-4499-a76d-fc6e2b4a2425",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-13T11:35:00.000Z",
+    "last_edited_time": "2024-03-13T11:35:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "597674be-8a94-4403-bf8b-219a29ef6f26",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-13T11:35:00.000Z",
+    "last_edited_time": "2024-03-13T11:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Type 1 fun: Fun During, Fun After\nType 2 fun: Not Fun During, Fun After\nType 3 fun: Not Fun During, Not Fun After\n(Type 4 fun: Fun During, Not Fun After)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Type 1 fun: Fun During, Fun After\nType 2 fun: Not Fun During, Fun After\nType 3 fun: Not Fun During, Not Fun After\n(Type 4 fun: Fun During, Not Fun After)",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "emoji",
+        "emoji": "💡"
+      },
+      "color": "gray_background"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3d757267-fbc5-4878-98b4-06532e4d3684",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T20:13:00.000Z",
+    "last_edited_time": "2024-03-12T20:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1971464e-9349-4514-9c23-a370f5167598",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T20:13:00.000Z",
+    "last_edited_time": "2024-03-12T20:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "divider",
+    "divider": {},
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "86ec88d4-7627-4115-be31-fba1decb01cc",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T19:28:00.000Z",
+    "last_edited_time": "2024-03-12T19:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "If you’re interested - here are some of the other routes that we considered:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "If you’re interested - here are some of the other routes that we considered:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9f89fcc3-03e2-41d0-80fc-b01b8d2472da",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-12T10:03:00.000Z",
+    "last_edited_time": "2024-03-12T19:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "child_page",
+    "child_page": {
+      "title": "Route archive"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c10ccef6-9286-4c8c-aaab-289c5bd175a7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-21T09:26:00.000Z",
+    "last_edited_time": "2024-03-21T09:26:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "99a533f6-0231-4b48-bccd-ba583dbd86e5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-21T09:26:00.000Z",
+    "last_edited_time": "2024-03-21T09:26:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_1",
+    "heading_1": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Lessons learned ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Lessons learned ",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1738529d-548b-4c17-91f4-e7175e05f6fd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-21T09:26:00.000Z",
+    "last_edited_time": "2024-03-21T09:26:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Planning phase",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Planning phase",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3c3110a9-e8c1-4f42-8096-207aac9cfe62",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-21T09:26:00.000Z",
+    "last_edited_time": "2024-03-21T09:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Get medical aid numbers and emergency contacts before going. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Get medical aid numbers and emergency contacts before going. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "43898f09-75bc-494b-a30e-5b93192b0c06",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-21T09:30:00.000Z",
+    "last_edited_time": "2024-03-21T09:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Make a planning group. Invite others once the route is set. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Make a planning group. Invite others once the route is set. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b23bb916-acc7-4a54-b081-f2035642f512",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-21T09:28:00.000Z",
+    "last_edited_time": "2024-03-21T09:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7db2f93a-a86d-4548-a5a8-1ad5c9327fa3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f981e9af-4d10-41ce-b1ce-0315ba64ab68"
+    },
+    "created_time": "2024-03-21T09:26:00.000Z",
+    "last_edited_time": "2024-03-21T09:26:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

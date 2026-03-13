@@ -1,0 +1,4510 @@
+[
+  {
+    "object": "block",
+    "id": "31d3470b-67ec-428d-b158-ba00a55a80bd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T08:53:00.000Z",
+    "last_edited_time": "2022-08-15T10:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "There’s a 4:30am alarm. In my books any alarm pre-5am means that an adventure is on the cards - so waking up is easy. Fred (Frik as previously referred to in my travel journal, but I’ve always wanted a friend called Fred) is on time and outside at 5am. He’s unfortunately feeling average and hasn’t slept well. I take the keys, put on Google Maps, pop the car into cruise control and simply steer us to the Berg. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "There’s a 4:30am alarm. In my books any alarm pre-5am means that an adventure is on the cards - so waking up is easy. Fred (Frik as previously referred to in my travel journal, but I’ve always wanted a friend called Fred) is on time and outside at 5am. He’s unfortunately feeling average and hasn’t slept well. I take the keys, put on Google Maps, pop the car into cruise control and simply steer us to the Berg. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "808c71c7-1cdc-431a-ab39-3451f092e4e4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:14:00.000Z",
+    "last_edited_time": "2022-08-15T09:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "84627575-1849-4243-a92c-3a657da10018",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T08:53:00.000Z",
+    "last_edited_time": "2022-08-16T08:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The adventure begins",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The adventure begins",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/c4a42605c2949855.jpeg",
+        "expiry_time": "2026-03-12T09:45:50.653Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8da46ffb-6de4-490c-8a5b-faa8a796ae48",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T08:55:00.000Z",
+    "last_edited_time": "2022-08-15T08:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "cfaf3373-831b-4e92-9a92-f9eaf57a8fd0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T08:55:00.000Z",
+    "last_edited_time": "2022-08-15T08:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "With Fred sleeping next to me I have some lovely time to think and ponder some things. I watch the sun rise in a majestic orange that only the inland of South Africa can produce. Traffic is minimal and the Honda soccer mom van floats down the road with ease. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "With Fred sleeping next to me I have some lovely time to think and ponder some things. I watch the sun rise in a majestic orange that only the inland of South Africa can produce. Traffic is minimal and the Honda soccer mom van floats down the road with ease. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "2611bb1f-8b76-4ad6-95a2-474f6bbdd0da",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T08:56:00.000Z",
+    "last_edited_time": "2022-08-15T08:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4761e6bc-f9e5-4b4b-8d9b-9e361c7e7e0e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T08:53:00.000Z",
+    "last_edited_time": "2022-08-15T09:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Sleeping beauty",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Sleeping beauty",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/2ebb553d273abd37.jpeg",
+        "expiry_time": "2026-03-12T09:45:50.653Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3f3bf9b5-fd12-4af8-97bd-a35b9e3939fb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T08:55:00.000Z",
+    "last_edited_time": "2022-08-15T08:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e3c171fb-fd76-4664-9e76-29bbde127125",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T08:57:00.000Z",
+    "last_edited_time": "2022-08-15T08:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Nature is calling. I pull into a garage and offer Fred some paracetamol for his headache. As someone who doesn’t take a lot of medicine I regard anything with paracetamol extremely highly. A miracle drug that can fix just about any sort of discomfort. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Nature is calling. I pull into a garage and offer Fred some paracetamol for his headache. As someone who doesn’t take a lot of medicine I regard anything with paracetamol extremely highly. A miracle drug that can fix just about any sort of discomfort. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f9d14045-0798-4613-b7ff-fbf12cfc6b64",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T08:59:00.000Z",
+    "last_edited_time": "2022-08-15T08:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "bc7627f2-ca0f-414c-aa4a-8c53f9a72557",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T08:59:00.000Z",
+    "last_edited_time": "2022-08-15T09:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I’m standing by the car and an Oom rocks up in a Mahinda Karoo bakkie. I comment on the car when he gets out and he proceeds to approach me, offer a cigarette and talk excitedly about the car that he’s taking for a test drive. “You can buy two for the price of one Hilux” he says while trying to find a Whatsapp video that someone has sent him with this rather comedic review of the car. When recounting the experience to Fred he asks me:\n”What do you call a Mahinda with two exhausts?”",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I’m standing by the car and an Oom rocks up in a Mahinda Karoo bakkie. I comment on the car when he gets out and he proceeds to approach me, offer a cigarette and talk excitedly about the car that he’s taking for a test drive. “You can buy two for the price of one Hilux” he says while trying to find a Whatsapp video that someone has sent him with this rather comedic review of the car. When recounting the experience to Fred he asks me:\n”What do you call a Mahinda with two exhausts?”",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9baa89ba-3cab-4c64-94e5-63b92003f816",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:01:00.000Z",
+    "last_edited_time": "2022-08-15T09:02:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "“A wheelbarrow” haha.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "“A wheelbarrow” haha.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e5178f7e-9b7f-4dc5-9844-760121928735",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:02:00.000Z",
+    "last_edited_time": "2022-08-15T09:02:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "cd3411a2-4885-4166-8e04-a92bfa413598",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T08:53:00.000Z",
+    "last_edited_time": "2022-08-15T09:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The mountains begin",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The mountains begin",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/6586f978666c2aef.jpeg",
+        "expiry_time": "2026-03-12T09:45:50.654Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "db784ceb-aded-4df3-8f83-16d7304cf1a6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:03:00.000Z",
+    "last_edited_time": "2022-08-15T09:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1b12fa58-7011-4ffd-a203-0cf0de36e3e2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:02:00.000Z",
+    "last_edited_time": "2022-08-16T08:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "With a paracetamol in his bloodstream and a good sleep under his (seat) belt - Fred comes alive. We have a lovely conversation about many profound topics. We talk effective altruism, building a startup and how long boarders could be compared to vultures. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "With a paracetamol in his bloodstream and a good sleep under his (seat) belt - Fred comes alive. We have a lovely conversation about many profound topics. We talk effective altruism, building a startup and how long boarders could be compared to vultures. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1c034e33-f8e1-492e-afec-c4f2925004c1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:03:00.000Z",
+    "last_edited_time": "2022-08-15T09:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "986dc378-a631-4da3-b856-4febc8f466ee",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:02:00.000Z",
+    "last_edited_time": "2022-08-16T08:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "And then we’re there, at the Mahai campsite, with the majestic Drakensberg Amphitheatre looming overhead. I’m a huge fan of ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "And then we’re there, at the Mahai campsite, with the majestic Drakensberg Amphitheatre looming overhead. I’m a huge fan of ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Singsby Maps",
+            "link": {
+              "url": "https://slingsby-maps.myshopify.com/"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Singsby Maps",
+          "href": "https://slingsby-maps.myshopify.com/"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ". Maybe a super-fan. Having excelled in Geography at school I remember thinking that it was a shame that I wouldn’t be applying any of what I learned in real life - how wrong I was. These topographical maps are truly world class, with so many layers that make the experience of hiking or running through the Wilderness truly heightened. Singsby has recently released a new edition of the Northern Drakensberg map, and that was the catalyst for choosing this area for a fastpacking gear testing mission.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ". Maybe a super-fan. Having excelled in Geography at school I remember thinking that it was a shame that I wouldn’t be applying any of what I learned in real life - how wrong I was. These topographical maps are truly world class, with so many layers that make the experience of hiking or running through the Wilderness truly heightened. Singsby has recently released a new edition of the Northern Drakensberg map, and that was the catalyst for choosing this area for a fastpacking gear testing mission.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3ffc53ae-ea16-4090-83ff-f3c3f734209f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:07:00.000Z",
+    "last_edited_time": "2022-08-15T09:07:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "371a64b9-14dd-413e-bcdc-0ec492281865",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T08:53:00.000Z",
+    "last_edited_time": "2022-08-15T09:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The Amphitheater, with the Sentinel looming in the distance as the highest peak to the right",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The Amphitheater, with the Sentinel looming in the distance as the highest peak to the right",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/e5cbc4151991b747.jpeg",
+        "expiry_time": "2026-03-12T09:45:50.654Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d4c6e740-3f08-4202-975a-70d698798b5b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:09:00.000Z",
+    "last_edited_time": "2022-08-15T09:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "cd50aac2-bc55-414d-9b4d-8a13747cf854",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:07:00.000Z",
+    "last_edited_time": "2022-08-16T08:48:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We had researched some caves in the area that would provide good shelter and a huge adventure. We had settled on ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We had researched some caves in the area that would provide good shelter and a huge adventure. We had settled on ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Sentinel Cave",
+            "link": {
+              "url": "https://drakensberghikes.com/directory/explore-by-category/caves/sentinel-caves"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Sentinel Cave",
+          "href": "https://drakensberghikes.com/directory/explore-by-category/caves/sentinel-caves"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " as our plan A, Tunnel Cave as plan B and Mahai Cave as plan C. From the vantage of the car park our plan A is looking to be quite a serious climb, roughly 2000m of vertical elevation required. We’re slightly intimidated, but Slingsby allows us the confidence to try and then if we get half way and decide to tap out there is an alternative route back to Mahai Cave for the night. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " as our plan A, Tunnel Cave as plan B and Mahai Cave as plan C. From the vantage of the car park our plan A is looking to be quite a serious climb, roughly 2000m of vertical elevation required. We’re slightly intimidated, but Slingsby allows us the confidence to try and then if we get half way and decide to tap out there is an alternative route back to Mahai Cave for the night. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0747214a-b46a-4051-82b9-f2f51b4e4c0d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:04:00.000Z",
+    "last_edited_time": "2022-08-15T09:11:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6c261d8e-1ac9-4d37-96a9-92ad56c04360",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T08:53:00.000Z",
+    "last_edited_time": "2022-08-15T09:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Quite a reception",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Quite a reception",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/435a929ff0f1a233.jpeg",
+        "expiry_time": "2026-03-12T09:45:50.654Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "cc68c1d6-8502-48a5-98c7-09d4921504bb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:11:00.000Z",
+    "last_edited_time": "2022-08-15T09:11:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a82cd3b4-7ac3-4fe0-9529-5bbc7ee63d12",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:11:00.000Z",
+    "last_edited_time": "2022-08-15T09:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The purpose of this mission was to test out the new Ultimate Direction Fastpack 40 that we bought for the Transkei run next week. A rather expensive purchase that I had really tried to get sponsored, unfortunately this humble little blog doesn’t have the clout to merit free gear. Anywho, I had packed and repacked my bag three times prior to arrival at Mahai, and it was still heavy. Fred - who hadn’t even taken the labels off the bag - packs it for the first time in the carpark and his weighs in significantly lighter than mine. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The purpose of this mission was to test out the new Ultimate Direction Fastpack 40 that we bought for the Transkei run next week. A rather expensive purchase that I had really tried to get sponsored, unfortunately this humble little blog doesn’t have the clout to merit free gear. Anywho, I had packed and repacked my bag three times prior to arrival at Mahai, and it was still heavy. Fred - who hadn’t even taken the labels off the bag - packs it for the first time in the carpark and his weighs in significantly lighter than mine. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6ea8158b-549f-4061-a5dc-fa333d289b2d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:11:00.000Z",
+    "last_edited_time": "2022-08-15T09:11:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ca79fd05-d5a3-45d8-b657-bf5b6f76c8a1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T08:53:00.000Z",
+    "last_edited_time": "2022-08-15T09:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Light and fast, or heavy and slow - we set out to settle the debate",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Light and fast, or heavy and slow - we set out to settle the debate",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/835feb1de204d201.jpeg",
+        "expiry_time": "2026-03-12T09:45:50.912Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "71d1933f-a176-4975-a978-7a83a80c97bf",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:15:00.000Z",
+    "last_edited_time": "2022-08-15T09:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8c91df35-ad1e-4fb1-90ae-dfea3425bf11",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:15:00.000Z",
+    "last_edited_time": "2022-08-15T09:19:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "With bags packed we set off. The ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "With bags packed we set off. The ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Mahai campsite",
+            "link": {
+              "url": "https://lovecamping.co.za/campsite/mahai-camp-royal-natal-national-park-drakensnberg-kwazulu-natal-2/"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Mahai campsite",
+          "href": "https://lovecamping.co.za/campsite/mahai-camp-royal-natal-national-park-drakensnberg-kwazulu-natal-2/"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " is truly beautiful - I recommend it to anyone wanting to camp in the Amphitheater area - and has access to amazing trails. We set off past the Cascade falls, a series of serene pools a short walk away from the campsite. A diverse set of people are enjoying the sun; swimming and meditating their way into the unique state of feeling acutely small and one with nature that is the Drakensberg’s signature offering. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " is truly beautiful - I recommend it to anyone wanting to camp in the Amphitheater area - and has access to amazing trails. We set off past the Cascade falls, a series of serene pools a short walk away from the campsite. A diverse set of people are enjoying the sun; swimming and meditating their way into the unique state of feeling acutely small and one with nature that is the Drakensberg’s signature offering. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4602deaf-851f-4438-97c2-bc65e8b65be7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:15:00.000Z",
+    "last_edited_time": "2022-08-15T09:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "974ff828-d0a2-40a5-a71b-dce632aca6db",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T08:53:00.000Z",
+    "last_edited_time": "2022-08-15T09:20:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "A collapsable cup - definitely worth bringing",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "A collapsable cup - definitely worth bringing",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/febf76f5922129c2.jpeg",
+        "expiry_time": "2026-03-12T09:45:50.912Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "aa0efa2a-0704-477c-a5d5-61e735d9bf02",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:20:00.000Z",
+    "last_edited_time": "2022-08-15T09:20:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "45e9f9da-0755-4366-9c28-20d284da4189",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:20:00.000Z",
+    "last_edited_time": "2022-08-16T08:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "My pack is heavy, and slightly hinders my ability to find a rhythm up the gentle climb towards the base of the mountains. Unlike a hiking backpack, the majority of weight is carried through the shoulders and not the hips. My quads are the muscles most unhappy pulling the extra weight. I keep the thought of the elevation that we have to cover today out of my mind. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "My pack is heavy, and slightly hinders my ability to find a rhythm up the gentle climb towards the base of the mountains. Unlike a hiking backpack, the majority of weight is carried through the shoulders and not the hips. My quads are the muscles most unhappy pulling the extra weight. I keep the thought of the elevation that we have to cover today out of my mind. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "fb78169d-d306-42f5-9270-78ff026d204a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:20:00.000Z",
+    "last_edited_time": "2022-08-15T09:20:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "2be5c8ae-4702-4d1b-8ab4-9e9875fc5ecc",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T08:53:00.000Z",
+    "last_edited_time": "2022-08-16T08:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "With every 100m climbed we’re rewarded with a new perspective of the area",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "With every 100m climbed we’re rewarded with a new perspective of the area",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/e6cfbefc701e150c.jpeg",
+        "expiry_time": "2026-03-12T09:45:50.912Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "64e40f78-bcd9-4ae3-a9ea-0f24b0988737",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:22:00.000Z",
+    "last_edited_time": "2022-08-15T09:22:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "118334ed-bba8-41f8-8cef-7f1f10ca2fa1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:22:00.000Z",
+    "last_edited_time": "2022-08-16T08:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Long distance running for me is long distance eating. My body thrives when I put fuel in it on these runs. Eating good food or snacks provides a wave of energy and clarity of mind only a few minutes after ingestion. Fred - on the other hand - adopts quite a contrasting approach. Snacking on Biltong or nuts only occasionally. Throughout the entire run I would feel a maternal compulsion to feed him, offering him bites or pieces of my food on a half-hourly cadence. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Long distance running for me is long distance eating. My body thrives when I put fuel in it on these runs. Eating good food or snacks provides a wave of energy and clarity of mind only a few minutes after ingestion. Fred - on the other hand - adopts quite a contrasting approach. Snacking on Biltong or nuts only occasionally. Throughout the entire run I would feel a maternal compulsion to feed him, offering him bites or pieces of my food on a half-hourly cadence. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "754a0839-3bf9-405f-aa87-c46f313a040c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:25:00.000Z",
+    "last_edited_time": "2022-08-15T09:25:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c6538243-f39d-45cd-a7f0-3cc42e0523a1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:25:00.000Z",
+    "last_edited_time": "2022-08-16T08:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Speaking of cadence - this turns out to be the key for running with a heavy pack. It can feel somewhat counterintuitive to be running with cadence of 180 steps per minute and only moving slightly faster than a hiking pace, but it really minimises impact and effort required. I alternate between my UTD power hike - with hands on knees and heels on the ground - up the hills, and a high cadence shuffle on decent or flat ground.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Speaking of cadence - this turns out to be the key for running with a heavy pack. It can feel somewhat counterintuitive to be running with cadence of 180 steps per minute and only moving slightly faster than a hiking pace, but it really minimises impact and effort required. I alternate between my UTD power hike - with hands on knees and heels on the ground - up the hills, and a high cadence shuffle on decent or flat ground.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "21bf2e9f-b296-45e0-ad5e-1fb22f4a46db",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:44:00.000Z",
+    "last_edited_time": "2022-08-15T09:44:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "89e31f95-a220-4b47-9fec-3727610bd1bd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:44:00.000Z",
+    "last_edited_time": "2022-08-16T08:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "As civilisation fades away and the mountains embrace us, my mind goes to that wonderful place where thoughts are related to physical surroundings, and my awareness melts out of my head and into my body. I can precisely feel where my feet land, any asymmetrical movements, muscles with a plea for a change and most importantly my breath. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "As civilisation fades away and the mountains embrace us, my mind goes to that wonderful place where thoughts are related to physical surroundings, and my awareness melts out of my head and into my body. I can precisely feel where my feet land, any asymmetrical movements, muscles with a plea for a change and most importantly my breath. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a79d7c5c-d6e4-483e-a7e1-211479f8e307",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:47:00.000Z",
+    "last_edited_time": "2022-08-15T09:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0db52ffa-dbdb-43ec-95ec-0b57130343cc",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:47:00.000Z",
+    "last_edited_time": "2022-08-16T08:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Your body is the most advanced vehicle you will ever drive - no Hilux comes close. Not even Fred’s dream Fortuner. Imagine a car that is able to adapt and change to situations that you put it in. Imagine being able to put literally anything organic in the fuel tank and it being able to convert it to kinetic energy. Imagine a car that can sustain damage and not only heal itself over time but change the way that it moves such that you can keep going. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Your body is the most advanced vehicle you will ever drive - no Hilux comes close. Not even Fred’s dream Fortuner. Imagine a car that is able to adapt and change to situations that you put it in. Imagine being able to put literally anything organic in the fuel tank and it being able to convert it to kinetic energy. Imagine a car that can sustain damage and not only heal itself over time but change the way that it moves such that you can keep going. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "bbbfbde0-8e8e-44d8-91a5-3db39ee258af",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:50:00.000Z",
+    "last_edited_time": "2022-08-15T09:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "67c7098e-f95e-4db4-81c7-729c53c3aae9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:50:00.000Z",
+    "last_edited_time": "2022-08-16T08:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Long distance activities put me in a state of deep awareness of my body. Pain is not to be viewed negatively and ignored - it’s analogous to refusing to acknowledge the petrol light coming on. Pain is information from parts of your body where something is not working optimally. Pain in your knee is not grounds to give up, it’s an opportunity to see why that knee is under more strain than the other; are you running harder on that leg? Where are you landing on your foot? Is your pack unbalanced. I have always found that through listening to pain and adapting to it - it’s gone as soon as it arrived. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Long distance activities put me in a state of deep awareness of my body. Pain is not to be viewed negatively and ignored - it’s analogous to refusing to acknowledge the petrol light coming on. Pain is information from parts of your body where something is not working optimally. Pain in your knee is not grounds to give up, it’s an opportunity to see why that knee is under more strain than the other; are you running harder on that leg? Where are you landing on your foot? Is your pack unbalanced. I have always found that through listening to pain and adapting to it - it’s gone as soon as it arrived. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "67a4aab8-2fd2-4d9f-a0a8-5e6b9dd817d0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:53:00.000Z",
+    "last_edited_time": "2022-08-15T09:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1775bfdc-1102-47a6-a8fe-dcf36be61575",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:53:00.000Z",
+    "last_edited_time": "2022-08-16T08:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We take fork in the path to the right, into a dense forrest in the valley. We are cutting a few kilometres off the route by climbing through “The Crack”. Huge boulders have jostled their way into comfort between two sheer rock faces, allowing one to hop our way up about 100m of vertical elevation with relative ease. There are some chain ladders for added comfort. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We take fork in the path to the right, into a dense forrest in the valley. We are cutting a few kilometres off the route by climbing through “The Crack”. Huge boulders have jostled their way into comfort between two sheer rock faces, allowing one to hop our way up about 100m of vertical elevation with relative ease. There are some chain ladders for added comfort. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e3e6e2a1-d96b-4cd5-9ab5-31b007680c7c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:41:00.000Z",
+    "last_edited_time": "2022-08-15T09:41:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "173dfe03-f951-4ba9-9b5b-6b471b1f4834",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:42:00.000Z",
+    "last_edited_time": "2022-08-15T09:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "In this moment - Fred named my (outrageous) glasses Delilah ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "In this moment - Fred named my (outrageous) glasses Delilah ",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/8c586e250e60a209.jpeg",
+        "expiry_time": "2026-03-12T09:45:50.912Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "791700db-2277-41d7-9488-c627c1933a3e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:56:00.000Z",
+    "last_edited_time": "2022-08-15T09:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1147b558-a5cd-47f1-9d59-8c6ed01fd3ca",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:56:00.000Z",
+    "last_edited_time": "2022-08-15T09:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The crack is exciting, yet short lived. We’re deep in a conversation when suddenly we’re smacked in the face by sunlight and a gusting wind that catches you off guard each time. We’ve made good time at this point and the path ahead is looking beautiful - a classic Cow Cut Contour path that meanders its way towards the base of the Amphitheater.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The crack is exciting, yet short lived. We’re deep in a conversation when suddenly we’re smacked in the face by sunlight and a gusting wind that catches you off guard each time. We’ve made good time at this point and the path ahead is looking beautiful - a classic Cow Cut Contour path that meanders its way towards the base of the Amphitheater.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ed92876d-ecca-4865-ab6c-cf67e8937f0c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T09:22:00.000Z",
+    "last_edited_time": "2022-08-15T09:22:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d636d727-b616-4a64-9285-058fbbe02255",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T08:53:00.000Z",
+    "last_edited_time": "2022-08-15T09:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "View from the top of the crack",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "View from the top of the crack",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/5ed054d3719079f3.jpeg",
+        "expiry_time": "2026-03-12T09:45:51.113Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c5d0df16-2b7e-429d-a748-8863dec3c56e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:03:00.000Z",
+    "last_edited_time": "2022-08-15T10:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a0c93c12-5a52-4ab5-b293-4165b59862a9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:03:00.000Z",
+    "last_edited_time": "2022-08-16T08:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The wind is absolutely howling at the top of this ridge. It’s coming side on, and we have to lean into it to maintain balance. Yet this is a cheeky wind and dissapears as quickly as it arrives - causing the lean to threaten to turn into a fall. We put our heads down, squint through the dust and push out way along what should have been a blissful trail to run and admire the views. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The wind is absolutely howling at the top of this ridge. It’s coming side on, and we have to lean into it to maintain balance. Yet this is a cheeky wind and dissapears as quickly as it arrives - causing the lean to threaten to turn into a fall. We put our heads down, squint through the dust and push out way along what should have been a blissful trail to run and admire the views. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "2d122ea5-a688-4193-977a-664171fbe849",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:07:00.000Z",
+    "last_edited_time": "2022-08-15T10:07:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "adfdd0ab-33c4-4c9f-9155-11b7f776cc4c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T08:53:00.000Z",
+    "last_edited_time": "2022-08-15T10:07:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Respite from the wind",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Respite from the wind",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/2bc09feca0331761.jpeg",
+        "expiry_time": "2026-03-12T09:45:51.113Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "122ddb2e-102f-41ba-bbcd-019e56cc67eb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:05:00.000Z",
+    "last_edited_time": "2022-08-15T10:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f390e7ae-4a24-4ccb-8357-2afa76a706df",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:05:00.000Z",
+    "last_edited_time": "2022-08-16T08:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "There is one dip in between two hills to our right that funnels the wind onto the trail at a constant speed that honestly must have been in the hundreds of kilometres per hour. It’s pretty exhilarating to be confronted by such a force of nature. We both get pretty shaken up yet come out of it on our feet and laughing.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "There is one dip in between two hills to our right that funnels the wind onto the trail at a constant speed that honestly must have been in the hundreds of kilometres per hour. It’s pretty exhilarating to be confronted by such a force of nature. We both get pretty shaken up yet come out of it on our feet and laughing.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "56c9e2d2-a0a9-4de4-a023-49b78941580e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:03:00.000Z",
+    "last_edited_time": "2022-08-15T10:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3e7f39a9-2ac1-45b8-a7b8-e9650cab3778",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T08:53:00.000Z",
+    "last_edited_time": "2022-08-15T10:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Our home for tonight slowly coming closer",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Our home for tonight slowly coming closer",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/1e15f5a5f4454b41.jpeg",
+        "expiry_time": "2026-03-12T09:45:51.114Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "38c3bbe4-67d7-4220-82ac-69c81dee4424",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:08:00.000Z",
+    "last_edited_time": "2022-08-15T10:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e33b9e66-5749-4393-8681-c5bcbac5254e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:08:00.000Z",
+    "last_edited_time": "2022-08-15T10:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "A series of houses come into view in the distance. As we draw closer we see that it’s quite a fancy resort with multiple chalets and rondavels looking out over the towering Amphitheatre range. We go to take a closer look and decide to find shelter from the wind on the stoop of a chalet with drawn curtains. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "A series of houses come into view in the distance. As we draw closer we see that it’s quite a fancy resort with multiple chalets and rondavels looking out over the towering Amphitheatre range. We go to take a closer look and decide to find shelter from the wind on the stoop of a chalet with drawn curtains. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d5fc654b-e6db-4155-b80a-a513a5184f9e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:14:00.000Z",
+    "last_edited_time": "2022-08-15T10:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "49c2c94a-c993-4205-a668-daf491458d0c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:14:00.000Z",
+    "last_edited_time": "2022-08-16T08:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The resort is called ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The resort is called ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Wittieshoek Mountain Lodge ",
+            "link": {
+              "url": "https://www.witsieshoek.co.za/"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Wittieshoek Mountain Lodge ",
+          "href": "https://www.witsieshoek.co.za/"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "and both me and Fred were absolutely sold. It’s definitely on the expensive side, yet for a comfortable stay in the Drakensberg it’s definitely up there. They have a shuttle - read open top NP300 with pillows in the back - that will drive you up to the Sentinel parking for easy access to the mountain trails. There is a nice restaurant, but honestly the views are simply unparalleled. We both vouch to try come here with a partner for an anniversary or maybe with parents one day.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "and both me and Fred were absolutely sold. It’s definitely on the expensive side, yet for a comfortable stay in the Drakensberg it’s definitely up there. They have a shuttle - read open top NP300 with pillows in the back - that will drive you up to the Sentinel parking for easy access to the mountain trails. There is a nice restaurant, but honestly the views are simply unparalleled. We both vouch to try come here with a partner for an anniversary or maybe with parents one day.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "eb84ca9b-f14b-42bc-b414-f24915db0291",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:11:00.000Z",
+    "last_edited_time": "2022-08-15T10:11:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9fbd3ff2-9876-4838-a6d8-48a2c5603ed3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:11:00.000Z",
+    "last_edited_time": "2022-08-16T08:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We make a coffee, I eat two wraps with cheese, hummus and guacamole - offering Fred bites more than once - and enjoy the tranquility and impressive view. Once packed up and about to leave the curtains are thrown open to reveal a couple in full hiking gear who are fairly amused, but understanding, to see us squatting outside their room.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We make a coffee, I eat two wraps with cheese, hummus and guacamole - offering Fred bites more than once - and enjoy the tranquility and impressive view. Once packed up and about to leave the curtains are thrown open to reveal a couple in full hiking gear who are fairly amused, but understanding, to see us squatting outside their room.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "74fa5815-382e-4ab6-8f81-454bd15c717c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:12:00.000Z",
+    "last_edited_time": "2022-08-15T10:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6f2cd3c7-822f-407e-b71c-f24684443732",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:12:00.000Z",
+    "last_edited_time": "2022-08-16T09:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Having refuelled and caffeinated ourselves we feel ready to take on the 7.5km of jeep track that will take us to the parking at the base of the Sentinel. As we leave the resort I am proud to say that my mind did a quick stock take and noted that we weren’t full on water. We quickly go back and fill up everything, as Peter Slingsby as shown us that there is no water sources near the cave. This turns out to be critically good decision.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Having refuelled and caffeinated ourselves we feel ready to take on the 7.5km of jeep track that will take us to the parking at the base of the Sentinel. As we leave the resort I am proud to say that my mind did a quick stock take and noted that we weren’t full on water. We quickly go back and fill up everything, as Peter Slingsby as shown us that there is no water sources near the cave. This turns out to be critically good decision.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "cb01efd0-6dd7-4b80-bfc4-468c8f0dae0b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:18:00.000Z",
+    "last_edited_time": "2022-08-15T10:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c40f06cb-3f79-4cba-a79b-28b46dc09c1b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:18:00.000Z",
+    "last_edited_time": "2022-08-16T09:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Jeep tracks are interesting. They are simultaneously quite boring while also allowing you to really take stock on how your body is doing. Running on the trails is so dynamic that you often don’t find yourself in a constant and consistent running form - which better hides any little aches and pains that you might have picked up. A Jeep track really exposes all the inefficiencies and I find them useful for making a few mental notes on what to change when I next hit the trail. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Jeep tracks are interesting. They are simultaneously quite boring while also allowing you to really take stock on how your body is doing. Running on the trails is so dynamic that you often don’t find yourself in a constant and consistent running form - which better hides any little aches and pains that you might have picked up. A Jeep track really exposes all the inefficiencies and I find them useful for making a few mental notes on what to change when I next hit the trail. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a89d8241-cb8e-437d-aac5-652db4c0adf8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:21:00.000Z",
+    "last_edited_time": "2022-08-15T10:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "aacc3a92-364d-400a-89e5-20e0575c6b28",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:21:00.000Z",
+    "last_edited_time": "2022-08-16T09:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Could we just take a moment to think about the name “Jeep track”. Is this the single most impressive piece of automotive marketing in history? How did a car company get every type of dirt road that cars can drive on named after themselves? Or is it simply coincidence?",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Could we just take a moment to think about the name “Jeep track”. Is this the single most impressive piece of automotive marketing in history? How did a car company get every type of dirt road that cars can drive on named after themselves? Or is it simply coincidence?",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8fc22630-d63b-44e9-80a3-ab74ff48385e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:22:00.000Z",
+    "last_edited_time": "2022-08-15T10:22:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ab4e1bf7-0859-43c4-8443-3d9cd0df6ef2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:22:00.000Z",
+    "last_edited_time": "2022-08-16T09:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Not too long after that we reach the car park. There is actually another impressive set of buildings here that had grand plans for a coffee shop and mountain register reception that COVID has derailed slightly. The intense wind had caused part of the ceiling to fall in. A very relaxed ( and very high) man gets us to sign the mountain register and is understanding that we aren’t running with money to pay the R100 fee.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Not too long after that we reach the car park. There is actually another impressive set of buildings here that had grand plans for a coffee shop and mountain register reception that COVID has derailed slightly. The intense wind had caused part of the ceiling to fall in. A very relaxed ( and very high) man gets us to sign the mountain register and is understanding that we aren’t running with money to pay the R100 fee.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "48e34733-660b-48c9-a533-fd0e0d17de5e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:24:00.000Z",
+    "last_edited_time": "2022-08-15T10:24:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c7b5ddc1-948e-40f1-b862-40b3bac8fe88",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:24:00.000Z",
+    "last_edited_time": "2022-08-16T09:02:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "And off we go on the “authentic” mountain trail. A zigzagging single track with concrete blocks laid into the ground turning it into the Mountain Autobahn. The resort has seemingly nailed the international market with their comfortable accommodation, shuttles and mountain trails that resemble sidewalks as we bump into many tourists from all over the world. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "And off we go on the “authentic” mountain trail. A zigzagging single track with concrete blocks laid into the ground turning it into the Mountain Autobahn. The resort has seemingly nailed the international market with their comfortable accommodation, shuttles and mountain trails that resemble sidewalks as we bump into many tourists from all over the world. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7991baa6-6716-493b-b78a-f2b0f03725a4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T11:15:00.000Z",
+    "last_edited_time": "2022-08-15T11:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d7d6e4c3-da0f-4fa4-95fa-9d6eb22ce667",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T11:15:00.000Z",
+    "last_edited_time": "2022-08-15T11:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The Sentinel superhighway",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The Sentinel superhighway",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/b6bcb966f394ee13.jpeg",
+        "expiry_time": "2026-03-12T09:45:51.323Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7ca0618b-eac6-4d56-a644-fb9633d0967d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T11:16:00.000Z",
+    "last_edited_time": "2022-08-15T11:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "379b3d6c-2f96-4c33-8957-73305b450d9d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:26:00.000Z",
+    "last_edited_time": "2022-08-15T10:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We take a left when the path definitely went right - we were simply drawn there. And as we come around a corner we are confronted with the most beautiful view that I’ve ever experienced on any mountain. The Amphitheater simultaneously wrapping around us, towering over us and dropping out hundreds of meters below us. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We take a left when the path definitely went right - we were simply drawn there. And as we come around a corner we are confronted with the most beautiful view that I’ve ever experienced on any mountain. The Amphitheater simultaneously wrapping around us, towering over us and dropping out hundreds of meters below us. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "346abad4-68c1-4928-93e3-420550793cf9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:29:00.000Z",
+    "last_edited_time": "2022-08-15T10:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "223e814f-82fc-4ebd-8b70-56696a52d257",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T08:53:00.000Z",
+    "last_edited_time": "2022-08-15T11:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Untouched beauty",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Untouched beauty",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/ebe3de6208a38282.jpeg",
+        "expiry_time": "2026-03-12T09:45:51.324Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "947e2e1c-f762-4f1e-bbe8-1103e5c7f84e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:29:00.000Z",
+    "last_edited_time": "2022-08-15T10:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f567b8a2-e69b-4790-b919-7814627f120e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:29:00.000Z",
+    "last_edited_time": "2022-08-15T11:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "There is a unanimous consensus reached in the group that we absolutely have to smoke a rollie here and enjoy this place for as long as possible. Against all laws of science there is absolutely no wind here and the silence seems to accentuate the grander of all that is around us.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "There is a unanimous consensus reached in the group that we absolutely have to smoke a rollie here and enjoy this place for as long as possible. Against all laws of science there is absolutely no wind here and the silence seems to accentuate the grander of all that is around us.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8cabfa8e-8ecf-4474-99cd-e2b005327a9f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:07:00.000Z",
+    "last_edited_time": "2022-08-15T10:07:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "fa02f6aa-fafb-4e7a-aec3-2ebd639690e8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:32:00.000Z",
+    "last_edited_time": "2022-08-15T10:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "column_list",
+    "column_list": {},
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "dd7bd95f-cb5d-42bd-b205-53009c709a80",
+        "parent": {
+          "type": "block_id",
+          "block_id": "fa02f6aa-fafb-4e7a-aec3-2ebd639690e8"
+        },
+        "created_time": "2022-08-15T10:32:00.000Z",
+        "last_edited_time": "2022-08-15T10:32:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "413b8e6b-07ce-4b16-ba9b-e01ada5e5e53",
+            "parent": {
+              "type": "block_id",
+              "block_id": "dd7bd95f-cb5d-42bd-b205-53009c709a80"
+            },
+            "created_time": "2022-08-15T08:53:00.000Z",
+            "last_edited_time": "2022-08-15T10:32:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "image",
+            "image": {
+              "caption": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Look at the view you fool!",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Look at the view you fool!",
+                  "href": null
+                }
+              ],
+              "type": "file",
+              "file": {
+                "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/01f5c76c3375e048.jpeg",
+                "expiry_time": "2026-03-12T09:45:53.443Z"
+              }
+            },
+            "archived": false
+          }
+        ]
+      },
+      {
+        "object": "block",
+        "id": "031e065b-a6f7-4675-b2ce-53fd3cb9e00d",
+        "parent": {
+          "type": "block_id",
+          "block_id": "fa02f6aa-fafb-4e7a-aec3-2ebd639690e8"
+        },
+        "created_time": "2022-08-15T10:32:00.000Z",
+        "last_edited_time": "2022-08-15T10:32:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "7a6d045e-5454-434e-ac86-36f80aac574b",
+            "parent": {
+              "type": "block_id",
+              "block_id": "031e065b-a6f7-4675-b2ce-53fd3cb9e00d"
+            },
+            "created_time": "2022-08-15T08:53:00.000Z",
+            "last_edited_time": "2022-08-15T10:32:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "image",
+            "image": {
+              "caption": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "This is how it’s done",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "This is how it’s done",
+                  "href": null
+                }
+              ],
+              "type": "file",
+              "file": {
+                "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/85419e0b5a71de4d.jpeg",
+                "expiry_time": "2026-03-12T09:45:53.508Z"
+              }
+            },
+            "archived": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "128ff09a-ad1b-4c1e-9da3-d2abb7258b33",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:32:00.000Z",
+    "last_edited_time": "2022-08-15T10:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "176a739a-9f2f-435e-8140-0620501deb73",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:32:00.000Z",
+    "last_edited_time": "2022-08-15T10:35:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We fall silent, sit a while longer and then set off again with a feeling of awe. Sunset is approaching and our cave is still a few kilometres away. Luckily the concrete super-highway has ceased and there is a well trodden trail that snakes its way up around the Sentinel. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We fall silent, sit a while longer and then set off again with a feeling of awe. Sunset is approaching and our cave is still a few kilometres away. Luckily the concrete super-highway has ceased and there is a well trodden trail that snakes its way up around the Sentinel. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "56262083-3365-4afd-9e1d-5a9aa0e10961",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:33:00.000Z",
+    "last_edited_time": "2022-08-15T10:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "73b8ef15-9c55-4129-937d-414cb607b12d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:34:00.000Z",
+    "last_edited_time": "2022-08-15T10:34:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "column_list",
+    "column_list": {},
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "06c44f89-bed6-499f-9c1e-63f10ac9fd16",
+        "parent": {
+          "type": "block_id",
+          "block_id": "73b8ef15-9c55-4129-937d-414cb607b12d"
+        },
+        "created_time": "2022-08-15T10:34:00.000Z",
+        "last_edited_time": "2022-08-15T10:34:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "894c198f-a12f-498b-8655-98261c540df2",
+            "parent": {
+              "type": "block_id",
+              "block_id": "06c44f89-bed6-499f-9c1e-63f10ac9fd16"
+            },
+            "created_time": "2022-08-15T08:53:00.000Z",
+            "last_edited_time": "2022-08-15T10:35:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "image",
+            "image": {
+              "caption": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Rightly so barefootmagicman",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Rightly so barefootmagicman",
+                  "href": null
+                }
+              ],
+              "type": "file",
+              "file": {
+                "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/b9c542d53215abd5.jpeg",
+                "expiry_time": "2026-03-12T09:45:53.689Z"
+              }
+            },
+            "archived": false
+          }
+        ]
+      },
+      {
+        "object": "block",
+        "id": "9a6c688f-a983-431f-99b8-eb47449cb604",
+        "parent": {
+          "type": "block_id",
+          "block_id": "73b8ef15-9c55-4129-937d-414cb607b12d"
+        },
+        "created_time": "2022-08-15T10:34:00.000Z",
+        "last_edited_time": "2022-08-15T10:35:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "d2f6dae6-e468-4f8a-b042-90e130c05a86",
+            "parent": {
+              "type": "block_id",
+              "block_id": "9a6c688f-a983-431f-99b8-eb47449cb604"
+            },
+            "created_time": "2022-08-15T08:53:00.000Z",
+            "last_edited_time": "2022-08-15T10:35:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "image",
+            "image": {
+              "caption": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Runnable and beautiful",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Runnable and beautiful",
+                  "href": null
+                }
+              ],
+              "type": "file",
+              "file": {
+                "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/a8a4697a-cd43-40d7-a7e6-009266da34a8/81EC82B5-2C36-4DE4-AF4F-DCEDE5464A30.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46666ROVTRA%2F20260312%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260312T084553Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQC4NRH2LhrNjHjdWWqsgEI9lZspGVREmwR3yBPR5EZxpgIhAOwTtVHLWsoD5RXZQYtBGIYdb1Gi7xU0uAc6iBa7sbOzKv8DCHEQABoMNjM3NDIzMTgzODA1IgwJe4j8vytjwMV%2FXswq3AOGW830jiDdcxcNBaeR3O8UedDVDsf3YedPxzmwphU7%2FkWdGfDQTOYVQXaBBU3RPyQHRN7Px7a0xWWVUiyfeOckLOygwYIakLMTfTaw8kDf2FyPVdF6FmmThKlaV2iyZm5pWBM60jtJiF1UWLc44zaCozwl9J96frk%2FsmkbBNKyHfM8Is33yNRPL9D3OBmUBM2fQMFggQhHHvE0yAWU42u2CI4DM%2FEE4qpa%2FgY15ZqesZ7wfRSuqsSQ7htCdcq0Rd3HgiV6IWjazE2iBA8VoZqTk5gSSCF17%2F9ZHbw4v%2BEICdM15LxFK3EMy2NWbqi%2FRx0PM6QfgJg1ht4g4FSRKxoHRV5HD%2F%2BgNv%2FBFjw%2FP87f4ou36T%2BjHmr2zxXYrBUAIUfDH15EoqP40L9PYNl%2FK0aGaFJX2Qe%2B3Vr7dVNGR%2F3ckXYwPQ1CGk73a8mJCLxs7vaQB2xrPKvIVnuTepnkIYATAQ1sWNsUbjxGAbHWOPgIvAxG9ruyadc0nuzkWiT%2BbfnKB24qzvpcDl4Pgsugo25wassjbaOwMvLqhW%2BOV8KFpAHEisXZS%2Be5Kkdat4VxxezgD8Mt0EboKKP%2BWydWCzJns%2BJ%2FvRheJd3A%2FfNgRpg7%2FoIxXi5ah%2F4%2FyN3AMTCI28nNBjqkAakZe4HEhJDCi9pX8%2B0hCExVU7ROkrNVbf8SeOu4X1UhPNhjY3%2BsepU25J6gGGZOcTU7xMBdkofggo%2FRHCLWravP4P%2BosA6YsrNhUwa7WVBh5Ag7Fen4XPNP0d9ozX9ETTnerlGUZApQs75FPiIsU4REQ47bW%2F1H743NZsx24aUe9rAshRNQRPyK6U0y26onbqmllfg%2FykZtgkBGrlZJOq%2FJqQee&X-Amz-Signature=eec1f05261159e1403d3a8206bbb0345ce4338da3c6a6f5e682db3d8e1256870&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "expiry_time": "2026-03-12T09:45:53.787Z"
+              }
+            },
+            "archived": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "2f13ea4c-3d85-4e1c-9867-ef1a609ff111",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:35:00.000Z",
+    "last_edited_time": "2022-08-15T10:35:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ea0d06fd-3868-47f1-bb07-6cbb4c0e6376",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:36:00.000Z",
+    "last_edited_time": "2022-08-16T09:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The trail urges us to run, but I’m feeling the altitude - or is it the rollie? We’re at close to 3000m here and I was on the coast four days ago so I’m going to blame it on the altitude. I opt for a fast walk to keep it safe. Fred does the magnificent job of spotting our caves, which are a set of obscured dark holes overlooking the trail. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The trail urges us to run, but I’m feeling the altitude - or is it the rollie? We’re at close to 3000m here and I was on the coast four days ago so I’m going to blame it on the altitude. I opt for a fast walk to keep it safe. Fred does the magnificent job of spotting our caves, which are a set of obscured dark holes overlooking the trail. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "65b766b6-2c6f-475b-8d17-4e29921f0b93",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:38:00.000Z",
+    "last_edited_time": "2022-08-15T10:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a869e538-78a1-4fcd-a166-dadf9ac9c06a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:38:00.000Z",
+    "last_edited_time": "2022-08-15T10:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We drop bags and to go check them out. The larger one has a flat rock situated centrally as a dining room table, ample sleeping area and - best of all - no wind at all. There is a smaller one that has an incredible view but is much more exposed to the view. We don it the kitchen and promise to make a coffee there tomorrow morning. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We drop bags and to go check them out. The larger one has a flat rock situated centrally as a dining room table, ample sleeping area and - best of all - no wind at all. There is a smaller one that has an incredible view but is much more exposed to the view. We don it the kitchen and promise to make a coffee there tomorrow morning. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e5c0aec1-7f59-4623-a965-e3e43483136d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:35:00.000Z",
+    "last_edited_time": "2022-08-15T10:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1addf1b0-302b-41f6-9c88-fca207daf7fc",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T08:53:00.000Z",
+    "last_edited_time": "2022-08-16T09:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Sentinel cave comes with complimentary Golden Virginia - I doubt WittiesHoek has such good service",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Sentinel cave comes with complimentary Golden Virginia - I doubt WittiesHoek has such good service",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/6556f3251b349e24.jpeg",
+        "expiry_time": "2026-03-12T09:45:51.324Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1f337eb8-f84a-4472-9fb2-fb8e5c5ff8a0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:40:00.000Z",
+    "last_edited_time": "2022-08-15T10:40:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "25cd802e-6fd5-4755-869c-775c2255594e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:40:00.000Z",
+    "last_edited_time": "2022-08-15T10:41:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We take a quick run without packs to the set of chain ladders about a kilometre away. Fred is set to run a race that comes past here and he wanted to check out what is set to be a major traffic jam. Running without a pack feels laughably easy. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We take a quick run without packs to the set of chain ladders about a kilometre away. Fred is set to run a race that comes past here and he wanted to check out what is set to be a major traffic jam. Running without a pack feels laughably easy. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "440d943c-cbec-487a-b6b5-82de63c0c50c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T11:13:00.000Z",
+    "last_edited_time": "2022-08-15T11:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "83e4db40-50f6-4302-8907-309f57d93abb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T11:13:00.000Z",
+    "last_edited_time": "2022-08-16T09:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "embed",
+    "embed": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "It was a huge climb",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "It was a huge climb",
+          "href": null
+        }
+      ],
+      "url": "https://connect.garmin.com/modern/activity/embed/9404734104"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1e61012b-5711-4827-a136-3d762e125a4d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:41:00.000Z",
+    "last_edited_time": "2022-08-15T10:41:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ae64d2f2-a555-48f7-a51e-eb1958759fa0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:41:00.000Z",
+    "last_edited_time": "2022-08-16T09:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "And with that we’re done for the day. We congratulate each other on what seemed an audacious goal when we set off this morning - and rush to put on warm clothes. The gusting wind slaps the mountain around us with explosions of sound, yet never touches us. The cold slowly infiltrates our cave, but we are prepared.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "And with that we’re done for the day. We congratulate each other on what seemed an audacious goal when we set off this morning - and rush to put on warm clothes. The gusting wind slaps the mountain around us with explosions of sound, yet never touches us. The cold slowly infiltrates our cave, but we are prepared.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0af075f3-f966-4b4b-b1cf-b3438b250cb9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:40:00.000Z",
+    "last_edited_time": "2022-08-15T10:40:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "925332f9-8c2a-4764-bd54-8c66b89f90ea",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T08:53:00.000Z",
+    "last_edited_time": "2022-08-15T10:41:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Was it worth carrying this solar light up 2000m of mountain - yes",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Was it worth carrying this solar light up 2000m of mountain - yes",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/c8be54b76e39aebf.jpeg",
+        "expiry_time": "2026-03-12T09:45:52.423Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c50368f1-1057-4b89-a011-1da9679ebaf9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:43:00.000Z",
+    "last_edited_time": "2022-08-15T10:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "fb7964c6-85d1-4554-bd75-dff8a4200c2a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:43:00.000Z",
+    "last_edited_time": "2022-08-16T09:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I make a hot meal of many kinds of noodles and instant soups - cutting up some Droewors in there to try entice Fred into sharing some. We discuss highlights from the day and play a game that Jordan has brought into my life - rose, rose, thorn and bud. Which is a highlight, highlight, lowlight and something that you’re exited for. It’s brilliant for reflecting on the day gone by.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I make a hot meal of many kinds of noodles and instant soups - cutting up some Droewors in there to try entice Fred into sharing some. We discuss highlights from the day and play a game that Jordan has brought into my life - rose, rose, thorn and bud. Which is a highlight, highlight, lowlight and something that you’re exited for. It’s brilliant for reflecting on the day gone by.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8bb140cb-d477-435e-8e09-4ad5744f3c2d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:43:00.000Z",
+    "last_edited_time": "2022-08-15T10:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "cf72efb6-adbf-4a69-834f-8711b4c0dbdd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T08:53:00.000Z",
+    "last_edited_time": "2022-08-15T10:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Sunset with a cup of tea",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Sunset with a cup of tea",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/5baa89e72cce7caf.jpeg",
+        "expiry_time": "2026-03-12T09:45:52.424Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "34850c83-ddff-419a-b841-6cdb5f3acaba",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:45:00.000Z",
+    "last_edited_time": "2022-08-15T10:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5d22bac6-34e0-463d-9545-342988049100",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:45:00.000Z",
+    "last_edited_time": "2022-08-16T09:07:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We make some rooibos and eat a [heavy] slab of chocolate (worth it). After dinner I talk Fred through two games of backgammon and he catches on quickly. I love the game as each turn has inherent randomness built in due to the throw of the dice, yet for each turn there is a most logical move that is inline with your underlying strategy for the game. I find it analogous to life in many ways.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We make some rooibos and eat a [heavy] slab of chocolate (worth it). After dinner I talk Fred through two games of backgammon and he catches on quickly. I love the game as each turn has inherent randomness built in due to the throw of the dice, yet for each turn there is a most logical move that is inline with your underlying strategy for the game. I find it analogous to life in many ways.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "51f762ed-12aa-4736-9362-e7565dfb56f9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:48:00.000Z",
+    "last_edited_time": "2022-08-15T10:48:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "28019713-f086-4541-8ad2-2090d8c06e6e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:48:00.000Z",
+    "last_edited_time": "2022-08-15T10:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "With the sounds of the wind and Fred’s congestion I drift off to sleep. Only my nose protruding out of my sleeping bag as the cold night of the Drakensberg comes in to watch over us.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "With the sounds of the wind and Fred’s congestion I drift off to sleep. Only my nose protruding out of my sleeping bag as the cold night of the Drakensberg comes in to watch over us.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e2800840-fafd-44d9-90df-8340e0bb7304",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1c122858-ca70-4e7e-a5b6-585448f712c4"
+    },
+    "created_time": "2022-08-15T10:40:00.000Z",
+    "last_edited_time": "2022-08-15T10:40:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

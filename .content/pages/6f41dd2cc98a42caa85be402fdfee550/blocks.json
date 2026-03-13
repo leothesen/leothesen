@@ -1,0 +1,5956 @@
+[
+  {
+    "object": "block",
+    "id": "dce3387a-b39d-4541-8c43-6b3392ada8bc",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-16T09:46:00.000Z",
+    "last_edited_time": "2022-08-18T06:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_1",
+    "heading_1": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Introduction",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Introduction",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "blue"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e65f505d-640b-45a4-9ff1-3c7e76d87edb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T12:35:00.000Z",
+    "last_edited_time": "2022-08-17T12:35:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7824247c-de7b-488d-a634-d5b1fdca9509",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-09-27T18:13:00.000Z",
+    "last_edited_time": "2022-09-27T18:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "synced_block",
+    "synced_block": {
+      "synced_from": null
+    },
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "1100ea41-3ba0-47f3-8b6f-3bab46fd4980",
+        "parent": {
+          "type": "block_id",
+          "block_id": "7824247c-de7b-488d-a634-d5b1fdca9509"
+        },
+        "created_time": "2022-08-11T09:18:00.000Z",
+        "last_edited_time": "2022-09-27T18:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "callout",
+        "callout": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Bovineiterology",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": true,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Bovineiterology",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "\n[boh-vahyn-ahy-tair-ol-",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "\n[boh-vahyn-ahy-tair-ol-",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "uh",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "uh",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "-jee]\nNoun: The study of paths or trails created by cows.\n\nOrigin: Latin, English and Xhosa.\nEarly 21th century: coined in English by Leo Thesen, via Xhosa mythology drawing on “Bovine” relating to cattle, “iter” relating to paths or trails and ”ology” being a subject of study.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "-jee]\nNoun: The study of paths or trails created by cows.\n\nOrigin: Latin, English and Xhosa.\nEarly 21th century: coined in English by Leo Thesen, via Xhosa mythology drawing on “Bovine” relating to cattle, “iter” relating to paths or trails and ”ology” being a subject of study.",
+              "href": null
+            }
+          ],
+          "icon": {
+            "type": "emoji",
+            "emoji": "🐄"
+          },
+          "color": "green_background"
+        },
+        "archived": false
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "58db0410-cf36-4ee5-8dca-57879c2df8bd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T12:35:00.000Z",
+    "last_edited_time": "2022-08-17T12:35:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "76110d46-c5c5-448e-9c97-187c2245ab7d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-16T09:46:00.000Z",
+    "last_edited_time": "2022-08-17T13:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Cattle arrived in South Africa around 2000 years ago. These beasts have grazed the grassy plains, walking thousands of kilometres in their lifetimes. Weighing in close to a ton, with very few natural predators, cows have lethargically chosen the path of least resistance when traversing landscapes ranging from the towering mountains of the Drakensberg to the rolling hills of the Transkei.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Cattle arrived in South Africa around 2000 years ago. These beasts have grazed the grassy plains, walking thousands of kilometres in their lifetimes. Weighing in close to a ton, with very few natural predators, cows have lethargically chosen the path of least resistance when traversing landscapes ranging from the towering mountains of the Drakensberg to the rolling hills of the Transkei.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "cbfb02ff-1a5f-423b-93a0-ec01f0caa42c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-16T09:50:00.000Z",
+    "last_edited_time": "2022-08-16T09:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d67770d0-8f62-4ee2-8279-fc06a9a75fe3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-16T09:50:00.000Z",
+    "last_edited_time": "2022-08-17T13:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Over time their paths have become more defined. A series of Cow Cut Contours (CCCs) have ramified into a network of dead ground that is their legacy. Paths that tell a story of ease, travelling long distances and a life where food dominates most of the waking day.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Over time their paths have become more defined. A series of Cow Cut Contours (CCCs) have ramified into a network of dead ground that is their legacy. Paths that tell a story of ease, travelling long distances and a life where food dominates most of the waking day.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d9f23eee-4f39-4269-ba02-64edeb250b0d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-16T10:17:00.000Z",
+    "last_edited_time": "2022-08-16T10:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ae5962a9-545f-477c-a751-bad430777a73",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-16T10:17:00.000Z",
+    "last_edited_time": "2022-08-18T09:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Next week myself and three friends embark on an adventure inspired by this legacy. We are going to the Transkei, and using the CCCs to traverse the coast between Port St Johns and the Kei Mouth. It will be a fastpacking adventure and we have a week to see how far we get. It too will be an adventure of ease, travelling long distances and a life where food dominates most of the waking day.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Next week myself and three friends embark on an adventure inspired by this legacy. We are going to the Transkei, and using the CCCs to traverse the coast between Port St Johns and the Kei Mouth. It will be a fastpacking adventure and we have a week to see how far we get. It too will be an adventure of ease, travelling long distances and a life where food dominates most of the waking day.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9c08ba18-eb8c-42bf-a20e-29561ad0912f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-16T10:20:00.000Z",
+    "last_edited_time": "2022-08-16T10:20:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c314def4-6c95-4edf-b448-33059ad8ce32",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-16T10:20:00.000Z",
+    "last_edited_time": "2022-08-18T09:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I found myself in the Transkei last December with Finn, Tess and my brother. I was blown away by how incredible it was to run along the beaches and CCCs that littered the grassy hills. I really wanted to return to do some proper running along this incredible coastline. I’ve thought about it occasionally since then but it was during the post-run euphoria of ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I found myself in the Transkei last December with Finn, Tess and my brother. I was blown away by how incredible it was to run along the beaches and CCCs that littered the grassy hills. I really wanted to return to do some proper running along this incredible coastline. I’ve thought about it occasionally since then but it was during the post-run euphoria of ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "UTD",
+            "link": {
+              "url": "https://www.ultratraildrakensberg.com/"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "UTD",
+          "href": "https://www.ultratraildrakensberg.com/"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " in April that the initial thought for this fastpacking adventure was born. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " in April that the initial thought for this fastpacking adventure was born. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9fe7bd5c-f075-41c3-bb42-d6ded2df0f2c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-16T10:23:00.000Z",
+    "last_edited_time": "2022-08-16T10:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "92592943-9a54-4b5f-9033-31c4ab44166c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-16T10:30:00.000Z",
+    "last_edited_time": "2022-08-18T09:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I have a dear friend called Damo. Damo is a Border Collie through and through. He’s excited by just about anything and will run until he passes out - a point that I’ve never actually seen him get to. He is spontaneous and laps up adventure. He balances my rationality and risk aversion to create the dream adventure planning committee.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I have a dear friend called Damo. Damo is a Border Collie through and through. He’s excited by just about anything and will run until he passes out - a point that I’ve never actually seen him get to. He is spontaneous and laps up adventure. He balances my rationality and risk aversion to create the dream adventure planning committee.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a777da90-f116-498b-a0e6-9aac63b1383b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T13:33:00.000Z",
+    "last_edited_time": "2022-08-17T13:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3cdfa570-9eb3-4562-b114-aa27fcf646a0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-16T10:23:00.000Z",
+    "last_edited_time": "2022-08-18T09:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Damo and I have been flirting with the idea of this run for quite some time. When I found out about the opportunity to take this sabbatical I approached him a bit more seriously to see if we could make this a reality. I bought a ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Damo and I have been flirting with the idea of this run for quite some time. When I found out about the opportunity to take this sabbatical I approached him a bit more seriously to see if we could make this a reality. I bought a ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Slingsby Map of the Transkei",
+            "link": {
+              "url": "https://slingsby-maps.myshopify.com/products/wild-coast"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Slingsby Map of the Transkei",
+          "href": "https://slingsby-maps.myshopify.com/products/wild-coast"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ", went over to his house for dinner and we began to get really serious about doing this. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ", went over to his house for dinner and we began to get really serious about doing this. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "fda18e13-3da0-410e-9250-0c274a5afcad",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-16T10:26:00.000Z",
+    "last_edited_time": "2022-08-16T10:26:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b87a9ad7-46f6-4249-b814-57e4c9d147d8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-16T10:26:00.000Z",
+    "last_edited_time": "2022-08-17T13:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I went on my first fastpacking run last year with Damo and Matt. We headed off to the Cederberg in September with an enormous cold front on the forecast. We arrived late, started the run even later and by 10pm we were running into a 100km/h headwind with sheet rain and temperatures close to zero. We just made it to Sleeppad hut and were holed up in there until the storm blew over. We snuck in a run up Sneeuberg on Sunday, but chose to bring smaller packs as it was just a day mission. So my first fastpacking adventure was indeed a memorable one - but I was craving to do a multi-day run where I wasn’t concerned of freezing to death. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I went on my first fastpacking run last year with Damo and Matt. We headed off to the Cederberg in September with an enormous cold front on the forecast. We arrived late, started the run even later and by 10pm we were running into a 100km/h headwind with sheet rain and temperatures close to zero. We just made it to Sleeppad hut and were holed up in there until the storm blew over. We snuck in a run up Sneeuberg on Sunday, but chose to bring smaller packs as it was just a day mission. So my first fastpacking adventure was indeed a memorable one - but I was craving to do a multi-day run where I wasn’t concerned of freezing to death. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "394e8397-48e8-4000-bbd8-bdafa30a7215",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-16T13:03:00.000Z",
+    "last_edited_time": "2022-08-16T13:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "cb9ad2dd-96ab-403f-8c05-c361b1ff3557",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-16T13:03:00.000Z",
+    "last_edited_time": "2022-08-18T09:20:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "When we sat down to plan this run we initially looked into the ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "When we sat down to plan this run we initially looked into the ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Pondoland area",
+            "link": {
+              "url": "https://en.wikipedia.org/wiki/Pondoland"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Pondoland area",
+          "href": "https://en.wikipedia.org/wiki/Pondoland"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ". A beautiful, untouched part of the Transkei unofficially starting in Port St Johns and running up to the KwaZulu-Natal boarder. A truly beautiful area without much development, yielding untouched Transkei beauty. This is where the Leo side of the planning committee comes in; I would absolutely love to do a fastpack adventure through here, yet the challenges of finding water, food and accommodation would cause this area to be incredibly challenging to run through. We talked this through for a while, spoke to some people who had been there and both came to the conclusion that starting at Port St Johns and running South towards the Kei Mouth would allow for much more access to all three of those vital ingredients.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ". A beautiful, untouched part of the Transkei unofficially starting in Port St Johns and running up to the KwaZulu-Natal boarder. A truly beautiful area without much development, yielding untouched Transkei beauty. This is where the Leo side of the planning committee comes in; I would absolutely love to do a fastpack adventure through here, yet the challenges of finding water, food and accommodation would cause this area to be incredibly challenging to run through. We talked this through for a while, spoke to some people who had been there and both came to the conclusion that starting at Port St Johns and running South towards the Kei Mouth would allow for much more access to all three of those vital ingredients.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3f43dcaf-6b17-4804-8aef-731687769e22",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-16T15:16:00.000Z",
+    "last_edited_time": "2022-08-16T15:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c79fde57-8be6-4d99-86dc-882d2b5ca0c2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-16T15:16:00.000Z",
+    "last_edited_time": "2022-08-17T13:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "As an ode to the Pondoland I made a quick stop off at Mbotyi to run to Waterfall Bluff. It turned out to be a huge adventure - but with many difficulties - therefore solidifying the fact that we had made the right decision by not running through here. You can read and watch a video from this adventure ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "As an ode to the Pondoland I made a quick stop off at Mbotyi to run to Waterfall Bluff. It turned out to be a huge adventure - but with many difficulties - therefore solidifying the fact that we had made the right decision by not running through here. You can read and watch a video from this adventure ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "here",
+            "link": {
+              "url": "https://leothesen.com/waterfall-bluff"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "here",
+          "href": "https://leothesen.com/waterfall-bluff"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ".",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ".",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "092ab50c-896b-4fbb-9315-fa8e56d01235",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-16T15:23:00.000Z",
+    "last_edited_time": "2022-08-16T15:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "dbf5e188-dd35-4d72-9a76-9b89108d8d27",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-16T15:19:00.000Z",
+    "last_edited_time": "2022-08-17T13:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Back to the matter at hand. Our fastpacking adventure has been planned. Damo and I are locked in dates and the dream is alive. We discuss recruiting other members to join the adventure, Damo pulls out all of his hype-man moves to rope in Angus and Fred. Both of them join in the discussion with vigour, humour and excitement - the countdown begins. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Back to the matter at hand. Our fastpacking adventure has been planned. Damo and I are locked in dates and the dream is alive. We discuss recruiting other members to join the adventure, Damo pulls out all of his hype-man moves to rope in Angus and Fred. Both of them join in the discussion with vigour, humour and excitement - the countdown begins. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ec419946-8485-4cf0-864a-e035bfe8f89d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T12:33:00.000Z",
+    "last_edited_time": "2022-08-17T12:34:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "cde50f4f-c3f1-41b1-9dfe-41bfbe7d6cbc",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-16T15:22:00.000Z",
+    "last_edited_time": "2022-08-17T12:35:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "This blog post is actually just an open letter to Damo, Angus and Fred - but should provide some entertainment to whoever else might read it. It’s going to cover three main topics: terrain, gear and route.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "This blog post is actually just an open letter to Damo, Angus and Fred - but should provide some entertainment to whoever else might read it. It’s going to cover three main topics: terrain, gear and route.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "885a25a5-55d0-4c4b-a75f-aeda8670ffe2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T12:34:00.000Z",
+    "last_edited_time": "2022-08-18T06:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_1",
+    "heading_1": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Terrain",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Terrain",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "green"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "89f216b6-8e43-4787-b336-9bf7822a6992",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T12:34:00.000Z",
+    "last_edited_time": "2022-08-17T12:34:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "afdf94b1-459a-4842-823d-025784ebf370",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T12:34:00.000Z",
+    "last_edited_time": "2022-08-17T14:07:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "During the few weeks that spent in the Transkei I embarked on a series of research runs where I studied the terrain, landscape and - most importantly - the cows. I believe that I have come up with a game changing hypothesis on running long distance through this beautiful area, so much so that there is now a field of research dedicated to it; Bovineiterology. There are two key concepts to understand in the field of Bovineiterology: grazing and effort. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "During the few weeks that spent in the Transkei I embarked on a series of research runs where I studied the terrain, landscape and - most importantly - the cows. I believe that I have come up with a game changing hypothesis on running long distance through this beautiful area, so much so that there is now a field of research dedicated to it; Bovineiterology. There are two key concepts to understand in the field of Bovineiterology: grazing and effort. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4a00f916-ab21-4d1b-91f8-af518de9f207",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:17:00.000Z",
+    "last_edited_time": "2022-08-17T14:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "29265eea-6437-47c3-956e-f09f97e3947d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:17:00.000Z",
+    "last_edited_time": "2022-08-17T14:19:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "There is no one path running the length of the coast - there are thousands. We are going to have to be constantly making decisions on which path to take from a plethora of options. Thinking like a cow helps you understand the reason for all the paths and make the right choice more often.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "There is no one path running the length of the coast - there are thousands. We are going to have to be constantly making decisions on which path to take from a plethora of options. Thinking like a cow helps you understand the reason for all the paths and make the right choice more often.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a0716a25-2f41-49db-9c33-0f611a120b9d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:07:00.000Z",
+    "last_edited_time": "2022-08-18T06:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Grazing",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Grazing",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "green"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4d338323-6a0b-4213-98d4-c1cb2ada4f0e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:07:00.000Z",
+    "last_edited_time": "2022-08-17T14:07:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "604a30e5-800f-48c1-ade9-eb9a9f68ae02",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:07:00.000Z",
+    "last_edited_time": "2022-08-18T09:22:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Heards of cows are guided by people and dogs through the rolling hills of the Transkei. They are often given time to graze at certain pastures before travelling large distances to return to kraals or find greener grass.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Heards of cows are guided by people and dogs through the rolling hills of the Transkei. They are often given time to graze at certain pastures before travelling large distances to return to kraals or find greener grass.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b4a2bf13-e20d-42a8-8f8a-afdd974940e3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:09:00.000Z",
+    "last_edited_time": "2022-08-17T14:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0751e898-2ed5-4d7a-bff8-ffec23ebfa3d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:09:00.000Z",
+    "last_edited_time": "2022-08-17T14:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "When cows are grazing they diverge from the main path, often walking parallel to it and graze while they slowly trudge forward. Over time these have formed smaller paths next to the main one that corrugate the landscape. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "When cows are grazing they diverge from the main path, often walking parallel to it and graze while they slowly trudge forward. Over time these have formed smaller paths next to the main one that corrugate the landscape. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "80466ab4-324d-47ff-8124-6e101b4abaa6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:10:00.000Z",
+    "last_edited_time": "2022-08-17T14:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "642b8a73-ea0f-4f45-9952-ffa128ef7301",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-16T15:27:00.000Z",
+    "last_edited_time": "2022-08-17T14:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Each contour tells the story of a well fed cow",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Each contour tells the story of a well fed cow",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/2e4e198bb199f418.jpeg",
+        "expiry_time": "2026-03-12T11:23:45.814Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9c2cf573-364e-43be-b0b2-42ed1408cd9b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:13:00.000Z",
+    "last_edited_time": "2022-08-17T14:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "21e52cbb-4317-4788-99af-19796f55b4c6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:13:00.000Z",
+    "last_edited_time": "2022-08-18T09:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Running these smaller paths is not a good idea. Looking at the photo above; the smaller paths slightly further up the hill look feasible, but when you charge straight onto them they behave similar to the staircases in Hogwarts and move under your feet. I’ve landed on my ass with sore ankles more than once. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Running these smaller paths is not a good idea. Looking at the photo above; the smaller paths slightly further up the hill look feasible, but when you charge straight onto them they behave similar to the staircases in Hogwarts and move under your feet. I’ve landed on my ass with sore ankles more than once. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "51354ef2-0d37-44e1-803c-8b63c56a57fd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:17:00.000Z",
+    "last_edited_time": "2022-08-17T14:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8a5fe6f1-b207-410a-86da-69a0dae9080f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:17:00.000Z",
+    "last_edited_time": "2022-08-17T14:24:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "But why would you stray ever from the main path? \nOften the main paths simply end, replaced instead with tens of smaller ones going off in different directions. It’s often worth stopping and spotting the most well trodden path out of the lot that appears to head off in the direction that you’re headed.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "But why would you stray ever from the main path? \nOften the main paths simply end, replaced instead with tens of smaller ones going off in different directions. It’s often worth stopping and spotting the most well trodden path out of the lot that appears to head off in the direction that you’re headed.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c4bf7aa4-7b71-4d87-adc9-3173a10beb81",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:20:00.000Z",
+    "last_edited_time": "2022-08-17T14:20:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "55eaaf23-aada-4349-b22a-45968afb9c9e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:20:00.000Z",
+    "last_edited_time": "2022-08-17T14:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "What happens if you’re faced with a fork in the road and both paths are equally well trodden?\nGood question! Let’s move over to the next section.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "What happens if you’re faced with a fork in the road and both paths are equally well trodden?\nGood question! Let’s move over to the next section.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4f536bb4-9515-4f61-9a6c-5b806fc57b16",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:07:00.000Z",
+    "last_edited_time": "2022-08-18T06:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Effort",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Effort",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "green"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "264e12c7-ea88-48d2-8436-300c275ad44f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:21:00.000Z",
+    "last_edited_time": "2022-08-17T14:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0494235f-e5cf-4209-9e58-4fab5ef26bc9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:05:00.000Z",
+    "last_edited_time": "2022-08-17T14:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Cows are fucking heavy. Imagine trying to climb up a steep hill with a VW Beetle on your back. What would you do? Well the answer is obvious - you would choose the most gentle gradient up the hill and wind your way around the hill to get to the top. This is the key thing to know when you see a fork in the road. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Cows are fucking heavy. Imagine trying to climb up a steep hill with a VW Beetle on your back. What would you do? Well the answer is obvious - you would choose the most gentle gradient up the hill and wind your way around the hill to get to the top. This is the key thing to know when you see a fork in the road. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a084598f-01a2-4c68-9893-8090b5bd66cd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:04:00.000Z",
+    "last_edited_time": "2022-08-17T14:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "fbe6ad61-3a9d-42fa-9b6a-032f6817755c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:04:00.000Z",
+    "last_edited_time": "2022-08-18T07:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Decisions",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Decisions",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/9fcf7bda0f3d9773.png",
+        "expiry_time": "2026-03-12T11:23:45.814Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f33cb1fa-1409-4bb3-b004-d1f9077ce5f3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:24:00.000Z",
+    "last_edited_time": "2022-08-17T14:24:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "03b0130e-c44b-4830-b5d7-0cfc0e7ce5c8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:24:00.000Z",
+    "last_edited_time": "2022-08-17T14:25:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "If you were running towards the camera and were faced with this fork you should think about it like this:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "If you were running towards the camera and were faced with this fork you should think about it like this:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "faa0350f-d0ce-4bd9-8fbd-aa1e850af71f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:25:00.000Z",
+    "last_edited_time": "2022-08-18T06:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Red path - climbing up and over the hill.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Red path - climbing up and over the hill.",
+          "href": null
+        }
+      ],
+      "color": "red"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "457dfc64-48f4-4997-baa1-a30afe53ce78",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:26:00.000Z",
+    "last_edited_time": "2022-08-18T06:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Blue path - continuing along the coast.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Blue path - continuing along the coast.",
+          "href": null
+        }
+      ],
+      "color": "blue"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "52f44451-0004-4ffa-87e3-ee9681e40b5d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:26:00.000Z",
+    "last_edited_time": "2022-08-17T14:26:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d9c5e508-a5bb-476a-ae21-ee2d1af440bf",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:26:00.000Z",
+    "last_edited_time": "2022-08-18T09:24:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "In the case of this specific path I erroneously chose the red path - aiming to get a better view of the ocean, but instead it took me on a climb over the hill and headed inland. If you think like a cow, the red path is actually the equivalent of a ladder for us; a gradient more than 15 degrees up a hill means that they’ve locked in and they are climbing. Cows don’t climb hills for fun - they are heading over it. So the moral of the story is going to be to stick to the forks that keep us along the coast.  ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "In the case of this specific path I erroneously chose the red path - aiming to get a better view of the ocean, but instead it took me on a climb over the hill and headed inland. If you think like a cow, the red path is actually the equivalent of a ladder for us; a gradient more than 15 degrees up a hill means that they’ve locked in and they are climbing. Cows don’t climb hills for fun - they are heading over it. So the moral of the story is going to be to stick to the forks that keep us along the coast.  ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "012d7812-741b-418a-bafe-42a96734fa47",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:29:00.000Z",
+    "last_edited_time": "2022-08-17T14:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c8d1f158-9707-4e75-be3e-9d4f0cbe1ca1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:29:00.000Z",
+    "last_edited_time": "2022-08-17T14:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Running on the sand is great. Not if you’re a fat four legged grass eating machine. Almost all beaches have a small path along the vegetation line that the cows use at high tide. I ended up running many kilometres through soft sand before realising that there was a much easier option only a few meters away.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Running on the sand is great. Not if you’re a fat four legged grass eating machine. Almost all beaches have a small path along the vegetation line that the cows use at high tide. I ended up running many kilometres through soft sand before realising that there was a much easier option only a few meters away.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "059e2bc0-53f1-4ea9-9719-0f9bd167cf40",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-16T15:25:00.000Z",
+    "last_edited_time": "2022-08-17T14:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b2227b80-bdaa-4ecc-bf86-64c2965d0af4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-16T15:27:00.000Z",
+    "last_edited_time": "2022-08-18T07:07:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "And I'll meet you in the low tide, low tide",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "And I'll meet you in the low tide, low tide",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/2d729dc0cd424b95.jpeg",
+        "expiry_time": "2026-03-12T11:23:46.020Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "2882b125-e324-4586-87fb-86787bbbbd6b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T08:31:00.000Z",
+    "last_edited_time": "2022-08-18T08:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "cb4bf1cd-6c05-484c-8a46-4aa0123eface",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-16T09:57:00.000Z",
+    "last_edited_time": "2022-08-18T08:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Rivers",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Rivers",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "green"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "11be0bdf-b905-42ab-a966-8fafdb3f264c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T08:31:00.000Z",
+    "last_edited_time": "2022-08-18T08:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7879a79a-050f-49f2-bb01-aa4d2fc1697b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T08:31:00.000Z",
+    "last_edited_time": "2022-08-18T08:34:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "This is where we diverge from the cow talk. The Transkei is littered with rivers and estuaries that we will have to cross. Some are knee high sandbars on low tide that only Fred is going to have to take his shoes off to cross, others are torrential behemoths with rabid bull sharks lurking in the shallows. Either way, we will make a plan.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "This is where we diverge from the cow talk. The Transkei is littered with rivers and estuaries that we will have to cross. Some are knee high sandbars on low tide that only Fred is going to have to take his shoes off to cross, others are torrential behemoths with rabid bull sharks lurking in the shallows. Either way, we will make a plan.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "28a395bb-5671-4c69-9a79-4d41be24d302",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T08:32:00.000Z",
+    "last_edited_time": "2022-08-18T08:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "76faff93-0002-478e-9b26-a9e3164d6e6a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T08:32:00.000Z",
+    "last_edited_time": "2025-06-07T11:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "R20 gets you a ride across all rivers that terrify you to swim",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "R20 gets you a ride across all rivers that terrify you to swim",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/98ae4219374b5ca9.png",
+        "expiry_time": "2026-03-12T11:23:46.020Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "bd142270-e2b1-4de6-a40e-7028ad9f2b3b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T08:57:00.000Z",
+    "last_edited_time": "2022-08-18T08:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ef0e7d2e-5864-4573-8dda-ae29913c1121",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T08:57:00.000Z",
+    "last_edited_time": "2022-08-18T09:25:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The one takeaway from this is simply to carry quite a lot of R20 notes. It will conjure a boat to make our way across many a formidable water source.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The one takeaway from this is simply to carry quite a lot of R20 notes. It will conjure a boat to make our way across many a formidable water source.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d08aa4f0-2be9-4e7c-b2e3-a9d80638f0db",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T12:35:00.000Z",
+    "last_edited_time": "2022-08-18T06:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_1",
+    "heading_1": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Gear",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Gear",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "purple"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "6e6d98eb-da95-4a0e-b345-ef6d27504516",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:31:00.000Z",
+    "last_edited_time": "2022-08-17T14:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5a8c9000-4b29-4692-8736-e45916b680fb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:31:00.000Z",
+    "last_edited_time": "2022-08-18T09:26:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Now after all that cow talk you probably think that I’ve completely lost my mind. Let’s talk gear, no cows will be mentioned in this section - I promise. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Now after all that cow talk you probably think that I’ve completely lost my mind. Let’s talk gear, no cows will be mentioned in this section - I promise. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c684937f-2642-4798-b09d-050d9173b013",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:32:00.000Z",
+    "last_edited_time": "2022-08-17T14:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "70156aee-f019-46be-ab38-c4294ef1009b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:32:00.000Z",
+    "last_edited_time": "2022-08-17T14:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Fastpacking can be a notoriously expensive endeavour. There are countless videos on Youtube of American athletes unpacking their bags and revealing thousands of dollars worth of very light, small gear. Most of them seem to be absolute masochists and put themselves through hell to be able to have a light pack. Their motto all seems to be “fast and light baby”.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Fastpacking can be a notoriously expensive endeavour. There are countless videos on Youtube of American athletes unpacking their bags and revealing thousands of dollars worth of very light, small gear. Most of them seem to be absolute masochists and put themselves through hell to be able to have a light pack. Their motto all seems to be “fast and light baby”.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "2294189c-a924-4d1d-b4ba-46cdb904d5c5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:35:00.000Z",
+    "last_edited_time": "2022-08-17T14:35:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f0b8581b-c226-4397-92f1-79866b347046",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:35:00.000Z",
+    "last_edited_time": "2022-08-17T14:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Last weekend me and Fred set off to the Drakensberg to do a little trial run of our trail run to come. We had both bit the bullet and bought a 40L fastpack. I was so intrigued to see if my motto of “slow and heavy baby” would live up to the romantic vision of eating a three course meal on top of a 3000m peak. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Last weekend me and Fred set off to the Drakensberg to do a little trial run of our trail run to come. We had both bit the bullet and bought a 40L fastpack. I was so intrigued to see if my motto of “slow and heavy baby” would live up to the romantic vision of eating a three course meal on top of a 3000m peak. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "22b8edad-dc88-4ddf-9ceb-76b1f6b21bbd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:38:00.000Z",
+    "last_edited_time": "2022-08-17T14:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "759723d3-fcd4-4ec3-8084-99ba2ecce27b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:38:00.000Z",
+    "last_edited_time": "2022-08-17T14:40:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I packed and repacked my bag several times in the days leading up to our adventure. I unfortunately didn’t have a scale, but have since found one and I estimate my bag to have weighed about 17kg at its heaviest (the professionals aim for less than 8kg). ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I packed and repacked my bag several times in the days leading up to our adventure. I unfortunately didn’t have a scale, but have since found one and I estimate my bag to have weighed about 17kg at its heaviest (the professionals aim for less than 8kg). ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a9c747f7-7c95-4957-ae05-fd4c3cce06d0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:40:00.000Z",
+    "last_edited_time": "2022-08-17T14:40:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "43f122ce-5c5c-44db-b74a-3c59757b119e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:40:00.000Z",
+    "last_edited_time": "2022-08-18T06:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We set off! Ignorant, excited and (luckily) quite fit - we proceeded to have an enormously good adventure. I’ve thrown all the videos together into a montage as well as linked my travel journal entries from the two days if you wish to get into my mind as it is in the mountains.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We set off! Ignorant, excited and (luckily) quite fit - we proceeded to have an enormously good adventure. I’ve thrown all the videos together into a montage as well as linked my travel journal entries from the two days if you wish to get into my mind as it is in the mountains.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "86e0886d-c3a3-44db-94b0-1c8125f4daa9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T06:47:00.000Z",
+    "last_edited_time": "2022-08-18T06:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "488ee50e-0c11-47ee-94fa-a1d2b172d0e2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T06:47:00.000Z",
+    "last_edited_time": "2022-08-18T08:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "video",
+    "video": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Mountain montage",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Mountain montage",
+          "href": null
+        }
+      ],
+      "type": "external",
+      "external": {
+        "url": "https://youtu.be/LLGnWtMwzTk"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "465b0372-4969-4b57-b8c5-eaec4d8cef0e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T15:53:00.000Z",
+    "last_edited_time": "2022-08-17T15:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "fefd823f-4bd6-4798-a9d5-bb59465ef48e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:41:00.000Z",
+    "last_edited_time": "2022-08-18T06:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Slowpacking",
+            "link": {
+              "url": "http://leothesen.com/slowpacking"
+            }
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Slowpacking",
+          "href": "http://leothesen.com/slowpacking"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "\n",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "\n",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Our bags were heavy, we climbed 2000m and had a great time.\n",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Our bags were heavy, we climbed 2000m and had a great time.\n",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "emoji",
+        "emoji": "🐢"
+      },
+      "color": "blue_background"
+    },
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "4f525379-c0bd-44e9-bf9c-89d646216d45",
+        "parent": {
+          "type": "block_id",
+          "block_id": "fefd823f-4bd6-4798-a9d5-bb59465ef48e"
+        },
+        "created_time": "2022-08-18T06:50:00.000Z",
+        "last_edited_time": "2022-08-18T08:58:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "image",
+        "image": {
+          "caption": [
+            {
+              "type": "text",
+              "text": {
+                "content": "View of the day",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "View of the day",
+              "href": null
+            }
+          ],
+          "type": "file",
+          "file": {
+            "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/5dbd899e69e5dff4.png",
+            "expiry_time": "2026-03-12T11:23:47.828Z"
+          }
+        },
+        "archived": false
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "dcca7914-ce0e-4ab3-bb32-76549998c999",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:41:00.000Z",
+    "last_edited_time": "2022-08-17T14:41:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "49f8f2f2-0a67-407f-8c74-319f47c57df0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:41:00.000Z",
+    "last_edited_time": "2022-08-18T06:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Fastpacking",
+            "link": {
+              "url": "http://leothesen.com/fastpacking"
+            }
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Fastpacking",
+          "href": "http://leothesen.com/fastpacking"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "\n",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "\n",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Our bags were lighter, we discovered the most beautiful trail I’ve ever run.\n",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Our bags were lighter, we discovered the most beautiful trail I’ve ever run.\n",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "emoji",
+        "emoji": "🐇"
+      },
+      "color": "green_background"
+    },
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "a9cde513-f9e4-42e4-be16-76bed59208bf",
+        "parent": {
+          "type": "block_id",
+          "block_id": "49f8f2f2-0a67-407f-8c74-319f47c57df0"
+        },
+        "created_time": "2022-08-18T06:51:00.000Z",
+        "last_edited_time": "2022-08-18T08:58:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "image",
+        "image": {
+          "caption": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Trail of the year",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Trail of the year",
+              "href": null
+            }
+          ],
+          "type": "file",
+          "file": {
+            "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/ad6185fe008ee499.png",
+            "expiry_time": "2026-03-12T11:23:48.106Z"
+          }
+        },
+        "archived": false
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "e66f023f-8717-461a-a0da-7082de242a8c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T10:44:00.000Z",
+    "last_edited_time": "2022-08-18T10:44:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f3ee96dc-e8c6-4de7-984c-b97007656306",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T14:45:00.000Z",
+    "last_edited_time": "2022-08-18T10:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I had packed using my gear list which you can find here: ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I had packed using my gear list which you can find here: ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "https://leo-thesen.notion.site/d4e07a40c5744cdaaa710bcbd8438bbd?v=5f6bb2ac3aed4abdbc978318fa9e2410",
+            "link": {
+              "url": "https://leo-thesen.notion.site/d4e07a40c5744cdaaa710bcbd8438bbd?v=5f6bb2ac3aed4abdbc978318fa9e2410"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "https://leo-thesen.notion.site/d4e07a40c5744cdaaa710bcbd8438bbd?v=5f6bb2ac3aed4abdbc978318fa9e2410",
+          "href": "https://leo-thesen.notion.site/d4e07a40c5744cdaaa710bcbd8438bbd?v=5f6bb2ac3aed4abdbc978318fa9e2410"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ". I’ve attached a link to the Notion database if you’d like to duplicate it.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ". I’ve attached a link to the Notion database if you’d like to duplicate it.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "94ef6248-b523-41f3-83d9-73349c489467",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T10:45:00.000Z",
+    "last_edited_time": "2022-08-18T10:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "74eaefd9-a584-4bf0-943c-e358349a8d0e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T10:45:00.000Z",
+    "last_edited_time": "2022-08-18T10:46:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I brought almost everything in the Fastpacking list and definitely paid the price in weight. After this adventure Fred and I learned some vital lessons:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I brought almost everything in the Fastpacking list and definitely paid the price in weight. After this adventure Fred and I learned some vital lessons:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "82738ac5-31fd-4b19-97cb-26f6bfa034ed",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T15:00:00.000Z",
+    "last_edited_time": "2022-08-18T06:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c5b75571-ce32-4cd2-bb48-8dfb0453831a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2024-03-12T19:45:00.000Z",
+    "last_edited_time": "2024-03-12T19:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "synced_block",
+    "synced_block": {
+      "synced_from": null
+    },
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "3b7a244e-8121-4d86-88c7-2890312ede59",
+        "parent": {
+          "type": "block_id",
+          "block_id": "c5b75571-ce32-4cd2-bb48-8dfb0453831a"
+        },
+        "created_time": "2022-08-17T15:00:00.000Z",
+        "last_edited_time": "2024-03-12T19:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Weight is something to minimise",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Weight is something to minimise",
+              "href": null
+            }
+          ],
+          "color": "brown_background"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "6d52350f-7e88-4e14-92fe-fce4a1f5a591",
+        "parent": {
+          "type": "block_id",
+          "block_id": "c5b75571-ce32-4cd2-bb48-8dfb0453831a"
+        },
+        "created_time": "2022-08-17T15:00:00.000Z",
+        "last_edited_time": "2024-03-12T19:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Running is less enjoyable the heavier you are. We’re going there to do a lot of running - try and maximise the enjoyment of it.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Running is less enjoyable the heavier you are. We’re going there to do a lot of running - try and maximise the enjoyment of it.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "a21307fb-0622-4ec2-8b06-6885769519df",
+        "parent": {
+          "type": "block_id",
+          "block_id": "c5b75571-ce32-4cd2-bb48-8dfb0453831a"
+        },
+        "created_time": "2022-08-17T14:51:00.000Z",
+        "last_edited_time": "2024-03-12T19:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "b92eeef3-9360-491b-a537-53414a3aa82f",
+        "parent": {
+          "type": "block_id",
+          "block_id": "c5b75571-ce32-4cd2-bb48-8dfb0453831a"
+        },
+        "created_time": "2022-08-17T14:51:00.000Z",
+        "last_edited_time": "2024-03-12T19:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Pack what you have",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Pack what you have",
+              "href": null
+            }
+          ],
+          "color": "orange_background"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "4e4f29c2-2bea-402e-a3ec-8af0879f3692",
+        "parent": {
+          "type": "block_id",
+          "block_id": "c5b75571-ce32-4cd2-bb48-8dfb0453831a"
+        },
+        "created_time": "2022-08-17T14:51:00.000Z",
+        "last_edited_time": "2024-03-12T19:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "It’s so easy to want all the high tech, ultralight, ultra-small and vastly overpriced gear out there. You’ll never get it all, there will always be something else. Borrow gear where possible, and then use what you have without regret.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "It’s so easy to want all the high tech, ultralight, ultra-small and vastly overpriced gear out there. You’ll never get it all, there will always be something else. Borrow gear where possible, and then use what you have without regret.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "92ef81e0-7438-4aa4-ba66-f7faef27e4fb",
+        "parent": {
+          "type": "block_id",
+          "block_id": "c5b75571-ce32-4cd2-bb48-8dfb0453831a"
+        },
+        "created_time": "2022-08-18T06:44:00.000Z",
+        "last_edited_time": "2024-03-12T19:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "18e51448-f7eb-41ea-b469-ace5f7c520dc",
+        "parent": {
+          "type": "block_id",
+          "block_id": "c5b75571-ce32-4cd2-bb48-8dfb0453831a"
+        },
+        "created_time": "2022-08-17T14:53:00.000Z",
+        "last_edited_time": "2024-03-12T19:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Pack things that can prevent your trip being ruined",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Pack things that can prevent your trip being ruined",
+              "href": null
+            }
+          ],
+          "color": "yellow_background"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "44806ba4-655b-4644-87e8-cda146ec0560",
+        "parent": {
+          "type": "block_id",
+          "block_id": "c5b75571-ce32-4cd2-bb48-8dfb0453831a"
+        },
+        "created_time": "2022-08-17T14:53:00.000Z",
+        "last_edited_time": "2024-03-12T19:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "The adventure of fastpacking is incredible as it is - you don’t need many extra things. These are simple things that you will kick yourself if you don’t have. Some of them are obvious, others less so:",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "The adventure of fastpacking is incredible as it is - you don’t need many extra things. These are simple things that you will kick yourself if you don’t have. Some of them are obvious, others less so:",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "b62589fc-9523-4c94-9d40-85a5ae18903c",
+        "parent": {
+          "type": "block_id",
+          "block_id": "c5b75571-ce32-4cd2-bb48-8dfb0453831a"
+        },
+        "created_time": "2022-08-17T14:54:00.000Z",
+        "last_edited_time": "2024-03-12T19:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Medical kit - a comprehensive one",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Medical kit - a comprehensive one",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "e76e00c1-cee5-4a40-bb2c-ed6b9351d803",
+        "parent": {
+          "type": "block_id",
+          "block_id": "c5b75571-ce32-4cd2-bb48-8dfb0453831a"
+        },
+        "created_time": "2022-08-17T14:54:00.000Z",
+        "last_edited_time": "2024-03-12T19:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Vaseline - imagine chafe in a sensitive area on day 2… and then having another five days to push through",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Vaseline - imagine chafe in a sensitive area on day 2… and then having another five days to push through",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "23776d2b-6919-458d-92f6-4e29f0fc95ff",
+        "parent": {
+          "type": "block_id",
+          "block_id": "c5b75571-ce32-4cd2-bb48-8dfb0453831a"
+        },
+        "created_time": "2022-08-17T14:55:00.000Z",
+        "last_edited_time": "2024-03-12T19:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Good sleeping equipment - running on poor night’s sleep is like adding 5kg to your bag. Try maximise the quality of sleep you’re going to get",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Good sleeping equipment - running on poor night’s sleep is like adding 5kg to your bag. Try maximise the quality of sleep you’re going to get",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "89c526a8-d9c3-4592-8847-1853e50a15d9",
+        "parent": {
+          "type": "block_id",
+          "block_id": "c5b75571-ce32-4cd2-bb48-8dfb0453831a"
+        },
+        "created_time": "2022-08-17T14:55:00.000Z",
+        "last_edited_time": "2024-03-12T19:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Coffee - maybe this is more personal. But definitely an critical ingredient.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Coffee - maybe this is more personal. But definitely an critical ingredient.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "aa14b5f4-67e2-4073-a5a4-5e35d4d1176d",
+        "parent": {
+          "type": "block_id",
+          "block_id": "c5b75571-ce32-4cd2-bb48-8dfb0453831a"
+        },
+        "created_time": "2022-08-18T06:45:00.000Z",
+        "last_edited_time": "2024-03-12T19:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "b0b3aa3e-5eca-49b2-b089-e69a1977032f",
+        "parent": {
+          "type": "block_id",
+          "block_id": "c5b75571-ce32-4cd2-bb48-8dfb0453831a"
+        },
+        "created_time": "2022-08-17T14:56:00.000Z",
+        "last_edited_time": "2024-03-12T19:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Pack for running, not for camp",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Pack for running, not for camp",
+              "href": null
+            }
+          ],
+          "color": "green_background"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2050dfa3-8d38-4941-95b9-e3e0ba880944",
+        "parent": {
+          "type": "block_id",
+          "block_id": "c5b75571-ce32-4cd2-bb48-8dfb0453831a"
+        },
+        "created_time": "2022-08-17T14:56:00.000Z",
+        "last_edited_time": "2024-03-12T19:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "This is something that I changed my mind on. I brought many nice things for the camp up the mountain with me, but in the effort of dragging them up 2000m of Drakensberg mountain we weren’t able to play more than two games of backgammon, truly enjoy a slab of Lint and really appreciate how nice the cave was with top down lighting. ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "This is something that I changed my mind on. I brought many nice things for the camp up the mountain with me, but in the effort of dragging them up 2000m of Drakensberg mountain we weren’t able to play more than two games of backgammon, truly enjoy a slab of Lint and really appreciate how nice the cave was with top down lighting. ",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "e8f72c80-9b9e-4b96-bba8-e087b76910da",
+        "parent": {
+          "type": "block_id",
+          "block_id": "c5b75571-ce32-4cd2-bb48-8dfb0453831a"
+        },
+        "created_time": "2022-08-17T14:57:00.000Z",
+        "last_edited_time": "2024-03-12T19:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "25072ff1-897c-4a4a-a8f1-51e87b24ec98",
+        "parent": {
+          "type": "block_id",
+          "block_id": "c5b75571-ce32-4cd2-bb48-8dfb0453831a"
+        },
+        "created_time": "2022-08-17T14:57:00.000Z",
+        "last_edited_time": "2024-03-12T19:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "I will probably bring the backgammon set to the Transkei because I love the game, but the extra light and Lint will have to stay home. ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "I will probably bring the backgammon set to the Transkei because I love the game, but the extra light and Lint will have to stay home. ",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "fd892b5f-2c3a-49c8-ac8d-20c716bd04b5",
+        "parent": {
+          "type": "block_id",
+          "block_id": "c5b75571-ce32-4cd2-bb48-8dfb0453831a"
+        },
+        "created_time": "2022-08-18T06:45:00.000Z",
+        "last_edited_time": "2024-03-12T19:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "ee44dad7-54fc-44f0-bc4e-2f96ce886d24",
+        "parent": {
+          "type": "block_id",
+          "block_id": "c5b75571-ce32-4cd2-bb48-8dfb0453831a"
+        },
+        "created_time": "2022-08-17T14:52:00.000Z",
+        "last_edited_time": "2024-03-12T19:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Bring suncream lip balm",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Bring suncream lip balm",
+              "href": null
+            }
+          ],
+          "color": "blue_background"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "446fd5a4-921b-4ae9-82b4-d379ab8557dc",
+        "parent": {
+          "type": "block_id",
+          "block_id": "c5b75571-ce32-4cd2-bb48-8dfb0453831a"
+        },
+        "created_time": "2022-08-17T14:53:00.000Z",
+        "last_edited_time": "2024-03-12T19:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Almost four days after coming back from the mountains my lips still resemble a dry river bed. The wind off the ocean in the Transkei is definitely going to yield similar results. ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Almost four days after coming back from the mountains my lips still resemble a dry river bed. The wind off the ocean in the Transkei is definitely going to yield similar results. ",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "ee967c76-0b7b-46ca-beae-fc35c897315e",
+        "parent": {
+          "type": "block_id",
+          "block_id": "c5b75571-ce32-4cd2-bb48-8dfb0453831a"
+        },
+        "created_time": "2022-08-18T06:45:00.000Z",
+        "last_edited_time": "2024-03-12T19:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "0864d200-3eab-42da-b44d-03492d4179eb",
+        "parent": {
+          "type": "block_id",
+          "block_id": "c5b75571-ce32-4cd2-bb48-8dfb0453831a"
+        },
+        "created_time": "2022-08-17T14:58:00.000Z",
+        "last_edited_time": "2024-03-12T19:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Water is heavy, take that into account",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Water is heavy, take that into account",
+              "href": null
+            }
+          ],
+          "color": "purple_background"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "5bc3578d-7cd3-4d54-bf1e-2b16cc5c8e2e",
+        "parent": {
+          "type": "block_id",
+          "block_id": "c5b75571-ce32-4cd2-bb48-8dfb0453831a"
+        },
+        "created_time": "2022-08-17T14:59:00.000Z",
+        "last_edited_time": "2024-03-12T19:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "On top of that - we are going to be running through the Transkei at the end of the dry season. This means that we’re going to be refilling all our water as often as possible. Personally I will aim to carry about 2.5L of water on me as often as possible. Factor in the extra weight.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "On top of that - we are going to be running through the Transkei at the end of the dry season. This means that we’re going to be refilling all our water as often as possible. Personally I will aim to carry about 2.5L of water on me as often as possible. Factor in the extra weight.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "820ceddc-4ebf-45af-8c27-f18df8f7c0d8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T15:03:00.000Z",
+    "last_edited_time": "2022-08-17T15:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3d1dfd3b-ce6c-4081-9768-216f0094476c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-11T09:19:00.000Z",
+    "last_edited_time": "2022-08-17T15:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I don’t know how much my pack is going to weigh for the Transkei. I’m going to try my best to cut it down to around 12kg fully loaded.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I don’t know how much my pack is going to weigh for the Transkei. I’m going to try my best to cut it down to around 12kg fully loaded.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b01d6432-ed12-4342-9948-c030404c42e8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T12:35:00.000Z",
+    "last_edited_time": "2022-08-18T06:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_1",
+    "heading_1": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Route",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Route",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "pink"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d5629650-6cbf-4e1e-972e-7ef86934fbbe",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T15:53:00.000Z",
+    "last_edited_time": "2022-08-17T15:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "102f6c9b-7190-4758-abce-272865632ade",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-17T12:35:00.000Z",
+    "last_edited_time": "2022-08-18T09:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The route is the simple: run along the coast in a South Westerly direction. The amount of kilometres we cover each day will be the right amount. The place we choose to sleep at night will be perfect. And the Slingsby Map will ensure that we are never lost.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The route is the simple: run along the coast in a South Westerly direction. The amount of kilometres we cover each day will be the right amount. The place we choose to sleep at night will be perfect. And the Slingsby Map will ensure that we are never lost.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b5db385c-3669-401d-b71c-2c959f12b8c3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T08:10:00.000Z",
+    "last_edited_time": "2022-08-18T08:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ce0a6741-b951-4735-871a-0eb54ad62a1f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-11T09:18:00.000Z",
+    "last_edited_time": "2022-08-18T08:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "If this is too casual for you, then let’s get a bit more serious:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "If this is too casual for you, then let’s get a bit more serious:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "24794ded-c57e-4bd7-bca9-acc09660f32b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T08:10:00.000Z",
+    "last_edited_time": "2022-08-18T08:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Distances",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Distances",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "pink"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "68c3e39c-6068-41c7-9a50-6981c7da83a7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T08:18:00.000Z",
+    "last_edited_time": "2022-08-18T08:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "69e889b3-a2c0-4c21-8686-5c27b20ba238",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T08:13:00.000Z",
+    "last_edited_time": "2022-08-18T08:24:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "This beautiful Slingsby map has a quick reference guide for the distances between bodies of water. Let’s begin with the overall possible run:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "This beautiful Slingsby map has a quick reference guide for the distances between bodies of water. Let’s begin with the overall possible run:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7a957a47-bbe8-4590-bce1-6d88ec57ca33",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T08:21:00.000Z",
+    "last_edited_time": "2022-08-18T08:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "cab791a1-53c8-429c-8ee3-8b8dd6d5eb3a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T08:23:00.000Z",
+    "last_edited_time": "2022-08-18T08:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "column_list",
+    "column_list": {},
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "44ad7603-4daa-4cf3-95bb-0630f674cb22",
+        "parent": {
+          "type": "block_id",
+          "block_id": "cab791a1-53c8-429c-8ee3-8b8dd6d5eb3a"
+        },
+        "created_time": "2022-08-18T08:23:00.000Z",
+        "last_edited_time": "2022-08-18T08:23:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "ecee3326-867f-4f2b-a327-a28e715d1156",
+            "parent": {
+              "type": "block_id",
+              "block_id": "44ad7603-4daa-4cf3-95bb-0630f674cb22"
+            },
+            "created_time": "2022-08-18T08:22:00.000Z",
+            "last_edited_time": "2025-06-07T11:39:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "image",
+            "image": {
+              "caption": [],
+              "type": "file",
+              "file": {
+                "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/1a654a3a0988dd3e.png",
+                "expiry_time": "2026-03-12T11:23:48.323Z"
+              }
+            },
+            "archived": false
+          }
+        ]
+      },
+      {
+        "object": "block",
+        "id": "830ce02a-bccc-4e57-9007-d55f00f01566",
+        "parent": {
+          "type": "block_id",
+          "block_id": "cab791a1-53c8-429c-8ee3-8b8dd6d5eb3a"
+        },
+        "created_time": "2022-08-18T08:23:00.000Z",
+        "last_edited_time": "2022-08-18T08:23:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "4ea09d41-e046-42f9-982a-cc6e8dadf8ff",
+            "parent": {
+              "type": "block_id",
+              "block_id": "830ce02a-bccc-4e57-9007-d55f00f01566"
+            },
+            "created_time": "2022-08-18T08:23:00.000Z",
+            "last_edited_time": "2025-06-07T11:39:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "image",
+            "image": {
+              "caption": [],
+              "type": "file",
+              "file": {
+                "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/48276d9f3d746ab9.png",
+                "expiry_time": "2026-03-12T11:23:48.875Z"
+              }
+            },
+            "archived": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "c3c52738-4780-43c7-9641-4b7ba774c6e7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T08:25:00.000Z",
+    "last_edited_time": "2022-08-18T08:25:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0194796c-36dd-4818-a1f6-a506d09180a1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T08:24:00.000Z",
+    "last_edited_time": "2022-08-18T08:26:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "A rough calculation yields the total distance as ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "A rough calculation yields the total distance as ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "304.7 - 112.6 = 192.1 km",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "304.7 - 112.6 = 192.1 km",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e2345c9b-c181-42b6-bd31-f8a1475aa859",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T08:26:00.000Z",
+    "last_edited_time": "2022-08-18T10:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We have six days to complete the run, therefore that will mean we should average ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We have six days to complete the run, therefore that will mean we should average ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "32 km per day",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "32 km per day",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ". ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ". ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "29c3b5b0-d88b-4848-a2d4-4690706fc057",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T09:05:00.000Z",
+    "last_edited_time": "2022-08-18T09:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b1938384-6da5-485f-8d3e-6a8f7e8d2249",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T09:05:00.000Z",
+    "last_edited_time": "2022-08-18T09:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Pace wise - we’re going to figure it out as we go. I estimate that we’re going to be running between ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Pace wise - we’re going to figure it out as we go. I estimate that we’re going to be running between ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "10 min/km",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "10 min/km",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " and ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " and ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "15 min/km",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "15 min/km",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " on average over the day. That equates to being about to run 30km in between 5 or 7.5 hours per day. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " on average over the day. That equates to being about to run 30km in between 5 or 7.5 hours per day. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7336cc5a-3152-4828-b1c8-bfa3ba1b2429",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T08:27:00.000Z",
+    "last_edited_time": "2022-08-18T08:27:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "282acb11-9ecd-4a2e-9bd4-ef90c02085b7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T08:27:00.000Z",
+    "last_edited_time": "2022-08-18T08:30:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Realistically we are going to want to have a day off in the middle and any number of things might pop up that delays our start or changes the end. I think that the most important thing is remaining flexible and simply assessing each situation as it arrives. There is no pressure on making it all the way down to the Kei Mouth. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Realistically we are going to want to have a day off in the middle and any number of things might pop up that delays our start or changes the end. I think that the most important thing is remaining flexible and simply assessing each situation as it arrives. There is no pressure on making it all the way down to the Kei Mouth. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "dc0d3cd8-65dd-4b5e-b37f-1395bef63ba0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T08:12:00.000Z",
+    "last_edited_time": "2022-08-18T08:24:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Map",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Map",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "pink"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "72967b6e-29a5-4b85-bca9-cf170082d671",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T08:35:00.000Z",
+    "last_edited_time": "2022-08-18T08:35:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "67a8e01b-7dd1-4ca6-a41f-c4c8009cbce3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T08:35:00.000Z",
+    "last_edited_time": "2022-08-18T09:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Slingsby’s map of the Transkei is incredible. I’ve Frankensteined together the two sides to show you the extent of the coast that we’re going to be running. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Slingsby’s map of the Transkei is incredible. I’ve Frankensteined together the two sides to show you the extent of the coast that we’re going to be running. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "eacce253-4996-48a3-9bd3-e83eafda7f96",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T08:29:00.000Z",
+    "last_edited_time": "2022-08-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "48e284be-1460-4a4e-a3f7-b3c88ca9ee28",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T08:29:00.000Z",
+    "last_edited_time": "2022-08-18T08:35:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Blessed be; Peter Slingsby.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Blessed be; Peter Slingsby.",
+          "href": null
+        }
+      ],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/8415840b1500f0b5.png",
+        "expiry_time": "2026-03-12T11:23:47.330Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "839df336-165e-4c82-93fc-57e3d14735af",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T08:36:00.000Z",
+    "last_edited_time": "2022-08-18T08:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "91d7696d-8364-48cd-876d-0d24b25bbcdf",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T08:30:00.000Z",
+    "last_edited_time": "2022-08-18T08:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_1",
+    "heading_1": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Conclusion",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Conclusion",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "yellow"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "43d74c8b-4ee5-49e6-b8b5-caf5d7f7525a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T08:36:00.000Z",
+    "last_edited_time": "2022-08-18T09:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We have an adventure on our hands. The most important thing is going to be not setting any expectations or goals. If we get to Port St Johns and decide to stay there for a week and fish - that is perfect. If we run 5km on the first day and our bodies fall apart - that is the way it is. If we end up running to Cape Town - that is probably a rather silly idea, but so be it.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We have an adventure on our hands. The most important thing is going to be not setting any expectations or goals. If we get to Port St Johns and decide to stay there for a week and fish - that is perfect. If we run 5km on the first day and our bodies fall apart - that is the way it is. If we end up running to Cape Town - that is probably a rather silly idea, but so be it.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a4ec67f6-d7a5-4840-9bcc-fe5cb7c78fd7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T08:38:00.000Z",
+    "last_edited_time": "2022-08-18T08:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "73f7eb55-ef7c-4d1d-903b-016648ea20e4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T08:38:00.000Z",
+    "last_edited_time": "2022-08-18T08:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Let’s see what happens. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Let’s see what happens. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "456f8bb5-cfe8-4533-bdb0-2ff385333b48",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T09:33:00.000Z",
+    "last_edited_time": "2022-08-18T09:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e14e7e2d-756d-4c87-89d7-59c6f95cc76f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T09:33:00.000Z",
+    "last_edited_time": "2022-08-18T09:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "With love,",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "With love,",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "cea21006-f849-4998-85a0-13ef84b2b3c2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T09:33:00.000Z",
+    "last_edited_time": "2022-08-18T09:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Leo",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Leo",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "bc5b6b57-0749-4ec2-9db1-bcf372046a65",
+    "parent": {
+      "type": "page_id",
+      "page_id": "6f41dd2c-c98a-42ca-a85b-e402fdfee550"
+    },
+    "created_time": "2022-08-18T09:33:00.000Z",
+    "last_edited_time": "2022-08-18T09:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

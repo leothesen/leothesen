@@ -1,0 +1,2256 @@
+[
+  {
+    "object": "block",
+    "id": "222deabd-9164-8021-be33-d93e87966f56",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T10:02:00.000Z",
+    "last_edited_time": "2025-06-30T13:46:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We do a little repack of bags in the courtyard with a coffee. Mattea makes the amazing suggestion of a sarong around the hips which helps so much. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We do a little repack of bags in the courtyard with a coffee. Mattea makes the amazing suggestion of a sarong around the hips which helps so much. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-806c-ab0d-e06789230985",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T13:46:00.000Z",
+    "last_edited_time": "2025-06-30T13:46:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-8002-80a8-e44d131a4dac",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T13:46:00.000Z",
+    "last_edited_time": "2025-06-30T13:48:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "On the road again! We stroll for about a kilometer and a half before stopping for an espresso and pasteis. It’s alright, scoring a 7. We’ve added a new rating metric - containment factor - which is a rating of how much mess there is after the bite and pull. A 10 is a perfectly self contained pastry which doesn’t fall on the floor after each bite. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "On the road again! We stroll for about a kilometer and a half before stopping for an espresso and pasteis. It’s alright, scoring a 7. We’ve added a new rating metric - containment factor - which is a rating of how much mess there is after the bite and pull. A 10 is a perfectly self contained pastry which doesn’t fall on the floor after each bite. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-807e-a4f8-cada13ce72b7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T13:48:00.000Z",
+    "last_edited_time": "2025-06-30T13:48:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-80ab-a990-da5cc7e023e8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T13:48:00.000Z",
+    "last_edited_time": "2025-06-30T13:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We bid farewell to Luke and Mattea. Only to see them again a kilometer or two later at the toilet. Then say goodbye again, this time for real (maybe). I always find it funny that while fastpacking you end up covering roughly the same amount of distance as a hike, just in a slightly more erratic fashion. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We bid farewell to Luke and Mattea. Only to see them again a kilometer or two later at the toilet. Then say goodbye again, this time for real (maybe). I always find it funny that while fastpacking you end up covering roughly the same amount of distance as a hike, just in a slightly more erratic fashion. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-8000-bb76-d1ec4239ad4a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T13:49:00.000Z",
+    "last_edited_time": "2025-06-30T13:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-8095-a749-f81b8a2298b8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T10:03:00.000Z",
+    "last_edited_time": "2025-06-30T13:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We’re walking down the promenade and there are propaganda type speakers along the lamp poles. A Portuguese cover of “Stand by me” is blaring and everything is perfect in that moment. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We’re walking down the promenade and there are propaganda type speakers along the lamp poles. A Portuguese cover of “Stand by me” is blaring and everything is perfect in that moment. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-8046-a968-edf7ef60eaab",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T10:31:00.000Z",
+    "last_edited_time": "2025-06-30T13:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-80f6-a8fc-f857b8243899",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T10:31:00.000Z",
+    "last_edited_time": "2025-06-30T10:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/5d47735d55450773.jpeg",
+        "expiry_time": "2026-03-13T08:29:19.806Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-804e-bb4f-d3faf15bef36",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T13:38:00.000Z",
+    "last_edited_time": "2025-06-30T13:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-802c-92de-ebbcb8cda9c3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T11:48:00.000Z",
+    "last_edited_time": "2025-06-30T13:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Portugal must have the most insane boardwalk budget - although you still need to walk carefully, sticking to where the support beams are; marked by nails. As a plank breaking may be the end of walking for a few weeks. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Portugal must have the most insane boardwalk budget - although you still need to walk carefully, sticking to where the support beams are; marked by nails. As a plank breaking may be the end of walking for a few weeks. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-80cb-b8a3-f204facd78a2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T13:39:00.000Z",
+    "last_edited_time": "2025-06-30T13:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-802b-90c0-f76b598d80da",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T13:39:00.000Z",
+    "last_edited_time": "2025-06-30T13:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/2774552c030957ef.jpeg",
+        "expiry_time": "2026-03-13T08:29:19.806Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-802a-a0e4-f204fea5a879",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T13:39:00.000Z",
+    "last_edited_time": "2025-06-30T13:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-800d-bcac-c6d7bda3ff08",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T13:36:00.000Z",
+    "last_edited_time": "2025-06-30T13:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/5f2613aed07be8f0.jpeg",
+        "expiry_time": "2026-03-13T08:29:19.806Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-808d-8cdc-d6abdb24f6ca",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T13:40:00.000Z",
+    "last_edited_time": "2025-06-30T13:40:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-80a9-81b1-d0b181d33a13",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T13:36:00.000Z",
+    "last_edited_time": "2025-06-30T13:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We buy some chorizo, goats cheese and rolls at a really well stocked supermarket. It closed from 1pm to 2pm for a siesta, I love this country. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We buy some chorizo, goats cheese and rolls at a really well stocked supermarket. It closed from 1pm to 2pm for a siesta, I love this country. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-8096-af08-e10a77323b44",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T13:39:00.000Z",
+    "last_edited_time": "2025-06-30T13:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-80fb-b51c-f4c3f03b8e30",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T13:36:00.000Z",
+    "last_edited_time": "2025-06-30T13:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/6c4560db43779b35.jpeg",
+        "expiry_time": "2026-03-13T08:29:19.806Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-803e-9b5a-c38f9b51e9a5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T13:37:00.000Z",
+    "last_edited_time": "2025-06-30T13:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-80f9-a9bd-efa2134f9d72",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T13:37:00.000Z",
+    "last_edited_time": "2025-06-30T22:25:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We make camp under a board walk on the beach and make the most decadent lunch. Not even the sand falling from overhead when people walked down to the beach could spoil this. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We make camp under a board walk on the beach and make the most decadent lunch. Not even the sand falling from overhead when people walked down to the beach could spoil this. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-80cb-a789-fbe3ef4764c5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T13:39:00.000Z",
+    "last_edited_time": "2025-06-30T13:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-80dd-a278-f6b0de593dc1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T13:36:00.000Z",
+    "last_edited_time": "2025-06-30T13:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/953d2f5148f368f4.jpeg",
+        "expiry_time": "2026-03-13T08:29:19.806Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-8080-8aae-e32eb96c0b40",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T13:37:00.000Z",
+    "last_edited_time": "2025-06-30T13:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-809d-a8b1-edf63f6400dd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T13:37:00.000Z",
+    "last_edited_time": "2025-06-30T13:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Portuguese people have an incredible beach game. Rivaling most blanket forts these impenetrable structures are complete with wind breakers, sun protection and all the toys kids could want. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Portuguese people have an incredible beach game. Rivaling most blanket forts these impenetrable structures are complete with wind breakers, sun protection and all the toys kids could want. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-80d5-be08-ca2330717ac4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T13:40:00.000Z",
+    "last_edited_time": "2025-06-30T13:40:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-80fe-9693-da4319f4af9d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T13:40:00.000Z",
+    "last_edited_time": "2025-06-30T13:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/657506e150ee641a.jpeg",
+        "expiry_time": "2026-03-13T08:29:23.255Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-80c8-8a99-feb136f104d0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T13:40:00.000Z",
+    "last_edited_time": "2025-06-30T13:40:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-80b0-983a-c926206539f3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T13:40:00.000Z",
+    "last_edited_time": "2025-06-30T13:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We’re 10km in and feeling good (Michael Bubikins) :",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We’re 10km in and feeling good (Michael Bubikins) :",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-801c-8aff-def19f199926",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T13:42:00.000Z",
+    "last_edited_time": "2025-06-30T13:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "embed",
+    "embed": {
+      "caption": [],
+      "url": "https://www.tiktok.com/@tadhgfleming/video/6752265256300563717"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-8019-a169-febf58f148bc",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T13:42:00.000Z",
+    "last_edited_time": "2025-06-30T13:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I’ve taken a few things from Cait’s bag and mine is heavy, but honestly I’m loving it. I’ve been aware that I haven’t run since MUT and have this crazy fastpack in Mont Blanc coming closer by the day. So I’m writing off this >30kg pack as training, and I can assure you that it feels like each step is a squat. No running required in the next few weeks. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I’ve taken a few things from Cait’s bag and mine is heavy, but honestly I’m loving it. I’ve been aware that I haven’t run since MUT and have this crazy fastpack in Mont Blanc coming closer by the day. So I’m writing off this >30kg pack as training, and I can assure you that it feels like each step is a squat. No running required in the next few weeks. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-80da-8a68-e661c4865af8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T13:50:00.000Z",
+    "last_edited_time": "2025-06-30T13:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-8033-85ba-f16ffeb2059b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T13:43:00.000Z",
+    "last_edited_time": "2025-06-30T13:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "An elderly couple come up to me and excitedly jabber in Portuguese. I jabber back in English. The facial expressions say it all; a mixture of nostalgia from them and astonishment at the size of my bag. While we’re having lunch they walk past with a smile and wave and potter about getting ready for a swim. Cait and I imagine being old and cute together. I’m aware that right now is also a beautiful moment for us, no doubt a source of some envy for the elderly couple; to be young, cute, strong and hiking the Camino together. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "An elderly couple come up to me and excitedly jabber in Portuguese. I jabber back in English. The facial expressions say it all; a mixture of nostalgia from them and astonishment at the size of my bag. While we’re having lunch they walk past with a smile and wave and potter about getting ready for a swim. Cait and I imagine being old and cute together. I’m aware that right now is also a beautiful moment for us, no doubt a source of some envy for the elderly couple; to be young, cute, strong and hiking the Camino together. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-8086-848d-e0eedc673d96",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T22:36:00.000Z",
+    "last_edited_time": "2025-06-30T22:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-803f-baf9-d16d2d549022",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T16:45:00.000Z",
+    "last_edited_time": "2025-06-30T22:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We are using a series of pretty amazing Camino apps - Wise Pilgrim probably being the best. They mark the different routes, give you all the spots that you can stop along the way and provide lots of helpful information. On the maps you can see the Coastal and Litoral routes criss-crossing a bit. I think that we chose the path less travelled, as we soon began to walk along long boardwalks near a golf course and some farming land - with not another Pilgrim (or person) in sight. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We are using a series of pretty amazing Camino apps - Wise Pilgrim probably being the best. They mark the different routes, give you all the spots that you can stop along the way and provide lots of helpful information. On the maps you can see the Coastal and Litoral routes criss-crossing a bit. I think that we chose the path less travelled, as we soon began to walk along long boardwalks near a golf course and some farming land - with not another Pilgrim (or person) in sight. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-80c5-9ca6-c3e60e51b9d8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T22:38:00.000Z",
+    "last_edited_time": "2025-06-30T22:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-8014-897d-ea66ff966db5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T22:27:00.000Z",
+    "last_edited_time": "2025-06-30T22:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/64222b5e90e544a3.jpeg",
+        "expiry_time": "2026-03-13T08:29:23.255Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-801d-a666-fb768a5ceaa7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T22:38:00.000Z",
+    "last_edited_time": "2025-06-30T22:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-8068-84a1-da60000d972e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T22:38:00.000Z",
+    "last_edited_time": "2025-06-30T22:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I think that we both were slightly uncertain as to whether we were on the right track - even though our guide (being the apps) said that we were good - that was until we came across an abandoned house. On the wall a laminated A4 page giving life to the otherwise dead structure. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I think that we both were slightly uncertain as to whether we were on the right track - even though our guide (being the apps) said that we were good - that was until we came across an abandoned house. On the wall a laminated A4 page giving life to the otherwise dead structure. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-8073-8bf9-d8e6e9365fa3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T22:27:00.000Z",
+    "last_edited_time": "2025-06-30T22:40:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/def2edfdf1b44b83.jpeg",
+        "expiry_time": "2026-03-13T08:29:23.255Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-8099-9dce-e9ee17e1ffcd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T22:40:00.000Z",
+    "last_edited_time": "2025-06-30T22:40:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-80d4-9488-f3b089c3e113",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T16:45:00.000Z",
+    "last_edited_time": "2025-06-30T22:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "It was an incredibly moving place. We stamped our passports and took a gift. It’s just so beautiful to be met with such love and kindness on the Camino. Something that was obvious from the moment we set foot on that bus with the Scallop shell attached to our bags. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "It was an incredibly moving place. We stamped our passports and took a gift. It’s just so beautiful to be met with such love and kindness on the Camino. Something that was obvious from the moment we set foot on that bus with the Scallop shell attached to our bags. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-80e5-85b1-ea53a722b2c8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T22:48:00.000Z",
+    "last_edited_time": "2025-06-30T22:48:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-8066-902f-c058cc592b62",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T22:49:00.000Z",
+    "last_edited_time": "2025-06-30T22:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "column_list",
+    "column_list": {},
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "222deabd-9164-8070-b3c5-f24ce5bb9248",
+        "parent": {
+          "type": "block_id",
+          "block_id": "222deabd-9164-8066-902f-c058cc592b62"
+        },
+        "created_time": "2025-06-30T22:49:00.000Z",
+        "last_edited_time": "2025-06-30T22:49:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "222deabd-9164-80e0-9fe5-ffc1b6848c66",
+            "parent": {
+              "type": "block_id",
+              "block_id": "222deabd-9164-8070-b3c5-f24ce5bb9248"
+            },
+            "created_time": "2025-06-30T22:27:00.000Z",
+            "last_edited_time": "2025-06-30T22:49:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "image",
+            "image": {
+              "caption": [],
+              "type": "file",
+              "file": {
+                "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/b5909774332b63c8.jpeg",
+                "expiry_time": "2026-03-13T08:29:27.088Z"
+              }
+            },
+            "archived": false
+          }
+        ]
+      },
+      {
+        "object": "block",
+        "id": "222deabd-9164-80fb-8e82-e3f859689ad3",
+        "parent": {
+          "type": "block_id",
+          "block_id": "222deabd-9164-8066-902f-c058cc592b62"
+        },
+        "created_time": "2025-06-30T22:49:00.000Z",
+        "last_edited_time": "2025-06-30T22:49:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column",
+        "column": {
+          "width_ratio": 0.5
+        },
+        "archived": false,
+        "children": [
+          {
+            "object": "block",
+            "id": "222deabd-9164-80a6-9662-ef66c3aaba70",
+            "parent": {
+              "type": "block_id",
+              "block_id": "222deabd-9164-80fb-8e82-e3f859689ad3"
+            },
+            "created_time": "2025-06-30T22:27:00.000Z",
+            "last_edited_time": "2025-06-30T22:49:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+            },
+            "has_children": false,
+            "in_trash": false,
+            "type": "image",
+            "image": {
+              "caption": [],
+              "type": "file",
+              "file": {
+                "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/11fe733b66e45e36.jpeg",
+                "expiry_time": "2026-03-13T08:29:25.287Z"
+              }
+            },
+            "archived": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-80f3-9357-c1b558158159",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T22:42:00.000Z",
+    "last_edited_time": "2025-06-30T22:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-8089-b982-d57b71246ae5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T22:42:00.000Z",
+    "last_edited_time": "2025-06-30T22:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Portugal was a lovely place to be a tourist in the first two weeks pre-Camino: it was beautiful, exciting, clean and just pretty easy to get around. Lots of things to do, the food is great and there are lovely people here. But pre-Camino the people were quite reserved, rather fed up with tourists in  the busy areas. I think that the thing I noticed the most was that it was very rare to get a smile back from a Portugese person that you passed in the street. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Portugal was a lovely place to be a tourist in the first two weeks pre-Camino: it was beautiful, exciting, clean and just pretty easy to get around. Lots of things to do, the food is great and there are lovely people here. But pre-Camino the people were quite reserved, rather fed up with tourists in  the busy areas. I think that the thing I noticed the most was that it was very rare to get a smile back from a Portugese person that you passed in the street. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-8051-82ec-c5b54a2b254d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T22:45:00.000Z",
+    "last_edited_time": "2025-06-30T22:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-80b5-acb2-d61549de1450",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T22:45:00.000Z",
+    "last_edited_time": "2025-06-30T22:48:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Yet on the Camino - blessed by the Scallop shell and welcomed into their holy journey, we have only had the most beautiful interactions. It’s only day two and I can’t believe how differently we are being received. I’m getting fully faced beaming smiles, smiles that come out of nowhere from a stern faced middle aged man in a suit. Old woman are looking at me like I’m their long lost grandson and people return my gaze with a twinkle in the eye. Kindness and love radiates throughout the Camino. It’s the most beautiful side of Christianity that I have seen.  ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Yet on the Camino - blessed by the Scallop shell and welcomed into their holy journey, we have only had the most beautiful interactions. It’s only day two and I can’t believe how differently we are being received. I’m getting fully faced beaming smiles, smiles that come out of nowhere from a stern faced middle aged man in a suit. Old woman are looking at me like I’m their long lost grandson and people return my gaze with a twinkle in the eye. Kindness and love radiates throughout the Camino. It’s the most beautiful side of Christianity that I have seen.  ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-80d0-bd8f-d1a16f0e091d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T22:28:00.000Z",
+    "last_edited_time": "2025-06-30T22:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-8093-ae0d-fcb5ee1d1c8d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T22:28:00.000Z",
+    "last_edited_time": "2025-06-30T22:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "With the end in sight we each put earphones in and start a Spotify jam - not something that I’ve done before, in a nutshell we both listen to the same song at the same time. We’re talking late afternoon sun, Lana Del Rey, Billie Eilish and Jose Gonzalez. A little dance here and there and some serious pace for the last few kilometers. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "With the end in sight we each put earphones in and start a Spotify jam - not something that I’ve done before, in a nutshell we both listen to the same song at the same time. We’re talking late afternoon sun, Lana Del Rey, Billie Eilish and Jose Gonzalez. A little dance here and there and some serious pace for the last few kilometers. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-80d6-a95c-d3a2f5978955",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T22:34:00.000Z",
+    "last_edited_time": "2025-06-30T22:34:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-8025-b14d-ed8cbd571bdd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T22:31:00.000Z",
+    "last_edited_time": "2025-06-30T22:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We arrive at the campsite and are greeted at reception - exhausted. The man is thrilled that Cait  speaks portugese and begins to quickly explain and show us around. We pitch our tent, have a shower (an amazing one), do some washing and make dinner. “Weird cat” comes to join us from time to time, especially present around dinner time. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We arrive at the campsite and are greeted at reception - exhausted. The man is thrilled that Cait  speaks portugese and begins to quickly explain and show us around. We pitch our tent, have a shower (an amazing one), do some washing and make dinner. “Weird cat” comes to join us from time to time, especially present around dinner time. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-80ff-b8cd-d49f97421c7b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T22:49:00.000Z",
+    "last_edited_time": "2025-06-30T22:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-8098-9116-c08d728839b6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T22:27:00.000Z",
+    "last_edited_time": "2025-06-30T22:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/f66e0620500393d1.jpeg",
+        "expiry_time": "2026-03-13T08:29:23.558Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-80a1-acf6-d8065c9ee1e9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T22:34:00.000Z",
+    "last_edited_time": "2025-06-30T22:34:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-8027-b160-d75b28e715be",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T22:33:00.000Z",
+    "last_edited_time": "2025-06-30T22:34:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Feeling tired, stiff and happy. Yoga with Adriene is the best thing that I could imagine. Time for bed. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Feeling tired, stiff and happy. Yoga with Adriene is the best thing that I could imagine. Time for bed. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "222deabd-9164-806b-b889-c646247d454a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-06-30T22:35:00.000Z",
+    "last_edited_time": "2025-06-30T22:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "224deabd-9164-80e6-95b8-ce73ef47799e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-07-02T11:23:00.000Z",
+    "last_edited_time": "2025-07-02T11:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bookmark",
+    "bookmark": {
+      "caption": [],
+      "url": "https://strava.app.link/KnftRhROFUb"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "224deabd-9164-8092-9ddf-df0167fcd89c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-07-02T11:23:00.000Z",
+    "last_edited_time": "2025-07-21T13:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Cait’s Strava Entry",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Cait’s Strava Entry",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "237deabd-9164-805c-a6f9-de779308f12f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-07-21T13:35:00.000Z",
+    "last_edited_time": "2025-07-21T13:35:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "What today brought:\nA fairly rushed start, followed by a final wander with Luke & Tae. We went our separate ways, or rather, we went the same way they just went a lot quicker 🏃🏽🏃🏼‍♀️",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "What today brought:\nA fairly rushed start, followed by a final wander with Luke & Tae. We went our separate ways, or rather, we went the same way they just went a lot quicker 🏃🏽🏃🏼‍♀️",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "237deabd-9164-80f4-bd38-c98ab60f2759",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-07-21T13:35:00.000Z",
+    "last_edited_time": "2025-07-21T13:35:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "More walking & bag optimisation, a delicious chorizo and goats cheese sandwich on the beach, Leo was praised enthusiastically in Portuguese by a sweet older couple for having such a large and heavy bag. He deserves all the praise in the world, in every language. We came across a rundown house with a passport stamp (you get a booklet and collect stamps along the way) and some gifts and inspirational words for pilgrims passing through. Final march through the small seaside town of Fao, tunes from Lana Del Rey, Billie Eilish and Jose Gonzales powering us through the final few kilometers. Happily set up in a campsite (thank god carrying the tent hasn’t gone to waste) feeling extremely content after a short Yoga With Adriene sesh. 🧘🏼‍♀️",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "More walking & bag optimisation, a delicious chorizo and goats cheese sandwich on the beach, Leo was praised enthusiastically in Portuguese by a sweet older couple for having such a large and heavy bag. He deserves all the praise in the world, in every language. We came across a rundown house with a passport stamp (you get a booklet and collect stamps along the way) and some gifts and inspirational words for pilgrims passing through. Final march through the small seaside town of Fao, tunes from Lana Del Rey, Billie Eilish and Jose Gonzales powering us through the final few kilometers. Happily set up in a campsite (thank god carrying the tent hasn’t gone to waste) feeling extremely content after a short Yoga With Adriene sesh. 🧘🏼‍♀️",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "237deabd-9164-809d-82a1-edb73745a901",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-07-21T13:35:00.000Z",
+    "last_edited_time": "2025-07-21T13:35:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Leo has just announced that he would like a breakfast beer. Updates to come x",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Leo has just announced that he would like a breakfast beer. Updates to come x",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "237deabd-9164-8015-84c6-e1f33208282e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-07-21T13:34:00.000Z",
+    "last_edited_time": "2025-07-21T13:34:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "237deabd-9164-80bc-a47f-eab07755cb46",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-07-21T13:34:00.000Z",
+    "last_edited_time": "2025-07-21T13:35:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bookmark",
+    "bookmark": {
+      "caption": [],
+      "url": "https://strava.app.link/vazIuWrvbVb"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "237deabd-9164-80fe-8c2f-c1ed0a6a6c14",
+    "parent": {
+      "type": "page_id",
+      "page_id": "222deabd-9164-800f-83c6-c14212035127"
+    },
+    "created_time": "2025-07-21T13:34:00.000Z",
+    "last_edited_time": "2025-07-21T13:34:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

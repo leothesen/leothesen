@@ -1,0 +1,324 @@
+[
+  {
+    "object": "block",
+    "id": "86e23ed4-b28e-4e34-b99e-a542370d1b5c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1cfbe121-2f6f-4e21-8186-129c7a7168c0"
+    },
+    "created_time": "2024-05-20T06:04:00.000Z",
+    "last_edited_time": "2024-05-20T06:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "It’s hot. Jet lag is present. We take the morning slow. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "It’s hot. Jet lag is present. We take the morning slow. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a7ac5b3b-a407-47e2-8996-047209ec3f97",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1cfbe121-2f6f-4e21-8186-129c7a7168c0"
+    },
+    "created_time": "2024-05-20T07:40:00.000Z",
+    "last_edited_time": "2024-05-20T07:41:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/1447fc089e1bad9c.jpeg",
+        "expiry_time": "2026-03-13T08:30:37.370Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4a0ecdd0-1af8-4edd-aa0b-c6f21be14f6d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1cfbe121-2f6f-4e21-8186-129c7a7168c0"
+    },
+    "created_time": "2024-05-20T06:05:00.000Z",
+    "last_edited_time": "2024-05-20T06:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "4488a0fd-59a1-4e70-8fbc-bd3463c98d88",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1cfbe121-2f6f-4e21-8186-129c7a7168c0"
+    },
+    "created_time": "2024-05-20T06:05:00.000Z",
+    "last_edited_time": "2024-05-20T06:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "embed",
+    "embed": {
+      "caption": [],
+      "url": ""
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1330aa40-be44-44ec-a838-62be815329ae",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1cfbe121-2f6f-4e21-8186-129c7a7168c0"
+    },
+    "created_time": "2024-05-20T06:05:00.000Z",
+    "last_edited_time": "2024-05-20T06:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c5e7f46a-09cd-41ee-8d6b-af29633f86db",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1cfbe121-2f6f-4e21-8186-129c7a7168c0"
+    },
+    "created_time": "2024-05-20T06:05:00.000Z",
+    "last_edited_time": "2024-05-20T07:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Nasi goreng for lunch is imperative. Along with very sweet Milo coffee. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Nasi goreng for lunch is imperative. Along with very sweet Milo coffee. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "be5c9fcf-a2df-45ca-99d2-58d945a7a765",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1cfbe121-2f6f-4e21-8186-129c7a7168c0"
+    },
+    "created_time": "2024-05-20T07:42:00.000Z",
+    "last_edited_time": "2024-05-20T07:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "faf320f6-cfaf-405c-b3a7-c478b83b551b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1cfbe121-2f6f-4e21-8186-129c7a7168c0"
+    },
+    "created_time": "2024-05-20T07:42:00.000Z",
+    "last_edited_time": "2024-05-20T07:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Haris comes to take us to get SIM cards. It’s an elaborate process these days with a long queue. Bless Niklas as he got our tickets for us. We arrived to a Nik who has been traveling for close to 48 hours and wants nothing more than to arrive at the hostel. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Haris comes to take us to get SIM cards. It’s an elaborate process these days with a long queue. Bless Niklas as he got our tickets for us. We arrived to a Nik who has been traveling for close to 48 hours and wants nothing more than to arrive at the hostel. ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1438e82f-fb11-4356-b3d6-e6722a515d0f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1cfbe121-2f6f-4e21-8186-129c7a7168c0"
+    },
+    "created_time": "2024-05-20T07:40:00.000Z",
+    "last_edited_time": "2024-05-20T07:41:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/57d7eeb4e721fd1a.jpeg",
+        "expiry_time": "2026-03-13T08:30:37.370Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "0dfb92ec-2d19-482e-99bf-46b8a16f1030",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1cfbe121-2f6f-4e21-8186-129c7a7168c0"
+    },
+    "created_time": "2024-05-20T07:42:00.000Z",
+    "last_edited_time": "2024-05-20T07:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    },
+    "archived": false
+  }
+]

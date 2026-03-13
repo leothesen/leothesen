@@ -39,3 +39,6 @@ pnpm-debug.log*
 
 # vercel
 .vercel
+
+# notion sync artifacts (images served from Vercel Blob or downloaded locally)
+/public/notion-images/
