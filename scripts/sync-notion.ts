@@ -458,6 +458,7 @@ async function fetchDatabaseEntries(databaseId: string): Promise<any[]> {
             database_id: databaseId,
             start_cursor: cursor,
             page_size: 100,
+            sorts: [{ timestamp: 'created_time', direction: 'ascending' }],
           })
         )
       )
