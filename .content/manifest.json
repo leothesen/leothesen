@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-03-12T13:55:53.686Z",
+  "syncedAt": "2026-03-13T07:19:42.137Z",
   "slugTree": {
     "novel-experiences": {
       "pageId": "52ce318b6309412fa2217af728b7e9f2",
@@ -9,6 +9,116 @@
           "pageId": "20fdeabd91648003a005c2c5da4ca05a",
           "title": "Camino-ish",
           "children": {
+            "airports": {
+              "pageId": "20fdeabd916480e08077e9b844d85513",
+              "title": "Airports",
+              "children": {}
+            },
+            "lisbon": {
+              "pageId": "211deabd9164802ea321db464abf7698",
+              "title": "Lisbon",
+              "children": {}
+            },
+            "algarve": {
+              "pageId": "21cdeabd916480379723e49e277fc89a",
+              "title": "Algarve",
+              "children": {}
+            },
+            "ericeira": {
+              "pageId": "21cdeabd9164806d83b5dc11f6f063b2",
+              "title": "Ericeira",
+              "children": {}
+            },
+            "sintra-cascais-run": {
+              "pageId": "21cdeabd916480e38ea4f16f7c6e4911",
+              "title": "Sintra → Cascais run",
+              "children": {}
+            },
+            "porto": {
+              "pageId": "21fdeabd916480749aaafa96ef4486c3",
+              "title": "Porto",
+              "children": {}
+            },
+            "camino-day-1": {
+              "pageId": "221deabd91648026bbf5e17806fb9b6a",
+              "title": "Camino: day 1",
+              "children": {}
+            },
+            "camino-day-2": {
+              "pageId": "222deabd9164800f83c6c14212035127",
+              "title": "Camino: day 2",
+              "children": {}
+            },
+            "camino-day-3": {
+              "pageId": "223deabd91648011ada9d3d1e89dfae0",
+              "title": "Camino: day 3",
+              "children": {}
+            },
+            "camino-day-4": {
+              "pageId": "224deabd916480b7bc57fd5c506392aa",
+              "title": "Camino: day 4",
+              "children": {}
+            },
+            "camino-day-5": {
+              "pageId": "225deabd91648083b2acedae6cd2f130",
+              "title": "Camino: day 5",
+              "children": {}
+            },
+            "pontevedra": {
+              "pageId": "226deabd916480f6a938e35509b7a0ee",
+              "title": "Pontevedra ",
+              "children": {}
+            },
+            "portugal-the-people": {
+              "pageId": "227deabd91648029a617fe66300dbd7e",
+              "title": "Portugal: The People",
+              "children": {}
+            },
+            "camino-day-6": {
+              "pageId": "229deabd916480bf85d7c5169fe62b11",
+              "title": "Camino: day 6",
+              "children": {}
+            },
+            "camino-day-7": {
+              "pageId": "22adeabd9164801cab27ed7fb2c2ad76",
+              "title": "Camino: day 7",
+              "children": {}
+            },
+            "camino-day-8": {
+              "pageId": "22bdeabd91648085aa0cc53b60f3e5c9",
+              "title": "Camino: day 8",
+              "children": {}
+            },
+            "camino-day-9": {
+              "pageId": "22cdeabd9164807590eac3309fe70f58",
+              "title": "Camino: day 9",
+              "children": {}
+            },
+            "camino-day-10": {
+              "pageId": "22ddeabd91648057b39af9cf034cef3c",
+              "title": "Camino: day 10",
+              "children": {}
+            },
+            "camino-day-11": {
+              "pageId": "22edeabd916480aaa41aedfcf1e6f2c7",
+              "title": "Camino: day 11",
+              "children": {}
+            },
+            "camino-day-12": {
+              "pageId": "22fdeabd916480c7b82efbab30e69af6",
+              "title": "Camino: day 12",
+              "children": {}
+            },
+            "haute-route-chamonix-to-zermatt": {
+              "pageId": "232deabd916480a48986e0e4c027ea5d",
+              "title": "Haute Route - Chamonix to Zermatt",
+              "children": {}
+            },
+            "waking-life": {
+              "pageId": "eafabc47bd1a4ac2b5613b58fb46efb7",
+              "title": "Waking Life",
+              "children": {}
+            },
             "a-padaria-portuguesa": {
               "pageId": "211deabd9164802bbbfcfbf2b2da5edd",
               "title": "A Padaria Portuguesa",
@@ -59,12 +169,124 @@
         "returning-a-bakkie": {
           "pageId": "62cac6cf5f864a2db778f2f85e81d472",
           "title": "Returning a bakkie",
-          "children": {}
+          "children": {
+            "kosi-bay": {
+              "pageId": "0f54a57b7eb04c3bb1e89e379510919f",
+              "title": "Kosi Bay",
+              "children": {}
+            },
+            "truly-remote-working": {
+              "pageId": "2ba85211cb1b492fb192d2f82feb318b",
+              "title": "Truly remote working ",
+              "children": {}
+            },
+            "macombe": {
+              "pageId": "382e659cc1af4d7a855e74f42825b223",
+              "title": "Macombe",
+              "children": {}
+            },
+            "in-the-airport": {
+              "pageId": "6a75e30a82b44e24a15a20702e10cdad",
+              "title": "In the airport",
+              "children": {}
+            },
+            "tropical-sunday": {
+              "pageId": "742a888e9a1543beb235a8391239fe70",
+              "title": "Tropical Sunday ",
+              "children": {}
+            },
+            "drakensberg-cathedral-peak": {
+              "pageId": "8f38c3fee8d440e797f40f2ddd566ae9",
+              "title": "Drakensberg: Cathedral Peak",
+              "children": {}
+            },
+            "the-islands": {
+              "pageId": "906b8ed79a05496e96fd9e117cbbfded",
+              "title": "The islands ",
+              "children": {}
+            },
+            "on-holiday": {
+              "pageId": "b501caaa637e4a8590ab1ebcbe2702ef",
+              "title": "On holiday ",
+              "children": {}
+            },
+            "leaving-mozambique": {
+              "pageId": "c108fd26abbc4a4299450c8dbc5b0351",
+              "title": "Leaving Mozambique",
+              "children": {}
+            },
+            "vilankulos": {
+              "pageId": "c8027d2fc27d40ada4ddd8babc451fd9",
+              "title": "Vilankulos",
+              "children": {}
+            },
+            "membene": {
+              "pageId": "ce7865610e584fb8a8e5ed8b77043bfd",
+              "title": "Membene ",
+              "children": {}
+            },
+            "to-pomene": {
+              "pageId": "d510bdd4e6624480b0ad268faa558b81",
+              "title": "To Pomene ",
+              "children": {}
+            },
+            "tofu": {
+              "pageId": "e26274fc23214c519140ffd85e5d2b8e",
+              "title": "Tofu ",
+              "children": {}
+            },
+            "driving": {
+              "pageId": "f357022124dc40389b529e86a05e627a",
+              "title": "Driving",
+              "children": {}
+            },
+            "driving-to-the-berg": {
+              "pageId": "fbcc4bf4bba9419987c4f659226fd8de",
+              "title": "Driving to the Berg",
+              "children": {}
+            }
+          }
         },
         "a-return-to-indonesia": {
           "pageId": "af0c2d1ecc9341688489ddd1c294638f",
           "title": "A return to Indonesia",
-          "children": {}
+          "children": {
+            "padang": {
+              "pageId": "1cfbe1212f6f4e218186129c7a7168c0",
+              "title": "Padang ",
+              "children": {}
+            },
+            "to-the-islands": {
+              "pageId": "3d13c2717580491192d3b8add7876eec",
+              "title": "To the islands",
+              "children": {}
+            },
+            "mentawais-the-funeral": {
+              "pageId": "51358d12f8b641eb8e05638432813502",
+              "title": "Mentawais: The funeral",
+              "children": {}
+            },
+            "getting-there": {
+              "pageId": "6ab5ba5179dd48ff9e8c05e29f18f084",
+              "title": "Getting there",
+              "children": {}
+            },
+            "mentawais-the-waves": {
+              "pageId": "86ac49246ce446bb8d9dcc961f3bd7e5",
+              "title": "Mentawais: The Waves",
+              "children": {}
+            },
+            "mentawais-the-people": {
+              "pageId": "c65ca2888be54d5f9c7903d6c374ca94",
+              "title": "Mentawais: The People",
+              "children": {}
+            },
+            "boats": {
+              "pageId": "c82e9ef0544c4bf1b264958ac7d5e68e",
+              "title": "Boats",
+              "children": {}
+            }
+          }
         },
         "sabbatical": {
           "pageId": "b8ae34f893164387b061a71123e699f5",
@@ -628,139 +850,9 @@
             }
           }
         },
-        "kosi-bay": {
-          "pageId": "0f54a57b7eb04c3bb1e89e379510919f",
-          "title": "Kosi Bay",
-          "children": {}
-        },
-        "padang": {
-          "pageId": "1cfbe1212f6f4e218186129c7a7168c0",
-          "title": "Padang ",
-          "children": {}
-        },
-        "airports": {
-          "pageId": "20fdeabd916480e08077e9b844d85513",
-          "title": "Airports",
-          "children": {}
-        },
-        "lisbon": {
-          "pageId": "211deabd9164802ea321db464abf7698",
-          "title": "Lisbon",
-          "children": {}
-        },
-        "algarve": {
-          "pageId": "21cdeabd916480379723e49e277fc89a",
-          "title": "Algarve",
-          "children": {}
-        },
-        "ericeira": {
-          "pageId": "21cdeabd9164806d83b5dc11f6f063b2",
-          "title": "Ericeira",
-          "children": {}
-        },
-        "sintra-cascais-run": {
-          "pageId": "21cdeabd916480e38ea4f16f7c6e4911",
-          "title": "Sintra → Cascais run",
-          "children": {}
-        },
-        "porto": {
-          "pageId": "21fdeabd916480749aaafa96ef4486c3",
-          "title": "Porto",
-          "children": {}
-        },
-        "camino-day-1": {
-          "pageId": "221deabd91648026bbf5e17806fb9b6a",
-          "title": "Camino: day 1",
-          "children": {}
-        },
-        "camino-day-2": {
-          "pageId": "222deabd9164800f83c6c14212035127",
-          "title": "Camino: day 2",
-          "children": {}
-        },
-        "camino-day-3": {
-          "pageId": "223deabd91648011ada9d3d1e89dfae0",
-          "title": "Camino: day 3",
-          "children": {}
-        },
-        "camino-day-4": {
-          "pageId": "224deabd916480b7bc57fd5c506392aa",
-          "title": "Camino: day 4",
-          "children": {}
-        },
-        "camino-day-5": {
-          "pageId": "225deabd91648083b2acedae6cd2f130",
-          "title": "Camino: day 5",
-          "children": {}
-        },
-        "pontevedra": {
-          "pageId": "226deabd916480f6a938e35509b7a0ee",
-          "title": "Pontevedra ",
-          "children": {}
-        },
-        "portugal-the-people": {
-          "pageId": "227deabd91648029a617fe66300dbd7e",
-          "title": "Portugal: The People",
-          "children": {}
-        },
-        "camino-day-6": {
-          "pageId": "229deabd916480bf85d7c5169fe62b11",
-          "title": "Camino: day 6",
-          "children": {}
-        },
-        "camino-day-7": {
-          "pageId": "22adeabd9164801cab27ed7fb2c2ad76",
-          "title": "Camino: day 7",
-          "children": {}
-        },
-        "camino-day-8": {
-          "pageId": "22bdeabd91648085aa0cc53b60f3e5c9",
-          "title": "Camino: day 8",
-          "children": {}
-        },
-        "camino-day-9": {
-          "pageId": "22cdeabd9164807590eac3309fe70f58",
-          "title": "Camino: day 9",
-          "children": {}
-        },
-        "camino-day-10": {
-          "pageId": "22ddeabd91648057b39af9cf034cef3c",
-          "title": "Camino: day 10",
-          "children": {}
-        },
-        "camino-day-11": {
-          "pageId": "22edeabd916480aaa41aedfcf1e6f2c7",
-          "title": "Camino: day 11",
-          "children": {}
-        },
-        "camino-day-12": {
-          "pageId": "22fdeabd916480c7b82efbab30e69af6",
-          "title": "Camino: day 12",
-          "children": {}
-        },
-        "haute-route-chamonix-to-zermatt": {
-          "pageId": "232deabd916480a48986e0e4c027ea5d",
-          "title": "Haute Route - Chamonix to Zermatt",
-          "children": {}
-        },
         "barrydale": {
           "pageId": "25dbefe9c5164215b37255504797bee3",
           "title": "Barrydale ",
-          "children": {}
-        },
-        "truly-remote-working": {
-          "pageId": "2ba85211cb1b492fb192d2f82feb318b",
-          "title": "Truly remote working ",
-          "children": {}
-        },
-        "macombe": {
-          "pageId": "382e659cc1af4d7a855e74f42825b223",
-          "title": "Macombe",
-          "children": {}
-        },
-        "to-the-islands": {
-          "pageId": "3d13c2717580491192d3b8add7876eec",
-          "title": "To the islands",
           "children": {}
         },
         "fine-art-and-fine-brother": {
@@ -768,44 +860,9 @@
           "title": "Fine art and fine brother",
           "children": {}
         },
-        "mentawais-the-funeral": {
-          "pageId": "51358d12f8b641eb8e05638432813502",
-          "title": "Mentawais: The funeral",
-          "children": {}
-        },
-        "in-the-airport": {
-          "pageId": "6a75e30a82b44e24a15a20702e10cdad",
-          "title": "In the airport",
-          "children": {}
-        },
-        "getting-there": {
-          "pageId": "6ab5ba5179dd48ff9e8c05e29f18f084",
-          "title": "Getting there",
-          "children": {}
-        },
-        "tropical-sunday": {
-          "pageId": "742a888e9a1543beb235a8391239fe70",
-          "title": "Tropical Sunday ",
-          "children": {}
-        },
         "introduction": {
           "pageId": "7ac06b8d13344be2ba85e80e761aeacc",
           "title": "Introduction",
-          "children": {}
-        },
-        "mentawais-the-waves": {
-          "pageId": "86ac49246ce446bb8d9dcc961f3bd7e5",
-          "title": "Mentawais: The Waves",
-          "children": {}
-        },
-        "drakensberg-cathedral-peak": {
-          "pageId": "8f38c3fee8d440e797f40f2ddd566ae9",
-          "title": "Drakensberg: Cathedral Peak",
-          "children": {}
-        },
-        "the-islands": {
-          "pageId": "906b8ed79a05496e96fd9e117cbbfded",
-          "title": "The islands ",
           "children": {}
         },
         "small-things-around-home": {
@@ -813,64 +870,9 @@
           "title": "Small things around home",
           "children": {}
         },
-        "on-holiday": {
-          "pageId": "b501caaa637e4a8590ab1ebcbe2702ef",
-          "title": "On holiday ",
-          "children": {}
-        },
         "rugby-world-cup-final": {
           "pageId": "b63805dcc7d04a41b39c7db7bb978100",
           "title": "Rugby world cup final",
-          "children": {}
-        },
-        "leaving-mozambique": {
-          "pageId": "c108fd26abbc4a4299450c8dbc5b0351",
-          "title": "Leaving Mozambique",
-          "children": {}
-        },
-        "mentawais-the-people": {
-          "pageId": "c65ca2888be54d5f9c7903d6c374ca94",
-          "title": "Mentawais: The People",
-          "children": {}
-        },
-        "vilankulos": {
-          "pageId": "c8027d2fc27d40ada4ddd8babc451fd9",
-          "title": "Vilankulos",
-          "children": {}
-        },
-        "boats": {
-          "pageId": "c82e9ef0544c4bf1b264958ac7d5e68e",
-          "title": "Boats",
-          "children": {}
-        },
-        "membene": {
-          "pageId": "ce7865610e584fb8a8e5ed8b77043bfd",
-          "title": "Membene ",
-          "children": {}
-        },
-        "to-pomene": {
-          "pageId": "d510bdd4e6624480b0ad268faa558b81",
-          "title": "To Pomene ",
-          "children": {}
-        },
-        "tofu": {
-          "pageId": "e26274fc23214c519140ffd85e5d2b8e",
-          "title": "Tofu ",
-          "children": {}
-        },
-        "waking-life": {
-          "pageId": "eafabc47bd1a4ac2b5613b58fb46efb7",
-          "title": "Waking Life",
-          "children": {}
-        },
-        "driving": {
-          "pageId": "f357022124dc40389b529e86a05e627a",
-          "title": "Driving",
-          "children": {}
-        },
-        "driving-to-the-berg": {
-          "pageId": "fbcc4bf4bba9419987c4f659226fd8de",
-          "title": "Driving to the Berg",
           "children": {}
         }
       }
@@ -1096,6 +1098,248 @@
       "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/e12f65ecd8096ec2.jpg",
       "description": null
     },
+    "20fdeabd916480e08077e9b844d85513": {
+      "slugPath": [
+        "novel-experiences",
+        "camino-ish",
+        "airports"
+      ],
+      "title": "Airports",
+      "icon": "✈️",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/eb293738fb4da0a5.jpeg",
+      "description": null
+    },
+    "211deabd9164802ea321db464abf7698": {
+      "slugPath": [
+        "novel-experiences",
+        "camino-ish",
+        "lisbon"
+      ],
+      "title": "Lisbon",
+      "icon": "⛵",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/51317a9530a2818f.jpeg",
+      "description": null
+    },
+    "21cdeabd916480379723e49e277fc89a": {
+      "slugPath": [
+        "novel-experiences",
+        "camino-ish",
+        "algarve"
+      ],
+      "title": "Algarve",
+      "icon": "🧒",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/c8612bca4564bb42.jpeg",
+      "description": null
+    },
+    "21cdeabd9164806d83b5dc11f6f063b2": {
+      "slugPath": [
+        "novel-experiences",
+        "camino-ish",
+        "ericeira"
+      ],
+      "title": "Ericeira",
+      "icon": "🏖️",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/df8c5c456220079b.jpeg",
+      "description": null
+    },
+    "21cdeabd916480e38ea4f16f7c6e4911": {
+      "slugPath": [
+        "novel-experiences",
+        "camino-ish",
+        "sintra-cascais-run"
+      ],
+      "title": "Sintra → Cascais run",
+      "icon": "🏰",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/8619af36ffb35bf9.jpeg",
+      "description": null
+    },
+    "21fdeabd916480749aaafa96ef4486c3": {
+      "slugPath": [
+        "novel-experiences",
+        "camino-ish",
+        "porto"
+      ],
+      "title": "Porto",
+      "icon": "⚓",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/4bf1552d74270164.jpeg",
+      "description": null
+    },
+    "221deabd91648026bbf5e17806fb9b6a": {
+      "slugPath": [
+        "novel-experiences",
+        "camino-ish",
+        "camino-day-1"
+      ],
+      "title": "Camino: day 1",
+      "icon": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/fe36e5c4bf411e35.svg",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/791f941b0c269254.jpeg",
+      "description": null
+    },
+    "222deabd9164800f83c6c14212035127": {
+      "slugPath": [
+        "novel-experiences",
+        "camino-ish",
+        "camino-day-2"
+      ],
+      "title": "Camino: day 2",
+      "icon": "🪨",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/86e6510bcf4c52c1.jpeg",
+      "description": null
+    },
+    "223deabd91648011ada9d3d1e89dfae0": {
+      "slugPath": [
+        "novel-experiences",
+        "camino-ish",
+        "camino-day-3"
+      ],
+      "title": "Camino: day 3",
+      "icon": "⛪",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/449b3a74fdb62af2.jpeg",
+      "description": null
+    },
+    "224deabd916480b7bc57fd5c506392aa": {
+      "slugPath": [
+        "novel-experiences",
+        "camino-ish",
+        "camino-day-4"
+      ],
+      "title": "Camino: day 4",
+      "icon": "🚌",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/5986020b08982014.jpeg",
+      "description": null
+    },
+    "225deabd91648083b2acedae6cd2f130": {
+      "slugPath": [
+        "novel-experiences",
+        "camino-ish",
+        "camino-day-5"
+      ],
+      "title": "Camino: day 5",
+      "icon": "🇪🇸",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/f40bb7c15b0a273c.jpeg",
+      "description": null
+    },
+    "226deabd916480f6a938e35509b7a0ee": {
+      "slugPath": [
+        "novel-experiences",
+        "camino-ish",
+        "pontevedra"
+      ],
+      "title": "Pontevedra ",
+      "icon": "😌",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/aa9105d27bfe2c5b.jpeg",
+      "description": null
+    },
+    "227deabd91648029a617fe66300dbd7e": {
+      "slugPath": [
+        "novel-experiences",
+        "camino-ish",
+        "portugal-the-people"
+      ],
+      "title": "Portugal: The People",
+      "icon": "👫",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/a0999a176088f532.jpg",
+      "description": null
+    },
+    "229deabd916480bf85d7c5169fe62b11": {
+      "slugPath": [
+        "novel-experiences",
+        "camino-ish",
+        "camino-day-6"
+      ],
+      "title": "Camino: day 6",
+      "icon": "🪁",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/3f30d81e86dfcd7a.jpeg",
+      "description": null
+    },
+    "22adeabd9164801cab27ed7fb2c2ad76": {
+      "slugPath": [
+        "novel-experiences",
+        "camino-ish",
+        "camino-day-7"
+      ],
+      "title": "Camino: day 7",
+      "icon": "🥘",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/8976c8bd4c287a18.jpeg",
+      "description": null
+    },
+    "22bdeabd91648085aa0cc53b60f3e5c9": {
+      "slugPath": [
+        "novel-experiences",
+        "camino-ish",
+        "camino-day-8"
+      ],
+      "title": "Camino: day 8",
+      "icon": "🌲",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/2d3cd427b083215a.jpeg",
+      "description": null
+    },
+    "22cdeabd9164807590eac3309fe70f58": {
+      "slugPath": [
+        "novel-experiences",
+        "camino-ish",
+        "camino-day-9"
+      ],
+      "title": "Camino: day 9",
+      "icon": "🦄",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/732bc0643348edc0.jpeg",
+      "description": null
+    },
+    "22ddeabd91648057b39af9cf034cef3c": {
+      "slugPath": [
+        "novel-experiences",
+        "camino-ish",
+        "camino-day-10"
+      ],
+      "title": "Camino: day 10",
+      "icon": "😗",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/b1600ff9d8d5ba83.jpeg",
+      "description": null
+    },
+    "22edeabd916480aaa41aedfcf1e6f2c7": {
+      "slugPath": [
+        "novel-experiences",
+        "camino-ish",
+        "camino-day-11"
+      ],
+      "title": "Camino: day 11",
+      "icon": "☀️",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/cb79af9aa876296c.png",
+      "description": null
+    },
+    "22fdeabd916480c7b82efbab30e69af6": {
+      "slugPath": [
+        "novel-experiences",
+        "camino-ish",
+        "camino-day-12"
+      ],
+      "title": "Camino: day 12",
+      "icon": "🏁",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/cf54a0501e9942e1.jpeg",
+      "description": null
+    },
+    "232deabd916480a48986e0e4c027ea5d": {
+      "slugPath": [
+        "novel-experiences",
+        "camino-ish",
+        "haute-route-chamonix-to-zermatt"
+      ],
+      "title": "Haute Route - Chamonix to Zermatt",
+      "icon": "🏔️",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/126516bc3d03d96b.jpg",
+      "description": null
+    },
+    "eafabc47bd1a4ac2b5613b58fb46efb7": {
+      "slugPath": [
+        "novel-experiences",
+        "camino-ish",
+        "waking-life"
+      ],
+      "title": "Waking Life",
+      "icon": "🎈",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/872067a77d137d30.jpeg",
+      "description": null
+    },
     "211deabd9164802bbbfcfbf2b2da5edd": {
       "slugPath": [
         "novel-experiences",
@@ -1205,6 +1449,171 @@
       "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/0ace7f3914c8c258.jpeg",
       "description": null
     },
+    "0f54a57b7eb04c3bb1e89e379510919f": {
+      "slugPath": [
+        "novel-experiences",
+        "returning-a-bakkie",
+        "kosi-bay"
+      ],
+      "title": "Kosi Bay",
+      "icon": "🤿",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/c6e3eda084b61b28.jpeg",
+      "description": null
+    },
+    "2ba85211cb1b492fb192d2f82feb318b": {
+      "slugPath": [
+        "novel-experiences",
+        "returning-a-bakkie",
+        "truly-remote-working"
+      ],
+      "title": "Truly remote working ",
+      "icon": "💻",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/e24d4fd56dca23ac.jpeg",
+      "description": null
+    },
+    "382e659cc1af4d7a855e74f42825b223": {
+      "slugPath": [
+        "novel-experiences",
+        "returning-a-bakkie",
+        "macombe"
+      ],
+      "title": "Macombe",
+      "icon": "🌧️",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/2968d4d6383f172c.jpeg",
+      "description": null
+    },
+    "6a75e30a82b44e24a15a20702e10cdad": {
+      "slugPath": [
+        "novel-experiences",
+        "returning-a-bakkie",
+        "in-the-airport"
+      ],
+      "title": "In the airport",
+      "icon": "🛫",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/81511c19ca2d80a7.jpeg",
+      "description": null
+    },
+    "742a888e9a1543beb235a8391239fe70": {
+      "slugPath": [
+        "novel-experiences",
+        "returning-a-bakkie",
+        "tropical-sunday"
+      ],
+      "title": "Tropical Sunday ",
+      "icon": "🌊",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/7464ddbb612e9838.jpeg",
+      "description": null
+    },
+    "8f38c3fee8d440e797f40f2ddd566ae9": {
+      "slugPath": [
+        "novel-experiences",
+        "returning-a-bakkie",
+        "drakensberg-cathedral-peak"
+      ],
+      "title": "Drakensberg: Cathedral Peak",
+      "icon": "⛰️",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/6b131a1af20770d3.jpeg",
+      "description": null
+    },
+    "906b8ed79a05496e96fd9e117cbbfded": {
+      "slugPath": [
+        "novel-experiences",
+        "returning-a-bakkie",
+        "the-islands"
+      ],
+      "title": "The islands ",
+      "icon": "🏝️",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/4312973d380157bb.jpeg",
+      "description": null
+    },
+    "b501caaa637e4a8590ab1ebcbe2702ef": {
+      "slugPath": [
+        "novel-experiences",
+        "returning-a-bakkie",
+        "on-holiday"
+      ],
+      "title": "On holiday ",
+      "icon": "🐬",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/f5fa4f0696afa826.jpeg",
+      "description": null
+    },
+    "c108fd26abbc4a4299450c8dbc5b0351": {
+      "slugPath": [
+        "novel-experiences",
+        "returning-a-bakkie",
+        "leaving-mozambique"
+      ],
+      "title": "Leaving Mozambique",
+      "icon": "🇿🇦",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/006316946bea966c.jpeg",
+      "description": null
+    },
+    "c8027d2fc27d40ada4ddd8babc451fd9": {
+      "slugPath": [
+        "novel-experiences",
+        "returning-a-bakkie",
+        "vilankulos"
+      ],
+      "title": "Vilankulos",
+      "icon": "⛵",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/22741e7297d5a3a4.jpeg",
+      "description": null
+    },
+    "ce7865610e584fb8a8e5ed8b77043bfd": {
+      "slugPath": [
+        "novel-experiences",
+        "returning-a-bakkie",
+        "membene"
+      ],
+      "title": "Membene ",
+      "icon": "🐊",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/ba3a35a8ab60574b.jpeg",
+      "description": null
+    },
+    "d510bdd4e6624480b0ad268faa558b81": {
+      "slugPath": [
+        "novel-experiences",
+        "returning-a-bakkie",
+        "to-pomene"
+      ],
+      "title": "To Pomene ",
+      "icon": "🏖️",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/a06fc3b66cc639ff.jpeg",
+      "description": null
+    },
+    "e26274fc23214c519140ffd85e5d2b8e": {
+      "slugPath": [
+        "novel-experiences",
+        "returning-a-bakkie",
+        "tofu"
+      ],
+      "title": "Tofu ",
+      "icon": "💼",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/3b7226702839cc60.jpeg",
+      "description": null
+    },
+    "f357022124dc40389b529e86a05e627a": {
+      "slugPath": [
+        "novel-experiences",
+        "returning-a-bakkie",
+        "driving"
+      ],
+      "title": "Driving",
+      "icon": "🛣️",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/a8844759d8fb5ff3.jpeg",
+      "description": null
+    },
+    "fbcc4bf4bba9419987c4f659226fd8de": {
+      "slugPath": [
+        "novel-experiences",
+        "returning-a-bakkie",
+        "driving-to-the-berg"
+      ],
+      "title": "Driving to the Berg",
+      "icon": "⛰️",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/8f09eea8af3769e9.jpeg",
+      "description": null
+    },
     "af0c2d1ecc9341688489ddd1c294638f": {
       "slugPath": [
         "novel-experiences",
@@ -1213,6 +1622,94 @@
       "title": "A return to Indonesia",
       "icon": "🇮🇩",
       "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/2fe4839940694417.jpeg",
+      "description": null
+    },
+    "0fdbc8057db84bde926b7712a958192f": {
+      "slugPath": [
+        "novel-experiences",
+        "a-return-to-indonesia",
+        "padang"
+      ],
+      "title": "Padang ",
+      "icon": "🌇",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/fc3855a80f472c11.jpg",
+      "description": null
+    },
+    "1cfbe1212f6f4e218186129c7a7168c0": {
+      "slugPath": [
+        "novel-experiences",
+        "a-return-to-indonesia",
+        "padang"
+      ],
+      "title": "Padang ",
+      "icon": "🥵",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/c0ddac2c3534ea05.jpeg",
+      "description": null
+    },
+    "3d13c2717580491192d3b8add7876eec": {
+      "slugPath": [
+        "novel-experiences",
+        "a-return-to-indonesia",
+        "to-the-islands"
+      ],
+      "title": "To the islands",
+      "icon": "🏝️",
+      "cover": null,
+      "description": null
+    },
+    "51358d12f8b641eb8e05638432813502": {
+      "slugPath": [
+        "novel-experiences",
+        "a-return-to-indonesia",
+        "mentawais-the-funeral"
+      ],
+      "title": "Mentawais: The funeral",
+      "icon": "👻",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/f1ed2c4e60bef2ba.jpg",
+      "description": null
+    },
+    "6ab5ba5179dd48ff9e8c05e29f18f084": {
+      "slugPath": [
+        "novel-experiences",
+        "a-return-to-indonesia",
+        "getting-there"
+      ],
+      "title": "Getting there",
+      "icon": "🛫",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/8107d9c492ebe9a3.jpeg",
+      "description": null
+    },
+    "86ac49246ce446bb8d9dcc961f3bd7e5": {
+      "slugPath": [
+        "novel-experiences",
+        "a-return-to-indonesia",
+        "mentawais-the-waves"
+      ],
+      "title": "Mentawais: The Waves",
+      "icon": "🌊",
+      "cover": null,
+      "description": null
+    },
+    "c65ca2888be54d5f9c7903d6c374ca94": {
+      "slugPath": [
+        "novel-experiences",
+        "a-return-to-indonesia",
+        "mentawais-the-people"
+      ],
+      "title": "Mentawais: The People",
+      "icon": "🏝️",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/6742d3b8b01b961e.jpeg",
+      "description": null
+    },
+    "c82e9ef0544c4bf1b264958ac7d5e68e": {
+      "slugPath": [
+        "novel-experiences",
+        "a-return-to-indonesia",
+        "boats"
+      ],
+      "title": "Boats",
+      "icon": "⛴️",
+      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/ee6a764a54f0aad2.jpg",
       "description": null
     },
     "b8ae34f893164387b061a71123e699f5": {
@@ -2548,246 +3045,6 @@
       "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/a64e2e7e50808758.jpeg",
       "description": null
     },
-    "0f54a57b7eb04c3bb1e89e379510919f": {
-      "slugPath": [
-        "novel-experiences",
-        "kosi-bay"
-      ],
-      "title": "Kosi Bay",
-      "icon": "🤿",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/c6e3eda084b61b28.jpeg",
-      "description": null
-    },
-    "0fdbc8057db84bde926b7712a958192f": {
-      "slugPath": [
-        "novel-experiences",
-        "padang"
-      ],
-      "title": "Padang ",
-      "icon": "🌇",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/fc3855a80f472c11.jpg",
-      "description": null
-    },
-    "1cfbe1212f6f4e218186129c7a7168c0": {
-      "slugPath": [
-        "novel-experiences",
-        "padang"
-      ],
-      "title": "Padang ",
-      "icon": "🥵",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/c0ddac2c3534ea05.jpeg",
-      "description": null
-    },
-    "20fdeabd916480e08077e9b844d85513": {
-      "slugPath": [
-        "novel-experiences",
-        "airports"
-      ],
-      "title": "Airports",
-      "icon": "✈️",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/eb293738fb4da0a5.jpeg",
-      "description": null
-    },
-    "211deabd9164802ea321db464abf7698": {
-      "slugPath": [
-        "novel-experiences",
-        "lisbon"
-      ],
-      "title": "Lisbon",
-      "icon": "⛵",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/51317a9530a2818f.jpeg",
-      "description": null
-    },
-    "21cdeabd916480379723e49e277fc89a": {
-      "slugPath": [
-        "novel-experiences",
-        "algarve"
-      ],
-      "title": "Algarve",
-      "icon": "🧒",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/c8612bca4564bb42.jpeg",
-      "description": null
-    },
-    "21cdeabd9164806d83b5dc11f6f063b2": {
-      "slugPath": [
-        "novel-experiences",
-        "ericeira"
-      ],
-      "title": "Ericeira",
-      "icon": "🏖️",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/df8c5c456220079b.jpeg",
-      "description": null
-    },
-    "21cdeabd916480e38ea4f16f7c6e4911": {
-      "slugPath": [
-        "novel-experiences",
-        "sintra-cascais-run"
-      ],
-      "title": "Sintra → Cascais run",
-      "icon": "🏰",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/8619af36ffb35bf9.jpeg",
-      "description": null
-    },
-    "21fdeabd916480749aaafa96ef4486c3": {
-      "slugPath": [
-        "novel-experiences",
-        "porto"
-      ],
-      "title": "Porto",
-      "icon": "⚓",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/4bf1552d74270164.jpeg",
-      "description": null
-    },
-    "221deabd91648026bbf5e17806fb9b6a": {
-      "slugPath": [
-        "novel-experiences",
-        "camino-day-1"
-      ],
-      "title": "Camino: day 1",
-      "icon": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/fe36e5c4bf411e35.svg",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/791f941b0c269254.jpeg",
-      "description": null
-    },
-    "222deabd9164800f83c6c14212035127": {
-      "slugPath": [
-        "novel-experiences",
-        "camino-day-2"
-      ],
-      "title": "Camino: day 2",
-      "icon": "🪨",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/86e6510bcf4c52c1.jpeg",
-      "description": null
-    },
-    "223deabd91648011ada9d3d1e89dfae0": {
-      "slugPath": [
-        "novel-experiences",
-        "camino-day-3"
-      ],
-      "title": "Camino: day 3",
-      "icon": "⛪",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/449b3a74fdb62af2.jpeg",
-      "description": null
-    },
-    "224deabd916480b7bc57fd5c506392aa": {
-      "slugPath": [
-        "novel-experiences",
-        "camino-day-4"
-      ],
-      "title": "Camino: day 4",
-      "icon": "🚌",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/5986020b08982014.jpeg",
-      "description": null
-    },
-    "225deabd91648083b2acedae6cd2f130": {
-      "slugPath": [
-        "novel-experiences",
-        "camino-day-5"
-      ],
-      "title": "Camino: day 5",
-      "icon": "🇪🇸",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/f40bb7c15b0a273c.jpeg",
-      "description": null
-    },
-    "226deabd916480f6a938e35509b7a0ee": {
-      "slugPath": [
-        "novel-experiences",
-        "pontevedra"
-      ],
-      "title": "Pontevedra ",
-      "icon": "😌",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/aa9105d27bfe2c5b.jpeg",
-      "description": null
-    },
-    "227deabd91648029a617fe66300dbd7e": {
-      "slugPath": [
-        "novel-experiences",
-        "portugal-the-people"
-      ],
-      "title": "Portugal: The People",
-      "icon": "👫",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/a0999a176088f532.jpg",
-      "description": null
-    },
-    "229deabd916480bf85d7c5169fe62b11": {
-      "slugPath": [
-        "novel-experiences",
-        "camino-day-6"
-      ],
-      "title": "Camino: day 6",
-      "icon": "🪁",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/3f30d81e86dfcd7a.jpeg",
-      "description": null
-    },
-    "22adeabd9164801cab27ed7fb2c2ad76": {
-      "slugPath": [
-        "novel-experiences",
-        "camino-day-7"
-      ],
-      "title": "Camino: day 7",
-      "icon": "🥘",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/8976c8bd4c287a18.jpeg",
-      "description": null
-    },
-    "22bdeabd91648085aa0cc53b60f3e5c9": {
-      "slugPath": [
-        "novel-experiences",
-        "camino-day-8"
-      ],
-      "title": "Camino: day 8",
-      "icon": "🌲",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/2d3cd427b083215a.jpeg",
-      "description": null
-    },
-    "22cdeabd9164807590eac3309fe70f58": {
-      "slugPath": [
-        "novel-experiences",
-        "camino-day-9"
-      ],
-      "title": "Camino: day 9",
-      "icon": "🦄",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/732bc0643348edc0.jpeg",
-      "description": null
-    },
-    "22ddeabd91648057b39af9cf034cef3c": {
-      "slugPath": [
-        "novel-experiences",
-        "camino-day-10"
-      ],
-      "title": "Camino: day 10",
-      "icon": "😗",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/b1600ff9d8d5ba83.jpeg",
-      "description": null
-    },
-    "22edeabd916480aaa41aedfcf1e6f2c7": {
-      "slugPath": [
-        "novel-experiences",
-        "camino-day-11"
-      ],
-      "title": "Camino: day 11",
-      "icon": "☀️",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/cb79af9aa876296c.png",
-      "description": null
-    },
-    "22fdeabd916480c7b82efbab30e69af6": {
-      "slugPath": [
-        "novel-experiences",
-        "camino-day-12"
-      ],
-      "title": "Camino: day 12",
-      "icon": "🏁",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/cf54a0501e9942e1.jpeg",
-      "description": null
-    },
-    "232deabd916480a48986e0e4c027ea5d": {
-      "slugPath": [
-        "novel-experiences",
-        "haute-route-chamonix-to-zermatt"
-      ],
-      "title": "Haute Route - Chamonix to Zermatt",
-      "icon": "🏔️",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/126516bc3d03d96b.jpg",
-      "description": null
-    },
     "25dbefe9c5164215b37255504797bee3": {
       "slugPath": [
         "novel-experiences",
@@ -2796,36 +3053,6 @@
       "title": "Barrydale ",
       "icon": "🏜️",
       "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/c04b6cd5444df1ae.png",
-      "description": null
-    },
-    "2ba85211cb1b492fb192d2f82feb318b": {
-      "slugPath": [
-        "novel-experiences",
-        "truly-remote-working"
-      ],
-      "title": "Truly remote working ",
-      "icon": "💻",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/e24d4fd56dca23ac.jpeg",
-      "description": null
-    },
-    "382e659cc1af4d7a855e74f42825b223": {
-      "slugPath": [
-        "novel-experiences",
-        "macombe"
-      ],
-      "title": "Macombe",
-      "icon": "🌧️",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/2968d4d6383f172c.jpeg",
-      "description": null
-    },
-    "3d13c2717580491192d3b8add7876eec": {
-      "slugPath": [
-        "novel-experiences",
-        "to-the-islands"
-      ],
-      "title": "To the islands",
-      "icon": "🏝️",
-      "cover": null,
       "description": null
     },
     "4135c65119704e9fafba20ba449a0518": {
@@ -2838,46 +3065,6 @@
       "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/a22e35ae22a0f402.jpeg",
       "description": null
     },
-    "51358d12f8b641eb8e05638432813502": {
-      "slugPath": [
-        "novel-experiences",
-        "mentawais-the-funeral"
-      ],
-      "title": "Mentawais: The funeral",
-      "icon": "👻",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/f1ed2c4e60bef2ba.jpg",
-      "description": null
-    },
-    "6a75e30a82b44e24a15a20702e10cdad": {
-      "slugPath": [
-        "novel-experiences",
-        "in-the-airport"
-      ],
-      "title": "In the airport",
-      "icon": "🛫",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/81511c19ca2d80a7.jpeg",
-      "description": null
-    },
-    "6ab5ba5179dd48ff9e8c05e29f18f084": {
-      "slugPath": [
-        "novel-experiences",
-        "getting-there"
-      ],
-      "title": "Getting there",
-      "icon": "🛫",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/8107d9c492ebe9a3.jpeg",
-      "description": null
-    },
-    "742a888e9a1543beb235a8391239fe70": {
-      "slugPath": [
-        "novel-experiences",
-        "tropical-sunday"
-      ],
-      "title": "Tropical Sunday ",
-      "icon": "🌊",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/7464ddbb612e9838.jpeg",
-      "description": null
-    },
     "7ac06b8d13344be2ba85e80e761aeacc": {
       "slugPath": [
         "novel-experiences",
@@ -2886,36 +3073,6 @@
       "title": "Introduction",
       "icon": "🆕",
       "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/e71eecde3a427b24.jpeg",
-      "description": null
-    },
-    "86ac49246ce446bb8d9dcc961f3bd7e5": {
-      "slugPath": [
-        "novel-experiences",
-        "mentawais-the-waves"
-      ],
-      "title": "Mentawais: The Waves",
-      "icon": "🌊",
-      "cover": null,
-      "description": null
-    },
-    "8f38c3fee8d440e797f40f2ddd566ae9": {
-      "slugPath": [
-        "novel-experiences",
-        "drakensberg-cathedral-peak"
-      ],
-      "title": "Drakensberg: Cathedral Peak",
-      "icon": "⛰️",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/6b131a1af20770d3.jpeg",
-      "description": null
-    },
-    "906b8ed79a05496e96fd9e117cbbfded": {
-      "slugPath": [
-        "novel-experiences",
-        "the-islands"
-      ],
-      "title": "The islands ",
-      "icon": "🏝️",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/4312973d380157bb.jpeg",
       "description": null
     },
     "9a93865bb7454dc0a5b1bff5a20aecbd": {
@@ -2928,16 +3085,6 @@
       "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/967497c94c16ea92.jpeg",
       "description": null
     },
-    "b501caaa637e4a8590ab1ebcbe2702ef": {
-      "slugPath": [
-        "novel-experiences",
-        "on-holiday"
-      ],
-      "title": "On holiday ",
-      "icon": "🐬",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/f5fa4f0696afa826.jpeg",
-      "description": null
-    },
     "b63805dcc7d04a41b39c7db7bb978100": {
       "slugPath": [
         "novel-experiences",
@@ -2946,106 +3093,6 @@
       "title": "Rugby world cup final",
       "icon": "🇿🇦",
       "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/e6c1ad49b1f9db0f.jpg",
-      "description": null
-    },
-    "c108fd26abbc4a4299450c8dbc5b0351": {
-      "slugPath": [
-        "novel-experiences",
-        "leaving-mozambique"
-      ],
-      "title": "Leaving Mozambique",
-      "icon": "🇿🇦",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/006316946bea966c.jpeg",
-      "description": null
-    },
-    "c65ca2888be54d5f9c7903d6c374ca94": {
-      "slugPath": [
-        "novel-experiences",
-        "mentawais-the-people"
-      ],
-      "title": "Mentawais: The People",
-      "icon": "🏝️",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/6742d3b8b01b961e.jpeg",
-      "description": null
-    },
-    "c8027d2fc27d40ada4ddd8babc451fd9": {
-      "slugPath": [
-        "novel-experiences",
-        "vilankulos"
-      ],
-      "title": "Vilankulos",
-      "icon": "⛵",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/22741e7297d5a3a4.jpeg",
-      "description": null
-    },
-    "c82e9ef0544c4bf1b264958ac7d5e68e": {
-      "slugPath": [
-        "novel-experiences",
-        "boats"
-      ],
-      "title": "Boats",
-      "icon": "⛴️",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/ee6a764a54f0aad2.jpg",
-      "description": null
-    },
-    "ce7865610e584fb8a8e5ed8b77043bfd": {
-      "slugPath": [
-        "novel-experiences",
-        "membene"
-      ],
-      "title": "Membene ",
-      "icon": "🐊",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/ba3a35a8ab60574b.jpeg",
-      "description": null
-    },
-    "d510bdd4e6624480b0ad268faa558b81": {
-      "slugPath": [
-        "novel-experiences",
-        "to-pomene"
-      ],
-      "title": "To Pomene ",
-      "icon": "🏖️",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/a06fc3b66cc639ff.jpeg",
-      "description": null
-    },
-    "e26274fc23214c519140ffd85e5d2b8e": {
-      "slugPath": [
-        "novel-experiences",
-        "tofu"
-      ],
-      "title": "Tofu ",
-      "icon": "💼",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/3b7226702839cc60.jpeg",
-      "description": null
-    },
-    "eafabc47bd1a4ac2b5613b58fb46efb7": {
-      "slugPath": [
-        "novel-experiences",
-        "waking-life"
-      ],
-      "title": "Waking Life",
-      "icon": "🎈",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/872067a77d137d30.jpeg",
-      "description": null
-    },
-    "f357022124dc40389b529e86a05e627a": {
-      "slugPath": [
-        "novel-experiences",
-        "driving"
-      ],
-      "title": "Driving",
-      "icon": "🛣️",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/a8844759d8fb5ff3.jpeg",
-      "description": null
-    },
-    "fbcc4bf4bba9419987c4f659226fd8de": {
-      "slugPath": [
-        "novel-experiences",
-        "driving-to-the-berg"
-      ],
-      "title": "Driving to the Berg",
-      "icon": "⛰️",
-      "cover": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/8f09eea8af3769e9.jpeg",
       "description": null
     },
     "f02453cf1e5e402391ec1054de22a5dd": {
