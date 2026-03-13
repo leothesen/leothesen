@@ -490,8 +490,8 @@ export function DatabaseView({ entries }: { entries: DatabaseEntry[] }) {
         const href = `/${entry.path.join('/')}`
         return (
           <Link key={entry.id} href={href} className="notion-collection-card">
-            {entry.cover && (
-              <div className="notion-collection-card-cover">
+            <div className="notion-collection-card-cover">
+              {entry.cover ? (
                 <img
                   src={entry.cover}
                   alt={entry.title}
@@ -499,8 +499,10 @@ export function DatabaseView({ entries }: { entries: DatabaseEntry[] }) {
                   className="notion-image-loading"
                   onLoad={(e) => e.currentTarget.classList.remove('notion-image-loading')}
                 />
-              </div>
-            )}
+              ) : (
+                <div className="notion-collection-card-cover-placeholder" />
+              )}
+            </div>
             <div className="notion-collection-card-body">
               <div className="notion-page-title-text">{entry.title}</div>
               {entry.description && (
