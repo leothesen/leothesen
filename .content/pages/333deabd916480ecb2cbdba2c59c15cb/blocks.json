@@ -1,0 +1,1525 @@
+[
+  {
+    "object": "block",
+    "id": "24edc1e9-af74-4b0a-9b8f-89220aeaa732",
+    "parent": {
+      "type": "page_id",
+      "page_id": "333deabd-9164-80ec-b2cb-dba2c59c15cb"
+    },
+    "created_time": "2026-03-30T12:05:00.000Z",
+    "last_edited_time": "2026-03-30T12:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The Setup",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The Setup",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "a1306e2c-4f5e-4669-9f44-7f37171a042f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "333deabd-9164-80ec-b2cb-dba2c59c15cb"
+    },
+    "created_time": "2026-03-30T12:05:00.000Z",
+    "last_edited_time": "2026-03-30T12:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I bought a WalkingPad A1 Pro off Facebook Marketplace for a few thousand rand off the market price. No warranty, no receipt, no guarantee it would last more than a week. If it breaks, I'm fixing it myself. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I bought a WalkingPad A1 Pro off Facebook Marketplace for a few thousand rand off the market price. No warranty, no receipt, no guarantee it would last more than a week. If it breaks, I'm fixing it myself. ",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "84d01a8b-add3-45ff-9149-463eebcf1272",
+    "parent": {
+      "type": "page_id",
+      "page_id": "333deabd-9164-80ec-b2cb-dba2c59c15cb"
+    },
+    "created_time": "2026-03-30T12:05:00.000Z",
+    "last_edited_time": "2026-03-30T12:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The idea is simple: walk while you work. Not run. Not power-walk. Just gentle, steady motion throughout the day — 2 to 4 km/h while coding, taking calls, writing docs. The hypothesis is that many hours of gentle walking is far better for your body than the typical pattern of one intense gym session followed by eight hours of sitting.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The idea is simple: walk while you work. Not run. Not power-walk. Just gentle, steady motion throughout the day — 2 to 4 km/h while coding, taking calls, writing docs. The hypothesis is that many hours of gentle walking is far better for your body than the typical pattern of one intense gym session followed by eight hours of sitting.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "555bc11c-ccd7-4c40-bf8f-06c6c2d4decd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "333deabd-9164-80ec-b2cb-dba2c59c15cb"
+    },
+    "created_time": "2026-03-30T12:05:00.000Z",
+    "last_edited_time": "2026-03-30T12:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Standing desks were a good start. But walking is the next step — literally.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Standing desks were a good start. But walking is the next step — literally.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ea208217-6a3b-447f-86c2-b8e8294e474e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "333deabd-9164-80ec-b2cb-dba2c59c15cb"
+    },
+    "created_time": "2026-03-30T12:05:00.000Z",
+    "last_edited_time": "2026-03-30T12:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The App Problem",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The App Problem",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d73ad975-17a6-4e5d-8503-9c17e81e1fd7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "333deabd-9164-80ec-b2cb-dba2c59c15cb"
+    },
+    "created_time": "2026-03-30T12:05:00.000Z",
+    "last_edited_time": "2026-03-30T12:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The WalkingPad comes with the KingSmart app, which is notoriously terrible. Buggy, slow, and requires you to pull out your phone every time you want to change speed or check your stats.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The WalkingPad comes with the KingSmart app, which is notoriously terrible. Buggy, slow, and requires you to pull out your phone every time you want to change speed or check your stats.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "9283f7ed-152a-47a5-9abf-c5b72cf5be17",
+    "parent": {
+      "type": "page_id",
+      "page_id": "333deabd-9164-80ec-b2cb-dba2c59c15cb"
+    },
+    "created_time": "2026-03-30T12:05:00.000Z",
+    "last_edited_time": "2026-03-30T12:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "But here's the interesting part: a few people had already reverse-engineered the WalkingPad's Bluetooth Low Energy protocol. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "But here's the interesting part: a few people had already reverse-engineered the WalkingPad's Bluetooth Low Energy protocol. ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "ph4r05",
+            "link": {
+              "url": "https://github.com/ph4r05/ph4-walkingpad"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "ph4r05",
+          "href": "https://github.com/ph4r05/ph4-walkingpad"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " documented the BLE commands in Python, and ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " documented the BLE commands in Python, and ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "klassm",
+            "link": {
+              "url": "https://github.com/klassm/walkingpad_macos_client"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "klassm",
+          "href": "https://github.com/klassm/walkingpad_macos_client"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " built a native macOS menu bar app in Swift that could control the treadmill directly from your Mac. No phone needed.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " built a native macOS menu bar app in Swift that could control the treadmill directly from your Mac. No phone needed.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ad8fac44-1eb9-409f-b51b-fab84278ece6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "333deabd-9164-80ec-b2cb-dba2c59c15cb"
+    },
+    "created_time": "2026-03-30T12:05:00.000Z",
+    "last_edited_time": "2026-03-30T12:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I forked klassm's repo and used ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I forked klassm's repo and used ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Claude Code",
+            "link": {
+              "url": "https://claude.ai/claude-code"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Claude Code",
+          "href": "https://claude.ai/claude-code"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " to rebuild it into something much more capable.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " to rebuild it into something much more capable.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f95a430b-19af-4e93-badc-0efb09b95a2d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "333deabd-9164-80ec-b2cb-dba2c59c15cb"
+    },
+    "created_time": "2026-03-30T12:05:00.000Z",
+    "last_edited_time": "2026-03-30T12:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "What I Built",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "What I Built",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e65b30ec-2216-4a02-ac80-014d08c24713",
+    "parent": {
+      "type": "page_id",
+      "page_id": "333deabd-9164-80ec-b2cb-dba2c59c15cb"
+    },
+    "created_time": "2026-03-30T12:05:00.000Z",
+    "last_edited_time": "2026-03-30T12:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Starting from the original menu bar controller, I extended it into a full walking-while-working system:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Starting from the original menu bar controller, I extended it into a full walking-while-working system:",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "df2c1a6d-51cd-4d07-9380-f0ba68b0df44",
+    "parent": {
+      "type": "page_id",
+      "page_id": "333deabd-9164-80ec-b2cb-dba2c59c15cb"
+    },
+    "created_time": "2026-03-30T12:05:00.000Z",
+    "last_edited_time": "2026-03-30T12:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Control",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Control",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " — A speed slider with fine-tune +/- buttons (0.1 km/h increments) right in the macOS menu bar. Manual and automatic modes. The status bar shows your current session distance and time while walking, and today's total distance when idle.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " — A speed slider with fine-tune +/- buttons (0.1 km/h increments) right in the macOS menu bar. Manual and automatic modes. The status bar shows your current session distance and time while walking, and today's total distance when idle.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b533ed59-e996-4c4a-a5e1-15a055b1e225",
+    "parent": {
+      "type": "page_id",
+      "page_id": "333deabd-9164-80ec-b2cb-dba2c59c15cb"
+    },
+    "created_time": "2026-03-30T12:05:00.000Z",
+    "last_edited_time": "2026-03-30T12:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Session Tracking",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Session Tracking",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " — The app detects when you start and stop walking by monitoring BLE speed transitions. Each session records start time, end time, steps, and distance. Sessions are automatically pushed to a Notion database as the source of truth.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " — The app detects when you start and stop walking by monitoring BLE speed transitions. Each session records start time, end time, steps, and distance. Sessions are automatically pushed to a Notion database as the source of truth.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5c139cc7-8184-48cc-a79c-7a1596e7edc4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "333deabd-9164-80ec-b2cb-dba2c59c15cb"
+    },
+    "created_time": "2026-03-30T12:05:00.000Z",
+    "last_edited_time": "2026-03-30T12:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Notion Integration",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Notion Integration",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " — Two databases: Sessions (individual walks) and Day Totals (daily aggregates with Strava sync status). This means I can see all my walking data in Notion, query it, build dashboards, or just scroll through my sessions.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " — Two databases: Sessions (individual walks) and Day Totals (daily aggregates with Strava sync status). This means I can see all my walking data in Notion, query it, build dashboards, or just scroll through my sessions.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7768ac2c-40ff-4329-bd47-499e0187ca3a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "333deabd-9164-80ec-b2cb-dba2c59c15cb"
+    },
+    "created_time": "2026-03-30T12:05:00.000Z",
+    "last_edited_time": "2026-03-30T12:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Strava Integration",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Strava Integration",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " — At the end of each day (manually or auto-posted at 23:59), the app aggregates all sessions into a single Walk activity and posts it to Strava via OAuth2. Name, distance, duration, steps, average speed — all calculated automatically.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " — At the end of each day (manually or auto-posted at 23:59), the app aggregates all sessions into a single Walk activity and posts it to Strava via OAuth2. Name, distance, duration, steps, average speed — all calculated automatically.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "eb9fd0e9-5347-42b0-bd2a-5e50217e44a7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "333deabd-9164-80ec-b2cb-dba2c59c15cb"
+    },
+    "created_time": "2026-03-30T12:05:00.000Z",
+    "last_edited_time": "2026-03-30T12:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Stats Dashboard",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Stats Dashboard",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " — A floating stats window with a distance trend chart, session count, consistency streak, and interactive hover details. Built with SwiftUI Charts and macOS 26's Liquid Glass design language.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " — A floating stats window with a distance trend chart, session count, consistency streak, and interactive hover details. Built with SwiftUI Charts and macOS 26's Liquid Glass design language.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "68a32459-fd83-491a-8148-fdcf111bda4a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "333deabd-9164-80ec-b2cb-dba2c59c15cb"
+    },
+    "created_time": "2026-03-30T12:05:00.000Z",
+    "last_edited_time": "2026-03-30T12:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Safety",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Safety",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " — A 60-minute walking notification that also automatically reduces your speed to 1.5 km/h. The WalkingPad recommends hourly breaks, and this makes sure you actually take them.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " — A 60-minute walking notification that also automatically reduces your speed to 1.5 km/h. The WalkingPad recommends hourly breaks, and this makes sure you actually take them.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "da2f310c-c537-4f8b-accf-dd6e90d995b2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "333deabd-9164-80ec-b2cb-dba2c59c15cb"
+    },
+    "created_time": "2026-03-30T12:05:00.000Z",
+    "last_edited_time": "2026-03-30T12:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Debug Panel",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Debug Panel",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " — Because I'm an engineer and I need to see what's happening. Live BLE console, raw session data, Notion/Strava config, and an activity log that shows every sync operation in real time.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " — Because I'm an engineer and I need to see what's happening. Live BLE console, raw session data, Notion/Strava config, and an activity log that shows every sync operation in real time.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "76f816dc-6f2b-472b-a21d-ed1c234bc7fb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "333deabd-9164-80ec-b2cb-dba2c59c15cb"
+    },
+    "created_time": "2026-03-30T12:05:00.000Z",
+    "last_edited_time": "2026-03-30T12:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The whole thing was built in a single extended session with Claude Code — from forking the repo, through understanding the BLE protocol, redesigning the UI, adding Notion and Strava integrations, fixing bugs with session detection, and polishing the Liquid Glass effects.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The whole thing was built in a single extended session with Claude Code — from forking the repo, through understanding the BLE protocol, redesigning the UI, adding Notion and Strava integrations, fixing bugs with session detection, and polishing the Liquid Glass effects.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "b9619da4-0163-4db9-9422-6b848bbbf9c1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "333deabd-9164-80ec-b2cb-dba2c59c15cb"
+    },
+    "created_time": "2026-03-30T12:05:00.000Z",
+    "last_edited_time": "2026-03-30T12:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The Experiment",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The Experiment",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e5699fe1-900f-4326-8e5f-ddd562bf8893",
+    "parent": {
+      "type": "page_id",
+      "page_id": "333deabd-9164-80ec-b2cb-dba2c59c15cb"
+    },
+    "created_time": "2026-03-30T12:05:00.000Z",
+    "last_edited_time": "2026-03-30T12:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The goal isn't to replace running or gym workouts. It's to replace sitting.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The goal isn't to replace running or gym workouts. It's to replace sitting.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "dac519a9-c7ff-4749-a3f2-f1d17c50d404",
+    "parent": {
+      "type": "page_id",
+      "page_id": "333deabd-9164-80ec-b2cb-dba2c59c15cb"
+    },
+    "created_time": "2026-03-30T12:05:00.000Z",
+    "last_edited_time": "2026-03-30T12:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I have a suspicion that the body doesn't care whether you walked 10km in one go or spread it across eight hours of gentle walking. What it cares about is that you moved. That blood flowed. That muscles engaged. That you weren't stationary for the majority of your waking hours.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I have a suspicion that the body doesn't care whether you walked 10km in one go or spread it across eight hours of gentle walking. What it cares about is that you moved. That blood flowed. That muscles engaged. That you weren't stationary for the majority of your waking hours.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c0c35446-666e-4dae-b45c-b1befe2dd201",
+    "parent": {
+      "type": "page_id",
+      "page_id": "333deabd-9164-80ec-b2cb-dba2c59c15cb"
+    },
+    "created_time": "2026-03-30T12:05:00.000Z",
+    "last_edited_time": "2026-03-30T12:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The research on prolonged sitting is grim. The research on NEAT (non-exercise activity thermogenesis) — the calories you burn through daily movement that isn't formal exercise — is encouraging. Walking at 3 km/h while working is pure NEAT.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The research on prolonged sitting is grim. The research on NEAT (non-exercise activity thermogenesis) — the calories you burn through daily movement that isn't formal exercise — is encouraging. Walking at 3 km/h while working is pure NEAT.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "2efcfa11-6d7e-4927-b4e4-03b5fa800f19",
+    "parent": {
+      "type": "page_id",
+      "page_id": "333deabd-9164-80ec-b2cb-dba2c59c15cb"
+    },
+    "created_time": "2026-03-30T12:05:00.000Z",
+    "last_edited_time": "2026-03-30T12:07:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The real test: I'm going to enter a long trail race later this year. Not to compete, but to see if walking for several km a day at a desk translates into any kind of endurance base. My theory is that it will. The body adapts to what you do most, and if what I do most is walk, I should be able to walk a very long way.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The real test: I'm going to enter a long trail race later this year. Not to compete, but to see if walking for several km a day at a desk translates into any kind of endurance base. My theory is that it will. The body adapts to what you do most, and if what I do most is walk, I should be able to walk a very long way.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "e2c4f136-4d1c-470c-9996-5f9f0872e11c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "333deabd-9164-80ec-b2cb-dba2c59c15cb"
+    },
+    "created_time": "2026-03-30T12:05:00.000Z",
+    "last_edited_time": "2026-03-30T12:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We'll see.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We'll see.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c2938dcc-53f2-4569-b8aa-a9db64750ae0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "333deabd-9164-80ec-b2cb-dba2c59c15cb"
+    },
+    "created_time": "2026-03-30T12:05:00.000Z",
+    "last_edited_time": "2026-03-30T12:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The Repo",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The Repo",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f21fb71f-2122-4a49-bc66-4a6f98835f38",
+    "parent": {
+      "type": "page_id",
+      "page_id": "333deabd-9164-80ec-b2cb-dba2c59c15cb"
+    },
+    "created_time": "2026-03-30T12:05:00.000Z",
+    "last_edited_time": "2026-03-30T12:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The app is open source: ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The app is open source: ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "leothesen/walkingpad_desktop",
+            "link": {
+              "url": "https://github.com/leothesen/walkingpad_desktop"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "leothesen/walkingpad_desktop",
+          "href": "https://github.com/leothesen/walkingpad_desktop"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ". It's a macOS 26 app (requires the latest macOS beta for the Liquid Glass UI), and you'll need your own Notion integration and Strava API credentials if you want the sync features. The README has full setup instructions.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ". It's a macOS 26 app (requires the latest macOS beta for the Liquid Glass UI), and you'll need your own Notion integration and Strava API credentials if you want the sync features. The README has full setup instructions.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d0e1da96-9d68-4d69-bfc7-d312bc075040",
+    "parent": {
+      "type": "page_id",
+      "page_id": "333deabd-9164-80ec-b2cb-dba2c59c15cb"
+    },
+    "created_time": "2026-03-30T12:05:00.000Z",
+    "last_edited_time": "2026-03-30T12:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "If you have a WalkingPad and a Mac, you might find it useful. If you have Claude Code with the Notion MCP server, you can even have Claude set up the Notion databases for you automatically.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "If you have a WalkingPad and a Mac, you might find it useful. If you have Claude Code with the Notion MCP server, you can even have Claude set up the Notion databases for you automatically.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "71078942-f91a-4032-b7b8-42363dd9911a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "333deabd-9164-80ec-b2cb-dba2c59c15cb"
+    },
+    "created_time": "2026-03-30T12:05:00.000Z",
+    "last_edited_time": "2026-03-30T12:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Here's to moving more.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Here's to moving more.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    },
+    "archived": false
+  }
+]
