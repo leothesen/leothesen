@@ -588,6 +588,17 @@ async function discoverPage(
     }
   }
 
+  // Compute effective lastEdited including child databases
+  let effectiveLastEdited = new Date(page.last_edited_time).getTime()
+  for (const entries of dbEntries.values()) {
+    for (const entry of entries) {
+      const entryTime = new Date(entry.last_edited_time).getTime()
+      if (entryTime > effectiveLastEdited) {
+        effectiveLastEdited = entryTime
+      }
+    }
+  }
+
   const discovered: DiscoveredPage = {
     cleanId,
     uuid,
@@ -598,7 +609,7 @@ async function discoverPage(
     description: getPagePropertyText(page, 'Description'),
     published: getPagePropertyText(page, 'Published'),
     author: getPagePropertyText(page, 'Author'),
-    lastEdited: page.last_edited_time,
+    lastEdited: new Date(effectiveLastEdited).toISOString(),
     order: getPagePropertyNumber(page, 'Order'),
     slugPath,
     childDatabases,
