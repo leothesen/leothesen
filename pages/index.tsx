@@ -10,7 +10,7 @@ export const getStaticProps = async () => {
     return { props: JSON.parse(JSON.stringify(props)) }
   } catch (err) {
     console.error('page error', domain, err)
-    throw err
+    return { notFound: true }
   }
 }
 
