@@ -60,8 +60,15 @@ export function getLocalPage(pageId: string): LocalPageData | null {
 
   if (!fs.existsSync(metaPath) || !fs.existsSync(blocksPath)) return null
 
-  const meta = JSON.parse(fs.readFileSync(metaPath, 'utf-8'))
-  const blocks = JSON.parse(fs.readFileSync(blocksPath, 'utf-8'))
+  let meta: LocalPageData['meta']
+  let blocks: NotionBlock[]
+  try {
+    meta = JSON.parse(fs.readFileSync(metaPath, 'utf-8'))
+    blocks = JSON.parse(fs.readFileSync(blocksPath, 'utf-8'))
+  } catch (err) {
+    console.error(`Corrupted cache file for page ${pageId}:`, err)
+    return null
+  }
 
   // Load database entries
   const databaseEntries: Record<string, DatabaseEntry[]> = {}
@@ -70,7 +77,11 @@ export function getLocalPage(pageId: string): LocalPageData | null {
     const dbFiles = fs.readdirSync(dbDir).filter((f) => f.endsWith('.json'))
     for (const dbFile of dbFiles) {
       const dbId = dbFile.replace('.json', '')
-      databaseEntries[dbId] = JSON.parse(fs.readFileSync(path.join(dbDir, dbFile), 'utf-8'))
+      try {
+        databaseEntries[dbId] = JSON.parse(fs.readFileSync(path.join(dbDir, dbFile), 'utf-8'))
+      } catch (err) {
+        console.error(`Corrupted database cache ${dbFile} for page ${pageId}:`, err)
+      }
     }
   }
 
