@@ -12,7 +12,8 @@ export const PageHead: React.FC<{
   image?: string
   url?: string
   pageId?: string
-}> = ({ site, title, description, pageId, image, url }) => {
+  noindex?: boolean
+}> = ({ site, title, description, pageId, image, url, noindex }) => {
   const rssFeedUrl = `${config.host}/feed`
 
   title = title ?? site?.name
@@ -32,7 +33,10 @@ export const PageHead: React.FC<{
       <meta name="theme-color" media="(prefers-color-scheme: light)" content="#fefffe" key="theme-color-light" />
       <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#2d3439" key="theme-color-dark" />
 
-      <meta name='robots' content='index,follow' />
+      <meta
+        name='robots'
+        content={noindex ? 'noindex,follow' : 'index,follow'}
+      />
       <meta property='og:type' content='website' />
 
       {site && (
