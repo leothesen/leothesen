@@ -1,0 +1,214 @@
+/**
+ * Field notes — art direction 3 of 3.
+ *
+ * A working notebook rather than a publication. Monospace does the labelling —
+ * breadcrumbs, dates, captions, table of contents — while the prose stays in a
+ * tight sans. Hairline rules separate blocks instead of whitespace, headings
+ * are set flush with a marginal marker, and one accent colour carries links.
+ *
+ * Loaded last, and only from _app, so the whole direction can be removed by
+ * deleting one import. It changes no markup.
+ */
+
+:root {
+  --bg-color: #fcfcfb;
+  --bg-color-1: #f0f0ee;
+  --fg-color: #14161a;
+  --fg-color-0: rgba(20, 22, 26, 0.13);
+  --fg-color-1: rgba(20, 22, 26, 0.5);
+
+  --fn-mono: 'SFMono-Regular', 'Berkeley Mono', Menlo, Consolas,
+    'Liberation Mono', monospace;
+  --fn-rule: rgba(20, 22, 26, 0.13);
+  --fn-accent: #1f5fd0;
+}
+
+.dark {
+  --bg-color: #121417;
+  --bg-color-1: #1a1d21;
+  --fg-color: #e6e9ec;
+  --fg-color-0: rgba(230, 233, 236, 0.14);
+  --fg-color-1: rgba(230, 233, 236, 0.5);
+  --fn-rule: rgba(230, 233, 236, 0.15);
+  --fn-accent: #79aaff;
+}
+
+body {
+  font-family: var(--font-inter, var(--notion-font));
+}
+
+/* Everything that labels rather than reads is monospace. */
+.notion-header,
+.notion-page-meta,
+.notion-asset-caption,
+.notion-toc,
+.notion-bookmark-link-text,
+.notion-collection-card-property,
+.notion-search-result-path {
+  font-family: var(--fn-mono);
+  font-size: 12.5px;
+  letter-spacing: -0.01em;
+}
+
+.notion-page-meta {
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-size: 11px;
+}
+
+/* Titles set flush left, not centred: a notebook has a margin, not a stage. */
+.notion-title {
+  text-align: left;
+  font-size: 2.2em;
+  font-weight: 600;
+  letter-spacing: -0.028em;
+  padding-bottom: 0.45em;
+  border-bottom: 1px solid var(--fn-rule);
+}
+
+.notion-page-meta {
+  justify-content: flex-start;
+  color: var(--fg-color-1);
+  margin-top: 10px;
+}
+
+.notion-page-icon-hero {
+  justify-content: flex-start;
+  margin-top: -28px;
+}
+
+.notion-page-icon-emoji {
+  font-size: 40px;
+}
+
+.notion-page-icon-image {
+  width: 52px;
+  height: 52px;
+  border-radius: 4px;
+}
+
+/* Headings carry a marginal marker instead of extra space above them. */
+.notion-h1,
+.notion-h2,
+.notion-h3 {
+  position: relative;
+  font-weight: 600;
+  letter-spacing: -0.016em;
+}
+
+.notion-h1 { font-size: 1.45em; margin-top: 1.7em; }
+.notion-h2 { font-size: 1.22em; margin-top: 1.5em; }
+.notion-h3 { font-size: 1.05em; margin-top: 1.3em; }
+
+.notion-h1::before,
+.notion-h2::before,
+.notion-h3::before {
+  content: '';
+  position: absolute;
+  left: -18px;
+  top: 0.62em;
+  width: 8px;
+  height: 1px;
+  background: var(--fn-accent);
+}
+
+@media (max-width: 860px) {
+  .notion-h1::before,
+  .notion-h2::before,
+  .notion-h3::before {
+    display: none;
+  }
+}
+
+.notion-page-body {
+  font-size: 16px;
+  line-height: 1.68;
+}
+
+/* One accent colour, used only for links. */
+.notion-page-body .notion-link {
+  color: var(--fn-accent);
+  text-decoration: none;
+  border-bottom: 1px solid color-mix(in srgb, var(--fn-accent) 35%, transparent);
+}
+
+.notion-page-body .notion-link:hover {
+  border-bottom-color: var(--fn-accent);
+}
+
+/* Rules do the separating, not whitespace. */
+.notion-quote {
+  border-left: 2px solid var(--fn-accent);
+  padding-left: 1em;
+  margin-left: 0;
+  color: var(--fg-color-1);
+}
+
+.notion-callout {
+  border: 1px solid var(--fn-rule);
+  border-left: 2px solid var(--fn-accent);
+  border-radius: 0;
+  background: var(--bg-color-1);
+}
+
+.notion-code {
+  border: 1px solid var(--fn-rule);
+  border-radius: 0;
+}
+
+.notion-collection-card-cover {
+  border-radius: 0;
+  box-shadow: none;
+  border: 1px solid var(--fn-rule);
+  height: 172px;
+}
+
+.notion-collection-card-cover img {
+  border-radius: 0;
+}
+
+.notion-gallery-grid {
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 18px;
+}
+
+.notion-collection-card .notion-page-title-text {
+  font-size: 0.95em;
+  font-weight: 500;
+}
+
+.notion-header {
+  background: var(--bg-color);
+  backdrop-filter: none;
+  border-bottom: 1px solid var(--fn-rule);
+}
+
+.dark .notion-header {
+  background: var(--bg-color);
+  box-shadow: none;
+  backdrop-filter: none;
+}
+
+.breadcrumb.button {
+  background: transparent;
+  border-radius: 2px;
+  color: var(--fg-color-1);
+}
+
+.dark .breadcrumb.button {
+  background: transparent;
+}
+
+.breadcrumb.button:hover {
+  background: var(--bg-color-1);
+  color: var(--fg-color);
+}
+
+.notion-page-cover-wrapper {
+  height: 22vh;
+}
+
+.notion-bookmark {
+  border-radius: 0;
+  border-color: var(--fn-rule);
+}
