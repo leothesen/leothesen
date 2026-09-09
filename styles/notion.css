@@ -452,6 +452,42 @@
   align-items: center;
 }
 
+/*
+ * Cal.com booking embed.
+ *
+ * The booker only uses its two-column layout above ~800px; inside the 720px
+ * article column it stacks into a tall strip hugging the left edge. So it
+ * breaks out of the column to the same 900px measure the index page uses.
+ * The 2rem inset keeps it clear of the viewport edge — and comfortably clear
+ * of a desktop scrollbar, which 100vw would otherwise include.
+ */
+.notion-cal-embed {
+  margin: 1.5em 0;
+}
+
+/*
+ * Break out only once the viewport can actually hand the booker the ~800px it
+ * needs for two columns. Below this it stays at the article width, so it lines
+ * up with the surrounding text instead of being mysteriously narrower.
+ */
+@media (min-width: 840px) {
+  .notion-cal-embed {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    width: min(900px, calc(100vw - 2rem));
+  }
+}
+
+.notion-cal-embed iframe {
+  display: block;
+  width: 100%;
+  border: none;
+  /* Height is driven by Cal's own __dimensionChanged messages; the transition
+     keeps month-to-month changes from snapping. */
+  transition: height 150ms ease-out;
+}
+
 .notion-image-wrapper {
   width: 100%;
 }

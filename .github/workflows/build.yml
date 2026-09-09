@@ -6,15 +6,16 @@ jobs:
   Build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v3
-        with:
-          node-version: 18
+      # No `version:` — pinned via `packageManager` in package.json. See the
+      # note in sync-notion.yml for why this must not float.
+      - uses: pnpm/action-setup@v4
 
-      - uses: pnpm/action-setup@v2
+      - uses: actions/setup-node@v4
         with:
-          version: latest
+          node-version: 22
+          cache: pnpm
 
       - run: pnpm install --frozen-lockfile
       - name: build

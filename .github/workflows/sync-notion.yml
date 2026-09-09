@@ -10,15 +10,18 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v3
+      # No `version:` here on purpose — the action reads `packageManager` from
+      # package.json, so CI can never silently float to a new pnpm major again.
+      # (An unpinned `latest` is what broke this workflow: pnpm 11+ turned
+      # ERR_PNPM_IGNORED_BUILDS into a hard failure.)
+      - uses: pnpm/action-setup@v4
+
+      - uses: actions/setup-node@v4
         with:
           node-version: 22
-
-      - uses: pnpm/action-setup@v2
-        with:
-          version: latest
+          cache: pnpm
 
       - run: pnpm install --frozen-lockfile
 
