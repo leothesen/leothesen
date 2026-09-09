@@ -5,6 +5,7 @@ import type { NotionBlock } from '@/lib/notion-api'
 import type { ChildPageInfo } from '@/lib/notion'
 import type { DatabaseEntry } from '@/lib/types'
 import { CalEmbed } from './CalEmbed'
+import { YouTubeEmbed } from './YouTubeEmbed'
 
 // Matched on the parsed hostname, so a url merely containing "cal.com"
 // (cal.com.example.net, notcal.com) does not qualify.
@@ -214,16 +215,13 @@ export function NotionBlock({ block, mapPageUrl, databaseEntriesMap, childPageMa
       const vimeoMatch = src.match(/vimeo\.com\/(\d+)/)
 
       if (youtubeMatch) {
+        const caption = (block as any).video?.caption || []
         return (
           <figure className="notion-asset-wrapper notion-asset-wrapper-video">
-            <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0 }}>
-              <iframe
-                src={`https://www.youtube.com/embed/${youtubeMatch[1]}`}
-                style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%' }}
-                allowFullScreen
-                loading="lazy"
-              />
-            </div>
+            <YouTubeEmbed
+              id={youtubeMatch[1]}
+              title={caption.map((c: any) => c.plain_text).join('') || undefined}
+            />
           </figure>
         )
       }
