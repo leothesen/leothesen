@@ -980,3 +980,9 @@ th.notion-table-cell {
     font-size: 1.8em;
   }
 }
+/* A page reference we cannot resolve to a URL — shown, but not as a link.
+   See the child_page case in NotionRenderer for why. */
+.notion-page-link-unresolved > span {
+  color: var(--fg-color-1);
+  cursor: default;
+}

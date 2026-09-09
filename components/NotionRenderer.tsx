@@ -77,6 +77,50 @@ export function RichText({ richText }: { richText: RichTextItem[] }) {
   )
 }
 
+function PageIcon({ icon }: { icon: string }) {
+  return (
+    <span className="notion-page-link-icon">
+      {icon.startsWith('http') ? (
+        <img src={icon} alt="" className="notion-page-icon-inline" />
+      ) : (
+        icon
+      )}
+    </span>
+  )
+}
+
+/** A link to another page, or plain text when there is nowhere to link to. */
+function PageLink({
+  href,
+  icon,
+  title,
+}: {
+  href?: string
+  icon?: string | null
+  title: string
+}) {
+  const content = (
+    <>
+      {icon && <PageIcon icon={icon} />}
+      {title}
+    </>
+  )
+
+  if (!href) {
+    return (
+      <div className="notion-page-link notion-page-link-unresolved">
+        <span>{content}</span>
+      </div>
+    )
+  }
+
+  return (
+    <div className="notion-page-link">
+      <Link href={href}>{content}</Link>
+    </div>
+  )
+}
+
 // Individual block renderer
 export function NotionBlock({ block, mapPageUrl, databaseEntriesMap, childPageMap }: { block: NotionBlock; mapPageUrl?: (id: string) => string; databaseEntriesMap?: Record<string, DatabaseEntry[]> | null; childPageMap?: Record<string, ChildPageInfo> | null }) {
   const renderChildren = () => {
@@ -374,21 +418,12 @@ export function NotionBlock({ block, mapPageUrl, databaseEntriesMap, childPageMa
     case 'child_page': {
       const childPage = (block as any).child_page
       const info = childPageMap?.[block.id]
-      const href = info ? `/${info.slug}` : (mapPageUrl ? mapPageUrl(block.id) : `/${block.id}`)
-      return (
-        <div className="notion-page-link">
-          <Link href={href}>
-            {info?.icon && (
-              <span className="notion-page-link-icon">
-                {info.icon.startsWith('http') ? (
-                  <img src={info.icon} alt="" className="notion-page-icon-inline" />
-                ) : info.icon}
-              </span>
-            )}
-            {childPage.title}
-          </Link>
-        </div>
-      )
+      const href = info ? `/${info.slug}` : mapPageUrl?.(block.id)
+      // A page referenced but never synced has no slug to link to. Emitting
+      // `/<uuid>` gives a link that 404s — /mountains/cederberg-fastpack-2024
+      // shipped one for its "Route archive" child. Show the title as text so
+      // the reference is still visible, without pretending it is reachable.
+      return <PageLink href={href} icon={info?.icon} title={childPage.title} />
     }
 
     case 'link_to_page': {
@@ -397,22 +432,12 @@ export function NotionBlock({ block, mapPageUrl, databaseEntriesMap, childPageMa
       if (!targetId) return null
       const cleanId = targetId.replace(/-/g, '')
       const info = childPageMap?.[targetId] || childPageMap?.[cleanId]
-      const href = info ? `/${info.slug}` : (mapPageUrl ? mapPageUrl(targetId) : `/${targetId}`)
-      const title = info?.title || 'Link'
-      return (
-        <div className="notion-page-link">
-          <Link href={href}>
-            {info?.icon && (
-              <span className="notion-page-link-icon">
-                {info.icon.startsWith('http') ? (
-                  <img src={info.icon} alt="" className="notion-page-icon-inline" />
-                ) : info.icon}
-              </span>
-            )}
-            {title}
-          </Link>
-        </div>
-      )
+      const href = info ? `/${info.slug}` : mapPageUrl?.(targetId)
+      // Unlike child_page, the block carries no title of its own, so an
+      // unresolved one has nothing to show — it used to render the word
+      // "Link" pointing at a dead URL.
+      if (!info && !href) return null
+      return <PageLink href={href} icon={info?.icon} title={info?.title || 'Link'} />
     }
 
     case 'child_database': {
