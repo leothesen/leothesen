@@ -82,6 +82,13 @@ export const NotionPage: React.FC<NotionPageProps> = ({
       />
 
       <div className="notion-viewport">
+        {/* First focusable thing on the page. Without it, reaching the article
+            means tabbing through the breadcrumb and every child-page link —
+            on a gallery page that is dozens of stops. */}
+        <a href="#notion-content" className="notion-skip-link">
+          Skip to content
+        </a>
+
         <NotionPageHeader breadcrumbs={breadcrumbs} />
 
         {cover && (
@@ -96,7 +103,13 @@ export const NotionPage: React.FC<NotionPageProps> = ({
         )}
 
         <div className="notion-page-layout">
-          <main className={cs('notion-page', isRootPage && 'index-page')}>
+          {/* tabIndex -1 so the skip link can move focus here, not just scroll:
+              without it the next Tab would start from the top again. */}
+          <main
+            id="notion-content"
+            tabIndex={-1}
+            className={cs('notion-page', isRootPage && 'index-page')}
+          >
             <div className="notion-page-content">
               {icon && (
                 <div className="notion-page-icon-hero">

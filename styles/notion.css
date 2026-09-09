@@ -980,3 +980,49 @@ th.notion-table-cell {
     font-size: 1.8em;
   }
 }
+/* ---------------------------------------------------------------------------
+ * Keyboard access
+ * ------------------------------------------------------------------------ */
+
+/* Off-screen until focused, then pinned over the header. */
+.notion-skip-link {
+  position: fixed;
+  top: 8px;
+  left: 8px;
+  z-index: 300;
+  padding: 10px 16px;
+  border-radius: 6px;
+  background: var(--bg-color);
+  color: var(--fg-color);
+  box-shadow: 0 4px 16px rgba(15, 15, 15, 0.28);
+  font-size: 14px;
+  transform: translateY(-160%);
+  transition: transform 120ms ease-out;
+}
+
+.notion-skip-link:focus {
+  transform: translateY(0);
+}
+
+/* The main region only takes focus programmatically, via the skip link — it
+   should not draw a ring around the whole article when it does. */
+.notion-page:focus {
+  outline: none;
+}
+
+/*
+ * A focus ring that survives its background. The browser default is a thin
+ * blue line, which all but disappears in dark mode and over a photograph —
+ * and gallery cards are links laid directly on images. Two rings, dark over
+ * light, keep it visible on anything.
+ */
+:focus-visible {
+  outline: 2px solid var(--fg-color);
+  outline-offset: 2px;
+  border-radius: 3px;
+  box-shadow: 0 0 0 4px var(--bg-color);
+}
+
+.notion-collection-card:focus-visible {
+  outline-offset: 3px;
+}
