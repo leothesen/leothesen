@@ -1,0 +1,167 @@
+/**
+ * Editorial — art direction 1 of 3.
+ *
+ * A reading-first treatment: serif body copy on a warm paper ground, a measure
+ * tuned for prose rather than for the viewport, and Inter kept for the chrome
+ * so navigation stays crisp against the softer text.
+ *
+ * Loaded last, and only from _app, so the whole direction can be removed by
+ * deleting one import. It changes no markup.
+ */
+
+:root {
+  /* Warm paper and ink rather than white and near-black. Long-form reading is
+     what this site is for, and pure #fff at full contrast is fatiguing. */
+  --bg-color: #fbfaf7;
+  --bg-color-1: #f3f0e9;
+  --fg-color: #232019;
+  --fg-color-0: rgba(35, 32, 25, 0.1);
+  --fg-color-1: rgba(35, 32, 25, 0.55);
+
+  --editorial-serif: 'Iowan Old Style', 'Palatino Linotype', Palatino,
+    'Book Antiqua', Georgia, 'Times New Roman', serif;
+  --editorial-rule: rgba(35, 32, 25, 0.14);
+}
+
+.dark {
+  --bg-color: #1a1917;
+  --bg-color-1: #232120;
+  --fg-color: #ece7dd;
+  --fg-color-0: rgba(236, 231, 221, 0.12);
+  --fg-color-1: rgba(236, 231, 221, 0.55);
+  --editorial-rule: rgba(236, 231, 221, 0.18);
+}
+
+/* Body copy is the serif; the chrome stays Inter. */
+.notion-page-body,
+.notion-title,
+.notion-h1,
+.notion-h2,
+.notion-h3,
+.notion-quote {
+  font-family: var(--editorial-serif);
+}
+
+.notion-header,
+.notion-toc,
+.notion-asset-caption,
+.notion-collection-card-body,
+.notion-page-meta {
+  font-family: var(--font-inter, var(--notion-font));
+  letter-spacing: -0.005em;
+}
+
+/* A measure set by the text, not the window: ~68 characters at this size. */
+.notion-page {
+  --notion-max-width: 700px;
+}
+
+.notion-page-body {
+  font-size: 19px;
+  line-height: 1.72;
+}
+
+.notion-text {
+  padding: 0.42em 0;
+}
+
+/* Headings sit closer to the paragraph they introduce than to the one they
+   follow, so the hierarchy reads without needing extra rules. */
+.notion-h1,
+.notion-h2,
+.notion-h3 {
+  font-weight: 600;
+  letter-spacing: -0.012em;
+  margin-bottom: 0.2em;
+}
+
+.notion-h1 { font-size: 1.72em; margin-top: 1.9em; }
+.notion-h2 { font-size: 1.38em; margin-top: 1.7em; }
+.notion-h3 { font-size: 1.16em; margin-top: 1.5em; }
+
+.notion-title {
+  font-size: 2.9em;
+  font-weight: 600;
+  letter-spacing: -0.028em;
+  line-height: 1.08;
+}
+
+/* Links earn an underline in running text — colour alone is a weak signal on
+   a warm ground — but not in the chrome or on cards. */
+.notion-page-body .notion-link {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.16em;
+  text-decoration-color: var(--fg-color-1);
+  transition: text-decoration-color 120ms ease-out;
+}
+
+.notion-page-body .notion-link:hover {
+  text-decoration-color: var(--fg-color);
+}
+
+.notion-quote {
+  border-left: 2px solid var(--editorial-rule);
+  padding-left: 1.1em;
+  margin-left: 0;
+  font-style: italic;
+  color: var(--fg-color);
+}
+
+/* Cards lose the drop shadow and gain a hairline: quieter, and it sits better
+   against paper than a floating panel does. */
+.notion-collection-card-cover {
+  border-radius: 3px;
+  box-shadow: none;
+  border: 1px solid var(--editorial-rule);
+}
+
+.notion-collection-card-body {
+  padding-top: 0.6em;
+}
+
+.notion-gallery-grid {
+  gap: 3.2vmin 2.4vmin;
+}
+
+.notion-collection-card .notion-page-title-text {
+  font-family: var(--editorial-serif);
+  font-size: 1.05em;
+}
+
+/* Chrome recedes: no blur panel, just a rule under a paper-coloured bar. */
+.notion-header {
+  background: var(--bg-color);
+  backdrop-filter: none;
+  border-bottom: 1px solid var(--editorial-rule);
+}
+
+.dark .notion-header {
+  background: var(--bg-color);
+  box-shadow: none;
+  backdrop-filter: none;
+}
+
+.breadcrumb.button {
+  background: transparent;
+  border-radius: 3px;
+  color: var(--fg-color-1);
+}
+
+.dark .breadcrumb.button {
+  background: transparent;
+}
+
+.breadcrumb.button:hover {
+  background: var(--bg-color-1);
+  color: var(--fg-color);
+}
+
+.notion-callout {
+  border-radius: 3px;
+  border: 1px solid var(--editorial-rule);
+}
+
+.notion-page-cover-wrapper {
+  height: 34vh;
+}
