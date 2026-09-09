@@ -1,6 +1,10 @@
 {
+  "id": "/",
   "name": "Leo Thesen",
   "short_name": "Leo Thesen",
+  "description": "Leo Thesen's digital garden 🌱",
+  "start_url": "/",
+  "scope": "/",
   "icons": [
     {
       "src": "/favicon.png",
@@ -16,9 +20,15 @@
       "src": "/favicon-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
+    },
+    {
+      "src": "/favicon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
     }
   ],
-  "theme_color": "#000000",
-  "background_color": "#000000",
+  "theme_color": "#fefffe",
+  "background_color": "#fefffe",
   "display": "standalone"
 }
