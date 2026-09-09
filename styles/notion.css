@@ -980,3 +980,66 @@ th.notion-table-cell {
     font-size: 1.8em;
   }
 }
+/* ---------------------------------------------------------------------------
+ * Previous / next
+ *
+ * Order comes from the manifest's key order, which follows how the pages are
+ * arranged in Notion — the travel journal alone has 102 siblings in sequence.
+ * ------------------------------------------------------------------------ */
+.notion-page-neighbours {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-top: 3em;
+  padding-top: 1.5em;
+  border-top: 1px solid var(--fg-color-0);
+}
+
+.notion-neighbour {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  padding: 12px 14px;
+  border: 1px solid var(--fg-color-0);
+  border-radius: 6px;
+  min-width: 0;
+  transition: border-color 120ms ease-out, background 120ms ease-out;
+}
+
+.notion-neighbour:hover {
+  border-color: var(--fg-color-1);
+  background: var(--bg-color-1);
+}
+
+.notion-neighbour-next {
+  text-align: right;
+  grid-column: 2;
+}
+
+.notion-neighbour-label {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--fg-color-1);
+}
+
+.notion-neighbour-title {
+  font-size: 15px;
+  line-height: 1.35;
+  /* Journal entry titles run long; two lines is plenty for a signpost. */
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+@media (max-width: 560px) {
+  .notion-page-neighbours {
+    grid-template-columns: 1fr;
+  }
+
+  .notion-neighbour-next {
+    grid-column: 1;
+    text-align: left;
+  }
+}
