@@ -4,6 +4,18 @@ import Link from 'next/link'
 import type { NotionBlock } from '@/lib/notion-api'
 import type { ChildPageInfo } from '@/lib/notion'
 import type { DatabaseEntry } from '@/lib/types'
+import { CalEmbed } from './CalEmbed'
+
+// Matched on the parsed hostname, so a url merely containing "cal.com"
+// (cal.com.example.net, notcal.com) does not qualify.
+function isCalUrl(rawUrl: string): boolean {
+  try {
+    const { hostname } = new URL(rawUrl)
+    return hostname === 'cal.com' || hostname.endsWith('.cal.com')
+  } catch {
+    return false
+  }
+}
 
 // Rich text rendering
 interface RichTextItem {
@@ -242,6 +254,14 @@ export function NotionBlock({ block, mapPageUrl, databaseEntriesMap, childPageMa
     case 'link_preview': {
       const data = (block as any)[block.type]
       const url = data.url
+      // Notion keeps empty embed blocks; rendering one as <iframe src="">
+      // makes the browser resolve it against the current page.
+      if (!url) return null
+
+      // Cal.com needs to size itself — see CalEmbed for why a fixed height
+      // cannot work. Every other embed keeps the generic treatment.
+      if (isCalUrl(url)) return <CalEmbed url={url} />
+
       return (
         <figure className="notion-asset-wrapper">
           <iframe

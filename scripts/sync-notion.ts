@@ -200,6 +200,28 @@ function loadExistingManifest(): Manifest | null {
   }
 }
 
+// Everything in the manifest except `syncedAt`, which records when the sync ran
+// rather than anything about the content itself.
+function manifestContent(m: Manifest): string {
+  return JSON.stringify({ slugTree: m.slugTree, pages: m.pages })
+}
+
+// Writes the manifest, stamping `syncedAt` only when something else actually
+// changed. Without this the timestamp moves on every run, so the file is always
+// dirty and the sync workflow raises a pull request whose entire diff is a new
+// date. Owning the timestamp here means no caller can reintroduce that by
+// stamping it themselves. Returns true if the content changed.
+function writeManifest(next: Manifest): boolean {
+  const existing = loadExistingManifest()
+  const changed = !existing || manifestContent(existing) !== manifestContent(next)
+  next.syncedAt = changed ? new Date().toISOString() : existing!.syncedAt
+  fs.writeFileSync(
+    path.join(CONTENT_DIR, 'manifest.json'),
+    JSON.stringify(next, null, 2)
+  )
+  return changed
+}
+
 function loadExistingMeta(pageId: string): PageMeta | null {
   const metaPath = path.join(CONTENT_DIR, 'pages', pageId, 'meta.json')
   if (!fs.existsSync(metaPath)) return null
@@ -968,11 +990,7 @@ async function repairPage(target: string): Promise<void> {
     entry.icon = imageUrlMap.get(entry.icon)!
   }
 
-  existingManifest.syncedAt = new Date().toISOString()
-  fs.writeFileSync(
-    path.join(CONTENT_DIR, 'manifest.json'),
-    JSON.stringify(existingManifest, null, 2)
-  )
+  writeManifest(existingManifest)
   fs.writeFileSync(IMAGE_MAP_PATH, JSON.stringify(persistedImageMap, null, 2))
 
   console.log(`\nRepair complete!`)
@@ -1360,11 +1378,12 @@ async function main() {
   }
 
   // Write manifest and image map
-  fs.writeFileSync(
-    path.join(CONTENT_DIR, 'manifest.json'),
-    JSON.stringify(manifest, null, 2)
-  )
+  const manifestChanged = writeManifest(manifest)
   fs.writeFileSync(IMAGE_MAP_PATH, JSON.stringify(persistedImageMap, null, 2))
+
+  if (!manifestChanged) {
+    console.log('\nManifest unchanged - keeping previous syncedAt.')
+  }
 
   console.log(`\nSync complete!`)
   console.log(`  Pages: ${Object.keys(manifest.pages).length}`)
