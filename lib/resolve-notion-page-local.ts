@@ -1,6 +1,6 @@
 import { site, pageUrlOverrides, pageUrlAdditions } from './config'
 import { parsePageId } from './notion-utils'
-import { getManifest, getLocalPage } from './notion-local'
+import { getManifest, getLocalPage, getTopLevelSections } from './notion-local'
 import type { NotionBlock } from './notion-api'
 import type { Breadcrumb, DatabaseEntry } from './types'
 import type { ChildPageInfo } from './notion'
@@ -137,6 +137,7 @@ export async function resolveNotionPageLocal(domain: string, rawPageId?: string 
     breadcrumbs,
     databaseEntriesMap,
     childPageMap,
+    sections: getTopLevelSections(),
   }
 }
 

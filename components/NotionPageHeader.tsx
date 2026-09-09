@@ -1,9 +1,11 @@
 import * as React from 'react'
 import Link from 'next/link'
+import { useRouter } from 'next/router'
 
 import cs from 'classnames'
 
 import { navigationLinks, navigationStyle } from '@/lib/config'
+import type { SiteSection } from '@/lib/notion-local'
 import type { Breadcrumb } from '@/lib/types'
 
 import styles from './styles.module.css'
@@ -41,8 +43,12 @@ function useScrollDirection() {
   return hidden
 }
 
-export const NotionPageHeader: React.FC<{ breadcrumbs?: Breadcrumb[] }> = ({ breadcrumbs }) => {
+export const NotionPageHeader: React.FC<{
+  breadcrumbs?: Breadcrumb[]
+  sections?: SiteSection[]
+}> = ({ breadcrumbs, sections }) => {
   const hidden = useScrollDirection()
+  const router = useRouter()
 
   return (
     <header className={cs('notion-header', hidden && 'notion-header-hidden')}>
@@ -59,6 +65,27 @@ export const NotionPageHeader: React.FC<{ breadcrumbs?: Breadcrumb[] }> = ({ bre
             </React.Fragment>
           ))}
         </nav>
+
+        {sections?.length > 0 && (
+          <nav className="notion-nav-sections" aria-label="Sections">
+            {sections.map((section) => {
+              // Also mark the section active while reading anything beneath it.
+              const current =
+                router.asPath === section.path ||
+                router.asPath.startsWith(`${section.path}/`)
+              return (
+                <Link
+                  key={section.path}
+                  href={section.path}
+                  className={cs('notion-nav-section', current && 'notion-nav-section-current')}
+                  aria-current={current ? 'page' : undefined}
+                >
+                  {section.title}
+                </Link>
+              )
+            })}
+          </nav>
+        )}
 
         {navigationStyle === 'custom' && navigationLinks?.length > 0 && (
           <div className='notion-nav-header-rhs'>

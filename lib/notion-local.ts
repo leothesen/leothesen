@@ -100,3 +100,23 @@ export function getAllPages(): DatabaseEntry[] {
 
   return entries
 }
+
+export interface SiteSection {
+  title: string
+  path: string
+}
+
+/**
+ * The top level of the slug tree — the site's main sections.
+ *
+ * Derived from the manifest rather than configured, so it follows whatever is
+ * in Notion. site.config.ts does have a navigationLinks option, but it takes
+ * hardcoded page ids that drift the moment a page is renamed or moved.
+ */
+export function getTopLevelSections(): SiteSection[] {
+  const manifest = getManifest()
+  return Object.entries(manifest.slugTree).map(([slug, node]) => ({
+    title: node.title.trim(),
+    path: `/${slug}`,
+  }))
+}
