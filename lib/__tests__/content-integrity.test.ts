@@ -152,6 +152,41 @@ describe('cross-references', () => {
   })
 })
 
+describe('image permanence', () => {
+  // The sync copies Notion's images to Blob storage and rewrites the URLs to
+  // point there. When that does not happen the manifest keeps Notion's own
+  // signed S3 link, which expires — one of these is already a broken image on
+  // the live site, and the rest will follow.
+  //
+  // `pnpm sync:images` re-uploads them. Listed rather than ignored so the set
+  // can only shrink: a new one fails this test.
+  const KNOWN_EXPIRING_COVERS = 13
+  const KNOWN_EXPIRING_BLOCK_IMAGES = 2
+
+  const isExpiring = (url: string) =>
+    /prod-files-secure\.s3|X-Amz-Credential|X-Amz-Expires/.test(url)
+
+  it('has no more expiring cover URLs than the known set', () => {
+    const expiring = manifestIds
+      .map((id) => manifest.pages[id].cover)
+      .filter((cover): cover is string => !!cover && isExpiring(cover))
+
+    expect(expiring.length).toBeLessThanOrEqual(KNOWN_EXPIRING_COVERS)
+  })
+
+  it('has no more expiring block images than the known set', () => {
+    let expiring = 0
+    for (const id of manifestIds) {
+      walk(readBlocks(id), (block) => {
+        const url = block.image?.file?.url || block.image?.external?.url
+        if (typeof url === 'string' && isExpiring(url)) expiring++
+      })
+    }
+
+    expect(expiring).toBeLessThanOrEqual(KNOWN_EXPIRING_BLOCK_IMAGES)
+  })
+})
+
 describe('asset URLs', () => {
   it('serves every image and embed over https', () => {
     const insecure: string[] = []
