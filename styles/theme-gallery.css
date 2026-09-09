@@ -1,0 +1,166 @@
+/**
+ * Gallery — art direction 2 of 3.
+ *
+ * The site is mostly photographs: surf, mountains, travel. This direction gets
+ * out of their way. Imagery runs bigger and edge to edge, the palette goes
+ * cool and neutral so it recedes behind the pictures, and the type shrinks to
+ * captions and labels around them.
+ *
+ * Loaded last, and only from _app, so the whole direction can be removed by
+ * deleting one import. It changes no markup.
+ */
+
+:root {
+  /* Near-neutral greys rather than warm paper: photographs carry the colour,
+     so the surface should not compete for it. */
+  --bg-color: #f4f5f6;
+  --bg-color-1: #e8eaec;
+  --fg-color: #16181a;
+  --fg-color-0: rgba(22, 24, 26, 0.1);
+  --fg-color-1: rgba(22, 24, 26, 0.52);
+  --gallery-chrome: rgba(244, 245, 246, 0.72);
+}
+
+.dark {
+  --bg-color: #0e0f11;
+  --bg-color-1: #17191c;
+  --fg-color: #f0f2f4;
+  --fg-color-0: rgba(240, 242, 244, 0.12);
+  --fg-color-1: rgba(240, 242, 244, 0.5);
+  --gallery-chrome: rgba(14, 15, 17, 0.72);
+}
+
+body {
+  font-family: var(--font-inter, var(--notion-font));
+}
+
+/* Covers become the subject rather than a band at the top. */
+.notion-page-cover-wrapper {
+  height: 62vh;
+}
+
+.notion-page-cover {
+  height: 62vh;
+}
+
+/* The title sits over the foot of the cover instead of below it, so the image
+   is not interrupted by a block of chrome. */
+.notion-page-icon-hero {
+  margin-top: -56px;
+}
+
+.notion-title {
+  font-size: 2.6em;
+  font-weight: 600;
+  letter-spacing: -0.032em;
+}
+
+/* Gallery: bigger cells, tighter gutters, square corners. Reads as a contact
+   sheet rather than a row of cards. */
+.notion-gallery-grid {
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 10px;
+  margin: 28px 0;
+}
+
+.notion-collection-card-cover {
+  height: 260px;
+  border-radius: 0;
+  box-shadow: none;
+  transition: filter 200ms ease-out, transform 200ms ease-out;
+}
+
+.notion-collection-card-cover img {
+  border-radius: 0;
+}
+
+.notion-collection-card:hover .notion-collection-card-cover {
+  filter: none;
+  transform: scale(1.012);
+}
+
+.notion-collection-card-body {
+  padding: 8px 2px 0;
+}
+
+.notion-collection-card .notion-page-title-text {
+  font-size: 0.92em;
+  font-weight: 500;
+  letter-spacing: -0.008em;
+}
+
+.notion-collection-card-property {
+  font-size: 0.8em;
+  color: var(--fg-color-1);
+}
+
+/* Content images go wider than the text column — they are the point. */
+.notion-asset-wrapper .notion-image-wrapper {
+  width: min(940px, calc(100vw - 2rem));
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.notion-image-wrapper img {
+  border-radius: 0;
+}
+
+.notion-asset-caption {
+  font-size: 12.5px;
+  letter-spacing: 0.01em;
+  color: var(--fg-color-1);
+  text-transform: uppercase;
+  padding-top: 10px;
+}
+
+/* Chrome is a thin translucent rail; the picture behind it stays visible. */
+.notion-header {
+  background: var(--gallery-chrome);
+  backdrop-filter: saturate(160%) blur(20px);
+  border-bottom: none;
+}
+
+.dark .notion-header {
+  background: var(--gallery-chrome);
+  box-shadow: none;
+}
+
+.breadcrumb.button {
+  background: transparent;
+  font-size: 13px;
+  letter-spacing: 0.01em;
+  color: var(--fg-color-1);
+}
+
+.dark .breadcrumb.button {
+  background: transparent;
+}
+
+.breadcrumb.button:hover {
+  background: var(--bg-color-1);
+  color: var(--fg-color);
+}
+
+/* Running text stays quiet and narrow — it is caption to the images. */
+.notion-page-body {
+  font-size: 16.5px;
+  line-height: 1.7;
+  color: var(--fg-color);
+}
+
+.notion-callout {
+  border-radius: 2px;
+  background: var(--bg-color-1);
+}
+
+@media (max-width: 760px) {
+  .notion-page-cover-wrapper,
+  .notion-page-cover {
+    height: 42vh;
+  }
+
+  .notion-collection-card-cover {
+    height: 220px;
+  }
+}
