@@ -79,11 +79,25 @@ export function getLocalPage(pageId: string): LocalPageData | null {
 
 export function getAllPages(): DatabaseEntry[] {
   const manifest = getManifest()
-  const entries: DatabaseEntry[] = []
+  // Keyed by URL, because two Notion pages can claim the same one.
+  const byPath = new Map<string, DatabaseEntry>()
+  const collisions = new Map<string, string[]>()
 
-  for (const [pageId, pageInfo] of Object.entries(manifest.pages)) {
+  // Sorted so the winner of a collision is the same on every build. Iterating
+  // manifest.pages directly would leave it to JSON key order, which is stable
+  // in practice but not something to depend on for which page a URL serves.
+  const pages = Object.entries(manifest.pages).sort(([a], [b]) => a.localeCompare(b))
+
+  for (const [pageId, pageInfo] of pages) {
     if (pageInfo.slugPath.length === 0) continue // skip root
-    entries.push({
+
+    const path = pageInfo.slugPath.join('/')
+    if (byPath.has(path)) {
+      collisions.set(path, [...(collisions.get(path) || [byPath.get(path)!.id]), pageId])
+      continue
+    }
+
+    byPath.set(path, {
       id: pageId,
       title: pageInfo.title,
       description: pageInfo.description,
@@ -98,5 +112,26 @@ export function getAllPages(): DatabaseEntry[] {
     })
   }
 
-  return entries
+  warnAboutCollisions(collisions)
+  return [...byPath.values()]
+}
+
+// Printed once per process rather than once per call — getAllPages runs for
+// getStaticPaths, the sitemap, the feed and the search index.
+let warnedAboutCollisions = false
+
+function warnAboutCollisions(collisions: Map<string, string[]>) {
+  if (warnedAboutCollisions || collisions.size === 0) return
+  warnedAboutCollisions = true
+
+  console.warn(
+    `\n[content] ${collisions.size} URL${collisions.size === 1 ? '' : 's'} claimed by more than one Notion page.\n` +
+      `Only the first is reachable; the rest are unreachable at any URL.\n` +
+      `Rename or delete the duplicates in Notion to fix this at the source:\n`
+  )
+  for (const [path, ids] of collisions) {
+    console.warn(`  /${path}`)
+    for (const id of ids) console.warn(`      ${id}`)
+  }
+  console.warn('')
 }
