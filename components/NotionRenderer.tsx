@@ -77,8 +77,55 @@ export function RichText({ richText }: { richText: RichTextItem[] }) {
   )
 }
 
+/**
+ * How far Notion's heading levels are pushed down for this page.
+ *
+ * The page title is already the document's <h1>, so rendering Notion's
+ * heading_1 as <h1> gave some pages six of them — which flattens the outline a
+ * screen reader builds and leaves search engines without a single subject.
+ *
+ * The offset is per page rather than a flat +1: 10 of the 216 pages start at
+ * heading_2, and demoting those uniformly would turn a clean h1 -> h2 into a
+ * skipped h1 -> h3. Shifting by the shallowest heading the page actually uses
+ * means the top-level section is always <h2>, whichever Notion level it is.
+ */
+const HeadingOffsetContext = React.createContext(1)
+
+export function computeHeadingOffset(blocks: NotionBlock[]): number {
+  let shallowest: number | null = null
+
+  const walk = (list: NotionBlock[] | undefined) => {
+    for (const block of list || []) {
+      const match = /^heading_([123])$/.exec(block.type || '')
+      if (match) {
+        const level = Number(match[1])
+        if (shallowest === null || level < shallowest) shallowest = level
+      }
+      if ((block as any).children) walk((block as any).children)
+    }
+  }
+
+  walk(blocks)
+  return shallowest === null ? 1 : 2 - shallowest
+}
+
+export function HeadingOffsetProvider({
+  blocks,
+  children,
+}: {
+  blocks: NotionBlock[]
+  children: React.ReactNode
+}) {
+  const offset = React.useMemo(() => computeHeadingOffset(blocks), [blocks])
+  return (
+    <HeadingOffsetContext.Provider value={offset}>{children}</HeadingOffsetContext.Provider>
+  )
+}
+
 // Individual block renderer
 export function NotionBlock({ block, mapPageUrl, databaseEntriesMap, childPageMap }: { block: NotionBlock; mapPageUrl?: (id: string) => string; databaseEntriesMap?: Record<string, DatabaseEntry[]> | null; childPageMap?: Record<string, ChildPageInfo> | null }) {
+  const headingOffset = React.useContext(HeadingOffsetContext)
+
   const renderChildren = () => {
     if (!block.children?.length) return null
     return (
@@ -98,25 +145,20 @@ export function NotionBlock({ block, mapPageUrl, databaseEntriesMap, childPageMa
       )
 
     case 'heading_1':
-      return (
-        <h1 className="notion-h1" id={block.id}>
-          <RichText richText={(block as any).heading_1.rich_text} />
-        </h1>
-      )
-
     case 'heading_2':
+    case 'heading_3': {
+      const level = Number(block.type.slice(-1))
+      // Demoted so the page title keeps the only <h1> — see headingOffset.
+      // The notion-h* class still comes from the Notion level, so nothing
+      // looks different.
+      const Tag = `h${Math.min(6, Math.max(2, level + headingOffset))}` as
+        'h2' | 'h3' | 'h4' | 'h5' | 'h6'
       return (
-        <h2 className="notion-h2" id={block.id}>
-          <RichText richText={(block as any).heading_2.rich_text} />
-        </h2>
+        <Tag className={`notion-h${level}`} id={block.id}>
+          <RichText richText={(block as any)[block.type].rich_text} />
+        </Tag>
       )
-
-    case 'heading_3':
-      return (
-        <h3 className="notion-h3" id={block.id}>
-          <RichText richText={(block as any).heading_3.rich_text} />
-        </h3>
-      )
+    }
 
     case 'bulleted_list_item':
       return (
