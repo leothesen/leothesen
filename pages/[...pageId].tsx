@@ -11,6 +11,14 @@ export const getStaticProps: GetStaticProps = async (context) => {
 
   try {
     const props = await resolveNotionPageLocal(domain, rawPageId)
+
+    // Without this the catch-all route answers every unknown path itself, so
+    // pages/404.tsx never renders — see #80, which fixes the status code for
+    // the same reason.
+    if ((props as { error?: { statusCode?: number } }).error?.statusCode === 404) {
+      return { notFound: true }
+    }
+
     return { props: JSON.parse(JSON.stringify(props)) }
   } catch (err) {
     console.error('page error', domain, rawPageId, err)
@@ -22,7 +30,7 @@ export async function getStaticPaths() {
   if (isDev) {
     return {
       paths: [],
-      fallback: true,
+      fallback: 'blocking',
     }
   }
 
@@ -32,7 +40,7 @@ export async function getStaticPaths() {
     paths: pages.map((page) => ({
       params: { pageId: page.path },
     })),
-    fallback: true,
+    fallback: 'blocking',
   }
 }
 

@@ -249,3 +249,84 @@
   transition-timing-function: ease-in-out;
   transition-duration: 300ms;
 }
+/* --- Not found ---------------------------------------------------------- */
+
+.notFoundIntro {
+  margin: 0 0 1.5em;
+  color: rgba(55, 53, 47, 0.65);
+  text-align: center;
+}
+
+.notFoundSections {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  max-width: 520px;
+  margin-bottom: 1.75em;
+}
+
+.notFoundSection {
+  padding: 7px 14px;
+  border: 1px solid rgba(55, 53, 47, 0.16);
+  border-radius: 999px;
+  font-size: 14px;
+  transition: border-color 120ms ease-out, background 120ms ease-out;
+}
+
+.notFoundSection:hover {
+  border-color: rgba(55, 53, 47, 0.4);
+  background: rgba(55, 53, 47, 0.04);
+}
+
+.notFoundActions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 10px 20px;
+  margin-bottom: 1.5em;
+}
+
+.notFoundHome {
+  padding: 9px 18px;
+  border-radius: 6px;
+  background: rgba(55, 53, 47, 0.9);
+  color: #fff;
+  font-size: 14px;
+}
+
+.notFoundReport,
+.notFoundDetail {
+  font-size: 13px;
+  color: rgba(55, 53, 47, 0.55);
+}
+
+.notFoundReport {
+  text-decoration: underline;
+}
+
+.notFoundDetail {
+  margin: 0 0 1.5em;
+  text-align: center;
+}
+
+:global(.dark) .notFoundIntro,
+:global(.dark) .notFoundReport,
+:global(.dark) .notFoundDetail {
+  color: rgba(255, 255, 255, 0.55);
+}
+
+:global(.dark) .notFoundSection {
+  border-color: rgba(255, 255, 255, 0.18);
+}
+
+:global(.dark) .notFoundSection:hover {
+  border-color: rgba(255, 255, 255, 0.45);
+  background: rgba(255, 255, 255, 0.06);
+}
+
+:global(.dark) .notFoundHome {
+  background: rgba(255, 255, 255, 0.9);
+  color: #1a1a1a;
+}
