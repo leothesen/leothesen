@@ -4,7 +4,27 @@ import Link from 'next/link'
 import type { NotionBlock } from '@/lib/notion-api'
 import type { ChildPageInfo } from '@/lib/notion'
 import type { DatabaseEntry } from '@/lib/types'
+import { planEmbed } from '@/lib/embed-url'
 import { CalEmbed } from './CalEmbed'
+
+// Shared by `bookmark` blocks and by embeds whose target refuses to be framed.
+function BookmarkCard({ url, label }: { url: string; label: string }) {
+  return (
+    <a
+      href={url}
+      target="_blank"
+      rel="noopener noreferrer"
+      className="notion-bookmark"
+    >
+      <div className="notion-bookmark-content">
+        <div className="notion-bookmark-title">{label}</div>
+        <div className="notion-bookmark-link">
+          <span className="notion-bookmark-link-text">{url}</span>
+        </div>
+      </div>
+    </a>
+  )
+}
 
 // Matched on the parsed hostname, so a url merely containing "cal.com"
 // (cal.com.example.net, notcal.com) does not qualify.
@@ -262,11 +282,20 @@ export function NotionBlock({ block, mapPageUrl, databaseEntriesMap, childPageMa
       // cannot work. Every other embed keeps the generic treatment.
       if (isCalUrl(url)) return <CalEmbed url={url} />
 
+      // Most share links (Spotify, SoundCloud, TikTok) refuse to be framed and
+      // render as an empty box. planEmbed swaps in the platform's own player
+      // where one exists, and says so when none does.
+      const plan = planEmbed(url)
+      if (plan.kind === 'bookmark') {
+        return <BookmarkCard url={url} label={url} />
+      }
+
       return (
         <figure className="notion-asset-wrapper">
           <iframe
-            src={url}
-            style={{ width: '100%', minHeight: '400px', border: 'none' }}
+            src={plan.src}
+            title={plan.title}
+            style={{ width: '100%', height: `${plan.height}px`, border: 'none' }}
             loading="lazy"
             allowFullScreen
           />
@@ -277,25 +306,11 @@ export function NotionBlock({ block, mapPageUrl, databaseEntriesMap, childPageMa
     case 'bookmark': {
       const bookmark = (block as any).bookmark
       const caption = bookmark.caption || []
-      return (
-        <a
-          href={bookmark.url}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="notion-bookmark"
-        >
-          <div className="notion-bookmark-content">
-            <div className="notion-bookmark-title">
-              {caption.length > 0
-                ? caption.map((c: any) => c.plain_text).join('')
-                : bookmark.url}
-            </div>
-            <div className="notion-bookmark-link">
-              <span className="notion-bookmark-link-text">{bookmark.url}</span>
-            </div>
-          </div>
-        </a>
-      )
+      const label =
+        caption.length > 0
+          ? caption.map((c: any) => c.plain_text).join('')
+          : bookmark.url
+      return <BookmarkCard url={bookmark.url} label={label} />
     }
 
     case 'quote':
