@@ -41,6 +41,42 @@ function findPageBySlugPath(
   return null
 }
 
+// 220 words a minute is the middle of the usual range for adult prose.
+const WORDS_PER_MINUTE = 220
+// Below roughly a minute's reading, the estimate says less than the page does.
+const MIN_WORDS_TO_SHOW = 200
+
+/**
+ * Reading time in whole minutes, or null for a page too short to bother.
+ *
+ * Counted server-side: the numbers are static per page, and the client already
+ * has plenty to do. Half the site is over 400 words and the longest page is
+ * 6,600, so this is a real signal rather than decoration.
+ */
+function estimateReadingMinutes(blocks: NotionBlock[]): number | null {
+  let words = 0
+
+  const walk = (list: NotionBlock[] | undefined) => {
+    for (const block of list || []) {
+      const data = (block as any)[block.type]
+      const richText = data?.rich_text
+      if (Array.isArray(richText)) {
+        for (const run of richText) {
+          const text = run?.plain_text
+          if (typeof text === 'string' && text.trim()) {
+            words += text.trim().split(/\s+/).length
+          }
+        }
+      }
+      if ((block as any).children) walk((block as any).children)
+    }
+  }
+
+  walk(blocks)
+  if (words < MIN_WORDS_TO_SHOW) return null
+  return Math.max(1, Math.round(words / WORDS_PER_MINUTE))
+}
+
 // Flat search: find a slug anywhere in the tree
 function findPageBySlugFlat(
   slug: string,
@@ -137,6 +173,7 @@ export async function resolveNotionPageLocal(domain: string, rawPageId?: string 
     breadcrumbs,
     databaseEntriesMap,
     childPageMap,
+    readingMinutes: estimateReadingMinutes(localPage.blocks),
   }
 }
 
