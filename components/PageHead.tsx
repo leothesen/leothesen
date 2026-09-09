@@ -5,6 +5,67 @@ import * as config from '@/lib/config'
 import { getSocialImageUrl } from '@/lib/get-social-image-url'
 import type { Site } from '@/lib/types'
 
+/**
+ * Schema.org description of the page, as a JSON-LD string.
+ *
+ * Returns null rather than a half-filled graph when there is no canonical URL
+ * to anchor it to — an Article with no `mainEntityOfPage` is not much use to a
+ * crawler, and an empty one is worse than none.
+ */
+function buildStructuredData({
+  isArticle,
+  title,
+  description,
+  url,
+  image,
+  publishedTime,
+  modifiedTime,
+  siteName,
+}: {
+  isArticle?: boolean
+  title?: string
+  description?: string
+  url?: string
+  image?: string
+  publishedTime?: string
+  modifiedTime?: string
+  siteName?: string
+}): string | null {
+  if (!url || !title) return null
+
+  const author = {
+    '@type': 'Person',
+    name: siteName || config.author,
+    url: config.host,
+  }
+
+  const data = isArticle
+    ? {
+        '@context': 'https://schema.org',
+        '@type': 'Article',
+        headline: title,
+        ...(description ? { description } : {}),
+        ...(image ? { image: [image] } : {}),
+        ...(publishedTime ? { datePublished: publishedTime } : {}),
+        ...(modifiedTime ? { dateModified: modifiedTime } : {}),
+        author,
+        publisher: author,
+        mainEntityOfPage: { '@type': 'WebPage', '@id': url },
+      }
+    : {
+        '@context': 'https://schema.org',
+        '@type': 'WebSite',
+        name: siteName || config.name,
+        ...(description ? { description } : {}),
+        url: config.host,
+        author,
+      }
+
+  // `<` is the only character that can break out of a <script> block; escaping
+  // it keeps this safe whatever a Notion page is titled.
+  return JSON.stringify(data).replace(/</g, '\\u003c')
+}
+
 export const PageHead: React.FC<{
   site?: Site
   title?: string
@@ -12,13 +73,38 @@ export const PageHead: React.FC<{
   image?: string
   url?: string
   pageId?: string
-}> = ({ site, title, description, pageId, image, url }) => {
+  /** Content pages are articles; the home page is not. */
+  isArticle?: boolean
+  publishedTime?: string
+  modifiedTime?: string
+}> = ({
+  site,
+  title,
+  description,
+  pageId,
+  image,
+  url,
+  isArticle,
+  publishedTime,
+  modifiedTime,
+}) => {
   const rssFeedUrl = `${config.host}/feed`
 
   title = title ?? site?.name
   description = description ?? site?.description
 
   const socialImageUrl = getSocialImageUrl(pageId) || image
+
+  const structuredData = buildStructuredData({
+    isArticle,
+    title,
+    description,
+    url,
+    image: socialImageUrl,
+    publishedTime,
+    modifiedTime,
+    siteName: site?.name,
+  })
 
   return (
     <Head>
@@ -33,7 +119,30 @@ export const PageHead: React.FC<{
       <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#2d3439" key="theme-color-dark" />
 
       <meta name='robots' content='index,follow' />
-      <meta property='og:type' content='website' />
+      <meta property='og:type' content={isArticle ? 'article' : 'website'} />
+
+      {isArticle && (
+        <>
+          {publishedTime && (
+            <meta property='article:published_time' content={publishedTime} />
+          )}
+          {modifiedTime && (
+            <meta property='article:modified_time' content={modifiedTime} />
+          )}
+          {site?.name && (
+            <meta property='article:author' content={site.name} />
+          )}
+        </>
+      )}
+
+      {structuredData && (
+        <script
+          type='application/ld+json'
+          // JSON only, escaped so a "</script>" in a page title cannot close
+          // the tag early.
+          dangerouslySetInnerHTML={{ __html: structuredData }}
+        />
+      )}
 
       {site && (
         <>

@@ -36,6 +36,7 @@ interface NotionPageProps {
   childPageMap?: Record<string, ChildPageInfo> | null
   breadcrumbs?: Breadcrumb[]
   pageId?: string
+  canonicalPath?: string
   error?: PageError
 }
 
@@ -48,6 +49,7 @@ export const NotionPage: React.FC<NotionPageProps> = ({
   breadcrumbs,
   error,
   pageId,
+  canonicalPath,
 }) => {
   const router = useRouter()
 
@@ -79,6 +81,10 @@ export const NotionPage: React.FC<NotionPageProps> = ({
         title={title}
         description={description}
         image={cover}
+        url={canonicalPath ? `${config.host}${canonicalPath}` : undefined}
+        isArticle={!isRootPage}
+        publishedTime={publishedDate || pageMeta.lastEdited || undefined}
+        modifiedTime={pageMeta.lastEdited || undefined}
       />
 
       <div className="notion-viewport">

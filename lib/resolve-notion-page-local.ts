@@ -137,7 +137,20 @@ export async function resolveNotionPageLocal(domain: string, rawPageId?: string 
     breadcrumbs,
     databaseEntriesMap,
     childPageMap,
+    canonicalPath: canonicalPathForPage(pageId, manifest),
   }
+}
+
+// The path this page should be indexed under, taken from the manifest rather
+// than the URL that was requested — a page is reachable by its bare id, an
+// alias, or the flat single-slug fallback, and all should resolve to one URL.
+function canonicalPathForPage(
+  pageId: string,
+  manifest: ReturnType<typeof getManifest>
+): string {
+  if (pageId === site.rootNotionPageId) return '/'
+  const slugPath = manifest.pages[pageId]?.slugPath
+  return slugPath?.length ? '/' + slugPath.join('/') : '/'
 }
 
 // The sync script stores database IDs as clean hex, but NotionRenderer looks them up
