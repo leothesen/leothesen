@@ -10,7 +10,7 @@ import type { Breadcrumb, DatabaseEntry, PageError, Site } from '@/lib/types'
 import type { ChildPageInfo } from '@/lib/notion'
 import { formatDate } from '@/lib/notion-utils'
 
-import { NotionBlocks } from './NotionRenderer'
+import { HeadingOffsetProvider, NotionBlocks } from './NotionRenderer'
 import { BlockTableOfContents, extractHeadingsFromBlocks } from './BlockTableOfContents'
 import { Footer } from './Footer'
 import { Loading } from './Loading'
@@ -141,11 +141,13 @@ export const NotionPage: React.FC<NotionPageProps> = ({
 
               {blocks && (
                 <div className="notion-page-body">
-                  <NotionBlocks
-                    blocks={blocks}
-                    databaseEntriesMap={databaseEntriesMap}
-                    childPageMap={childPageMap}
-                  />
+                  <HeadingOffsetProvider blocks={blocks}>
+                    <NotionBlocks
+                      blocks={blocks}
+                      databaseEntriesMap={databaseEntriesMap}
+                      childPageMap={childPageMap}
+                    />
+                  </HeadingOffsetProvider>
                 </div>
               )}
             </div>
