@@ -18,7 +18,9 @@
     "sync": "tsx --env-file=.env scripts/sync-notion.ts",
     "sync:force": "tsx --env-file=.env scripts/sync-notion.ts --force",
     "sync:repair": "tsx --env-file=.env scripts/sync-notion.ts --repair",
-    "sync:images": "tsx --env-file=.env scripts/sync-notion.ts --images"
+    "sync:images": "tsx --env-file=.env scripts/sync-notion.ts --images",
+    "test": "vitest run",
+    "test:watch": "vitest"
   },
   "dependencies": {
     "@notionhq/client": "^2.2.15",
@@ -38,7 +40,8 @@
   "devDependencies": {
     "@types/node": "^20.17.10",
     "@types/react": "^18.3.18",
-    "typescript": "^5.7.2"
+    "typescript": "^5.7.2",
+    "vitest": "^5.0.0"
   },
   "pnpm": {
     "onlyBuiltDependencies": [
