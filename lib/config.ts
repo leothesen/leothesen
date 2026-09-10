@@ -96,7 +96,25 @@ export const site: Site = {
   description,
 }
 
-export const posthogId = process.env.NEXT_PUBLIC_POSTHOG_ID
+/**
+ * The PostHog project key, under any of the names PostHog's own setup flow
+ * hands out.
+ *
+ * `NEXT_PUBLIC_POSTHOG_ID` is inherited from the starter kit this site was
+ * forked from, and is a name PostHog never suggests — their docs say
+ * `NEXT_PUBLIC_POSTHOG_KEY` and their setup wizard says
+ * `NEXT_PUBLIC_POSTHOG_PROJECT_TOKEN`. Following their instructions therefore
+ * produced a variable this site ignored, and analytics that stayed silently
+ * off, which is the same failure mode as every other PostHog trap here.
+ *
+ * First one set wins. Each has to be spelled out in full rather than looked up
+ * from a list: Next inlines `process.env.NEXT_PUBLIC_*` by literal textual
+ * substitution at build time, so a computed key reads as undefined.
+ */
+export const posthogId =
+  process.env.NEXT_PUBLIC_POSTHOG_PROJECT_TOKEN ||
+  process.env.NEXT_PUBLIC_POSTHOG_KEY ||
+  process.env.NEXT_PUBLIC_POSTHOG_ID
 
 // ----------------------------------------------------------------------------
 

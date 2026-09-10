@@ -66,6 +66,7 @@
 }
 
 .settings a,
+.settings button,
 .social a {
   cursor: pointer;
   font-size: 2em;
@@ -73,14 +74,22 @@
   padding: 0.25em;
   margin-right: 1vw;
   transition: color 250ms ease-out;
+  /* The theme toggle is a real <button> now, so drop the user-agent chrome it
+     brings with it and keep it looking like the icons beside it. */
+  background: none;
+  border: none;
+  color: inherit;
+  line-height: inherit;
 }
 
 .settings a:last-of-type,
+.settings button:last-of-type,
 .social a:last-of-type {
   margin-right: 0;
 }
 
 .settings a:hover,
+.settings button:hover,
 .social a:hover {
   transition: color 50ms ease-out;
 }
@@ -248,4 +257,85 @@
   transition-property: background-position, background-size;
   transition-timing-function: ease-in-out;
   transition-duration: 300ms;
+}
+/* --- Not found ---------------------------------------------------------- */
+
+.notFoundIntro {
+  margin: 0 0 1.5em;
+  color: rgba(55, 53, 47, 0.65);
+  text-align: center;
+}
+
+.notFoundSections {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  max-width: 520px;
+  margin-bottom: 1.75em;
+}
+
+.notFoundSection {
+  padding: 7px 14px;
+  border: 1px solid rgba(55, 53, 47, 0.16);
+  border-radius: 999px;
+  font-size: 14px;
+  transition: border-color 120ms ease-out, background 120ms ease-out;
+}
+
+.notFoundSection:hover {
+  border-color: rgba(55, 53, 47, 0.4);
+  background: rgba(55, 53, 47, 0.04);
+}
+
+.notFoundActions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 10px 20px;
+  margin-bottom: 1.5em;
+}
+
+.notFoundHome {
+  padding: 9px 18px;
+  border-radius: 6px;
+  background: rgba(55, 53, 47, 0.9);
+  color: #fff;
+  font-size: 14px;
+}
+
+.notFoundReport,
+.notFoundDetail {
+  font-size: 13px;
+  color: rgba(55, 53, 47, 0.55);
+}
+
+.notFoundReport {
+  text-decoration: underline;
+}
+
+.notFoundDetail {
+  margin: 0 0 1.5em;
+  text-align: center;
+}
+
+:global(.dark) .notFoundIntro,
+:global(.dark) .notFoundReport,
+:global(.dark) .notFoundDetail {
+  color: rgba(255, 255, 255, 0.55);
+}
+
+:global(.dark) .notFoundSection {
+  border-color: rgba(255, 255, 255, 0.18);
+}
+
+:global(.dark) .notFoundSection:hover {
+  border-color: rgba(255, 255, 255, 0.45);
+  background: rgba(255, 255, 255, 0.06);
+}
+
+:global(.dark) .notFoundHome {
+  background: rgba(255, 255, 255, 0.9);
+  color: #1a1a1a;
 }
