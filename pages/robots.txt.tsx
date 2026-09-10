@@ -22,8 +22,7 @@ export const getServerSideProps: GetServerSideProps = async ({ req, res }) => {
   if (process.env.VERCEL_ENV === 'production') {
     res.write(`User-agent: *
 Allow: /
-Disallow: /api/get-tweet-ast/*
-Disallow: /api/search-notion
+Disallow: /api/
 
 Sitemap: ${host}/sitemap.xml
 `)

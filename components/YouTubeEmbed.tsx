@@ -12,12 +12,21 @@ import * as React from 'react'
  * only mounted on click — at which point it autoplays, because the click was
  * the request to watch. Sixteen pages carry one of these.
  */
-export function YouTubeEmbed({ id, title }: { id: string; title?: string }) {
+export function YouTubeEmbed({
+  id,
+  title,
+  portrait,
+}: {
+  id: string
+  title?: string
+  /** Shorts are filmed 9:16 and letterbox badly in the default 16:9 frame. */
+  portrait?: boolean
+}) {
   const [active, setActive] = React.useState(false)
   const label = title ? `Play video: ${title}` : 'Play video'
 
   return (
-    <div className="notion-youtube">
+    <div className={`notion-youtube${portrait ? ' notion-youtube-portrait' : ''}`}>
       {active ? (
         <iframe
           // nocookie is the same player without the tracking cookies, and
