@@ -41,6 +41,45 @@ function findPageBySlugPath(
   return null
 }
 
+export interface PageNeighbour {
+  title: string
+  path: string
+}
+
+/**
+ * The pages either side of this one, among its siblings in the slug tree.
+ *
+ * Order comes from the manifest's key order, which the sync writes in the
+ * order Notion returns children — so "next" means the next page as Leo
+ * arranged them, not alphabetical or by date.
+ */
+function findNeighbours(
+  slugPath: string[],
+  tree: Record<string, SlugTreeNode>,
+): { prev: PageNeighbour | null; next: PageNeighbour | null } {
+  const none = { prev: null, next: null }
+  if (!slugPath.length) return none
+
+  let siblings = tree
+  for (let i = 0; i < slugPath.length - 1; i++) {
+    const node = siblings[slugPath[i]]
+    if (!node) return none
+    siblings = node.children
+  }
+
+  const keys = Object.keys(siblings)
+  const index = keys.indexOf(slugPath[slugPath.length - 1])
+  if (index === -1) return none
+
+  const parentPath = slugPath.slice(0, -1)
+  const at = (key: string | undefined): PageNeighbour | null =>
+    key
+      ? { title: siblings[key].title.trim(), path: '/' + [...parentPath, key].join('/') }
+      : null
+
+  return { prev: at(keys[index - 1]), next: at(keys[index + 1]) }
+}
+
 // Flat search: find a slug anywhere in the tree
 function findPageBySlugFlat(
   slug: string,
@@ -137,6 +176,10 @@ export async function resolveNotionPageLocal(domain: string, rawPageId?: string 
     breadcrumbs,
     databaseEntriesMap,
     childPageMap,
+    // From the manifest's own slug path, not the requested URL: a page reached
+    // by its bare id or the flat single-slug fallback still gets the right
+    // neighbours.
+    neighbours: findNeighbours(manifest.pages[pageId]?.slugPath || [], manifest.slugTree),
     canonicalPath: canonicalPathForPage(pageId, manifest),
   }
 }
