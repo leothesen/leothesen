@@ -42,3 +42,6 @@ pnpm-debug.log*
 
 # notion sync artifacts (images served from Vercel Blob or downloaded locally)
 /public/notion-images/
+
+# scratch files from tooling sessions — never part of the site
+/tmp-*

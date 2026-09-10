@@ -6,6 +6,8 @@ import * as https from 'https'
 import * as http from 'http'
 import pLimit from 'p-limit'
 
+import { isRateLimited, retryDelaySeconds } from '../lib/notion-retry'
+
 // ---------------------------------------------------------------------------
 // Config
 // ---------------------------------------------------------------------------
@@ -25,20 +27,28 @@ const IMAGES_DIR = path.join(process.cwd(), 'public', 'notion-images')
 const IMAGE_MAP_PATH = path.join(CONTENT_DIR, 'image-map.json')
 
 const notion = new Client({ auth: NOTION_TOKEN })
-const apiLimit = pLimit(8)
+
+// Notion's public API allows roughly three requests a second. This used to run
+// eight at a time, which is over budget by design: it only ever succeeded when
+// Notion happened to be lenient, and a manual run on 2026-09-10 died after 23
+// rate-limit responses in two minutes.
+const apiLimit = pLimit(3)
+
+// Image fetches go to S3 and Vercel Blob, not Notion, so they keep their own
+// wider limit.
 const imageLimit = pLimit(10)
 
-async function withRetry<T>(fn: () => Promise<T>, retries = 3): Promise<T> {
+async function withRetry<T>(fn: () => Promise<T>, retries = 5): Promise<T> {
   for (let attempt = 0; attempt <= retries; attempt++) {
     try {
       return await fn()
     } catch (err: any) {
-      const isRateLimit = err?.status === 429 || err?.code === 'rate_limited'
-      if (!isRateLimit || attempt === retries) throw err
-      const retryAfter = (err?.headers?.['retry-after'] ?? attempt + 1) as number
-      const delay = retryAfter * 1000
-      console.warn(`  Rate limited, retrying in ${retryAfter}s...`)
-      await new Promise((r) => setTimeout(r, delay))
+      if (!isRateLimited(err) || attempt === retries) throw err
+      const seconds = retryDelaySeconds(err, attempt)
+      console.warn(
+        `  Rate limited, retrying in ${seconds}s (attempt ${attempt + 1}/${retries})...`
+      )
+      await new Promise((r) => setTimeout(r, seconds * 1000))
     }
   }
   throw new Error('Unreachable')
