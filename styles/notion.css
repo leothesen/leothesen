@@ -521,6 +521,15 @@
   width: 100% !important;
 }
 
+/*
+ * YouTube Shorts are 9:16. The wrapper already centres its children, so the
+ * portrait frame only needs a width cap: at the full 720px article measure a
+ * 9:16 box is ~1280px tall, which is taller than most screens.
+ */
+.notion-asset-wrapper-portrait>div {
+  max-width: 340px;
+}
+
 /* Bookmark */
 .notion-bookmark {
   display: flex;
