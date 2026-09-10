@@ -7,6 +7,7 @@ import * as http from 'http'
 import pLimit from 'p-limit'
 
 import { isRateLimited, retryDelaySeconds } from '../lib/notion-retry'
+import { createRateLimiter } from '../lib/rate-limit'
 
 // ---------------------------------------------------------------------------
 // Config
@@ -28,11 +29,19 @@ const IMAGE_MAP_PATH = path.join(CONTENT_DIR, 'image-map.json')
 
 const notion = new Client({ auth: NOTION_TOKEN })
 
-// Notion's public API allows roughly three requests a second. This used to run
-// eight at a time, which is over budget by design: it only ever succeeded when
-// Notion happened to be lenient, and a manual run on 2026-09-10 died after 23
-// rate-limit responses in two minutes.
-const apiLimit = pLimit(3)
+// Notion's limit is about three requests a *second*. pLimit caps how many are
+// in flight, which is a different thing: with three concurrent and 100ms
+// responses you issue roughly thirty a second. Run 34460188970 proved the cost
+// — it succeeded, but spent 152 of its 313 seconds absorbing 429s.
+//
+// So the rate is bounded by spacing out starts, and pLimit is kept only to stop
+// slow responses from piling up. 2.5/s leaves headroom under the limit; going
+// closer buys little, because the time saved is smaller than one 25-second
+// backoff.
+const notionRate = createRateLimiter(2.5)
+const apiConcurrency = pLimit(6)
+const apiLimit = <T>(fn: () => Promise<T>): Promise<T> =>
+  apiConcurrency(() => notionRate(fn))
 
 // Image fetches go to S3 and Vercel Blob, not Notion, so they keep their own
 // wider limit.
