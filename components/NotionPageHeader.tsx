@@ -1,11 +1,13 @@
 import * as React from 'react'
 import Link from 'next/link'
+import { IoSearch } from 'react-icons/io5'
 
 import cs from 'classnames'
 
 import { navigationLinks, navigationStyle } from '@/lib/config'
 import type { Breadcrumb } from '@/lib/types'
 
+import { SearchDialog, useSearchHotkey } from './SearchDialog'
 import styles from './styles.module.css'
 
 function BreadcrumbIcon({ icon }: { icon: string }) {
@@ -43,9 +45,13 @@ function useScrollDirection() {
 
 export const NotionPageHeader: React.FC<{ breadcrumbs?: Breadcrumb[] }> = ({ breadcrumbs }) => {
   const hidden = useScrollDirection()
+  const [searchOpen, setSearchOpen] = React.useState(false)
+  const openSearch = React.useCallback(() => setSearchOpen(true), [])
+  useSearchHotkey(openSearch)
 
   return (
     <header className={cs('notion-header', hidden && 'notion-header-hidden')}>
+      <SearchDialog open={searchOpen} onClose={() => setSearchOpen(false)} />
       <div className='notion-nav-header'>
         <nav className="notion-nav-breadcrumbs" aria-label="Breadcrumb">
           <Link href="/" className="breadcrumb button">Home</Link>
@@ -60,8 +66,20 @@ export const NotionPageHeader: React.FC<{ breadcrumbs?: Breadcrumb[] }> = ({ bre
           ))}
         </nav>
 
-        {navigationStyle === 'custom' && navigationLinks?.length > 0 && (
-          <div className='notion-nav-header-rhs'>
+        <div className='notion-nav-header-rhs'>
+          <button
+            type='button'
+            className='notion-search-trigger breadcrumb button'
+            onClick={openSearch}
+            aria-label='Search this site'
+          >
+            <IoSearch aria-hidden />
+            <span className='notion-search-trigger-label'>Search</span>
+            <kbd className='notion-search-trigger-kbd' aria-hidden>/</kbd>
+          </button>
+
+          {navigationStyle === 'custom' && navigationLinks?.length > 0 && (
+            <>
             {navigationLinks.map((link, index) => {
               if (!link?.pageId && !link?.url) return null
               const href = link.url || `/${link.pageId}`
@@ -75,8 +93,9 @@ export const NotionPageHeader: React.FC<{ breadcrumbs?: Breadcrumb[] }> = ({ bre
                 </a>
               )
             })}
-          </div>
-        )}
+            </>
+          )}
+        </div>
       </div>
     </header>
   )
