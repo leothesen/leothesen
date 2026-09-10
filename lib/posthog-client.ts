@@ -82,6 +82,17 @@ export function captureWebVital(metric: {
   })
 }
 
+/**
+ * Sends a custom event, or nothing at all when analytics is off.
+ *
+ * Every caller goes through here rather than importing posthog directly, so
+ * that a site running without a key stays a genuine no-op.
+ */
+export function captureEvent(name: string, properties?: Record<string, unknown>): void {
+  if (!analyticsEnabled()) return
+  posthog.capture(name, properties)
+}
+
 export function analyticsEnabled(): boolean {
   return !isServer && !!posthogId && started
 }
