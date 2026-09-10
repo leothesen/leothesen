@@ -1,5 +1,15 @@
 import * as React from 'react'
 import Link from 'next/link'
+import Image from 'next/image'
+
+// The article column is 720px wide less 32px of padding, and images inside a
+// two-column block are narrower still. Asking for 700px covers the widest case
+// at roughly 2x for the narrow ones, instead of shipping the 4032px original.
+const NOTION_IMAGE_SIZES = '(max-width: 760px) 100vw, 700px'
+
+// Gallery cards are a `minmax(260px, 1fr)` grid, so they land at roughly 320px
+// in the article column and go full width on a phone.
+const CARD_COVER_SIZES = '(max-width: 760px) 100vw, 340px'
 
 import type { NotionBlock } from '@/lib/notion-api'
 import type { ChildPageInfo } from '@/lib/notion'
@@ -207,9 +217,18 @@ export function NotionBlock({ block, mapPageUrl, databaseEntriesMap, childPageMa
       return (
         <figure className="notion-asset-wrapper">
           <div className="notion-image-wrapper">
-            <img
+            <Image
               src={src}
               alt={alt}
+              // Notion gives us no dimensions, and these live on Blob storage
+              // so we cannot measure them at build time. These stand in only to
+              // declare an aspect ratio for the reserved box; `height: auto`
+              // hands layout back to the real image once it decodes. What
+              // matters here is `sizes`, which is what actually caps the bytes.
+              width={1600}
+              height={1200}
+              sizes={NOTION_IMAGE_SIZES}
+              style={{ width: '100%', height: 'auto' }}
               loading="lazy"
               className="notion-image notion-image-loading"
               onLoad={(e) => e.currentTarget.classList.remove('notion-image-loading')}
@@ -527,9 +546,13 @@ export function DatabaseView({ entries }: { entries: DatabaseEntry[] }) {
           <Link key={entry.id} href={href} className="notion-collection-card">
             <div className="notion-collection-card-cover">
               {entry.cover ? (
-                <img
+                <Image
                   src={entry.cover}
                   alt={entry.title}
+                  // The card cover is a fixed 200px-tall crop, so `fill` gives
+                  // next/image an exact box to work with — no guessed ratio.
+                  fill
+                  sizes={CARD_COVER_SIZES}
                   loading="lazy"
                   className="notion-image-loading"
                   onLoad={(e) => e.currentTarget.classList.remove('notion-image-loading')}

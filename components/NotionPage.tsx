@@ -1,5 +1,6 @@
 import * as React from 'react'
 import { useRouter } from 'next/router'
+import Image from 'next/image'
 
 import cs from 'classnames'
 
@@ -89,9 +90,14 @@ export const NotionPage: React.FC<NotionPageProps> = ({
 
         {cover && (
           <div className="notion-page-cover-wrapper">
-            <img
+            <Image
               src={cover}
               alt={title}
+              // The cover is the largest thing above the fold, so it is the LCP
+              // element on every page: it loads eagerly rather than lazily.
+              priority
+              fill
+              sizes="100vw"
               className="notion-page-cover notion-image-loading"
               onLoad={(e) => e.currentTarget.classList.remove('notion-image-loading')}
             />
