@@ -74,6 +74,10 @@ interface PageMeta {
   published: string | null
   author: string | null
   lastEdited: string
+  // Notion's own created_time. `lastEdited` moves every time a typo is fixed,
+  // so it cannot order an archive: correcting a 2022 post would jump it to the
+  // top of this year. This is the date the writing happened.
+  created: string | null
   slug: string
   order: number | null
 }
@@ -109,6 +113,7 @@ interface DiscoveredPage {
   published: string | null
   author: string | null
   lastEdited: string
+  created: string | null
   order: number | null
   slugPath: string[]
   childDatabases: Array<{ id: string; title: string }>
@@ -632,6 +637,7 @@ async function discoverPage(
     published: getPagePropertyText(page, 'Published'),
     author: getPagePropertyText(page, 'Author'),
     lastEdited: new Date(effectiveLastEdited).toISOString(),
+    created: page.created_time,
     order: getPagePropertyNumber(page, 'Order'),
     slugPath,
     childDatabases,
@@ -689,6 +695,7 @@ async function syncPageContent(discovered: DiscoveredPage): Promise<void> {
     published: discovered.published,
     author: discovered.author,
     lastEdited: discovered.lastEdited,
+    created: discovered.created,
     slug,
     order: discovered.order,
   }
@@ -742,6 +749,7 @@ async function syncPageContent(discovered: DiscoveredPage): Promise<void> {
           published: getPagePropertyText(entry, 'Published'),
           author: getPagePropertyText(entry, 'Author'),
           lastEdited: entry.last_edited_time,
+          created: entry.created_time,
           order: getPagePropertyNumber(entry, 'Order'),
         }
       })
@@ -892,6 +900,7 @@ async function repairPage(target: string): Promise<void> {
     published: getPagePropertyText(page, 'Published'),
     author: getPagePropertyText(page, 'Author'),
     lastEdited: page.last_edited_time,
+    created: page.created_time,
     slug,
     order: getPagePropertyNumber(page, 'Order'),
   }
@@ -946,6 +955,7 @@ async function repairPage(target: string): Promise<void> {
             published: getPagePropertyText(entry, 'Published'),
             author: getPagePropertyText(entry, 'Author'),
             lastEdited: entry.last_edited_time,
+            created: entry.created_time,
             order: getPagePropertyNumber(entry, 'Order'),
           }
         })
@@ -1214,6 +1224,7 @@ async function imagesRepair(): Promise<void> {
           published: getPagePropertyText(page, 'Published'),
           author: getPagePropertyText(page, 'Author'),
           lastEdited: page.last_edited_time,
+          created: page.created_time,
           slug: slugify(title) || pageId,
           order: getPagePropertyNumber(page, 'Order'),
         }

@@ -1018,6 +1018,80 @@ th.notion-table-cell {
   }
 }
 /* ---------------------------------------------------------------------------
+ * Archive
+ * ------------------------------------------------------------------------ */
+.notion-archive-year {
+  margin-bottom: 2.5em;
+}
+
+.notion-archive-year .notion-h2 {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--fg-color-0);
+}
+
+.notion-archive-count {
+  font-size: 13px;
+  font-weight: 400;
+  color: var(--fg-color-1);
+}
+
+.notion-archive-list {
+  list-style: none;
+  margin: 0.75em 0 0;
+  padding: 0;
+}
+
+.notion-archive-item {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  padding: 5px 0;
+}
+
+.notion-archive-link {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  min-width: 0;
+  flex: 1;
+}
+
+.notion-archive-title {
+  /* Long journal titles get one line and an ellipsis rather than reflowing the
+     whole row and breaking the date column. */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.notion-archive-link:hover .notion-archive-title {
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+.notion-archive-section {
+  flex: 0 0 auto;
+  font-size: 12px;
+  color: var(--fg-color-1);
+}
+
+.notion-archive-date {
+  flex: 0 0 auto;
+  font-size: 12px;
+  color: var(--fg-color-1);
+  font-variant-numeric: tabular-nums;
+}
+
+@media (max-width: 560px) {
+  .notion-archive-section {
+    display: none;
+  }
+}
+
+/* ---------------------------------------------------------------------------
  * Section navigation
  *
  * The site's top-level sections, derived from the manifest so they follow
