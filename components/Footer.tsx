@@ -12,13 +12,9 @@ export const FooterImpl: React.FC = () => {
   const [hasMounted, setHasMounted] = React.useState(false)
   const { isDarkMode, toggleDarkMode } = useDarkMode()
 
-  const onToggleDarkMode = React.useCallback(
-    (e: React.MouseEvent) => {
-      e.preventDefault()
-      toggleDarkMode()
-    },
-    [toggleDarkMode]
-  )
+  const onToggleDarkMode = React.useCallback(() => {
+    toggleDarkMode()
+  }, [toggleDarkMode])
 
   React.useEffect(() => {
     setHasMounted(true)
@@ -33,15 +29,18 @@ export const FooterImpl: React.FC = () => {
 
       <div className={styles.settings}>
         {hasMounted && (
-          <a
+          // A real <button>, not an <a href="#"> wearing role="button": links
+          // do not respond to Space, and the icon left it with no accessible
+          // name at all — `title` is not a reliable one.
+          <button
+            type='button'
             className={styles.toggleDarkMode}
-            href='#'
-            role='button'
             onClick={onToggleDarkMode}
-            title='Toggle dark mode'
+            aria-label={isDarkMode ? 'Switch to light mode' : 'Switch to dark mode'}
+            title={isDarkMode ? 'Switch to light mode' : 'Switch to dark mode'}
           >
-            {isDarkMode ? <IoMoonSharp /> : <IoSunnyOutline />}
-          </a>
+            {isDarkMode ? <IoMoonSharp aria-hidden /> : <IoSunnyOutline aria-hidden />}
+          </button>
         )}
       </div>
 
@@ -51,6 +50,7 @@ export const FooterImpl: React.FC = () => {
             className={styles.twitter}
             href={`https://twitter.com/${config.twitter}`}
             title={`Twitter @${config.twitter}`}
+            aria-label={`Twitter @${config.twitter}`}
             target='_blank'
             rel='noopener noreferrer'
           >
@@ -63,6 +63,7 @@ export const FooterImpl: React.FC = () => {
             className={styles.github}
             href={`https://github.com/${config.github}`}
             title={`GitHub @${config.github}`}
+            aria-label={`GitHub @${config.github}`}
             target='_blank'
             rel='noopener noreferrer'
           >
@@ -75,6 +76,7 @@ export const FooterImpl: React.FC = () => {
             className={styles.linkedin}
             href={`https://www.linkedin.com/in/${config.linkedin}`}
             title={`LinkedIn ${config.author}`}
+            aria-label={`LinkedIn ${config.author}`}
             target='_blank'
             rel='noopener noreferrer'
           >
@@ -87,6 +89,7 @@ export const FooterImpl: React.FC = () => {
             className={styles.newsletter}
             href={`${config.newsletter}`}
             title={`Newsletter ${config.author}`}
+            aria-label={`Newsletter ${config.author}`}
             target='_blank'
             rel='noopener noreferrer'
           >
@@ -99,6 +102,7 @@ export const FooterImpl: React.FC = () => {
             className={styles.youtube}
             href={`https://www.youtube.com/${config.youtube}`}
             title={`YouTube ${config.author}`}
+            aria-label={`YouTube ${config.author}`}
             target='_blank'
             rel='noopener noreferrer'
           >

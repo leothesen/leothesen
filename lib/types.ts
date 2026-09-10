@@ -74,3 +74,16 @@ export interface NotionPageInfo {
   authorImage: string | null
   detail: string
 }
+
+/**
+ * One page in the client-side search index. Keys are short because the whole
+ * index ships to the browser as a single document.
+ */
+export interface SearchEntry {
+  /** Title, as shown in the results list. */
+  t: string
+  /** Path, used as both the href and part of the haystack. */
+  p: string
+  /** Description, when the page has one. */
+  d?: string
+}
