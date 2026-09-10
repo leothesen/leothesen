@@ -72,4 +72,20 @@ describe('blur-up images', () => {
 
     expect(blurred.length).toBeGreaterThanOrEqual(4)
   })
+
+  // The blur ships in the server-rendered HTML, so JavaScript is the only
+  // thing that ever takes it off. A CSS animation clears it after five
+  // seconds regardless, which is what keeps a page with a dead bundle — or no
+  // JavaScript at all — from showing every image as a permanent smudge.
+  //
+  // Asserted here rather than left to a comment because it is invisible: the
+  // fallback only ever runs when something else has already failed, so
+  // deleting it would break nothing that anyone would notice.
+  it('keeps a JavaScript-free way out of the blur', () => {
+    const css = readFileSync(path.join(COMPONENTS_DIR, '..', 'styles', 'notion.css'), 'utf8')
+
+    expect(css).toMatch(/@keyframes\s+notion-image-unblur/)
+    // Applied to the class itself, so it covers all four call sites at once.
+    expect(css).toMatch(/\.notion-image-loading\s*\{[^}]*animation:[^}]*notion-image-unblur/)
+  })
 })
