@@ -587,6 +587,35 @@
   min-width: 0;
 }
 
+/*
+ * A callout sets its icon beside its content, so the content's first block must
+ * not bring its own top margin — it would drop the text below the icon it
+ * belongs to. A `heading_1` child is the visible case: `margin-top: 1.4em` at
+ * `font-size: 1.875em` is around 2.6em of the callout's own text size.
+ *
+ * The heading arrives one level down, inside `.notion-block-children`, and its
+ * margin collapses out through that wrapper — so zeroing the wrapper alone does
+ * nothing and both levels have to be named.
+ */
+.notion-callout-text> :first-child,
+.notion-callout-text>.notion-block-children> :first-child {
+  margin-top: 0;
+}
+
+.notion-callout-text> :last-child,
+.notion-callout-text>.notion-block-children> :last-child {
+  margin-bottom: 0;
+}
+
+/*
+ * Child blocks are already inside the callout's padded box and sit under its
+ * own text, so the generic indent only pushes them away from the icon. Deeper
+ * nesting keeps its indent — this is the top level only.
+ */
+.notion-callout-text>.notion-block-children {
+  padding-left: 0;
+}
+
 /* Divider */
 .notion-hr {
   border: none;
