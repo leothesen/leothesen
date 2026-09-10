@@ -6,50 +6,134 @@ on:
     - cron: '0 6 * * *'
   workflow_dispatch: # Allow manual trigger from GitHub UI
 
+# Explicit rather than inherited: the last step pushes a branch and opens a pull
+# request, and a repo-level default of read-only would fail it at the very end,
+# after the whole sync had already run.
+permissions:
+  contents: write
+  pull-requests: write
+
+# Two syncs at once would race for the same branch and burn the Notion rate
+# limit against each other. Queue instead of cancelling — a half-finished sync
+# is not worth preserving, but neither is losing a completed one.
+concurrency:
+  group: sync-notion
+  cancel-in-progress: false
+
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       # No `version:` here on purpose — the action reads `packageManager` from
       # package.json, so CI can never silently float to a new pnpm major again.
       # (An unpinned `latest` is what broke this workflow: pnpm 11+ turned
       # ERR_PNPM_IGNORED_BUILDS into a hard failure.)
-      - uses: pnpm/action-setup@v4
+      - uses: pnpm/action-setup@v6
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v7
         with:
           node-version: 22
           cache: pnpm
 
       - run: pnpm install --frozen-lockfile
 
-      - name: Create .env file
-        run: |
-          echo "NOTION_TOKEN=${{ secrets.NOTION_TOKEN }}" >> .env
-          echo "BLOB_READ_WRITE_TOKEN=${{ secrets.BLOB_READ_WRITE_TOKEN }}" >> .env
-
+      # Secrets go in the environment rather than into a .env file on disk. The
+      # sync uses `--env-file-if-exists`, so a local checkout still reads .env.
       - name: Sync from Notion
-        run: pnpm sync
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          BLOB_READ_WRITE_TOKEN: ${{ secrets.BLOB_READ_WRITE_TOKEN }}
+        run: pnpm sync 2>&1 | tee /tmp/sync-output.txt
 
-      - name: Commit and create PR
+      - name: Commit and open a pull request
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add .content/
           if [ -d public/notion-images ]; then git add public/notion-images/; fi
+
           if git diff --cached --quiet; then
-            echo "No changes to commit"
+            echo "No content changes — nothing to open."
             exit 0
           fi
+
           BRANCH="sync/notion-$(date +%Y-%m-%d)"
-          git checkout -b "$BRANCH"
+
+          # -B rather than -b, and --force-with-lease on the push: a second run
+          # on the same day updates that day's branch instead of dying on
+          # "branch already exists", which is what a manual re-run used to do.
+          git checkout -B "$BRANCH"
           git commit -m "sync: update content from Notion"
-          git push -u origin "$BRANCH"
-          gh pr create \
-            --title "sync: update content from Notion ($(date +%Y-%m-%d))" \
-            --body "Automated sync of latest Notion content." \
-            --reviewer leothesen
+          git push --force-with-lease -u origin "$BRANCH"
+
+          # A body that says what changed. The old one was a fixed sentence, so
+          # reviewing meant opening the diff every time — which is how these
+          # went unread.
+          SUMMARY=$(grep -E '^[0-9]+ pages? updated' /tmp/sync-output.txt | tail -1)
+          PAGES=$(grep -E '^Syncing content: ' /tmp/sync-output.txt \
+                  | sed -E 's/^Syncing content: [a-f0-9]+ \((.*)\)$/- \1/' | sort -u)
+          IMAGES=$(grep -c 'Uploaded to blob' /tmp/sync-output.txt || true)
+
+          {
+            echo "${SUMMARY:-Content changed.}"
+            echo
+            if [ -n "$PAGES" ]; then
+              echo "### Pages"
+              echo "$PAGES"
+              echo
+            fi
+            if [ "${IMAGES:-0}" -gt 0 ]; then
+              echo "$IMAGES image(s) uploaded to Blob storage."
+              echo
+            fi
+            echo "### Files"
+            echo '```'
+            git diff --stat HEAD~1 -- .content/ | tail -25
+            echo '```'
+            echo
+            echo "_Opened automatically by the daily Notion sync._"
+          } > /tmp/pr-body.md
+
+          # Same-day re-runs edit the open PR rather than failing to create a
+          # duplicate.
+          if gh pr view "$BRANCH" --json state -q .state 2>/dev/null | grep -q OPEN; then
+            gh pr edit "$BRANCH" --body-file /tmp/pr-body.md
+            echo "Updated the open pull request for $BRANCH"
+          else
+            gh pr create \
+              --title "sync: update content from Notion ($(date +%Y-%m-%d))" \
+              --body-file /tmp/pr-body.md \
+              --reviewer leothesen
+          fi
+
+      # Sixteen of these had piled up by September, back to April: 36 of the 41
+      # sync pull requests ever opened were closed unmerged, and closing one
+      # through the UI leaves its branch behind. An abandoned sync branch holds
+      # nothing worth keeping — the next run re-derives it from Notion.
+      - name: Delete finished sync branches
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # The test is "has no OPEN pull request", NOT "has a merged one".
+          # A branch can carry both: sync/notion-2026-09-10 had #119 merged and
+          # #120 still open at the same time, and deleting on the merged one
+          # would have closed the open one.
+          gh pr list --state open --limit 200 --json headRefName \
+            --jq '.[].headRefName' | sort -u > /tmp/open-branches.txt
+
+          git ls-remote --heads origin 'refs/heads/sync/notion-*' \
+            | sed 's|.*refs/heads/||' | sort -u > /tmp/sync-branches.txt
+
+          comm -23 /tmp/sync-branches.txt /tmp/open-branches.txt \
+            | while read -r branch; do
+                [ -n "$branch" ] || continue
+                echo "deleting finished sync branch $branch"
+                git push origin --delete "$branch" || true
+              done
+          echo "branch cleanup done"
