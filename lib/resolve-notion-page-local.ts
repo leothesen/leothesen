@@ -1,6 +1,6 @@
 import { site, pageUrlOverrides, pageUrlAdditions } from './config'
 import { parsePageId } from './notion-utils'
-import { getManifest, getLocalPage, getTopLevelSections } from './notion-local'
+import { getManifest, getLocalPage } from './notion-local'
 import type { NotionBlock } from './notion-api'
 import type { Breadcrumb, DatabaseEntry } from './types'
 import type { ChildPageInfo } from './notion'
@@ -212,7 +212,6 @@ export async function resolveNotionPageLocal(domain: string, rawPageId?: string 
     breadcrumbs,
     databaseEntriesMap,
     childPageMap,
-    sections: getTopLevelSections(),
     readingMinutes: estimateReadingMinutes(localPage.blocks),
     // From the manifest's own slug path, not the requested URL: a page reached
     // by its bare id or the flat single-slug fallback still gets the right
