@@ -20,6 +20,11 @@ import { NotionPageHeader } from './NotionPageHeader'
 import { Page404 } from './Page404'
 import { PageHead } from './PageHead'
 
+// Matches the 80px `.notion-page-icon-image` is drawn at in notion.css. It is
+// what next/image resizes to, so the two have to agree or we ship the wrong
+// number of pixels; next/image asks for 2x on top of this for retina.
+const ICON_SIZE = 80
+
 interface NotionPageProps {
   site?: Site
   pageMeta?: {
@@ -132,11 +137,37 @@ export const NotionPage: React.FC<NotionPageProps> = ({
               {icon && (
                 <div className="notion-page-icon-hero">
                   {icon.startsWith('http') || icon.startsWith('/') ? (
-                    <img
+                    // Every other image on the site goes through next/image;
+                    // this one used to be a bare <img>, and both of the ways
+                    // that hurt showed up on the live site.
+                    //
+                    // The blur class below ships in the server-rendered HTML,
+                    // and only `onLoad` takes it off again. A bare <img> that
+                    // finished before React hydrated had already fired `load`,
+                    // so nothing ever removed it and the icon sat there
+                    // permanently blurred — until a client-side navigation
+                    // re-rendered it and the handler was attached in time.
+                    // next/image checks `img.complete` on mount for exactly
+                    // this, and re-assigns `src` when an `onError` is given so
+                    // a pre-hydration failure is not lost either.
+                    //
+                    // It also resizes: the avatar behind this is a 1.1MB PNG
+                    // drawn into 80 square pixels, above the fold, on the same
+                    // connection as the LCP cover.
+                    <Image
                       src={icon}
                       alt=""
+                      width={ICON_SIZE}
+                      height={ICON_SIZE}
+                      // Directly under the cover, so it is in the first
+                      // viewport of every page — never worth deferring.
+                      priority
                       className="notion-page-icon-image notion-image-loading"
                       onLoad={(e) => e.currentTarget.classList.remove('notion-image-loading')}
+                      // Notion's signed icon URLs expire. Un-blur on failure
+                      // too, so a dead one is an absent icon rather than a
+                      // permanent smudge.
+                      onError={(e) => e.currentTarget.classList.remove('notion-image-loading')}
                     />
                   ) : (
                     <span className="notion-page-icon-emoji">{icon}</span>
