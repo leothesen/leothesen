@@ -77,6 +77,7 @@ export const PageHead: React.FC<{
   isArticle?: boolean
   publishedTime?: string
   modifiedTime?: string
+  noindex?: boolean
 }> = ({
   site,
   title,
@@ -87,6 +88,7 @@ export const PageHead: React.FC<{
   isArticle,
   publishedTime,
   modifiedTime,
+  noindex,
 }) => {
   const rssFeedUrl = `${config.host}/feed`
 
@@ -118,7 +120,6 @@ export const PageHead: React.FC<{
       <meta name="theme-color" media="(prefers-color-scheme: light)" content="#fefffe" key="theme-color-light" />
       <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#2d3439" key="theme-color-dark" />
 
-      <meta name='robots' content='index,follow' />
       <meta property='og:type' content={isArticle ? 'article' : 'website'} />
 
       {isArticle && (
@@ -143,6 +144,10 @@ export const PageHead: React.FC<{
           dangerouslySetInnerHTML={{ __html: structuredData }}
         />
       )}
+      <meta
+        name='robots'
+        content={noindex ? 'noindex,follow' : 'index,follow'}
+      />
 
       {site && (
         <>
