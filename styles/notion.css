@@ -988,3 +988,123 @@ th.notion-table-cell {
     font-size: 1.8em;
   }
 }
+/* ---------------------------------------------------------------------------
+ * Search
+ *
+ * Opens on the header button, on Cmd/Ctrl-K, or on "/" when you are not
+ * already typing. The index is fetched once from /api/search-index and
+ * filtered in the browser, so results appear as you type with no round-trip.
+ * ------------------------------------------------------------------------ */
+.notion-search-trigger {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(55, 53, 47, 0.06);
+  border: none;
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+}
+
+.dark .notion-search-trigger {
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.notion-search-trigger-kbd {
+  font-family: inherit;
+  font-size: 11px;
+  line-height: 1;
+  padding: 3px 5px;
+  border-radius: 3px;
+  border: 1px solid var(--fg-color-0);
+  color: var(--fg-color-1);
+}
+
+@media (max-width: 640px) {
+  .notion-search-trigger-label,
+  .notion-search-trigger-kbd {
+    display: none;
+  }
+}
+
+.notion-search-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 200;
+  background: rgba(15, 15, 15, 0.4);
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 12vh 16px 16px;
+}
+
+.notion-search-dialog {
+  width: 100%;
+  max-width: 560px;
+  background: var(--bg-color);
+  color: var(--fg-color);
+  border-radius: 10px;
+  box-shadow: 0 12px 40px rgba(15, 15, 15, 0.3);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.notion-search-input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 16px;
+  font-size: 17px;
+  border: none;
+  border-bottom: 1px solid var(--fg-color-0);
+  background: transparent;
+  color: inherit;
+  outline: none;
+}
+
+.notion-search-results {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  max-height: 50vh;
+  overflow-y: auto;
+}
+
+.notion-search-result {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  width: 100%;
+  padding: 10px 16px;
+  border: none;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+.notion-search-result-active {
+  background: var(--bg-color-1);
+}
+
+.dark .notion-search-result-active {
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.notion-search-result-title {
+  font-weight: 500;
+}
+
+.notion-search-result-path {
+  font-size: 12px;
+  color: var(--fg-color-1);
+}
+
+.notion-search-status {
+  padding: 8px 16px;
+  font-size: 12px;
+  color: var(--fg-color-1);
+  border-top: 1px solid var(--fg-color-0);
+}
