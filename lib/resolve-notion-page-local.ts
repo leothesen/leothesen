@@ -222,6 +222,8 @@ export async function resolveNotionPageLocal(domain: string, rawPageId?: string 
 }
 
 // The path this page should be indexed under, taken from the manifest rather
+// than the URL that was requested — a page is reachable by its bare id, an
+// alias, or the flat single-slug fallback, and all should resolve to one URL.
 // than from the URL that was requested. A page is reachable by more than one
 // route — its bare page id, a `pageUrlOverrides` alias, or the flat single-slug
 // fallback — and all of those should point search engines at the one real path.

@@ -89,6 +89,9 @@ export const NotionPage: React.FC<NotionPageProps> = ({
         description={description}
         image={cover}
         url={canonicalPath ? `${config.host}${canonicalPath}` : undefined}
+        isArticle={!isRootPage}
+        publishedTime={publishedDate || pageMeta.lastEdited || undefined}
+        modifiedTime={pageMeta.lastEdited || undefined}
       />
 
       <div className="notion-viewport">
