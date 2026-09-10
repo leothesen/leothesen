@@ -54,8 +54,9 @@ NOTION_TOKEN=ntn_your_token_here
 # Optional (for Fathom analytics)
 #NEXT_PUBLIC_FATHOM_ID=
 
-# Optional (for PostHog analytics)
-#NEXT_PUBLIC_POSTHOG_ID=
+# Optional (for PostHog analytics) — see the Analytics section below
+#NEXT_PUBLIC_POSTHOG_PROJECT_TOKEN=
+#NEXT_PUBLIC_POSTHOG_HOST=https://eu.i.posthog.com
 
 # Optional (for caching preview images in Redis)
 # NOTE: also set isRedisEnabled to true in site.config.ts
@@ -150,5 +151,17 @@ Dark mode is fully supported and can be toggled via the sun/moon icon in the foo
 Optional analytics can be enabled by setting environment variables:
 
 - **Fathom**: Set `NEXT_PUBLIC_FATHOM_ID`
-- **PostHog**: Set `NEXT_PUBLIC_POSTHOG_ID`
 - **Vercel Analytics**: Included via `@vercel/analytics`
+- **PostHog**: set the project key as any one of
+  `NEXT_PUBLIC_POSTHOG_PROJECT_TOKEN`, `NEXT_PUBLIC_POSTHOG_KEY`, or
+  `NEXT_PUBLIC_POSTHOG_ID` — first one set wins. Three names because PostHog's
+  docs, PostHog's setup wizard and this repo each chose a different one, and
+  following their instructions otherwise sets a variable the site ignores.
+
+  `NEXT_PUBLIC_POSTHOG_HOST` defaults to `https://eu.i.posthog.com`, matching
+  the region this site's project is in. **It must match that region** —
+  posthog-js does not redirect between EU and US, so a mismatched host drops
+  every event with no exception, no console warning and no failed request.
+
+  Both are inlined at build time, so a running deployment will not pick up a
+  change until it is redeployed.

@@ -180,7 +180,21 @@ export async function resolveNotionPageLocal(domain: string, rawPageId?: string 
     // by its bare id or the flat single-slug fallback still gets the right
     // neighbours.
     neighbours: findNeighbours(manifest.pages[pageId]?.slugPath || [], manifest.slugTree),
+    canonicalPath: canonicalPathForPage(pageId, manifest),
   }
+}
+
+// The path this page should be indexed under, taken from the manifest rather
+// than from the URL that was requested. A page is reachable by more than one
+// route — its bare page id, a `pageUrlOverrides` alias, or the flat single-slug
+// fallback — and all of those should point search engines at the one real path.
+function canonicalPathForPage(
+  pageId: string,
+  manifest: ReturnType<typeof getManifest>
+): string {
+  if (pageId === site.rootNotionPageId) return '/'
+  const slugPath = manifest.pages[pageId]?.slugPath
+  return slugPath?.length ? '/' + slugPath.join('/') : '/'
 }
 
 // The sync script stores database IDs as clean hex, but NotionRenderer looks them up

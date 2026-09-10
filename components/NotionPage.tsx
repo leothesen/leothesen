@@ -1,6 +1,7 @@
 import * as React from 'react'
 import Link from 'next/link'
 import { useRouter } from 'next/router'
+import Image from 'next/image'
 
 import cs from 'classnames'
 
@@ -11,7 +12,7 @@ import type { ChildPageInfo } from '@/lib/notion'
 import type { PageNeighbour } from '@/lib/resolve-notion-page-local'
 import { formatDate } from '@/lib/notion-utils'
 
-import { NotionBlocks } from './NotionRenderer'
+import { HeadingOffsetProvider, NotionBlocks } from './NotionRenderer'
 import { BlockTableOfContents, extractHeadingsFromBlocks } from './BlockTableOfContents'
 import { Footer } from './Footer'
 import { Loading } from './Loading'
@@ -39,6 +40,7 @@ interface NotionPageProps {
   breadcrumbs?: Breadcrumb[]
   pageId?: string
   neighbours?: { prev: PageNeighbour | null; next: PageNeighbour | null }
+  canonicalPath?: string
   error?: PageError
 }
 
@@ -52,6 +54,7 @@ export const NotionPage: React.FC<NotionPageProps> = ({
   error,
   pageId,
   neighbours,
+  canonicalPath,
 }) => {
   const router = useRouter()
 
@@ -83,16 +86,29 @@ export const NotionPage: React.FC<NotionPageProps> = ({
         title={title}
         description={description}
         image={cover}
+        url={canonicalPath ? `${config.host}${canonicalPath}` : undefined}
       />
 
       <div className="notion-viewport">
+        {/* First focusable thing on the page. Without it, reaching the article
+            means tabbing through the breadcrumb and every child-page link —
+            on a gallery page that is dozens of stops. */}
+        <a href="#notion-content" className="notion-skip-link">
+          Skip to content
+        </a>
+
         <NotionPageHeader breadcrumbs={breadcrumbs} />
 
         {cover && (
           <div className="notion-page-cover-wrapper">
-            <img
+            <Image
               src={cover}
               alt={title}
+              // The cover is the largest thing above the fold, so it is the LCP
+              // element on every page: it loads eagerly rather than lazily.
+              priority
+              fill
+              sizes="100vw"
               className="notion-page-cover notion-image-loading"
               onLoad={(e) => e.currentTarget.classList.remove('notion-image-loading')}
             />
@@ -100,7 +116,13 @@ export const NotionPage: React.FC<NotionPageProps> = ({
         )}
 
         <div className="notion-page-layout">
-          <main className={cs('notion-page', isRootPage && 'index-page')}>
+          {/* tabIndex -1 so the skip link can move focus here, not just scroll:
+              without it the next Tab would start from the top again. */}
+          <main
+            id="notion-content"
+            tabIndex={-1}
+            className={cs('notion-page', isRootPage && 'index-page')}
+          >
             <div className="notion-page-content">
               {icon && (
                 <div className="notion-page-icon-hero">
@@ -136,11 +158,13 @@ export const NotionPage: React.FC<NotionPageProps> = ({
 
               {blocks && (
                 <div className="notion-page-body">
-                  <NotionBlocks
-                    blocks={blocks}
-                    databaseEntriesMap={databaseEntriesMap}
-                    childPageMap={childPageMap}
-                  />
+                  <HeadingOffsetProvider blocks={blocks}>
+                    <NotionBlocks
+                      blocks={blocks}
+                      databaseEntriesMap={databaseEntriesMap}
+                      childPageMap={childPageMap}
+                    />
+                  </HeadingOffsetProvider>
                 </div>
               )}
 

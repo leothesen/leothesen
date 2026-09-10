@@ -147,7 +147,11 @@
 /* Cover image */
 .notion-page-cover-wrapper {
   width: 100%;
-  max-height: 30vh;
+  /* An explicit height, and a positioned parent: the cover uses next/image's
+     `fill`, which absolutely positions the image and would otherwise collapse
+     this wrapper to nothing. */
+  position: relative;
+  height: 30vh;
   overflow: hidden;
   margin-top: calc(-1 * var(--notion-header-height));
 }
@@ -517,6 +521,15 @@
   width: 100% !important;
 }
 
+/*
+ * YouTube Shorts are 9:16. The wrapper already centres its children, so the
+ * portrait frame only needs a width cap: at the full 720px article measure a
+ * 9:16 box is ~1280px tall, which is taller than most screens.
+ */
+.notion-asset-wrapper-portrait>div {
+  max-width: 340px;
+}
+
 /* Bookmark */
 .notion-bookmark {
   display: flex;
@@ -581,6 +594,35 @@
 .notion-callout-text {
   flex: 1;
   min-width: 0;
+}
+
+/*
+ * A callout sets its icon beside its content, so the content's first block must
+ * not bring its own top margin — it would drop the text below the icon it
+ * belongs to. A `heading_1` child is the visible case: `margin-top: 1.4em` at
+ * `font-size: 1.875em` is around 2.6em of the callout's own text size.
+ *
+ * The heading arrives one level down, inside `.notion-block-children`, and its
+ * margin collapses out through that wrapper — so zeroing the wrapper alone does
+ * nothing and both levels have to be named.
+ */
+.notion-callout-text> :first-child,
+.notion-callout-text>.notion-block-children> :first-child {
+  margin-top: 0;
+}
+
+.notion-callout-text> :last-child,
+.notion-callout-text>.notion-block-children> :last-child {
+  margin-bottom: 0;
+}
+
+/*
+ * Child blocks are already inside the callout's padded box and sit under its
+ * own text, so the generic indent only pushes them away from the icon. Deeper
+ * nesting keeps its indent — this is the top level only.
+ */
+.notion-callout-text>.notion-block-children {
+  padding-left: 0;
 }
 
 /* Divider */
@@ -709,6 +751,10 @@ th.notion-table-cell {
   overflow: hidden;
   border-bottom: 0 none;
   transition: filter 150ms linear;
+  /* The cover uses next/image's `fill`, which absolutely positions the image.
+     The card needs to own the height it used to inherit from the <img>. */
+  position: relative;
+  height: 200px;
 }
 
 .notion-collection-card:hover .notion-collection-card-cover {
@@ -718,7 +764,7 @@ th.notion-table-cell {
 .notion-collection-card-cover img {
   display: block;
   width: 100%;
-  height: 200px;
+  height: 100%;
   object-fit: cover;
   border-radius: 5px;
   transition: filter 0.4s ease-out, opacity 0.4s ease-out;
@@ -1042,4 +1088,208 @@ th.notion-table-cell {
     grid-column: 1;
     text-align: left;
   }
+}
+
+/* ---------------------------------------------------------------------------
+ * Keyboard access
+ * ------------------------------------------------------------------------ */
+
+/* Off-screen until focused, then pinned over the header. */
+.notion-skip-link {
+  position: fixed;
+  top: 8px;
+  left: 8px;
+  z-index: 300;
+  padding: 10px 16px;
+  border-radius: 6px;
+  background: var(--bg-color);
+  color: var(--fg-color);
+  box-shadow: 0 4px 16px rgba(15, 15, 15, 0.28);
+  font-size: 14px;
+  transform: translateY(-160%);
+  transition: transform 120ms ease-out;
+}
+
+.notion-skip-link:focus {
+  transform: translateY(0);
+}
+
+/* The main region only takes focus programmatically, via the skip link — it
+   should not draw a ring around the whole article when it does. */
+.notion-page:focus {
+  outline: none;
+}
+
+/*
+ * A focus ring that survives its background. The browser default is a thin
+ * blue line, which all but disappears in dark mode and over a photograph —
+ * and gallery cards are links laid directly on images. Two rings, dark over
+ * light, keep it visible on anything.
+ */
+:focus-visible {
+  outline: 2px solid var(--fg-color);
+  outline-offset: 2px;
+  border-radius: 3px;
+  box-shadow: 0 0 0 4px var(--bg-color);
+}
+
+.notion-collection-card:focus-visible {
+  outline-offset: 3px;
+}
+
+/* ---------------------------------------------------------------------------
+ * Reduced motion
+ *
+ * The site animates in 27 places — image blur-ups, card hovers, the header
+ * sliding away on scroll — and honoured no motion preference at all.
+ *
+ * The blanket reset below is the well-worn one: near-zero durations rather
+ * than `none`, so transitionend and animationend still fire and nothing that
+ * waits on them stalls.
+ * ------------------------------------------------------------------------ */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+
+  /* The header slides out of view as you scroll down. That is decorative, and
+     it is the largest moving thing on the page — so it just stays put. */
+  .notion-header,
+  .notion-header.notion-header-hidden {
+    transform: none !important;
+  }
+
+  /* Loading spinners are the exception: the rotation *is* the message, so
+     capping it at one iteration would leave a frozen ring that reads as a
+     hung page. Slowed rather than stopped. */
+  [class*='loadingIcon'] {
+    animation-duration: 1.4s !important;
+    animation-iteration-count: infinite !important;
+  }
+}
+
+/* ---------------------------------------------------------------------------
+ * Search
+ *
+ * Opens on the header button, on Cmd/Ctrl-K, or on "/" when you are not
+ * already typing. The index is fetched once from /api/search-index and
+ * filtered in the browser, so results appear as you type with no round-trip.
+ * ------------------------------------------------------------------------ */
+.notion-search-trigger {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(55, 53, 47, 0.06);
+  border: none;
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+}
+
+.dark .notion-search-trigger {
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.notion-search-trigger-kbd {
+  font-family: inherit;
+  font-size: 11px;
+  line-height: 1;
+  padding: 3px 5px;
+  border-radius: 3px;
+  border: 1px solid var(--fg-color-0);
+  color: var(--fg-color-1);
+}
+
+@media (max-width: 640px) {
+  .notion-search-trigger-label,
+  .notion-search-trigger-kbd {
+    display: none;
+  }
+}
+
+.notion-search-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 200;
+  background: rgba(15, 15, 15, 0.4);
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 12vh 16px 16px;
+}
+
+.notion-search-dialog {
+  width: 100%;
+  max-width: 560px;
+  background: var(--bg-color);
+  color: var(--fg-color);
+  border-radius: 10px;
+  box-shadow: 0 12px 40px rgba(15, 15, 15, 0.3);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.notion-search-input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 16px;
+  font-size: 17px;
+  border: none;
+  border-bottom: 1px solid var(--fg-color-0);
+  background: transparent;
+  color: inherit;
+  outline: none;
+}
+
+.notion-search-results {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  max-height: 50vh;
+  overflow-y: auto;
+}
+
+.notion-search-result {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  width: 100%;
+  padding: 10px 16px;
+  border: none;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+.notion-search-result-active {
+  background: var(--bg-color-1);
+}
+
+.dark .notion-search-result-active {
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.notion-search-result-title {
+  font-weight: 500;
+}
+
+.notion-search-result-path {
+  font-size: 12px;
+  color: var(--fg-color-1);
+}
+
+.notion-search-status {
+  padding: 8px 16px;
+  font-size: 12px;
+  color: var(--fg-color-1);
+  border-top: 1px solid var(--fg-color-0);
 }
