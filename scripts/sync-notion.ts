@@ -1277,7 +1277,31 @@ async function imagesRepair(): Promise<void> {
     }
   }
 
-  // Step 6: Save updated image map
+  // Step 6: Bring the manifest back in line with what is on disk.
+  //
+  // Everything above rewrites meta.json and blocks.json; none of it touched
+  // the manifest. A repaired page therefore kept its dead icon and cover
+  // there, and because Notion still reports the page unchanged, the next
+  // incremental sync copied that dead URL forward — so a repair could never
+  // finish. Projecting every page's images from its own meta.json closes
+  // that, and clears drift left behind by repairs that ran before this
+  // existed.
+  let realigned = 0
+  for (const [pageId, entry] of Object.entries(existingManifest.pages)) {
+    const meta = loadExistingMeta(pageId)
+    if (!meta) continue
+    if (entry.icon !== meta.icon || entry.cover !== meta.cover) {
+      entry.icon = meta.icon
+      entry.cover = meta.cover
+      realigned++
+    }
+  }
+  if (realigned > 0) {
+    console.log(`\nRealigned ${realigned} manifest entries with meta.json.`)
+  }
+  writeManifest(existingManifest)
+
+  // Step 7: Save updated image map
   fs.writeFileSync(IMAGE_MAP_PATH, JSON.stringify(persistedImageMap, null, 2))
 
   console.log(`\nImages repair complete!`)
@@ -1356,11 +1380,23 @@ async function main() {
     // Build manifest entry
     const existingEntry = existingManifest?.pages[cleanId]
     if (!needsUpdate && existingEntry) {
+      // `discovered` carries the URLs Notion just handed us, which are signed
+      // and expire within the hour, so they must not be written here. The
+      // durable Blob URL lives on disk in meta.json.
+      //
+      // Reading it from there rather than from the previous manifest entry is
+      // what stops a dead URL becoming permanent. `imagesRepair()` fixes
+      // meta.json but Notion still reports the page unchanged, so copying the
+      // old manifest entry forward re-applied the dead URL on every sync and
+      // nothing could ever clear it. The manifest is a projection of what is
+      // on disk; the previous entry is only a fallback for a page whose
+      // meta.json we cannot read.
+      const onDisk = loadExistingMeta(cleanId)
       manifest.pages[cleanId] = {
         slugPath: discovered.slugPath,
         title: discovered.title,
-        icon: existingEntry.icon,
-        cover: existingEntry.cover,
+        icon: onDisk ? onDisk.icon : existingEntry.icon,
+        cover: onDisk ? onDisk.cover : existingEntry.cover,
         description: discovered.description,
       }
     } else {
