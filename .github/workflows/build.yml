@@ -18,6 +18,10 @@ jobs:
           cache: pnpm
 
       - run: pnpm install --frozen-lockfile
+
+      - name: test
+        run: pnpm test
+
       - name: build
         #        TODO Enable those lines below if you use a Redis cache, you'll also need to configure GitHub Repository Secrets
         #        env:

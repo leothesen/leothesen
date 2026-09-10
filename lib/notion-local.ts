@@ -97,6 +97,12 @@ export function getAllPages(): DatabaseEntry[] {
       continue
     }
 
+    // `published` and `lastEdited` used to be hardcoded null and '', so every
+    // consumer — the sitemap, the feed — believed the site had no dates at
+    // all. The manifest does not carry them, but each page's meta.json does.
+    // Read after the collision check, so a page that loses one costs no I/O.
+    const meta = readPageDates(pageId)
+
     byPath.set(path, {
       id: pageId,
       title: pageInfo.title,
@@ -105,9 +111,9 @@ export function getAllPages(): DatabaseEntry[] {
       icon: pageInfo.icon,
       slug: pageInfo.slugPath[pageInfo.slugPath.length - 1],
       path: pageInfo.slugPath,
-      published: null,
+      published: meta.published,
       author: null,
-      lastEdited: '',
+      lastEdited: meta.lastEdited,
       order: null,
     })
   }
@@ -150,4 +156,47 @@ export function getPageMeta(pageId: string): LocalPageData['meta'] | null {
   } catch {
     return null
   }
+}
+
+// meta.json is small; blocks.json is the bulk of a page and is not read here.
+// Cached because getAllPages runs for getStaticPaths, the sitemap and the feed.
+const pageDateCache = new Map<string, { published: string | null; lastEdited: string }>()
+
+function readPageDates(pageId: string): { published: string | null; lastEdited: string } {
+  const cached = pageDateCache.get(pageId)
+  if (cached) return cached
+
+  let dates = { published: null as string | null, lastEdited: '' }
+  const metaPath = path.join(CONTENT_DIR, 'pages', pageId, 'meta.json')
+  if (fs.existsSync(metaPath)) {
+    try {
+      const meta = JSON.parse(fs.readFileSync(metaPath, 'utf-8'))
+      dates = { published: meta.published ?? null, lastEdited: meta.lastEdited || '' }
+    } catch {
+      // A malformed meta.json should cost this page its dates, not the build.
+    }
+  }
+
+  pageDateCache.set(pageId, dates)
+  return dates
+}
+
+export interface SiteSection {
+  title: string
+  path: string
+}
+
+/**
+ * The top level of the slug tree — the site's main sections.
+ *
+ * Derived from the manifest rather than configured, so it follows whatever is
+ * in Notion. site.config.ts does have a navigationLinks option, but it takes
+ * hardcoded page ids that drift the moment a page is renamed or moved.
+ */
+export function getTopLevelSections(): SiteSection[] {
+  const manifest = getManifest()
+  return Object.entries(manifest.slugTree).map(([slug, node]) => ({
+    title: node.title.trim(),
+    path: `/${slug}`,
+  }))
 }

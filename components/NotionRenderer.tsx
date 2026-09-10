@@ -16,6 +16,7 @@ import type { ChildPageInfo } from '@/lib/notion'
 import type { DatabaseEntry } from '@/lib/types'
 import { planEmbed } from '@/lib/embed-url'
 import { CalEmbed } from './CalEmbed'
+import { YouTubeEmbed } from './YouTubeEmbed'
 
 // Shared by `bookmark` blocks and by embeds whose target refuses to be framed.
 function BookmarkCard({ url, label }: { url: string; label: string }) {
@@ -104,6 +105,50 @@ export function RichText({ richText }: { richText: RichTextItem[] }) {
         return <React.Fragment key={i}>{content}</React.Fragment>
       })}
     </>
+  )
+}
+
+function PageIcon({ icon }: { icon: string }) {
+  return (
+    <span className="notion-page-link-icon">
+      {icon.startsWith('http') ? (
+        <img src={icon} alt="" className="notion-page-icon-inline" />
+      ) : (
+        icon
+      )}
+    </span>
+  )
+}
+
+/** A link to another page, or plain text when there is nowhere to link to. */
+function PageLink({
+  href,
+  icon,
+  title,
+}: {
+  href?: string
+  icon?: string | null
+  title: string
+}) {
+  const content = (
+    <>
+      {icon && <PageIcon icon={icon} />}
+      {title}
+    </>
+  )
+
+  if (!href) {
+    return (
+      <div className="notion-page-link notion-page-link-unresolved">
+        <span>{content}</span>
+      </div>
+    )
+  }
+
+  return (
+    <div className="notion-page-link">
+      <Link href={href}>{content}</Link>
+    </div>
   )
 }
 
@@ -290,21 +335,34 @@ export function NotionBlock({ block, mapPageUrl, databaseEntriesMap, childPageMa
       const src = video.type === 'external' ? video.external.url : video.file?.url
       if (!src) return null
 
-      // YouTube/Vimeo embeds
-      const youtubeMatch = src.match(/(?:youtube\.com\/watch\?v=|youtu\.be\/)([^&\s]+)/)
+      // YouTube/Vimeo embeds.
+      //
+      // YouTube hands out four link shapes — watch?v=, youtu.be/, /shorts/ and
+      // /embed/ — and they all resolve to the same embed URL. Matching only the
+      // first two sent Shorts past this branch and past Vimeo's, into the
+      // <video> fallback below, which asks the browser to decode an HTML page
+      // as a video file. That is a silent failure: an empty player, no error.
+      //
+      // The id is exactly 11 characters. Matching that rather than "everything
+      // up to an &" also keeps ?si= and ?feature= out of the captured id, which
+      // share links always carry.
+      const youtubeMatch = src.match(
+        /(?:youtube\.com\/(?:watch\?v=|shorts\/|embed\/|live\/)|youtu\.be\/)([\w-]{11})/
+      )
       const vimeoMatch = src.match(/vimeo\.com\/(\d+)/)
 
       if (youtubeMatch) {
+        const caption = (block as any).video?.caption || []
+        // Shorts are filmed 9:16. In the 16:9 frame the other videos use they
+        // shrink to a strip with black down both sides.
+        const isShort = /youtube\.com\/shorts\//.test(src)
         return (
           <figure className="notion-asset-wrapper notion-asset-wrapper-video">
-            <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0 }}>
-              <iframe
-                src={`https://www.youtube.com/embed/${youtubeMatch[1]}`}
-                style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%' }}
-                allowFullScreen
-                loading="lazy"
-              />
-            </div>
+            <YouTubeEmbed
+              id={youtubeMatch[1]}
+              title={caption.map((c: any) => c.plain_text).join('') || undefined}
+              portrait={isShort}
+            />
           </figure>
         )
       }
@@ -450,21 +508,12 @@ export function NotionBlock({ block, mapPageUrl, databaseEntriesMap, childPageMa
     case 'child_page': {
       const childPage = (block as any).child_page
       const info = childPageMap?.[block.id]
-      const href = info ? `/${info.slug}` : (mapPageUrl ? mapPageUrl(block.id) : `/${block.id}`)
-      return (
-        <div className="notion-page-link">
-          <Link href={href}>
-            {info?.icon && (
-              <span className="notion-page-link-icon">
-                {info.icon.startsWith('http') ? (
-                  <img src={info.icon} alt="" className="notion-page-icon-inline" />
-                ) : info.icon}
-              </span>
-            )}
-            {childPage.title}
-          </Link>
-        </div>
-      )
+      const href = info ? `/${info.slug}` : mapPageUrl?.(block.id)
+      // A page referenced but never synced has no slug to link to. Emitting
+      // `/<uuid>` gives a link that 404s — /mountains/cederberg-fastpack-2024
+      // shipped one for its "Route archive" child. Show the title as text so
+      // the reference is still visible, without pretending it is reachable.
+      return <PageLink href={href} icon={info?.icon} title={childPage.title} />
     }
 
     case 'link_to_page': {
@@ -473,22 +522,12 @@ export function NotionBlock({ block, mapPageUrl, databaseEntriesMap, childPageMa
       if (!targetId) return null
       const cleanId = targetId.replace(/-/g, '')
       const info = childPageMap?.[targetId] || childPageMap?.[cleanId]
-      const href = info ? `/${info.slug}` : (mapPageUrl ? mapPageUrl(targetId) : `/${targetId}`)
-      const title = info?.title || 'Link'
-      return (
-        <div className="notion-page-link">
-          <Link href={href}>
-            {info?.icon && (
-              <span className="notion-page-link-icon">
-                {info.icon.startsWith('http') ? (
-                  <img src={info.icon} alt="" className="notion-page-icon-inline" />
-                ) : info.icon}
-              </span>
-            )}
-            {title}
-          </Link>
-        </div>
-      )
+      const href = info ? `/${info.slug}` : mapPageUrl?.(targetId)
+      // Unlike child_page, the block carries no title of its own, so an
+      // unresolved one has nothing to show — it used to render the word
+      // "Link" pointing at a dead URL.
+      if (!info && !href) return null
+      return <PageLink href={href} icon={info?.icon} title={info?.title || 'Link'} />
     }
 
     case 'child_database': {

@@ -1,4 +1,5 @@
 import * as React from 'react'
+import Link from 'next/link'
 import { useRouter } from 'next/router'
 import Image from 'next/image'
 
@@ -8,6 +9,8 @@ import * as config from '@/lib/config'
 import type { NotionBlock } from '@/lib/notion-api'
 import type { Breadcrumb, DatabaseEntry, PageError, Site } from '@/lib/types'
 import type { ChildPageInfo } from '@/lib/notion'
+import type { SiteSection } from '@/lib/notion-local'
+import type { PageNeighbour } from '@/lib/resolve-notion-page-local'
 import { formatDate } from '@/lib/notion-utils'
 
 import { HeadingOffsetProvider, NotionBlocks } from './NotionRenderer'
@@ -37,6 +40,9 @@ interface NotionPageProps {
   childPageMap?: Record<string, ChildPageInfo> | null
   breadcrumbs?: Breadcrumb[]
   pageId?: string
+  sections?: SiteSection[]
+  readingMinutes?: number | null
+  neighbours?: { prev: PageNeighbour | null; next: PageNeighbour | null }
   canonicalPath?: string
   error?: PageError
 }
@@ -50,6 +56,9 @@ export const NotionPage: React.FC<NotionPageProps> = ({
   breadcrumbs,
   error,
   pageId,
+  sections,
+  readingMinutes,
+  neighbours,
   canonicalPath,
 }) => {
   const router = useRouter()
@@ -83,10 +92,20 @@ export const NotionPage: React.FC<NotionPageProps> = ({
         description={description}
         image={cover}
         url={canonicalPath ? `${config.host}${canonicalPath}` : undefined}
+        isArticle={!isRootPage}
+        publishedTime={publishedDate || pageMeta.lastEdited || undefined}
+        modifiedTime={pageMeta.lastEdited || undefined}
       />
 
       <div className="notion-viewport">
-        <NotionPageHeader breadcrumbs={breadcrumbs} />
+        {/* First focusable thing on the page. Without it, reaching the article
+            means tabbing through the breadcrumb and every child-page link —
+            on a gallery page that is dozens of stops. */}
+        <a href="#notion-content" className="notion-skip-link">
+          Skip to content
+        </a>
+
+        <NotionPageHeader breadcrumbs={breadcrumbs} sections={sections} />
 
         {cover && (
           <div className="notion-page-cover-wrapper">
@@ -105,7 +124,13 @@ export const NotionPage: React.FC<NotionPageProps> = ({
         )}
 
         <div className="notion-page-layout">
-          <main className={cs('notion-page', isRootPage && 'index-page')}>
+          {/* tabIndex -1 so the skip link can move focus here, not just scroll:
+              without it the next Tab would start from the top again. */}
+          <main
+            id="notion-content"
+            tabIndex={-1}
+            className={cs('notion-page', isRootPage && 'index-page')}
+          >
             <div className="notion-page-content">
               {icon && (
                 <div className="notion-page-icon-hero">
@@ -136,6 +161,9 @@ export const NotionPage: React.FC<NotionPageProps> = ({
                       Last edited {formatDate(pageMeta.lastEdited, { month: 'long' })}
                     </span>
                   )}
+                  {readingMinutes && (
+                    <span className="notion-page-date">{readingMinutes} min read</span>
+                  )}
                 </div>
               )}
 
@@ -149,6 +177,25 @@ export const NotionPage: React.FC<NotionPageProps> = ({
                     />
                   </HeadingOffsetProvider>
                 </div>
+              )}
+
+              {!isRootPage && (neighbours?.prev || neighbours?.next) && (
+                <nav className="notion-page-neighbours" aria-label="Nearby pages">
+                  {neighbours.prev ? (
+                    <Link href={neighbours.prev.path} className="notion-neighbour notion-neighbour-prev">
+                      <span className="notion-neighbour-label">Previous</span>
+                      <span className="notion-neighbour-title">{neighbours.prev.title}</span>
+                    </Link>
+                  ) : (
+                    <span />
+                  )}
+                  {neighbours.next && (
+                    <Link href={neighbours.next.path} className="notion-neighbour notion-neighbour-next">
+                      <span className="notion-neighbour-label">Next</span>
+                      <span className="notion-neighbour-title">{neighbours.next.title}</span>
+                    </Link>
+                  )}
+                </nav>
               )}
             </div>
           </main>
