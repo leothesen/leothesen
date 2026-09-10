@@ -290,16 +290,42 @@ export function NotionBlock({ block, mapPageUrl, databaseEntriesMap, childPageMa
       const src = video.type === 'external' ? video.external.url : video.file?.url
       if (!src) return null
 
-      // YouTube/Vimeo embeds
-      const youtubeMatch = src.match(/(?:youtube\.com\/watch\?v=|youtu\.be\/)([^&\s]+)/)
+      // YouTube/Vimeo embeds.
+      //
+      // YouTube hands out four link shapes — watch?v=, youtu.be/, /shorts/ and
+      // /embed/ — and they all resolve to the same embed URL. Matching only the
+      // first two sent Shorts past this branch and past Vimeo's, into the
+      // <video> fallback below, which asks the browser to decode an HTML page
+      // as a video file. That is a silent failure: an empty player, no error.
+      //
+      // The id is exactly 11 characters. Matching that rather than "everything
+      // up to an &" also keeps ?si= and ?feature= out of the captured id, which
+      // share links always carry.
+      const youtubeMatch = src.match(
+        /(?:youtube\.com\/(?:watch\?v=|shorts\/|embed\/|live\/)|youtu\.be\/)([\w-]{11})/
+      )
       const vimeoMatch = src.match(/vimeo\.com\/(\d+)/)
 
       if (youtubeMatch) {
+        // Shorts are filmed 9:16. Played in the 16:9 frame the other videos
+        // use, they shrink to a strip with black down both sides.
+        const isShort = /youtube\.com\/shorts\//.test(src)
         return (
-          <figure className="notion-asset-wrapper notion-asset-wrapper-video">
-            <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0 }}>
+          <figure
+            className={`notion-asset-wrapper notion-asset-wrapper-video${
+              isShort ? ' notion-asset-wrapper-portrait' : ''
+            }`}
+          >
+            <div
+              style={{
+                position: 'relative',
+                paddingBottom: isShort ? '177.78%' : '56.25%',
+                height: 0,
+              }}
+            >
               <iframe
                 src={`https://www.youtube.com/embed/${youtubeMatch[1]}`}
+                title="YouTube video player"
                 style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%' }}
                 allowFullScreen
                 loading="lazy"
