@@ -9,6 +9,7 @@ import * as config from '@/lib/config'
 import type { NotionBlock } from '@/lib/notion-api'
 import type { Breadcrumb, DatabaseEntry, PageError, Site } from '@/lib/types'
 import type { ChildPageInfo } from '@/lib/notion'
+import type { SiteSection } from '@/lib/notion-local'
 import type { PageNeighbour } from '@/lib/resolve-notion-page-local'
 import { formatDate } from '@/lib/notion-utils'
 
@@ -39,6 +40,7 @@ interface NotionPageProps {
   childPageMap?: Record<string, ChildPageInfo> | null
   breadcrumbs?: Breadcrumb[]
   pageId?: string
+  sections?: SiteSection[]
   readingMinutes?: number | null
   neighbours?: { prev: PageNeighbour | null; next: PageNeighbour | null }
   canonicalPath?: string
@@ -54,6 +56,7 @@ export const NotionPage: React.FC<NotionPageProps> = ({
   breadcrumbs,
   error,
   pageId,
+  sections,
   readingMinutes,
   neighbours,
   canonicalPath,
@@ -102,7 +105,7 @@ export const NotionPage: React.FC<NotionPageProps> = ({
           Skip to content
         </a>
 
-        <NotionPageHeader breadcrumbs={breadcrumbs} />
+        <NotionPageHeader breadcrumbs={breadcrumbs} sections={sections} />
 
         {cover && (
           <div className="notion-page-cover-wrapper">

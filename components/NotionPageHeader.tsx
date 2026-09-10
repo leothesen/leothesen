@@ -1,10 +1,12 @@
 import * as React from 'react'
 import Link from 'next/link'
+import { useRouter } from 'next/router'
 import { IoSearch } from 'react-icons/io5'
 
 import cs from 'classnames'
 
 import { navigationLinks, navigationStyle } from '@/lib/config'
+import type { SiteSection } from '@/lib/notion-local'
 import type { Breadcrumb } from '@/lib/types'
 
 import { SearchDialog, useSearchHotkey } from './SearchDialog'
@@ -43,8 +45,12 @@ function useScrollDirection() {
   return hidden
 }
 
-export const NotionPageHeader: React.FC<{ breadcrumbs?: Breadcrumb[] }> = ({ breadcrumbs }) => {
+export const NotionPageHeader: React.FC<{
+  breadcrumbs?: Breadcrumb[]
+  sections?: SiteSection[]
+}> = ({ breadcrumbs, sections }) => {
   const hidden = useScrollDirection()
+  const router = useRouter()
   const [searchOpen, setSearchOpen] = React.useState(false)
   const openSearch = React.useCallback(() => setSearchOpen(true), [])
   useSearchHotkey(openSearch)
@@ -65,6 +71,27 @@ export const NotionPageHeader: React.FC<{ breadcrumbs?: Breadcrumb[] }> = ({ bre
             </React.Fragment>
           ))}
         </nav>
+
+        {sections?.length > 0 && (
+          <nav className="notion-nav-sections" aria-label="Sections">
+            {sections.map((section) => {
+              // Also mark the section active while reading anything beneath it.
+              const current =
+                router.asPath === section.path ||
+                router.asPath.startsWith(`${section.path}/`)
+              return (
+                <Link
+                  key={section.path}
+                  href={section.path}
+                  className={cs('notion-nav-section', current && 'notion-nav-section-current')}
+                  aria-current={current ? 'page' : undefined}
+                >
+                  {section.title}
+                </Link>
+              )
+            })}
+          </nav>
+        )}
 
         <div className='notion-nav-header-rhs'>
           <button

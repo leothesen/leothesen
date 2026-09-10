@@ -1018,6 +1018,64 @@ th.notion-table-cell {
   }
 }
 /* ---------------------------------------------------------------------------
+ * Section navigation
+ *
+ * The site's top-level sections, derived from the manifest so they follow
+ * Notion. Kept to a single non-wrapping line that scrolls sideways on narrow
+ * screens: the header is fixed and .notion-viewport reserves exactly
+ * --notion-header-height above the content, so a nav that wraps would hide the
+ * top of every page.
+ * ------------------------------------------------------------------------ */
+.notion-nav-sections {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  min-width: 0;
+  overflow-x: auto;
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+}
+
+.notion-nav-sections::-webkit-scrollbar {
+  display: none;
+}
+
+.notion-nav-section {
+  flex: 0 0 auto;
+  font-size: 13px;
+  padding: 4px 8px;
+  border-radius: 4px;
+  color: var(--fg-color-1);
+  white-space: nowrap;
+  transition: background 100ms ease-out, color 100ms ease-out;
+}
+
+.notion-nav-section:hover {
+  background: var(--bg-color-1);
+  color: var(--fg-color);
+}
+
+.notion-nav-section-current {
+  color: var(--fg-color);
+  font-weight: 500;
+  background: rgba(55, 53, 47, 0.06);
+}
+
+.dark .notion-nav-section-current {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+/* On a phone the breadcrumb trail and the section list cannot both have room.
+   The trail is recoverable (every page links up); the sections are the only
+   way across the site, so they win. */
+@media (max-width: 700px) {
+  .notion-nav-breadcrumbs .breadcrumb:not(:first-child),
+  .notion-nav-breadcrumbs .breadcrumb-separator {
+    display: none;
+  }
+}
+
+/* ---------------------------------------------------------------------------
  * YouTube
  *
  * A poster and a play button until clicked. The plain iframe pulled ~950KB of
