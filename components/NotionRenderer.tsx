@@ -16,6 +16,7 @@ import type { ChildPageInfo } from '@/lib/notion'
 import type { DatabaseEntry } from '@/lib/types'
 import { planEmbed } from '@/lib/embed-url'
 import { CalEmbed } from './CalEmbed'
+import { YouTubeEmbed } from './YouTubeEmbed'
 
 // Shared by `bookmark` blocks and by embeds whose target refuses to be framed.
 function BookmarkCard({ url, label }: { url: string; label: string }) {
@@ -351,30 +352,17 @@ export function NotionBlock({ block, mapPageUrl, databaseEntriesMap, childPageMa
       const vimeoMatch = src.match(/vimeo\.com\/(\d+)/)
 
       if (youtubeMatch) {
-        // Shorts are filmed 9:16. Played in the 16:9 frame the other videos
-        // use, they shrink to a strip with black down both sides.
+        const caption = (block as any).video?.caption || []
+        // Shorts are filmed 9:16. In the 16:9 frame the other videos use they
+        // shrink to a strip with black down both sides.
         const isShort = /youtube\.com\/shorts\//.test(src)
         return (
-          <figure
-            className={`notion-asset-wrapper notion-asset-wrapper-video${
-              isShort ? ' notion-asset-wrapper-portrait' : ''
-            }`}
-          >
-            <div
-              style={{
-                position: 'relative',
-                paddingBottom: isShort ? '177.78%' : '56.25%',
-                height: 0,
-              }}
-            >
-              <iframe
-                src={`https://www.youtube.com/embed/${youtubeMatch[1]}`}
-                title="YouTube video player"
-                style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%' }}
-                allowFullScreen
-                loading="lazy"
-              />
-            </div>
+          <figure className="notion-asset-wrapper notion-asset-wrapper-video">
+            <YouTubeEmbed
+              id={youtubeMatch[1]}
+              title={caption.map((c: any) => c.plain_text).join('') || undefined}
+              portrait={isShort}
+            />
           </figure>
         )
       }
