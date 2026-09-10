@@ -162,6 +162,8 @@ describe('image permanence', () => {
   // can only shrink: a new one fails this test.
   const KNOWN_EXPIRING_COVERS = 13
   const KNOWN_EXPIRING_BLOCK_IMAGES = 2
+  // /mountains/big-winter-corner, whose icon already 403s.
+  const KNOWN_EXPIRING_ICONS = 1
 
   const isExpiring = (url: string) =>
     /prod-files-secure\.s3|X-Amz-Credential|X-Amz-Expires/.test(url)
@@ -172,6 +174,17 @@ describe('image permanence', () => {
       .filter((cover): cover is string => !!cover && isExpiring(cover))
 
     expect(expiring.length).toBeLessThanOrEqual(KNOWN_EXPIRING_COVERS)
+  })
+
+  // Icons were the gap: covers and block images were guarded, icons were not,
+  // and one rotted without anything noticing. A page icon is the 80px circle
+  // at the top of the page, so a dead one is conspicuous.
+  it('has no more expiring icon URLs than the known set', () => {
+    const expiring = manifestIds
+      .map((id) => manifest.pages[id].icon)
+      .filter((icon): icon is string => !!icon && isExpiring(icon))
+
+    expect(expiring.length).toBeLessThanOrEqual(KNOWN_EXPIRING_ICONS)
   })
 
   it('has no more expiring block images than the known set', () => {
