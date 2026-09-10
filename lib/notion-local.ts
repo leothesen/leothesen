@@ -135,3 +135,19 @@ function warnAboutCollisions(collisions: Map<string, string[]>) {
   }
   console.warn('')
 }
+
+/**
+ * A page's meta.json, without touching its blocks.
+ *
+ * getLocalPage also parses blocks.json, which is the bulk of a page's bytes —
+ * reading that for all 216 pages just to find a date would be wasteful.
+ */
+export function getPageMeta(pageId: string): LocalPageData['meta'] | null {
+  const metaPath = path.join(CONTENT_DIR, 'pages', pageId.replace(/-/g, ''), 'meta.json')
+  if (!fs.existsSync(metaPath)) return null
+  try {
+    return JSON.parse(fs.readFileSync(metaPath, 'utf-8'))
+  } catch {
+    return null
+  }
+}
