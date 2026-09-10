@@ -1,10 +1,40 @@
 import * as React from 'react'
 import Link from 'next/link'
+import Image from 'next/image'
+
+// The article column is 720px wide less 32px of padding, and images inside a
+// two-column block are narrower still. Asking for 700px covers the widest case
+// at roughly 2x for the narrow ones, instead of shipping the 4032px original.
+const NOTION_IMAGE_SIZES = '(max-width: 760px) 100vw, 700px'
+
+// Gallery cards are a `minmax(260px, 1fr)` grid, so they land at roughly 320px
+// in the article column and go full width on a phone.
+const CARD_COVER_SIZES = '(max-width: 760px) 100vw, 340px'
 
 import type { NotionBlock } from '@/lib/notion-api'
 import type { ChildPageInfo } from '@/lib/notion'
 import type { DatabaseEntry } from '@/lib/types'
+import { planEmbed } from '@/lib/embed-url'
 import { CalEmbed } from './CalEmbed'
+
+// Shared by `bookmark` blocks and by embeds whose target refuses to be framed.
+function BookmarkCard({ url, label }: { url: string; label: string }) {
+  return (
+    <a
+      href={url}
+      target="_blank"
+      rel="noopener noreferrer"
+      className="notion-bookmark"
+    >
+      <div className="notion-bookmark-content">
+        <div className="notion-bookmark-title">{label}</div>
+        <div className="notion-bookmark-link">
+          <span className="notion-bookmark-link-text">{url}</span>
+        </div>
+      </div>
+    </a>
+  )
+}
 
 // Matched on the parsed hostname, so a url merely containing "cal.com"
 // (cal.com.example.net, notcal.com) does not qualify.
@@ -77,8 +107,55 @@ export function RichText({ richText }: { richText: RichTextItem[] }) {
   )
 }
 
+/**
+ * How far Notion's heading levels are pushed down for this page.
+ *
+ * The page title is already the document's <h1>, so rendering Notion's
+ * heading_1 as <h1> gave some pages six of them — which flattens the outline a
+ * screen reader builds and leaves search engines without a single subject.
+ *
+ * The offset is per page rather than a flat +1: 10 of the 216 pages start at
+ * heading_2, and demoting those uniformly would turn a clean h1 -> h2 into a
+ * skipped h1 -> h3. Shifting by the shallowest heading the page actually uses
+ * means the top-level section is always <h2>, whichever Notion level it is.
+ */
+const HeadingOffsetContext = React.createContext(1)
+
+export function computeHeadingOffset(blocks: NotionBlock[]): number {
+  let shallowest: number | null = null
+
+  const walk = (list: NotionBlock[] | undefined) => {
+    for (const block of list || []) {
+      const match = /^heading_([123])$/.exec(block.type || '')
+      if (match) {
+        const level = Number(match[1])
+        if (shallowest === null || level < shallowest) shallowest = level
+      }
+      if ((block as any).children) walk((block as any).children)
+    }
+  }
+
+  walk(blocks)
+  return shallowest === null ? 1 : 2 - shallowest
+}
+
+export function HeadingOffsetProvider({
+  blocks,
+  children,
+}: {
+  blocks: NotionBlock[]
+  children: React.ReactNode
+}) {
+  const offset = React.useMemo(() => computeHeadingOffset(blocks), [blocks])
+  return (
+    <HeadingOffsetContext.Provider value={offset}>{children}</HeadingOffsetContext.Provider>
+  )
+}
+
 // Individual block renderer
 export function NotionBlock({ block, mapPageUrl, databaseEntriesMap, childPageMap }: { block: NotionBlock; mapPageUrl?: (id: string) => string; databaseEntriesMap?: Record<string, DatabaseEntry[]> | null; childPageMap?: Record<string, ChildPageInfo> | null }) {
+  const headingOffset = React.useContext(HeadingOffsetContext)
+
   const renderChildren = () => {
     if (!block.children?.length) return null
     return (
@@ -98,25 +175,20 @@ export function NotionBlock({ block, mapPageUrl, databaseEntriesMap, childPageMa
       )
 
     case 'heading_1':
-      return (
-        <h1 className="notion-h1" id={block.id}>
-          <RichText richText={(block as any).heading_1.rich_text} />
-        </h1>
-      )
-
     case 'heading_2':
+    case 'heading_3': {
+      const level = Number(block.type.slice(-1))
+      // Demoted so the page title keeps the only <h1> — see headingOffset.
+      // The notion-h* class still comes from the Notion level, so nothing
+      // looks different.
+      const Tag = `h${Math.min(6, Math.max(2, level + headingOffset))}` as
+        'h2' | 'h3' | 'h4' | 'h5' | 'h6'
       return (
-        <h2 className="notion-h2" id={block.id}>
-          <RichText richText={(block as any).heading_2.rich_text} />
-        </h2>
+        <Tag className={`notion-h${level}`} id={block.id}>
+          <RichText richText={(block as any)[block.type].rich_text} />
+        </Tag>
       )
-
-    case 'heading_3':
-      return (
-        <h3 className="notion-h3" id={block.id}>
-          <RichText richText={(block as any).heading_3.rich_text} />
-        </h3>
-      )
+    }
 
     case 'bulleted_list_item':
       return (
@@ -187,9 +259,18 @@ export function NotionBlock({ block, mapPageUrl, databaseEntriesMap, childPageMa
       return (
         <figure className="notion-asset-wrapper">
           <div className="notion-image-wrapper">
-            <img
+            <Image
               src={src}
               alt={alt}
+              // Notion gives us no dimensions, and these live on Blob storage
+              // so we cannot measure them at build time. These stand in only to
+              // declare an aspect ratio for the reserved box; `height: auto`
+              // hands layout back to the real image once it decodes. What
+              // matters here is `sizes`, which is what actually caps the bytes.
+              width={1600}
+              height={1200}
+              sizes={NOTION_IMAGE_SIZES}
+              style={{ width: '100%', height: 'auto' }}
               loading="lazy"
               className="notion-image notion-image-loading"
               onLoad={(e) => e.currentTarget.classList.remove('notion-image-loading')}
@@ -262,11 +343,20 @@ export function NotionBlock({ block, mapPageUrl, databaseEntriesMap, childPageMa
       // cannot work. Every other embed keeps the generic treatment.
       if (isCalUrl(url)) return <CalEmbed url={url} />
 
+      // Most share links (Spotify, SoundCloud, TikTok) refuse to be framed and
+      // render as an empty box. planEmbed swaps in the platform's own player
+      // where one exists, and says so when none does.
+      const plan = planEmbed(url)
+      if (plan.kind === 'bookmark') {
+        return <BookmarkCard url={url} label={url} />
+      }
+
       return (
         <figure className="notion-asset-wrapper">
           <iframe
-            src={url}
-            style={{ width: '100%', minHeight: '400px', border: 'none' }}
+            src={plan.src}
+            title={plan.title}
+            style={{ width: '100%', height: `${plan.height}px`, border: 'none' }}
             loading="lazy"
             allowFullScreen
           />
@@ -277,25 +367,11 @@ export function NotionBlock({ block, mapPageUrl, databaseEntriesMap, childPageMa
     case 'bookmark': {
       const bookmark = (block as any).bookmark
       const caption = bookmark.caption || []
-      return (
-        <a
-          href={bookmark.url}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="notion-bookmark"
-        >
-          <div className="notion-bookmark-content">
-            <div className="notion-bookmark-title">
-              {caption.length > 0
-                ? caption.map((c: any) => c.plain_text).join('')
-                : bookmark.url}
-            </div>
-            <div className="notion-bookmark-link">
-              <span className="notion-bookmark-link-text">{bookmark.url}</span>
-            </div>
-          </div>
-        </a>
-      )
+      const label =
+        caption.length > 0
+          ? caption.map((c: any) => c.plain_text).join('')
+          : bookmark.url
+      return <BookmarkCard url={bookmark.url} label={label} />
     }
 
     case 'quote':
@@ -512,9 +588,13 @@ export function DatabaseView({ entries }: { entries: DatabaseEntry[] }) {
           <Link key={entry.id} href={href} className="notion-collection-card">
             <div className="notion-collection-card-cover">
               {entry.cover ? (
-                <img
+                <Image
                   src={entry.cover}
                   alt={entry.title}
+                  // The card cover is a fixed 200px-tall crop, so `fill` gives
+                  // next/image an exact box to work with — no guessed ratio.
+                  fill
+                  sizes={CARD_COVER_SIZES}
                   loading="lazy"
                   className="notion-image-loading"
                   onLoad={(e) => e.currentTarget.classList.remove('notion-image-loading')}
