@@ -11,10 +11,13 @@ import 'styles/notion.css'
 import { bootstrap } from '@/lib/bootstrap-client'
 import { isServer } from '@/lib/config'
 import { capturePageview, captureWebVital, initAnalytics } from '@/lib/posthog-client'
+import { startContentEngagement, startOutboundClickTracking } from '@/lib/reader-events'
 
 if (!isServer) {
   bootstrap()
   initAnalytics()
+  // One listener for the life of the tab: a click can leave from any page.
+  startOutboundClickTracking()
 }
 
 export function reportWebVitals(metric: NextWebVitalsMetric) {
@@ -35,6 +38,13 @@ export default function App({ Component, pageProps }: AppProps) {
     router.events.on('routeChangeComplete', onRouteChange)
     return () => router.events.off('routeChangeComplete', onRouteChange)
   }, [router.events])
+
+  // Scroll depth and dwell belong to a page, not to the tab, so this restarts
+  // on every navigation. `asPath` rather than `pathname`, which is the
+  // unresolved `/[...pageId]` for every article on the site.
+  React.useEffect(() => {
+    return startContentEngagement(window.location.pathname)
+  }, [router.asPath])
 
   return (
     <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
