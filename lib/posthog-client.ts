@@ -2,9 +2,12 @@ import posthog from 'posthog-js'
 
 import { isServer, posthogId } from './config'
 
-// Both of Leo's other PostHog orgs are on EU cloud, so that is the default.
-// Override with NEXT_PUBLIC_POSTHOG_HOST if this site's project lives elsewhere.
-const apiHost = process.env.NEXT_PUBLIC_POSTHOG_HOST || 'https://eu.i.posthog.com'
+// This site's project (leothesen.com, id 10422) is on US cloud — unlike Leo's
+// other orgs, which are EU. The host must match the region the project lives
+// in: posthog-js does not redirect across regions, so an EU host with a US
+// project drops every event without an error.
+// Override with NEXT_PUBLIC_POSTHOG_HOST if the project ever moves.
+const apiHost = process.env.NEXT_PUBLIC_POSTHOG_HOST || 'https://us.i.posthog.com'
 
 let started = false
 

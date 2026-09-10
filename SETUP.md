@@ -150,5 +150,8 @@ Dark mode is fully supported and can be toggled via the sun/moon icon in the foo
 Optional analytics can be enabled by setting environment variables:
 
 - **Fathom**: Set `NEXT_PUBLIC_FATHOM_ID`
-- **PostHog**: Set `NEXT_PUBLIC_POSTHOG_ID`
+- **PostHog**: Set `NEXT_PUBLIC_POSTHOG_ID`. The host defaults to US cloud
+  (`https://us.i.posthog.com`), matching this site's project. If the project
+  moves to EU, set `NEXT_PUBLIC_POSTHOG_HOST` as well — posthog-js does not
+  redirect between regions, so a mismatched host silently drops every event.
 - **Vercel Analytics**: Included via `@vercel/analytics`
