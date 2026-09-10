@@ -39,6 +39,7 @@ interface NotionPageProps {
   childPageMap?: Record<string, ChildPageInfo> | null
   breadcrumbs?: Breadcrumb[]
   pageId?: string
+  readingMinutes?: number | null
   neighbours?: { prev: PageNeighbour | null; next: PageNeighbour | null }
   canonicalPath?: string
   error?: PageError
@@ -53,6 +54,7 @@ export const NotionPage: React.FC<NotionPageProps> = ({
   breadcrumbs,
   error,
   pageId,
+  readingMinutes,
   neighbours,
   canonicalPath,
 }) => {
@@ -152,6 +154,9 @@ export const NotionPage: React.FC<NotionPageProps> = ({
                     <span className="notion-page-date">
                       Last edited {formatDate(pageMeta.lastEdited, { month: 'long' })}
                     </span>
+                  )}
+                  {readingMinutes && (
+                    <span className="notion-page-date">{readingMinutes} min read</span>
                   )}
                 </div>
               )}
