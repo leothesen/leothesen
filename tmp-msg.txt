@@ -1,0 +1,35 @@
+archive: order by when a page was written, not when it was last touched
+
+An archive is a record of when things were written. `lastEdited` moves every
+time a typo is fixed, so ordering by it files a 2022 post under this year.
+
+The content carried no other date to use. `published` comes from a Notion
+`Published` property and is set on zero of the 216 pages, so the existing
+`published || lastEdited` was always taking the second branch. So the sync now
+records Notion's own `created_time`, at all six places it writes page metadata,
+and the 216 pages already on disk are backfilled with it — fetched directly
+from the Notion API rather than by re-syncing, so no block or image is touched.
+
+The backfill writes `JSON.stringify(meta, null, 2)` with no trailing newline,
+matching exactly what the sync emits. Adding one would have left 216 files for
+the next sync to silently revert — the same kind of empty diff that #79 fixed.
+
+How wrong the old order was:
+
+  214 of 216 entries change position, 78 of them by more than 20 places
+  72 pages were last edited over a month after being written, one by 1,535 days
+  2026 goes from 58 entries to 1 — the other 57 were merely re-synced in 2026
+  2021 gains the 2 entries it always should have had
+
+  before  Engineering, Walking while working, Novel Experiences, ...
+  after   Walking while working, Haute Route, Haute Route - Chamonix ...
+
+The section index pages led the old list because they collect incidental edits.
+They are the pages an archive should rank lowest, not highest.
+
+Verified: 216/216 pages backfilled with zero API errors, tsc clean, production
+build clean, /archive renders 215 entries across 2021-2026 and now opens with
+"Walking while working" rather than "Engineering".
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_016BfsUTpUTYNtYW9zBYaJu5

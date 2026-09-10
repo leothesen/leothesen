@@ -23,13 +23,23 @@ interface Props {
   total: number
 }
 
-/** `published` where a page has one, `lastEdited` otherwise. */
+/**
+ * When a page was written: its `Published` property if it has one, otherwise
+ * Notion's `created` time.
+ *
+ * Explicitly not `lastEdited`. An archive is a record of when things were
+ * written, and `lastEdited` moves every time a typo is fixed — 72 of the 216
+ * pages here were last touched more than a month after they were written, the
+ * furthest by 1,535 days. Ordering by it would file a 2022 post under this
+ * year and push the section index pages, which get incidental edits, above
+ * everything actually written recently.
+ */
 function readPageDate(pageId: string): string | null {
   const metaPath = path.join(process.cwd(), '.content', 'pages', pageId, 'meta.json')
   if (!fs.existsSync(metaPath)) return null
   try {
     const meta = JSON.parse(fs.readFileSync(metaPath, 'utf-8'))
-    return meta.published || meta.lastEdited || null
+    return meta.published || meta.created || null
   } catch {
     return null
   }
@@ -40,8 +50,8 @@ function readPageDate(pageId: string): string | null {
  *
  * 216 pages spread over five years and there was no way to see them in the
  * order they were written — only by browsing down into sections. Dates come
- * from each page's meta.json: `published` where it exists, `lastEdited`
- * otherwise, which is the only date this content actually carries.
+ * from each page's meta.json: `published` where it exists, Notion's `created`
+ * time otherwise. See readPageDate for why not `lastEdited`.
  */
 export const getStaticProps: GetStaticProps<Props> = async () => {
   const manifest = getManifest()
