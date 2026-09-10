@@ -39,6 +39,7 @@
           "href": null
         }
       ],
+      "icon": null,
       "color": "default"
     },
     "archived": false
@@ -65,6 +66,7 @@
     "type": "paragraph",
     "paragraph": {
       "rich_text": [],
+      "icon": null,
       "color": "default"
     },
     "archived": false
@@ -109,6 +111,7 @@
           "href": null
         }
       ],
+      "icon": null,
       "color": "default"
     },
     "archived": false
@@ -156,7 +159,7 @@
       "type": "file",
       "file": {
         "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/c7912a1c69e86dbb.jpeg",
-        "expiry_time": "2026-03-12T09:45:03.998Z"
+        "expiry_time": "2026-09-10T11:02:53.987Z"
       }
     },
     "archived": false
@@ -183,6 +186,7 @@
     "type": "paragraph",
     "paragraph": {
       "rich_text": [],
+      "icon": null,
       "color": "default"
     },
     "archived": false
@@ -299,6 +303,7 @@
           "href": null
         }
       ],
+      "icon": null,
       "color": "default"
     },
     "archived": false
@@ -325,6 +330,7 @@
     "type": "paragraph",
     "paragraph": {
       "rich_text": [],
+      "icon": null,
       "color": "default"
     },
     "archived": false
@@ -372,7 +378,7 @@
       "type": "file",
       "file": {
         "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/2beb01a47df3921c.jpeg",
-        "expiry_time": "2026-03-12T09:45:03.999Z"
+        "expiry_time": "2026-09-10T11:02:53.983Z"
       }
     },
     "archived": false
@@ -417,6 +423,7 @@
           "href": null
         }
       ],
+      "icon": null,
       "color": "default"
     },
     "archived": false
@@ -512,7 +519,7 @@
               "type": "file",
               "file": {
                 "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/269e93e47d9f2a41.jpeg",
-                "expiry_time": "2026-03-12T09:45:05.402Z"
+                "expiry_time": "2026-09-10T11:02:57.262Z"
               }
             },
             "archived": false
@@ -587,7 +594,7 @@
               "type": "file",
               "file": {
                 "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/9eeddad12dde7eec.jpeg",
-                "expiry_time": "2026-03-12T09:45:05.623Z"
+                "expiry_time": "2026-09-10T11:02:57.646Z"
               }
             },
             "archived": false
@@ -636,6 +643,7 @@
           "href": null
         }
       ],
+      "icon": null,
       "color": "default"
     },
     "archived": false
@@ -662,6 +670,7 @@
     "type": "paragraph",
     "paragraph": {
       "rich_text": [],
+      "icon": null,
       "color": "default"
     },
     "archived": false
@@ -742,6 +751,7 @@
           "href": null
         }
       ],
+      "icon": null,
       "color": "default"
     },
     "archived": false
@@ -768,6 +778,7 @@
     "type": "paragraph",
     "paragraph": {
       "rich_text": [],
+      "icon": null,
       "color": "default"
     },
     "archived": false
@@ -780,7 +791,7 @@
       "page_id": "4c36b2c3-4ab4-46a2-b4e3-57c7e4d280fc"
     },
     "created_time": "2022-08-03T08:55:00.000Z",
-    "last_edited_time": "2022-08-03T08:59:00.000Z",
+    "last_edited_time": "2026-09-10T09:29:00.000Z",
     "created_by": {
       "object": "user",
       "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
@@ -799,7 +810,7 @@
           "text": {
             "content": "Lwandile early morning",
             "link": {
-              "url": "https://leothesen.com/lwandile-early-morning"
+              "url": "/p/330ca8d550aa4141983499f780a55cb6"
             }
           },
           "annotations": {
@@ -811,7 +822,7 @@
             "color": "default"
           },
           "plain_text": "Lwandile early morning",
-          "href": "https://leothesen.com/lwandile-early-morning"
+          "href": "/p/330ca8d550aa4141983499f780a55cb6"
         },
         {
           "type": "text",
@@ -882,7 +893,7 @@
           "type": "file",
           "file": {
             "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/39b18a8f585c1aab.png",
-            "expiry_time": "2026-03-12T09:45:04.919Z"
+            "expiry_time": "2026-09-10T11:02:54.856Z"
           }
         },
         "archived": false
@@ -911,6 +922,7 @@
     "type": "paragraph",
     "paragraph": {
       "rich_text": [],
+      "icon": null,
       "color": "default"
     },
     "archived": false
@@ -923,7 +935,7 @@
       "page_id": "4c36b2c3-4ab4-46a2-b4e3-57c7e4d280fc"
     },
     "created_time": "2022-08-03T08:56:00.000Z",
-    "last_edited_time": "2022-08-03T08:58:00.000Z",
+    "last_edited_time": "2026-09-10T09:29:00.000Z",
     "created_by": {
       "object": "user",
       "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
@@ -942,7 +954,7 @@
           "text": {
             "content": "Recce run",
             "link": {
-              "url": "https://leothesen.com/recce-run"
+              "url": "/p/1eae866717924de99563b881cab66de8"
             }
           },
           "annotations": {
@@ -954,7 +966,7 @@
             "color": "default"
           },
           "plain_text": "Recce run",
-          "href": "https://leothesen.com/recce-run"
+          "href": "/p/1eae866717924de99563b881cab66de8"
         },
         {
           "type": "text",
@@ -1042,7 +1054,7 @@
           "type": "file",
           "file": {
             "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/4fbc9270ac55dfae.png",
-            "expiry_time": "2026-03-12T09:45:05.170Z"
+            "expiry_time": "2026-09-10T11:02:55.268Z"
           }
         },
         "archived": false
@@ -1071,6 +1083,7 @@
     "type": "paragraph",
     "paragraph": {
       "rich_text": [],
+      "icon": null,
       "color": "default"
     },
     "archived": false
@@ -1083,7 +1096,7 @@
       "page_id": "4c36b2c3-4ab4-46a2-b4e3-57c7e4d280fc"
     },
     "created_time": "2022-08-03T08:58:00.000Z",
-    "last_edited_time": "2022-08-03T09:01:00.000Z",
+    "last_edited_time": "2026-09-10T09:29:00.000Z",
     "created_by": {
       "object": "user",
       "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
@@ -1102,7 +1115,7 @@
           "text": {
             "content": "Mdumbi finale",
             "link": {
-              "url": "https://leothesen.com/mdumbi-finale"
+              "url": "/p/dd7fb5aa6ad0483f8a8a71c5a7db68d3"
             }
           },
           "annotations": {
@@ -1114,7 +1127,7 @@
             "color": "default"
           },
           "plain_text": "Mdumbi finale",
-          "href": "https://leothesen.com/mdumbi-finale"
+          "href": "/p/dd7fb5aa6ad0483f8a8a71c5a7db68d3"
         }
       ],
       "icon": {
@@ -1147,6 +1160,7 @@
         "type": "paragraph",
         "paragraph": {
           "rich_text": [],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -1191,6 +1205,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -1238,7 +1253,7 @@
           "type": "file",
           "file": {
             "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/a6d1b42fae24d208.png",
-            "expiry_time": "2026-03-12T09:45:05.169Z"
+            "expiry_time": "2026-09-10T11:02:55.681Z"
           }
         },
         "archived": false
@@ -1267,6 +1282,7 @@
     "type": "paragraph",
     "paragraph": {
       "rich_text": [],
+      "icon": null,
       "color": "default"
     },
     "archived": false
@@ -1279,7 +1295,7 @@
       "page_id": "4c36b2c3-4ab4-46a2-b4e3-57c7e4d280fc"
     },
     "created_time": "2022-08-03T08:59:00.000Z",
-    "last_edited_time": "2022-08-03T09:02:00.000Z",
+    "last_edited_time": "2026-09-10T09:30:00.000Z",
     "created_by": {
       "object": "user",
       "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
@@ -1298,7 +1314,7 @@
           "text": {
             "content": "Leaving Mdumbi - actually no",
             "link": {
-              "url": "https://leothesen.com/leaving-mdumbi--actually-no"
+              "url": "/p/028c738e2dbb4ceb8650a1572d12ca11"
             }
           },
           "annotations": {
@@ -1310,7 +1326,7 @@
             "color": "default"
           },
           "plain_text": "Leaving Mdumbi - actually no",
-          "href": "https://leothesen.com/leaving-mdumbi--actually-no"
+          "href": "/p/028c738e2dbb4ceb8650a1572d12ca11"
         }
       ],
       "icon": {
@@ -1343,6 +1359,7 @@
         "type": "paragraph",
         "paragraph": {
           "rich_text": [],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -1387,6 +1404,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -1462,6 +1480,7 @@
     "type": "paragraph",
     "paragraph": {
       "rich_text": [],
+      "icon": null,
       "color": "default"
     },
     "archived": false
@@ -1474,7 +1493,7 @@
       "page_id": "4c36b2c3-4ab4-46a2-b4e3-57c7e4d280fc"
     },
     "created_time": "2022-08-03T09:00:00.000Z",
-    "last_edited_time": "2022-08-03T09:02:00.000Z",
+    "last_edited_time": "2026-09-10T09:30:00.000Z",
     "created_by": {
       "object": "user",
       "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
@@ -1493,7 +1512,7 @@
           "text": {
             "content": "Dolphins and whales",
             "link": {
-              "url": "https://leothesen.com/dolphins-and-whales"
+              "url": "/p/3e335a6325cd4c28af1ddce6bf4989ae"
             }
           },
           "annotations": {
@@ -1505,7 +1524,7 @@
             "color": "default"
           },
           "plain_text": "Dolphins and whales",
-          "href": "https://leothesen.com/dolphins-and-whales"
+          "href": "/p/3e335a6325cd4c28af1ddce6bf4989ae"
         }
       ],
       "icon": {
@@ -1538,6 +1557,7 @@
         "type": "paragraph",
         "paragraph": {
           "rich_text": [],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -1582,6 +1602,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -1657,6 +1678,7 @@
     "type": "paragraph",
     "paragraph": {
       "rich_text": [],
+      "icon": null,
       "color": "default"
     },
     "archived": false
@@ -1669,7 +1691,7 @@
       "page_id": "4c36b2c3-4ab4-46a2-b4e3-57c7e4d280fc"
     },
     "created_time": "2022-08-03T09:00:00.000Z",
-    "last_edited_time": "2022-08-03T09:01:00.000Z",
+    "last_edited_time": "2026-09-10T09:30:00.000Z",
     "created_by": {
       "object": "user",
       "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
@@ -1688,7 +1710,7 @@
           "text": {
             "content": "Lwandile hike and surf",
             "link": {
-              "url": "https://leothesen.com/lwandile-hike-and-surf"
+              "url": "/p/438b6ca37dec424691590d089349d255"
             }
           },
           "annotations": {
@@ -1700,7 +1722,7 @@
             "color": "default"
           },
           "plain_text": "Lwandile hike and surf",
-          "href": "https://leothesen.com/lwandile-hike-and-surf"
+          "href": "/p/438b6ca37dec424691590d089349d255"
         }
       ],
       "icon": {
@@ -1733,6 +1755,7 @@
         "type": "paragraph",
         "paragraph": {
           "rich_text": [],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -1777,6 +1800,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -1852,6 +1876,7 @@
     "type": "paragraph",
     "paragraph": {
       "rich_text": [],
+      "icon": null,
       "color": "default"
     },
     "archived": false
@@ -1896,6 +1921,7 @@
           "href": null
         }
       ],
+      "icon": null,
       "color": "default"
     },
     "archived": false
@@ -1922,6 +1948,7 @@
     "type": "paragraph",
     "paragraph": {
       "rich_text": [],
+      "icon": null,
       "color": "default"
     },
     "archived": false
@@ -1966,6 +1993,7 @@
           "href": null
         }
       ],
+      "icon": null,
       "color": "default"
     },
     "archived": false
@@ -1992,6 +2020,7 @@
     "type": "paragraph",
     "paragraph": {
       "rich_text": [],
+      "icon": null,
       "color": "default"
     },
     "archived": false
@@ -2072,6 +2101,7 @@
           "href": null
         }
       ],
+      "icon": null,
       "color": "default"
     },
     "archived": false
@@ -2098,6 +2128,7 @@
     "type": "paragraph",
     "paragraph": {
       "rich_text": [],
+      "icon": null,
       "color": "default"
     },
     "archived": false

@@ -1,6 +1,7 @@
 import { site, pageUrlOverrides, pageUrlAdditions } from './config'
 import { parsePageId } from './notion-utils'
 import { getManifest, getLocalPage } from './notion-local'
+import { notionPageIdFromUrl } from './notion-link'
 import type { NotionBlock } from './notion-api'
 import type { Breadcrumb, DatabaseEntry } from './types'
 import type { ChildPageInfo } from './notion'
@@ -222,8 +223,6 @@ export async function resolveNotionPageLocal(domain: string, rawPageId?: string 
 }
 
 // The path this page should be indexed under, taken from the manifest rather
-// than the URL that was requested — a page is reachable by its bare id, an
-// alias, or the flat single-slug fallback, and all should resolve to one URL.
 // than from the URL that was requested. A page is reachable by more than one
 // route — its bare page id, a `pageUrlOverrides` alias, or the flat single-slug
 // fallback — and all of those should point search engines at the one real path.
@@ -299,37 +298,37 @@ function rewriteNotionUrlsInBlocks(
   blocks: NotionBlock[],
   manifest: ReturnType<typeof getManifest>
 ): NotionBlock[] {
-  const notionUrlRegex = /https:\/\/(?:www\.)?notion\.so\/(?:[^/]*\/)?(?:[a-zA-Z0-9-]*?)([a-f0-9]{32})/
+  /** The site path for a Notion link, or null if it isn't one we can place. */
+  function sitePathFor(url: unknown): string | null {
+    const pageId = notionPageIdFromUrl(url)
+    if (!pageId) return null
+    const pageInfo = manifest.pages[pageId]
+    if (!pageInfo?.slugPath?.length) return null
+    return '/' + pageInfo.slugPath.join('/')
+  }
 
   function rewriteRichText(richText: any[]): any[] {
     if (!richText) return richText
     return richText.map((item) => {
-      if (item.href) {
-        const match = item.href.match(notionUrlRegex)
-        if (match) {
-          const cleanId = match[1]
-          const pageInfo = manifest.pages[cleanId]
-          if (pageInfo && pageInfo.slugPath.length > 0) {
-            return { ...item, href: '/' + pageInfo.slugPath.join('/') }
-          }
-        }
+      const url = item.text?.link?.url ?? item.href
+      const pageId = notionPageIdFromUrl(url)
+      // Not a Notion link at all — an outbound link, or already a site path.
+      if (!pageId) return item
+
+      const path = sitePathFor(url)
+      if (path) {
+        return item.text?.link
+          ? { ...item, href: path, text: { ...item.text, link: { url: path } } }
+          : { ...item, href: path }
       }
-      if (item.text?.link?.url) {
-        const match = item.text.link.url.match(notionUrlRegex)
-        if (match) {
-          const cleanId = match[1]
-          const pageInfo = manifest.pages[cleanId]
-          if (pageInfo && pageInfo.slugPath.length > 0) {
-            const newUrl = '/' + pageInfo.slugPath.join('/')
-            return {
-              ...item,
-              href: newUrl,
-              text: { ...item.text, link: { url: newUrl } },
-            }
-          }
-        }
-      }
-      return item
+
+      // A Notion page we do not publish. Leaving the href would be worse than
+      // dropping it: the relative `/p/<id>` form looks internal to the
+      // renderer, so it would become a same-site link that 404s. Same choice
+      // the child_page renderer makes — show the words, drop the link.
+      return item.text?.link
+        ? { ...item, href: null, text: { ...item.text, link: null } }
+        : { ...item, href: null }
     })
   }
 
