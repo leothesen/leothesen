@@ -817,8 +817,12 @@
   .notion-page-body > .notion-asset-wrapper,
   .notion-page-body > .notion-asset-grid,
   /* A section index is a wall of pictures for the same reason an article is
-     not: it is navigation, and the covers are what you navigate by. */
-  .notion-page-body > .notion-gallery-grid {
+     not: it is navigation, and the covers are what you navigate by.
+     Not on the root page: its whole content block already sits in a wider
+     frame, and applying this as well would re-centre the grid inside that
+     frame at a narrower width — leaving the masthead and the cards on
+     different left edges, which is the thing the wide frame exists to fix. */
+  .notion-page:not(.index-page) .notion-page-body > .notion-gallery-grid {
     --breakout: max(100%, min(var(--notion-wide), calc(100vw - 520px)));
     width: var(--breakout);
     margin-left: calc(50% - var(--breakout) / 2);
@@ -1105,6 +1109,10 @@ th.notion-table-cell {
 @media (min-width: 900px) {
   .index-page .notion-page-content {
     --breakout: max(100%, min(1240px, calc(100vw - 120px)));
+    /* .notion-page-content carries `max-width: var(--notion-max-width)`, and a
+       max-width clamps a width. Without lifting it the frame silently stays at
+       the prose measure and every rule below it looks like it does nothing. */
+    max-width: none;
     width: var(--breakout);
     margin-left: calc(50% - var(--breakout) / 2);
   }
