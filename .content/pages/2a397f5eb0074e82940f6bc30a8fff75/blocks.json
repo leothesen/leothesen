@@ -7,7 +7,7 @@
       "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
     },
     "created_time": "2024-06-17T08:13:00.000Z",
-    "last_edited_time": "2024-06-17T08:13:00.000Z",
+    "last_edited_time": "2026-09-11T12:15:00.000Z",
     "created_by": {
       "object": "user",
       "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
@@ -24,7 +24,7 @@
         {
           "type": "text",
           "text": {
-            "content": "Leo Thesen - Solutions Architect",
+            "content": "Leo Thesen",
             "link": null
           },
           "annotations": {
@@ -35,7 +35,7 @@
             "code": false,
             "color": "default"
           },
-          "plain_text": "Leo Thesen - Solutions Architect",
+          "plain_text": "Leo Thesen",
           "href": null
         }
       ],
@@ -46,163 +46,13 @@
   },
   {
     "object": "block",
-    "id": "e53281e8-4da3-49d6-8d39-d644eca9c95f",
+    "id": "63bef55c-213e-499f-91db-f893b73b7249",
     "parent": {
       "type": "page_id",
       "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
     },
     "created_time": "2024-06-17T08:13:00.000Z",
-    "last_edited_time": "2024-06-17T08:13:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
-    },
-    "has_children": true,
-    "in_trash": false,
-    "type": "column_list",
-    "column_list": {},
-    "archived": false,
-    "children": [
-      {
-        "object": "block",
-        "id": "fe2ad81c-bd55-4dcf-9302-888683db9797",
-        "parent": {
-          "type": "block_id",
-          "block_id": "e53281e8-4da3-49d6-8d39-d644eca9c95f"
-        },
-        "created_time": "2024-06-17T08:13:00.000Z",
-        "last_edited_time": "2024-06-17T08:14:00.000Z",
-        "created_by": {
-          "object": "user",
-          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
-        },
-        "last_edited_by": {
-          "object": "user",
-          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
-        },
-        "has_children": true,
-        "in_trash": false,
-        "type": "column",
-        "column": {
-          "width_ratio": 0.9375
-        },
-        "archived": false,
-        "children": [
-          {
-            "object": "block",
-            "id": "76b6ef35-29d2-4192-ba63-1cb4a9c63d8c",
-            "parent": {
-              "type": "block_id",
-              "block_id": "fe2ad81c-bd55-4dcf-9302-888683db9797"
-            },
-            "created_time": "2024-06-17T08:13:00.000Z",
-            "last_edited_time": "2024-06-17T08:15:00.000Z",
-            "created_by": {
-              "object": "user",
-              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
-            },
-            "last_edited_by": {
-              "object": "user",
-              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
-            },
-            "has_children": false,
-            "in_trash": false,
-            "type": "quote",
-            "quote": {
-              "rich_text": [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "I am a solutions architect working with digital startups based in web and native applications. Coming from a background in electro-mechanical engineering, I pivoted into the software world due to a life long interest in coding. \n\nI began to lead teams early on in my career. Continuing to develop my leadership skills has led me to co-managing the MOHARA South African hub of over 50 employees. \n\nMy skillset is comprised of technical skills in modern software development, with a speciality in designing simple, robust and evolutionary architectures. And accompanied by strong emotional intelligence which allows me to create and grow high-performing teams.",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "I am a solutions architect working with digital startups based in web and native applications. Coming from a background in electro-mechanical engineering, I pivoted into the software world due to a life long interest in coding. \n\nI began to lead teams early on in my career. Continuing to develop my leadership skills has led me to co-managing the MOHARA South African hub of over 50 employees. \n\nMy skillset is comprised of technical skills in modern software development, with a speciality in designing simple, robust and evolutionary architectures. And accompanied by strong emotional intelligence which allows me to create and grow high-performing teams.",
-                  "href": null
-                }
-              ],
-              "color": "default"
-            },
-            "archived": false
-          }
-        ]
-      },
-      {
-        "object": "block",
-        "id": "ce14e33a-1e4f-4917-a4c2-0c19dbfa8796",
-        "parent": {
-          "type": "block_id",
-          "block_id": "e53281e8-4da3-49d6-8d39-d644eca9c95f"
-        },
-        "created_time": "2024-06-17T08:13:00.000Z",
-        "last_edited_time": "2024-06-17T08:14:00.000Z",
-        "created_by": {
-          "object": "user",
-          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
-        },
-        "last_edited_by": {
-          "object": "user",
-          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
-        },
-        "has_children": true,
-        "in_trash": false,
-        "type": "column",
-        "column": {
-          "width_ratio": 0.0625
-        },
-        "archived": false,
-        "children": [
-          {
-            "object": "block",
-            "id": "63bef55c-213e-499f-91db-f893b73b7249",
-            "parent": {
-              "type": "block_id",
-              "block_id": "ce14e33a-1e4f-4917-a4c2-0c19dbfa8796"
-            },
-            "created_time": "2024-06-17T08:13:00.000Z",
-            "last_edited_time": "2024-06-17T08:13:00.000Z",
-            "created_by": {
-              "object": "user",
-              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
-            },
-            "last_edited_by": {
-              "object": "user",
-              "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
-            },
-            "has_children": false,
-            "in_trash": false,
-            "type": "paragraph",
-            "paragraph": {
-              "rich_text": [],
-              "icon": null,
-              "color": "default"
-            },
-            "archived": false
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "object": "block",
-    "id": "b2d021f3-d895-4f60-bdc4-a1ca460b28d5",
-    "parent": {
-      "type": "page_id",
-      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
-    },
-    "created_time": "2024-06-17T08:13:00.000Z",
-    "last_edited_time": "2024-06-17T08:13:00.000Z",
+    "last_edited_time": "2026-09-11T11:42:00.000Z",
     "created_by": {
       "object": "user",
       "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
@@ -213,8 +63,12 @@
     },
     "has_children": false,
     "in_trash": false,
-    "type": "divider",
-    "divider": {},
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "icon": null,
+      "color": "default"
+    },
     "archived": false
   },
   {
@@ -570,7 +424,7 @@
               "block_id": "cf986931-b390-48a8-9dd2-cf4d75ceed5d"
             },
             "created_time": "2024-06-17T08:13:00.000Z",
-            "last_edited_time": "2024-06-17T08:17:00.000Z",
+            "last_edited_time": "2026-09-11T12:18:00.000Z",
             "created_by": {
               "object": "user",
               "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
@@ -615,7 +469,7 @@
               "block_id": "cf986931-b390-48a8-9dd2-cf4d75ceed5d"
             },
             "created_time": "2024-06-17T08:13:00.000Z",
-            "last_edited_time": "2024-06-17T08:17:00.000Z",
+            "last_edited_time": "2026-09-11T12:18:00.000Z",
             "created_by": {
               "object": "user",
               "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
@@ -822,7 +676,7 @@
               "block_id": "ae2fd05f-eb2a-47b7-9629-1e87cd145c50"
             },
             "created_time": "2024-06-17T08:13:00.000Z",
-            "last_edited_time": "2025-04-22T12:30:00.000Z",
+            "last_edited_time": "2026-09-11T12:18:00.000Z",
             "created_by": {
               "object": "user",
               "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
@@ -894,7 +748,7 @@
       "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
     },
     "created_time": "2024-06-17T08:13:00.000Z",
-    "last_edited_time": "2024-06-17T08:13:00.000Z",
+    "last_edited_time": "2026-09-11T12:16:00.000Z",
     "created_by": {
       "object": "user",
       "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
@@ -930,6 +784,565 @@
       "color": "default"
     },
     "archived": false
+  },
+  {
+    "object": "block",
+    "id": "48ae385a-ba87-47ef-bc39-63a40ae6e22a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2026-09-11T12:15:00.000Z",
+    "last_edited_time": "2026-09-11T12:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Fractional CTO",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Fractional CTO",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3dec1f5e-c987-4c09-9689-d1ef603b28af",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2026-09-11T12:15:00.000Z",
+    "last_edited_time": "2026-09-11T12:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Independent, South Africa | May 2025 - Present",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "gray"
+          },
+          "plain_text": "Independent, South Africa | May 2025 - Present",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "650d61ad-e698-43ab-9861-432f3298ac45",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2026-09-11T12:15:00.000Z",
+    "last_edited_time": "2026-09-11T12:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Fractional CTO and technical advisor to founder-led SaaS businesses",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Fractional CTO and technical advisor to founder-led SaaS businesses",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "20ea5aca-e327-4220-9bf2-1310d88ee91d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2026-09-11T12:15:00.000Z",
+    "last_edited_time": "2026-09-11T12:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Security governance, solution architecture and engineering leadership",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Security governance, solution architecture and engineering leadership",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "68808e6e-7d68-4a43-a937-34708a75da2b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2026-09-11T12:15:00.000Z",
+    "last_edited_time": "2026-09-11T12:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Hands-on delivery alongside in-house engineering teams",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Hands-on delivery alongside in-house engineering teams",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "children": [
+      {
+        "object": "block",
+        "id": "f1bcf873-7e7c-4b3a-8bdf-25c618a91520",
+        "parent": {
+          "type": "block_id",
+          "block_id": "68808e6e-7d68-4a43-a937-34708a75da2b"
+        },
+        "created_time": "2026-09-11T12:15:00.000Z",
+        "last_edited_time": "2026-09-11T12:18:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "heading_4",
+        "heading_4": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "PARAMOS Technologies Limited",
+                "link": {
+                  "url": "https://paramos.com/"
+                }
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "PARAMOS Technologies Limited",
+              "href": "https://paramos.com/"
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "a456bc22-af51-49f5-a117-84937dc9e284",
+        "parent": {
+          "type": "block_id",
+          "block_id": "68808e6e-7d68-4a43-a937-34708a75da2b"
+        },
+        "created_time": "2026-09-11T12:15:00.000Z",
+        "last_edited_time": "2026-09-11T12:16:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "United Kingdom | 2025 - Present",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "gray"
+              },
+              "plain_text": "United Kingdom | 2025 - Present",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34f5dd57-7374-4f90-8c23-8e96fad5af77",
+        "parent": {
+          "type": "block_id",
+          "block_id": "68808e6e-7d68-4a43-a937-34708a75da2b"
+        },
+        "created_time": "2026-09-11T12:15:00.000Z",
+        "last_edited_time": "2026-09-11T12:16:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Fractional CTO and ISMS Owner",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Fractional CTO and ISMS Owner",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "65030a88-8a1e-415c-bffe-576251282745",
+        "parent": {
+          "type": "block_id",
+          "block_id": "68808e6e-7d68-4a43-a937-34708a75da2b"
+        },
+        "created_time": "2026-09-11T12:15:00.000Z",
+        "last_edited_time": "2026-09-11T12:18:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Security and compliance certification programmes",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Security and compliance certification programmes",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "bf019344-7ed2-48bd-a113-45eae32ad927",
+        "parent": {
+          "type": "block_id",
+          "block_id": "68808e6e-7d68-4a43-a937-34708a75da2b"
+        },
+        "created_time": "2026-09-11T12:18:00.000Z",
+        "last_edited_time": "2026-09-11T12:18:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Platform architecture and technical decision making",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Platform architecture and technical decision making",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "80fcbe51-0693-4f13-a8db-413ded4d5b61",
+        "parent": {
+          "type": "block_id",
+          "block_id": "68808e6e-7d68-4a43-a937-34708a75da2b"
+        },
+        "created_time": "2026-09-11T12:18:00.000Z",
+        "last_edited_time": "2026-09-11T12:18:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Engineering practice and delivery",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Engineering practice and delivery",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "c4bc3e0c-2c04-4b75-bdd6-f37184f1bc87",
+        "parent": {
+          "type": "block_id",
+          "block_id": "68808e6e-7d68-4a43-a937-34708a75da2b"
+        },
+        "created_time": "2026-09-11T12:15:00.000Z",
+        "last_edited_time": "2026-09-11T12:16:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "callout",
+        "callout": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "PARAMOS",
+                "link": {
+                  "url": "https://paramos.com/"
+                }
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "PARAMOS",
+              "href": "https://paramos.com/"
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " is an AI-assisted field service platform for repairs, maintenance and compliance, giving operators a single place to run jobs, scheduling, auditing and contracts.\n\nI lead the technical function as fractional CTO, working directly with the founder. The remit spans security and compliance governance, platform architecture, and the engineering practices that let a small, fully remote team ship safely and quickly.\n\nThe headline piece of work is taking the business through ISO 27001:2022 and Cyber Essentials Plus certification as ISMS Owner, unlocking enterprise and public sector tenders that were previously out of reach. Alongside that I own the architectural calls across the platform's communications, analytics and delivery pipeline.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " is an AI-assisted field service platform for repairs, maintenance and compliance, giving operators a single place to run jobs, scheduling, auditing and contracts.\n\nI lead the technical function as fractional CTO, working directly with the founder. The remit spans security and compliance governance, platform architecture, and the engineering practices that let a small, fully remote team ship safely and quickly.\n\nThe headline piece of work is taking the business through ISO 27001:2022 and Cyber Essentials Plus certification as ISMS Owner, unlocking enterprise and public sector tenders that were previously out of reach. Alongside that I own the architectural calls across the platform's communications, analytics and delivery pipeline.",
+              "href": null
+            }
+          ],
+          "icon": {
+            "type": "emoji",
+            "emoji": "🔒"
+          },
+          "color": "blue_background"
+        },
+        "archived": false
+      }
+    ]
   },
   {
     "object": "block",
@@ -1259,8 +1672,8 @@
       "icon": {
         "type": "file",
         "file": {
-          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/cbf19ebb-e38f-4800-84fd-1d31b9fba01f/mohara_logo.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466ZAZ2Y4CZ%2F20260911%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260911T101421Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEM3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQCGiaMu%2B5TUlVwbvPBiVRa6iUSioPXW9zxkLSBnWAkT2gIgQ6hwKZPU31wdaqDXhYP3feEm4O0UDBmqeY5m7fpzdJMqiAQIlv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFB6bySHa45fj1MC%2ByrcA%2F7hUUFhKhSL5OqxYchzJRpnVSmI5v38gQDeY2kMtKI8El2QNiPXNAEUZXtJRoUlhS8A81AgF%2BgnqugNLtHCjId%2BVXBqYNrwi8%2B4XJIh2evOCP3pfwOgPPcK6BtJ0lVoDMLUMX9hjF2WVAUPfpsYUlvZhkhz1a5EcdrGm2yYrKBrf7VDf4eZb6Tro9jbNpEE4sKiPiNSRVgvirQff4xmcP3OIGmlB0JGfIobRrDVTd%2Fp6Ot7EadlHLm4sYPinHdEPVWE2TSNaMN86jW3zRpzP5ZcdbdSv5gb7y49bczi0ruIRMYaTrjudU8WsVnEj7UENXUUy5TkDE4zR1bQQSvI0vFdEYo7nwObocM11IyMJjdA1bseMhfVKckyasbu1eDm5JTkdnC1GEgk2dhyd%2FeR5HCoxVzEbkef0zrEGtYeQo%2BGE3r9sca0%2B9sGXz%2Fv7mClxBz%2Fe2g2kSmcWhC%2BHG%2BItB9zlC%2BOn2vrZsWKrFMvUcOzn5n%2B7m%2BhCE5HvXGPRkFT%2F4T4n%2FEabn9OKkk0xFSzdV9aE%2B4GRJVvJrUWpgkY1RODp%2FzpfEKa6Vqe8gHwPFdqWRnceNJgdIZxrM295KjBG%2Bhj0oSE2XqLAl8pbYJ4K%2BEb8M%2FZlhjVOrMArZL9MJWZjtUGOqUBgszszLVVeNQpapusHGTXFpUDRN3yuMlDQGcIZThEDKXvlqt6fHbQAXP0XBWrlYEnJkU%2FRzS8PqAXEYmJkDHdxsncG4OIh2Y74W5mwBKu%2FctkLaljizMGA7sxgpR%2Bz%2FykIrFaboBaCvz7RHz8LVcGOkxXYlJ%2B6pskP8diRL3UKRPX7cTILWRuz6erTB4zWNK9JclGl%2B9sNUTFo0r7DrCqyJUJXPkH&X-Amz-Signature=1fef7504c73b18422216d88992b9de8b37566a1e2f58cd604618a3fbe9a40470&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-          "expiry_time": "2026-09-11T11:14:21.583Z"
+          "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/2cc680dbae412b62.png",
+          "expiry_time": "2026-09-11T13:33:53.044Z"
         }
       },
       "color": "gray_background"
@@ -1631,8 +2044,8 @@
       "icon": {
         "type": "file",
         "file": {
-          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/16e33eb9-4b17-452b-ac51-b22b7ea56da5/Ekko-logo.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466ZAZ2Y4CZ%2F20260911%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260911T101421Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEM3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQCGiaMu%2B5TUlVwbvPBiVRa6iUSioPXW9zxkLSBnWAkT2gIgQ6hwKZPU31wdaqDXhYP3feEm4O0UDBmqeY5m7fpzdJMqiAQIlv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFB6bySHa45fj1MC%2ByrcA%2F7hUUFhKhSL5OqxYchzJRpnVSmI5v38gQDeY2kMtKI8El2QNiPXNAEUZXtJRoUlhS8A81AgF%2BgnqugNLtHCjId%2BVXBqYNrwi8%2B4XJIh2evOCP3pfwOgPPcK6BtJ0lVoDMLUMX9hjF2WVAUPfpsYUlvZhkhz1a5EcdrGm2yYrKBrf7VDf4eZb6Tro9jbNpEE4sKiPiNSRVgvirQff4xmcP3OIGmlB0JGfIobRrDVTd%2Fp6Ot7EadlHLm4sYPinHdEPVWE2TSNaMN86jW3zRpzP5ZcdbdSv5gb7y49bczi0ruIRMYaTrjudU8WsVnEj7UENXUUy5TkDE4zR1bQQSvI0vFdEYo7nwObocM11IyMJjdA1bseMhfVKckyasbu1eDm5JTkdnC1GEgk2dhyd%2FeR5HCoxVzEbkef0zrEGtYeQo%2BGE3r9sca0%2B9sGXz%2Fv7mClxBz%2Fe2g2kSmcWhC%2BHG%2BItB9zlC%2BOn2vrZsWKrFMvUcOzn5n%2B7m%2BhCE5HvXGPRkFT%2F4T4n%2FEabn9OKkk0xFSzdV9aE%2B4GRJVvJrUWpgkY1RODp%2FzpfEKa6Vqe8gHwPFdqWRnceNJgdIZxrM295KjBG%2Bhj0oSE2XqLAl8pbYJ4K%2BEb8M%2FZlhjVOrMArZL9MJWZjtUGOqUBgszszLVVeNQpapusHGTXFpUDRN3yuMlDQGcIZThEDKXvlqt6fHbQAXP0XBWrlYEnJkU%2FRzS8PqAXEYmJkDHdxsncG4OIh2Y74W5mwBKu%2FctkLaljizMGA7sxgpR%2Bz%2FykIrFaboBaCvz7RHz8LVcGOkxXYlJ%2B6pskP8diRL3UKRPX7cTILWRuz6erTB4zWNK9JclGl%2B9sNUTFo0r7DrCqyJUJXPkH&X-Amz-Signature=80af545c94e19814f4de212266215c131b053e1f43f32139fe0adc4db3e51ffa&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-          "expiry_time": "2026-09-11T11:14:21.546Z"
+          "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/50e1fa3db3309fdc.webp",
+          "expiry_time": "2026-09-11T13:33:53.047Z"
         }
       },
       "color": "green_background"
@@ -1975,8 +2388,8 @@
       "icon": {
         "type": "file",
         "file": {
-          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/e07d1076-8605-4622-815a-6fef4ad854f7/kikapay_logo.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466ZAZ2Y4CZ%2F20260911%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260911T101421Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEM3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQCGiaMu%2B5TUlVwbvPBiVRa6iUSioPXW9zxkLSBnWAkT2gIgQ6hwKZPU31wdaqDXhYP3feEm4O0UDBmqeY5m7fpzdJMqiAQIlv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFB6bySHa45fj1MC%2ByrcA%2F7hUUFhKhSL5OqxYchzJRpnVSmI5v38gQDeY2kMtKI8El2QNiPXNAEUZXtJRoUlhS8A81AgF%2BgnqugNLtHCjId%2BVXBqYNrwi8%2B4XJIh2evOCP3pfwOgPPcK6BtJ0lVoDMLUMX9hjF2WVAUPfpsYUlvZhkhz1a5EcdrGm2yYrKBrf7VDf4eZb6Tro9jbNpEE4sKiPiNSRVgvirQff4xmcP3OIGmlB0JGfIobRrDVTd%2Fp6Ot7EadlHLm4sYPinHdEPVWE2TSNaMN86jW3zRpzP5ZcdbdSv5gb7y49bczi0ruIRMYaTrjudU8WsVnEj7UENXUUy5TkDE4zR1bQQSvI0vFdEYo7nwObocM11IyMJjdA1bseMhfVKckyasbu1eDm5JTkdnC1GEgk2dhyd%2FeR5HCoxVzEbkef0zrEGtYeQo%2BGE3r9sca0%2B9sGXz%2Fv7mClxBz%2Fe2g2kSmcWhC%2BHG%2BItB9zlC%2BOn2vrZsWKrFMvUcOzn5n%2B7m%2BhCE5HvXGPRkFT%2F4T4n%2FEabn9OKkk0xFSzdV9aE%2B4GRJVvJrUWpgkY1RODp%2FzpfEKa6Vqe8gHwPFdqWRnceNJgdIZxrM295KjBG%2Bhj0oSE2XqLAl8pbYJ4K%2BEb8M%2FZlhjVOrMArZL9MJWZjtUGOqUBgszszLVVeNQpapusHGTXFpUDRN3yuMlDQGcIZThEDKXvlqt6fHbQAXP0XBWrlYEnJkU%2FRzS8PqAXEYmJkDHdxsncG4OIh2Y74W5mwBKu%2FctkLaljizMGA7sxgpR%2Bz%2FykIrFaboBaCvz7RHz8LVcGOkxXYlJ%2B6pskP8diRL3UKRPX7cTILWRuz6erTB4zWNK9JclGl%2B9sNUTFo0r7DrCqyJUJXPkH&X-Amz-Signature=c0d4ea5809ea1a6441e9287b62d2288a98dad7e86c60b8810898d657809c65f7&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-          "expiry_time": "2026-09-11T11:14:21.713Z"
+          "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/214d307351749645.jpeg",
+          "expiry_time": "2026-09-11T13:33:53.123Z"
         }
       },
       "color": "blue_background"
@@ -2204,9 +2617,324 @@
       "icon": {
         "type": "file",
         "file": {
-          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/4a242461-6e76-404d-ae1f-dd64f71fbf3c/emsol_logo-2.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466ZAZ2Y4CZ%2F20260911%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260911T101421Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEM3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQCGiaMu%2B5TUlVwbvPBiVRa6iUSioPXW9zxkLSBnWAkT2gIgQ6hwKZPU31wdaqDXhYP3feEm4O0UDBmqeY5m7fpzdJMqiAQIlv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFB6bySHa45fj1MC%2ByrcA%2F7hUUFhKhSL5OqxYchzJRpnVSmI5v38gQDeY2kMtKI8El2QNiPXNAEUZXtJRoUlhS8A81AgF%2BgnqugNLtHCjId%2BVXBqYNrwi8%2B4XJIh2evOCP3pfwOgPPcK6BtJ0lVoDMLUMX9hjF2WVAUPfpsYUlvZhkhz1a5EcdrGm2yYrKBrf7VDf4eZb6Tro9jbNpEE4sKiPiNSRVgvirQff4xmcP3OIGmlB0JGfIobRrDVTd%2Fp6Ot7EadlHLm4sYPinHdEPVWE2TSNaMN86jW3zRpzP5ZcdbdSv5gb7y49bczi0ruIRMYaTrjudU8WsVnEj7UENXUUy5TkDE4zR1bQQSvI0vFdEYo7nwObocM11IyMJjdA1bseMhfVKckyasbu1eDm5JTkdnC1GEgk2dhyd%2FeR5HCoxVzEbkef0zrEGtYeQo%2BGE3r9sca0%2B9sGXz%2Fv7mClxBz%2Fe2g2kSmcWhC%2BHG%2BItB9zlC%2BOn2vrZsWKrFMvUcOzn5n%2B7m%2BhCE5HvXGPRkFT%2F4T4n%2FEabn9OKkk0xFSzdV9aE%2B4GRJVvJrUWpgkY1RODp%2FzpfEKa6Vqe8gHwPFdqWRnceNJgdIZxrM295KjBG%2Bhj0oSE2XqLAl8pbYJ4K%2BEb8M%2FZlhjVOrMArZL9MJWZjtUGOqUBgszszLVVeNQpapusHGTXFpUDRN3yuMlDQGcIZThEDKXvlqt6fHbQAXP0XBWrlYEnJkU%2FRzS8PqAXEYmJkDHdxsncG4OIh2Y74W5mwBKu%2FctkLaljizMGA7sxgpR%2Bz%2FykIrFaboBaCvz7RHz8LVcGOkxXYlJ%2B6pskP8diRL3UKRPX7cTILWRuz6erTB4zWNK9JclGl%2B9sNUTFo0r7DrCqyJUJXPkH&X-Amz-Signature=6d4d802892ee403f5e4094d6a5cf091610cf5a109a78c6d9ebef6518e6427208&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-          "expiry_time": "2026-09-11T11:14:21.713Z"
+          "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/e8932d2317543658.jpeg",
+          "expiry_time": "2026-09-11T13:33:53.123Z"
         }
+      },
+      "color": "blue_background"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "2638946d-1d59-40a2-8ed3-77e3067763ed",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2026-09-11T12:15:00.000Z",
+    "last_edited_time": "2026-09-11T12:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Products",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Products",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c2336435-08ba-41c1-a75f-e42ed695ac8a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2026-09-11T12:15:00.000Z",
+    "last_edited_time": "2026-09-11T12:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Lazy Surf Report",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Lazy Surf Report",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8c7d3af9-368b-4493-b247-781d47da0a4c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2026-09-11T12:15:00.000Z",
+    "last_edited_time": "2026-09-11T12:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Founder, South Africa",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "gray"
+          },
+          "plain_text": "Founder, South Africa",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8b57ae9b-7453-4884-9f5d-31175b86092f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2026-09-11T12:15:00.000Z",
+    "last_edited_time": "2026-09-11T12:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Built and operate a surf forecasting product end to end",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Built and operate a surf forecasting product end to end",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "dd3e3639-bbb1-4e8d-aaeb-2dd5c8eb6d3a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2026-09-11T12:15:00.000Z",
+    "last_edited_time": "2026-09-11T12:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Forecast rating engine, data pipelines and webcam architecture",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Forecast rating engine, data pipelines and webcam architecture",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "7e2f0790-2779-4d5d-9fda-dade7a1d9847",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2026-09-11T12:15:00.000Z",
+    "last_edited_time": "2026-09-11T12:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Agentic development workflow built on Claude Code",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Agentic development workflow built on Claude Code",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "508e41ee-71a2-4072-ab4b-7171131c2d1c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2a397f5e-b007-4e82-940f-6bc30a8fff75"
+    },
+    "created_time": "2026-09-11T12:15:00.000Z",
+    "last_edited_time": "2026-09-11T12:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Lazy Surf Report is a surf forecasting application covering breaks across Africa and the Indian Ocean, which I build and run solo.\n\nAt its core is a spot rating engine that classifies conditions as bad, good or perfect from swell direction, height and period, wind and tide - supported by swell energy and wave power modelling and tide classification logic. I designed the live webcam monitoring architecture around HLS capture, and built a referral programme with WhatsApp OTP verification.\n\nDevelopment runs through an agentic pipeline: Notion webhooks trigger Claude Code to claim tasks, raise pull requests and monitor CI.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Lazy Surf Report is a surf forecasting application covering breaks across Africa and the Indian Ocean, which I build and run solo.\n\nAt its core is a spot rating engine that classifies conditions as bad, good or perfect from swell direction, height and period, wind and tide - supported by swell energy and wave power modelling and tide classification logic. I designed the live webcam monitoring architecture around HLS capture, and built a referral programme with WhatsApp OTP verification.\n\nDevelopment runs through an agentic pipeline: Notion webhooks trigger Claude Code to claim tasks, raise pull requests and monitor CI.",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "emoji",
+        "emoji": "🌊"
       },
       "color": "blue_background"
     },
@@ -2900,8 +3628,8 @@
       "icon": {
         "type": "file",
         "file": {
-          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/665382fd-e00a-4d2c-8220-e21760e8daa6/uct_logo.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466ZAZ2Y4CZ%2F20260911%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260911T101421Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEM3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQCGiaMu%2B5TUlVwbvPBiVRa6iUSioPXW9zxkLSBnWAkT2gIgQ6hwKZPU31wdaqDXhYP3feEm4O0UDBmqeY5m7fpzdJMqiAQIlv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFB6bySHa45fj1MC%2ByrcA%2F7hUUFhKhSL5OqxYchzJRpnVSmI5v38gQDeY2kMtKI8El2QNiPXNAEUZXtJRoUlhS8A81AgF%2BgnqugNLtHCjId%2BVXBqYNrwi8%2B4XJIh2evOCP3pfwOgPPcK6BtJ0lVoDMLUMX9hjF2WVAUPfpsYUlvZhkhz1a5EcdrGm2yYrKBrf7VDf4eZb6Tro9jbNpEE4sKiPiNSRVgvirQff4xmcP3OIGmlB0JGfIobRrDVTd%2Fp6Ot7EadlHLm4sYPinHdEPVWE2TSNaMN86jW3zRpzP5ZcdbdSv5gb7y49bczi0ruIRMYaTrjudU8WsVnEj7UENXUUy5TkDE4zR1bQQSvI0vFdEYo7nwObocM11IyMJjdA1bseMhfVKckyasbu1eDm5JTkdnC1GEgk2dhyd%2FeR5HCoxVzEbkef0zrEGtYeQo%2BGE3r9sca0%2B9sGXz%2Fv7mClxBz%2Fe2g2kSmcWhC%2BHG%2BItB9zlC%2BOn2vrZsWKrFMvUcOzn5n%2B7m%2BhCE5HvXGPRkFT%2F4T4n%2FEabn9OKkk0xFSzdV9aE%2B4GRJVvJrUWpgkY1RODp%2FzpfEKa6Vqe8gHwPFdqWRnceNJgdIZxrM295KjBG%2Bhj0oSE2XqLAl8pbYJ4K%2BEb8M%2FZlhjVOrMArZL9MJWZjtUGOqUBgszszLVVeNQpapusHGTXFpUDRN3yuMlDQGcIZThEDKXvlqt6fHbQAXP0XBWrlYEnJkU%2FRzS8PqAXEYmJkDHdxsncG4OIh2Y74W5mwBKu%2FctkLaljizMGA7sxgpR%2Bz%2FykIrFaboBaCvz7RHz8LVcGOkxXYlJ%2B6pskP8diRL3UKRPX7cTILWRuz6erTB4zWNK9JclGl%2B9sNUTFo0r7DrCqyJUJXPkH&X-Amz-Signature=97e05e0367004d02d3b65e59c10cd5ba24efd5e49f8fafbd798c6754b586f955&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-          "expiry_time": "2026-09-11T11:14:21.709Z"
+          "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/52ef6fd8673ffb26.png",
+          "expiry_time": "2026-09-11T13:33:53.200Z"
         }
       },
       "color": "blue_background"
@@ -3058,8 +3786,8 @@
       "icon": {
         "type": "file",
         "file": {
-          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/73e53cee-8b68-4be6-bc8f-db27b855c96e/1d116440-469c-4628-a62f-8761f97cb911/oakhill_logo.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466ZAZ2Y4CZ%2F20260911%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260911T101421Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEM3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQCGiaMu%2B5TUlVwbvPBiVRa6iUSioPXW9zxkLSBnWAkT2gIgQ6hwKZPU31wdaqDXhYP3feEm4O0UDBmqeY5m7fpzdJMqiAQIlv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFB6bySHa45fj1MC%2ByrcA%2F7hUUFhKhSL5OqxYchzJRpnVSmI5v38gQDeY2kMtKI8El2QNiPXNAEUZXtJRoUlhS8A81AgF%2BgnqugNLtHCjId%2BVXBqYNrwi8%2B4XJIh2evOCP3pfwOgPPcK6BtJ0lVoDMLUMX9hjF2WVAUPfpsYUlvZhkhz1a5EcdrGm2yYrKBrf7VDf4eZb6Tro9jbNpEE4sKiPiNSRVgvirQff4xmcP3OIGmlB0JGfIobRrDVTd%2Fp6Ot7EadlHLm4sYPinHdEPVWE2TSNaMN86jW3zRpzP5ZcdbdSv5gb7y49bczi0ruIRMYaTrjudU8WsVnEj7UENXUUy5TkDE4zR1bQQSvI0vFdEYo7nwObocM11IyMJjdA1bseMhfVKckyasbu1eDm5JTkdnC1GEgk2dhyd%2FeR5HCoxVzEbkef0zrEGtYeQo%2BGE3r9sca0%2B9sGXz%2Fv7mClxBz%2Fe2g2kSmcWhC%2BHG%2BItB9zlC%2BOn2vrZsWKrFMvUcOzn5n%2B7m%2BhCE5HvXGPRkFT%2F4T4n%2FEabn9OKkk0xFSzdV9aE%2B4GRJVvJrUWpgkY1RODp%2FzpfEKa6Vqe8gHwPFdqWRnceNJgdIZxrM295KjBG%2Bhj0oSE2XqLAl8pbYJ4K%2BEb8M%2FZlhjVOrMArZL9MJWZjtUGOqUBgszszLVVeNQpapusHGTXFpUDRN3yuMlDQGcIZThEDKXvlqt6fHbQAXP0XBWrlYEnJkU%2FRzS8PqAXEYmJkDHdxsncG4OIh2Y74W5mwBKu%2FctkLaljizMGA7sxgpR%2Bz%2FykIrFaboBaCvz7RHz8LVcGOkxXYlJ%2B6pskP8diRL3UKRPX7cTILWRuz6erTB4zWNK9JclGl%2B9sNUTFo0r7DrCqyJUJXPkH&X-Amz-Signature=544cc575cd9df418cb85e80bfec5bf74cfa40b9843b8c69a7cb9f146e7768e1d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-          "expiry_time": "2026-09-11T11:14:21.703Z"
+          "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/1e7f24817645fae1.png",
+          "expiry_time": "2026-09-11T13:33:53.202Z"
         }
       },
       "color": "green_background"
