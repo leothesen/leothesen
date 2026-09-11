@@ -1,6 +1,7 @@
 import { site, pageUrlOverrides, pageUrlAdditions } from './config'
 import { parsePageId } from './notion-utils'
 import { getManifest, getLocalPage } from './notion-local'
+import { getCollectionStats } from './collection-stats'
 import { notionPageIdFromUrl } from './notion-link'
 import type { NotionBlock } from './notion-api'
 import type { Breadcrumb, DatabaseEntry } from './types'
@@ -242,11 +243,17 @@ function buildDatabaseEntriesMapWithUuids(
 ): Record<string, DatabaseEntry[]> {
   const map: Record<string, DatabaseEntry[]> = {}
   for (const [cleanId, dbEntries] of Object.entries(entries)) {
-    map[cleanId] = dbEntries
+    // Counted here rather than in the card, so it stays on the build side of
+    // the boundary: the walk reads every blocks.json on disk.
+    const withStats = dbEntries.map((entry) => ({
+      ...entry,
+      stats: getCollectionStats(entry.id),
+    }))
+    map[cleanId] = withStats
     // Also add UUID-keyed version
     const hex = cleanId.replace(/-/g, '')
     const uuid = `${hex.slice(0, 8)}-${hex.slice(8, 12)}-${hex.slice(12, 16)}-${hex.slice(16, 20)}-${hex.slice(20)}`
-    map[uuid] = dbEntries
+    map[uuid] = withStats
   }
   return map
 }

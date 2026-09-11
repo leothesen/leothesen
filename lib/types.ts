@@ -32,6 +32,8 @@ export interface DatabasePageProps {
   error?: PageError
 }
 
+import type { CollectionStats } from './collection-stats'
+
 export interface DatabaseEntry {
   id: string
   title: string
@@ -44,6 +46,12 @@ export interface DatabaseEntry {
   author: string | null
   lastEdited: string
   order: number | null
+  /**
+   * How much sits behind this card — pages, photographs and the span of dates
+   * in the subtree it opens. Attached at build time by
+   * resolveNotionPageLocal; absent when the entry is not a page in the tree.
+   */
+  stats?: CollectionStats | null
 }
 
 export interface SiteMap {

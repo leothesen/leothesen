@@ -3,21 +3,55 @@
  */
 
 :root {
-  --notion-max-width: 720px;
-  --notion-header-height: 54px;
-  --fg-color: rgb(55, 53, 47);
-  --fg-color-0: rgba(55, 53, 47, 0.09);
-  --fg-color-1: rgba(55, 53, 47, 0.4);
-  --bg-color: #fff;
-  --bg-color-1: rgba(55, 53, 47, 0.024);
+  color-scheme: light;
+
+  /* The measure for prose. Photographs and section indexes are allowed past it
+     — see --notion-wide. A 4,032px photograph rendered into a 720px column,
+     with 740px of empty gutter either side of it, was the single biggest thing
+     this layout was getting wrong. */
+  --notion-max-width: 680px;
+  --notion-wide: 1100px;
+  --notion-header-height: 56px;
+
+  /* Warm neutrals rather than Notion's own grey. The site is 1,038
+     photographs: the ground they sit on should be quiet and very slightly
+     warm, so it recedes behind them instead of tinting them. */
+  --ink: #1b1a17;
+  --ink-muted: #6f6b64;
+  --paper: #fbfaf8;
+  --paper-raised: #f2f0eb;
+  --rule: rgba(27, 26, 23, 0.1);
+  --rule-strong: rgba(27, 26, 23, 0.18);
+  --accent: #a1543a;
+
+  /* The five names the rest of this file was already written against, kept so
+     that remapping the palette did not mean rewriting a hundred rules. */
+  --fg-color: var(--ink);
+  --fg-color-0: var(--rule);
+  --fg-color-1: var(--ink-muted);
+  --bg-color: var(--paper);
+  --bg-color-1: var(--paper-raised);
+
+  --shadow-card: 0 1px 2px rgba(27, 26, 23, 0.04),
+    0 14px 34px -14px rgba(27, 26, 23, 0.22);
 }
 
 .dark {
-  --fg-color: rgba(255, 255, 255, 0.9);
-  --fg-color-0: rgba(255, 255, 255, 0.09);
-  --fg-color-1: rgba(255, 255, 255, 0.4);
-  --bg-color: #2f3437;
-  --bg-color-1: rgb(47, 52, 55);
+  color-scheme: dark;
+
+  /* Deliberately darker than Notion's #2f3437. That is a mid-grey, and a
+     mid-grey ground lifts the black point of every photograph laid on it —
+     the images read washed out before they have done anything wrong. */
+  --ink: rgba(255, 255, 255, 0.92);
+  --ink-muted: rgba(255, 255, 255, 0.5);
+  --paper: #121211;
+  --paper-raised: #1c1b19;
+  --rule: rgba(255, 255, 255, 0.12);
+  --rule-strong: rgba(255, 255, 255, 0.22);
+  --accent: #d9866a;
+
+  --shadow-card: 0 1px 2px rgba(0, 0, 0, 0.4),
+    0 14px 34px -14px rgba(0, 0, 0, 0.6);
 }
 
 .notion-viewport {
@@ -132,16 +166,18 @@
   max-width: var(--notion-max-width);
   width: 100%;
   margin: 0 auto;
-  padding: 0 16px;
-  padding-top: 16px;
-  padding-bottom: calc(max(5vh, 32px));
-  line-height: 1.65;
+  padding: 0 20px;
+  padding-top: 24px;
+  padding-bottom: calc(max(8vh, 56px));
+  line-height: 1.7;
   flex: 1;
   min-width: 0;
 }
 
+/* Prose on the index keeps a readable measure; the gallery breaks out past it
+   on its own — see .index-page .notion-gallery-grid. */
 .index-page {
-  --notion-max-width: 900px;
+  --notion-max-width: 760px;
 }
 
 /* Cover image */
@@ -151,9 +187,24 @@
      `fill`, which absolutely positions the image and would otherwise collapse
      this wrapper to nothing. */
   position: relative;
-  height: 30vh;
+  /* Clamped rather than a bare 30vh. On a short laptop window 30vh was a
+     letterbox strip too thin to read as a photograph; on a tall monitor it ate
+     half the screen before a word of the page. */
+  height: clamp(200px, 36vh, 400px);
   overflow: hidden;
   margin-top: calc(-1 * var(--notion-header-height));
+}
+
+/* The header floats over the top of the cover with only a blur behind it.
+   Against a bright sky the breadcrumbs were washing out, so the top of the
+   image carries a slight scrim. */
+.notion-page-cover-wrapper::after {
+  content: '';
+  position: absolute;
+  inset: 0 0 auto;
+  height: var(--notion-header-height);
+  background: linear-gradient(to bottom, rgb(0 0 0 / 26%), transparent);
+  pointer-events: none;
 }
 
 /* Blur-up, and the safety net under it.
@@ -201,7 +252,7 @@
 
 .notion-page-cover {
   width: 100%;
-  height: 30vh;
+  height: 100%;
   object-fit: cover;
   transition: filter 0.4s ease-out, opacity 0.4s ease-out;
 }
@@ -216,19 +267,37 @@
   margin: 0 auto;
 }
 
-/* Page icon */
+/*
+ * Page icon.
+ *
+ * Left, not centre. A centred emoji sitting on top of a centred title is
+ * Notion's own page furniture, and it is most of what made this site read as a
+ * Notion mirror rather than as somebody's. Aligned to the text column it
+ * becomes a mark against the masthead instead.
+ */
 .notion-page-icon-hero {
   display: flex;
-  justify-content: center;
-  margin-top: -40px;
-  margin-bottom: 8px;
+  justify-content: flex-start;
+  margin-top: -34px;
+  margin-bottom: 18px;
+}
+
+/*
+ * Only the avatar overlaps the cover. It is a circle with a ring of page
+ * colour around it, so straddling the edge reads as deliberate; a bare emoji
+ * doing the same just looks like it slipped, with its lower half on the
+ * photograph. 195 of the 217 pages use an emoji, so this is the common case.
+ */
+.notion-page-icon-hero:has(.notion-page-icon-emoji) {
+  margin-top: 22px;
+  margin-bottom: 10px;
 }
 
 .notion-page-icon-image {
   width: 80px;
   height: 80px;
   border-radius: 50%;
-  box-shadow: 0 8px 40px 0 rgb(0 0 0 / 21%);
+  box-shadow: 0 0 0 4px var(--bg-color), 0 10px 30px -8px rgb(0 0 0 / 35%);
   object-fit: cover;
   transition: filter 0.4s ease-out, opacity 0.4s ease-out;
 }
@@ -239,29 +308,56 @@
 }
 
 .notion-page-icon-emoji {
-  font-size: 72px;
+  font-size: 46px;
   line-height: 1;
+  /* The emoji has no ring of its own, so it needs the same optical nudge the
+     avatar gets from its border, or it floats away from the title. */
+  display: block;
+  margin-bottom: -6px;
 }
 
 /* Title */
 .notion-title {
   display: block;
-  text-align: center;
-  font-size: 2.5em;
-  font-weight: 700;
-  margin-bottom: 0.25em;
-  line-height: 1.2;
+  text-align: left;
+  font-family: var(--notion-font-display);
+  font-size: clamp(2.1rem, 1.5rem + 2.2vw, 3.1rem);
+  font-weight: 500;
+  /* Newsreader is drawn for text sizes; at display sizes the default spacing
+     reads loose, so it is pulled in a little. */
+  letter-spacing: -0.018em;
+  margin: 0 0 0.3em;
+  line-height: 1.12;
+  text-wrap: balance;
 }
 
 /* Page metadata */
 .notion-page-meta {
-  text-align: center;
+  text-align: left;
   color: var(--fg-color-1);
-  font-size: 14px;
+  font-size: 13px;
+  letter-spacing: 0.01em;
   display: flex;
-  justify-content: center;
-  gap: 0.5em;
-  margin-bottom: 24px;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: flex-start;
+  gap: 0 0.75em;
+  margin-bottom: 8px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--rule);
+}
+
+/* A separator that cannot end up dangling after a wrap, the way a literal
+   "·" between two spans does. */
+.notion-page-meta > * + *::before {
+  content: '·';
+  margin-right: 0.75em;
+  color: var(--rule-strong);
+}
+
+.notion-page-date-primary {
+  color: var(--fg-color);
+  font-weight: 500;
 }
 
 /* Page body */
@@ -371,11 +467,14 @@
 
 /* Text blocks */
 .notion-text {
-  padding: 0.5em 2px;
+  padding: 0.45em 0;
 }
 
 .notion-text p {
   margin: 0;
+  /* Stops a stray long URL or place name from pushing the column wider than
+     its measure on a phone. */
+  overflow-wrap: break-word;
 }
 
 /* Headings */
@@ -385,25 +484,30 @@
   scroll-margin-top: calc(var(--notion-header-height) + 16px);
 }
 
+.notion-h1,
+.notion-h2,
+.notion-h3 {
+  font-family: var(--notion-font-display);
+  font-weight: 500;
+  letter-spacing: -0.011em;
+}
+
 .notion-h1 {
-  font-size: 1.875em;
-  font-weight: 600;
-  margin-top: 1.4em;
-  margin-bottom: 0.25em;
+  font-size: 1.75em;
+  margin-top: 1.9em;
+  margin-bottom: 0.3em;
 }
 
 .notion-h2 {
-  font-size: 1.5em;
-  font-weight: 600;
-  margin-top: 1.3em;
-  margin-bottom: 0.25em;
+  font-size: 1.4em;
+  margin-top: 1.7em;
+  margin-bottom: 0.3em;
 }
 
 .notion-h3 {
-  font-size: 1.25em;
-  font-weight: 600;
-  margin-top: 1.2em;
-  margin-bottom: 0.25em;
+  font-size: 1.18em;
+  margin-top: 1.5em;
+  margin-bottom: 0.3em;
 }
 
 /* Lists */
@@ -493,7 +597,7 @@
 
 /* Images */
 .notion-asset-wrapper {
-  margin: 1em 0;
+  margin: 1.7em 0;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -542,8 +646,26 @@
 .notion-image-wrapper img {
   width: 100%;
   height: auto;
-  border-radius: 4px;
+  display: block;
+  border-radius: 6px;
   transition: filter 0.4s ease-out, opacity 0.4s ease-out;
+}
+
+/*
+ * No photograph taller than the window.
+ *
+ * Widening the frame to 1100px makes a 4:3 photograph 825px tall, which on a
+ * laptop is more than a screenful — and some of these pages carry 23 of them.
+ * Capping the height lets a picture be as large as the screen can actually
+ * show and no larger; `width: auto` keeps the ratio, so nothing is cropped.
+ * Only in the article flow: a thumbnail in a grid or a column has its own box.
+ */
+.notion-page-body > .notion-asset-wrapper .notion-image-wrapper img {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 78vh;
+  margin-inline: auto;
 }
 
 .notion-image-wrapper img.notion-image-loading {
@@ -551,11 +673,18 @@
   opacity: 0.6;
 }
 
+/* Left, and in the display face's italic. A centred sans caption under a
+   left-aligned article is the default nobody chose; this one reads as part of
+   the writing. */
 .notion-asset-caption {
-  text-align: center;
-  font-size: 14px;
+  align-self: stretch;
+  text-align: left;
+  font-family: var(--notion-font-display);
+  font-style: italic;
+  font-size: 15px;
+  line-height: 1.5;
   color: var(--fg-color-1);
-  padding: 6px 0;
+  padding: 10px 2px 0;
 }
 
 /* Video */
@@ -610,18 +739,27 @@
   font-size: 1.2em;
 }
 
-/* Callout */
+/*
+ * Callout.
+ *
+ * The fill colour is the author's, set in Notion, and stays exactly as chosen
+ * — it is content, not decoration. What changes is everything around it: a
+ * 4px radius and 16px of padding is what made a coloured block read as a 2016
+ * admonition box rather than as a pulled-out passage.
+ */
 .notion-callout {
   display: flex;
-  border-radius: 4px;
-  padding: 16px;
-  margin: 0.75em 0;
+  border-radius: 12px;
+  padding: 22px 24px;
+  margin: 1.4em 0;
   background: var(--bg-color-1);
+  box-shadow: inset 0 0 0 1px rgb(0 0 0 / 4%);
 }
 
 .notion-callout-icon {
-  font-size: 1.5em;
-  margin-right: 12px;
+  font-size: 1.35em;
+  line-height: 1.35;
+  margin-right: 14px;
   flex-shrink: 0;
 }
 
@@ -657,6 +795,186 @@
  */
 .notion-callout-text>.notion-block-children {
   padding-left: 0;
+}
+
+/*
+ * Photographs are allowed past the measure.
+ *
+ * 1,038 images, most of them 4,032px originals, were being drawn into a 720px
+ * column with ~740px of empty gutter either side on a laptop. Prose still
+ * wants a short line; a photograph does not.
+ *
+ * The 520px subtracted is the two gutters the fixed table of contents lives
+ * in (it appears at 1280px and is 220px wide, hard against the right edge).
+ * Reserving it on both sides keeps the frame centred and keeps a wide image
+ * from sliding under the TOC. Below ~1200px the max() collapses the whole
+ * thing back to the column width, so narrow screens are untouched.
+ *
+ * Scoped to direct children of the page body on purpose: an image inside a
+ * column block or a callout has to stay in its box.
+ */
+@media (min-width: 1024px) {
+  .notion-page-body > .notion-asset-wrapper,
+  .notion-page-body > .notion-asset-grid,
+  /* A section index is a wall of pictures for the same reason an article is
+     not: it is navigation, and the covers are what you navigate by. */
+  .notion-page-body > .notion-gallery-grid {
+    --breakout: max(100%, min(var(--notion-wide), calc(100vw - 520px)));
+    width: var(--breakout);
+    margin-left: calc(50% - var(--breakout) / 2);
+  }
+}
+
+/*
+ * Images the author placed next to each other, shown next to each other.
+ *
+ * Only 159 of 1,038 images sit in a run of two or more — the rest are single
+ * illustrations between paragraphs, and those stay exactly as they were. This
+ * is not a gallery treatment applied to the site; it is the 45 pages where
+ * consecutive images were clearly meant as a set.
+ */
+.notion-asset-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr));
+  gap: 14px;
+  margin: 1.4em 0;
+  align-items: start;
+}
+
+.notion-asset-grid .notion-asset-wrapper {
+  margin: 0;
+}
+
+.notion-asset-grid .notion-image-wrapper {
+  /* In a row, mismatched aspect ratios read as a mistake rather than as a set,
+     so each cell is a uniform frame and the photograph fills it. */
+  aspect-ratio: 4 / 3;
+}
+
+.notion-asset-grid .notion-image-wrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/*
+ * The photograph as a control.
+ *
+ * Transparent down to the pixel: no background, no padding, no border, so the
+ * image sits exactly where it did before it became clickable. The button is
+ * here for the keyboard and the accessibility tree, not for anything visible.
+ */
+.notion-image-zoom {
+  display: block;
+  width: 100%;
+  padding: 0;
+  border: 0;
+  background: none;
+  font: inherit;
+  color: inherit;
+  cursor: zoom-in;
+  border-radius: 6px;
+}
+
+.notion-image-zoom:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
+
+/* Lightbox */
+.notion-lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 200;
+  display: flex;
+  flex-direction: column;
+  /* Near-black rather than the page's dark ground: the point of opening a
+     photograph is to see it against nothing. */
+  /* Opaque enough that a backdrop-filter would buy nothing visible, and a
+     full-screen blurred backdrop is an expensive layer to composite on a
+     phone. The point is the photograph against nothing. */
+  background: rgb(8 8 8 / 97%);
+  cursor: zoom-out;
+  animation: notion-lightbox-in 160ms ease-out;
+}
+
+@keyframes notion-lightbox-in {
+  from {
+    opacity: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .notion-lightbox {
+    animation: none;
+  }
+}
+
+.notion-lightbox-stage {
+  position: relative;
+  flex: 1;
+  min-height: 0;
+  margin: 56px 24px 12px;
+}
+
+.notion-lightbox-image {
+  /* `fill` stretches by default; the photograph has to keep its own shape. */
+  object-fit: contain;
+}
+
+.notion-lightbox-close {
+  position: absolute;
+  top: 14px;
+  right: 16px;
+  z-index: 1;
+  display: grid;
+  place-items: center;
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: rgb(255 255 255 / 10%);
+  color: #fff;
+  cursor: pointer;
+  transition: background 150ms ease-out;
+}
+
+.notion-lightbox-close:hover {
+  background: rgb(255 255 255 / 20%);
+}
+
+.notion-lightbox-close:focus-visible {
+  outline: 2px solid #fff;
+  outline-offset: 2px;
+}
+
+.notion-lightbox-bar {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  gap: 16px;
+  padding: 0 24px 22px;
+  color: rgb(255 255 255 / 70%);
+  font-size: 14px;
+  text-align: center;
+}
+
+.notion-lightbox-caption {
+  font-family: var(--notion-font-display);
+  font-style: italic;
+  font-size: 15px;
+}
+
+.notion-lightbox-count {
+  font-variant-numeric: tabular-nums;
+  color: rgb(255 255 255 / 45%);
+}
+
+@media (max-width: 640px) {
+  .notion-lightbox-stage {
+    margin: 52px 10px 8px;
+  }
 }
 
 /* Divider */
@@ -745,7 +1063,7 @@ th.notion-table-cell {
 .notion-link:focus,
 .notion-link:hover {
   border-bottom-color: transparent;
-  background-image: linear-gradient(90.68deg, #03a9fc 0.26%, #03a9fc 102.37%);
+  background-image: linear-gradient(90.68deg, var(--accent) 0.26%, var(--accent) 102.37%);
   background-repeat: no-repeat;
   background-position: 0 100%;
   background-size: 100% 0.1rem;
@@ -766,9 +1084,39 @@ th.notion-table-cell {
 /* Gallery / Database view */
 .notion-gallery-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-  gap: 6vmin;
-  margin: 16px 0;
+  /* min(100%, ...) rather than a bare 300px: on a phone a bare minimum wider
+     than the column forces a horizontal scrollbar. */
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr));
+  gap: 34px 26px;
+  margin: 28px 0;
+}
+
+/*
+ * The index page works to a wider frame than an article does.
+ *
+ * The root page carries no table of contents, so it can use nearly the whole
+ * viewport. The frame goes on the whole content block rather than on the grid
+ * alone, so the name, the avatar and the cards all start on the same left
+ * edge — a masthead indented 250px from its own gallery is the detail that
+ * makes a page look assembled rather than designed.
+ *
+ * Prose inside that frame is pulled back to a measure it can be read at.
+ */
+@media (min-width: 900px) {
+  .index-page .notion-page-content {
+    --breakout: max(100%, min(1240px, calc(100vw - 120px)));
+    width: var(--breakout);
+    margin-left: calc(50% - var(--breakout) / 2);
+  }
+
+  .index-page .notion-page-body > .notion-text,
+  .index-page .notion-page-body > .notion-callout,
+  .index-page .notion-page-body > .notion-list,
+  .index-page .notion-page-body > .notion-quote,
+  .index-page .notion-page-body > .notion-row,
+  .index-page .notion-page-body > .notion-hr {
+    max-width: 780px;
+  }
 }
 
 .notion-collection-card {
@@ -780,19 +1128,38 @@ th.notion-table-cell {
 }
 
 .notion-collection-card-cover {
-  border-radius: 16px;
-  box-shadow: 2px 2px 8px 4px rgba(15, 15, 15, 0.1);
+  border-radius: 10px;
+  box-shadow: var(--shadow-card);
   overflow: hidden;
   border-bottom: 0 none;
-  transition: filter 150ms linear;
   /* The cover uses next/image's `fill`, which absolutely positions the image.
-     The card needs to own the height it used to inherit from the <img>. */
+     The card needs to own the height it used to inherit from the <img>. A
+     ratio rather than a fixed 200px, so a wide card gets a taller picture
+     instead of a letterbox slot. */
   position: relative;
-  height: 200px;
+  aspect-ratio: 3 / 2;
 }
 
-.notion-collection-card:hover .notion-collection-card-cover {
-  filter: brightness(120%);
+/*
+ * Hover moves the picture rather than bleaching it. brightness(120%) blows out
+ * the sky in most of these covers — several are sunsets — which is a strange
+ * thing for a photography site to do to its own photographs on mouseover.
+ */
+.notion-collection-card-cover img {
+  transition: transform 400ms cubic-bezier(0.2, 0, 0.2, 1), filter 0.4s ease-out,
+    opacity 0.4s ease-out;
+}
+
+.notion-collection-card:hover .notion-collection-card-cover img,
+.notion-collection-card:focus-visible .notion-collection-card-cover img {
+  transform: scale(1.035);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .notion-collection-card:hover .notion-collection-card-cover img,
+  .notion-collection-card:focus-visible .notion-collection-card-cover img {
+    transform: none;
+  }
 }
 
 .notion-collection-card-cover img {
@@ -817,7 +1184,24 @@ th.notion-table-cell {
 }
 
 .notion-collection-card-body {
-  padding: 10px;
+  padding: 14px 2px 0;
+}
+
+.notion-collection-card-title {
+  font-family: var(--notion-font-display);
+  font-size: 1.3em;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: -0.012em;
+  white-space: unset;
+}
+
+/* What the card opens into: "112 entries · 614 photos · 2022-2023". */
+.notion-collection-card-stats {
+  margin-top: 5px;
+  font-size: 13px;
+  color: var(--fg-color-1);
+  font-variant-numeric: tabular-nums;
 }
 
 .notion-page-title-text {
@@ -1037,17 +1421,24 @@ th.notion-table-cell {
 }
 
 /* Responsive */
+/*
+ * A floor under the side gutter.
+ *
+ * These were a bare 2vw, which is 8px on a 400px phone — wide enough for a
+ * photograph to sit almost edge to edge, which is fine, and far too tight for
+ * a line of text to start against, which is not.
+ */
 @media only screen and (max-width: 920px) {
   .index-page {
-    padding-left: 2vw;
-    padding-right: 2vw;
+    padding-left: max(4vw, 18px);
+    padding-right: max(4vw, 18px);
   }
 }
 
 @media only screen and (max-width: 720px) {
   .notion-page {
-    padding-left: 2vw;
-    padding-right: 2vw;
+    padding-left: max(4vw, 18px);
+    padding-right: max(4vw, 18px);
   }
 
   .notion-row {
@@ -1055,11 +1446,9 @@ th.notion-table-cell {
   }
 }
 
-@media only screen and (max-width: 600px) {
-  .notion-title {
-    font-size: 1.8em;
-  }
-}
+/* The title's size is governed by the clamp() on .notion-title, which already
+   scales it down with the viewport. A second, fixed value here would only
+   fight it. */
 /* ---------------------------------------------------------------------------
  * Archive
  * ------------------------------------------------------------------------ */

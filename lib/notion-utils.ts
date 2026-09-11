@@ -41,10 +41,12 @@ export function slugify(text: string): string {
     .replace(/^-+|-+$/g, '')
 }
 
+// en-GB, which is what archive.tsx already formatted with and what the author
+// writes in: "13 March 2026" rather than "March 13, 2026".
 export function formatDate(dateString: string, opts?: { month?: string }): string {
   const date = new Date(dateString)
   const month = opts?.month === 'long' ? 'long' : 'short'
-  return date.toLocaleDateString('en-US', {
+  return date.toLocaleDateString('en-GB', {
     year: 'numeric',
     month,
     day: 'numeric',

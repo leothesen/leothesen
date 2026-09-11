@@ -2,10 +2,15 @@ import * as React from 'react'
 import Link from 'next/link'
 import Image from 'next/image'
 
-// The article column is 720px wide less 32px of padding, and images inside a
-// two-column block are narrower still. Asking for 700px covers the widest case
-// at roughly 2x for the narrow ones, instead of shipping the 4032px original.
-const NOTION_IMAGE_SIZES = '(max-width: 760px) 100vw, 700px'
+// Photographs break out past the prose measure on wide screens, so this has to
+// track the same formula the CSS uses: max(column, min(1100px, 100vw - 520px)),
+// where the 520px is the gutter reserved for the fixed table of contents.
+//
+// Below 1200px that collapses to the column width; between 1200 and 1620 it
+// grows with the viewport; past 1620 it is capped at 1100. Getting this wrong
+// is invisible — the picture still appears, just upscaled from too few pixels.
+const NOTION_IMAGE_SIZES =
+  '(max-width: 760px) 100vw, (max-width: 1200px) 700px, (max-width: 1620px) calc(100vw - 520px), 1100px'
 
 // Gallery cards are a `minmax(260px, 1fr)` grid, so they land at roughly 320px
 // in the article column and go full width on a phone.
@@ -15,6 +20,8 @@ import type { NotionBlock } from '@/lib/notion-api'
 import type { ChildPageInfo } from '@/lib/notion'
 import type { DatabaseEntry } from '@/lib/types'
 import { planEmbed } from '@/lib/embed-url'
+import { groupBlocks } from '@/lib/group-blocks'
+import { describeCollection } from '@/lib/describe-collection'
 import { CalEmbed } from './CalEmbed'
 import { YouTubeEmbed } from './YouTubeEmbed'
 
@@ -304,22 +311,38 @@ export function NotionBlock({ block, mapPageUrl, databaseEntriesMap, childPageMa
       return (
         <figure className="notion-asset-wrapper">
           <div className="notion-image-wrapper">
+            {/* A real button, so the photograph is reachable by keyboard and
+                announced as something you can act on. PhotoLightbox picks the
+                click up by delegation and reads both data attributes. */}
+            <button
+              type="button"
+              className="notion-image-zoom"
+              data-photo={src}
+              data-photo-alt={alt}
+              aria-label={alt ? `View larger: ${alt}` : 'View larger'}
+            >
             <Image
               src={src}
               alt={alt}
               // Notion gives us no dimensions, and these live on Blob storage
               // so we cannot measure them at build time. These stand in only to
-              // declare an aspect ratio for the reserved box; `height: auto`
-              // hands layout back to the real image once it decodes. What
-              // matters here is `sizes`, which is what actually caps the bytes.
+              // declare an aspect ratio for the reserved box; the `height: auto`
+              // in notion.css hands layout back to the real image once it
+              // decodes. What matters here is `sizes`, which is what actually
+              // caps the bytes.
+              //
+              // Sizing is left entirely to the stylesheet. It used to be set
+              // inline as well, which is the same thing said twice until the
+              // two disagree — and an inline width beats any class, so the
+              // grid treatment for adjacent images could not override it.
               width={1600}
               height={1200}
               sizes={NOTION_IMAGE_SIZES}
-              style={{ width: '100%', height: 'auto' }}
               loading="lazy"
               className="notion-image notion-image-loading"
               onLoad={(e) => e.currentTarget.classList.remove('notion-image-loading')}
             />
+            </button>
           </div>
           {caption.length > 0 && (
             <figcaption className="notion-asset-caption">
@@ -565,32 +588,6 @@ export function NotionBlock({ block, mapPageUrl, databaseEntriesMap, childPageMa
   }
 }
 
-// Helper to group list items
-function groupBlocks(blocks: NotionBlock[]): Array<NotionBlock | { type: 'list_group'; listType: string; items: NotionBlock[] }> {
-  const grouped: Array<any> = []
-  let currentList: { type: 'list_group'; listType: string; items: NotionBlock[] } | null = null
-
-  for (const block of blocks) {
-    if (block.type === 'bulleted_list_item' || block.type === 'numbered_list_item') {
-      if (currentList && currentList.listType === block.type) {
-        currentList.items.push(block)
-      } else {
-        if (currentList) grouped.push(currentList)
-        currentList = { type: 'list_group', listType: block.type, items: [block] }
-      }
-    } else {
-      if (currentList) {
-        grouped.push(currentList)
-        currentList = null
-      }
-      grouped.push(block)
-    }
-  }
-
-  if (currentList) grouped.push(currentList)
-  return grouped
-}
-
 // Blocks renderer (handles list grouping)
 export function NotionBlocks({ blocks, mapPageUrl, databaseEntriesMap, childPageMap }: { blocks: NotionBlock[]; mapPageUrl?: (id: string) => string; databaseEntriesMap?: Record<string, DatabaseEntry[]> | null; childPageMap?: Record<string, ChildPageInfo> | null }) {
   const grouped = groupBlocks(blocks)
@@ -606,6 +603,16 @@ export function NotionBlocks({ blocks, mapPageUrl, databaseEntriesMap, childPage
                 <NotionBlock key={block.id} block={block} mapPageUrl={mapPageUrl} databaseEntriesMap={databaseEntriesMap} childPageMap={childPageMap} />
               ))}
             </ListTag>
+          )
+        }
+
+        if (item.type === 'asset_group') {
+          return (
+            <div key={i} className="notion-asset-grid">
+              {item.items.map((block: NotionBlock) => (
+                <NotionBlock key={block.id} block={block} mapPageUrl={mapPageUrl} databaseEntriesMap={databaseEntriesMap} childPageMap={childPageMap} />
+              ))}
+            </div>
           )
         }
 
@@ -643,10 +650,15 @@ export function DatabaseView({ entries }: { entries: DatabaseEntry[] }) {
               )}
             </div>
             <div className="notion-collection-card-body">
-              <div className="notion-page-title-text">{entry.title}</div>
+              <div className="notion-collection-card-title">{entry.title}</div>
               {entry.description && (
                 <div className="notion-collection-card-property">
                   <span className="notion-property-text">{entry.description}</span>
+                </div>
+              )}
+              {describeCollection(entry) && (
+                <div className="notion-collection-card-stats">
+                  {describeCollection(entry)}
                 </div>
               )}
             </div>
