@@ -156,6 +156,49 @@
   margin-top: calc(-1 * var(--notion-header-height));
 }
 
+/* Blur-up, and the safety net under it.
+ *
+ * Four rules below apply `notion-image-loading` to blur an image while it
+ * loads, and that class ships in the server-rendered HTML. The only thing that
+ * removes it is a load handler in JavaScript — so if JavaScript never runs, or
+ * the bundle fails, every image on the page stays blurred permanently. The
+ * page icon spent a while doing exactly that for a different reason (#124),
+ * and it is not a good failure to leave one dependency away.
+ *
+ * A CSS animation clears the blur on its own after a few seconds. It needs no
+ * JavaScript, so it survives both a disabled bundle and a broken one, and in
+ * the normal case it never runs: the load handler removes the class first and
+ * the animation goes with it.
+ *
+ * Five seconds is chosen to be longer than any image here reasonably takes
+ * (the largest is a 30vh cover, served as AVIF) while still being a wait
+ * rather than a permanent state. Clearing early on a genuinely slow connection
+ * shows a partly-loaded image, which beats a smudge that never resolves.
+ */
+.notion-image-loading {
+  animation: notion-image-unblur 0.4s 5s forwards;
+}
+
+@keyframes notion-image-unblur {
+  from {
+    filter: blur(20px);
+    opacity: 0.6;
+  }
+  to {
+    filter: none;
+    opacity: 1;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  /* Shortened rather than removed. Dropping the animation here would hand
+     reduced-motion users back the permanent blur, which is a worse outcome
+     than a fade they did not ask for. */
+  .notion-image-loading {
+    animation-duration: 0s;
+  }
+}
+
 .notion-page-cover {
   width: 100%;
   height: 30vh;
