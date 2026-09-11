@@ -12,9 +12,13 @@ import Image from 'next/image'
 const NOTION_IMAGE_SIZES =
   '(max-width: 760px) 100vw, (max-width: 1200px) 700px, (max-width: 1620px) calc(100vw - 520px), 1100px'
 
-// Gallery cards are a `minmax(260px, 1fr)` grid, so they land at roughly 320px
-// in the article column and go full width on a phone.
-const CARD_COVER_SIZES = '(max-width: 760px) 100vw, 340px'
+// Gallery cards are a `minmax(min(100%, 300px), 1fr)` grid inside a frame that
+// now breaks out past the prose measure, so a card is wider than it was: about
+// 396px on the index at its widest, and up to ~450px on a section page with
+// two columns. 460 covers the largest of those. Understating it is the failure
+// that does not announce itself — the picture still appears, upscaled from a
+// source with too few pixels in it.
+const CARD_COVER_SIZES = '(max-width: 760px) 100vw, 460px'
 
 import type { NotionBlock } from '@/lib/notion-api'
 import type { ChildPageInfo } from '@/lib/notion'
