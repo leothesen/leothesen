@@ -4,6 +4,14 @@ on:
   schedule:
     # Runs daily at 6:00 AM UTC
     - cron: '0 6 * * *'
+    # Sunday, two hours ahead of the daily run: an images repair.
+    #
+    # The daily sync only re-fetches pages Notion reports as changed, so it can
+    # never repair an image that rotted on a page nobody has touched. That is
+    # how nine of them accumulated. This is a no-op when nothing is broken —
+    # it validates the blob URLs and exits — so a weekly pass is cheap
+    # insurance rather than real work.
+    - cron: '0 4 * * 0'
   # Manual trigger from the GitHub UI. The secrets only exist here, so this is
   # the only place a repair can be run without someone holding a Notion token
   # and a Blob token on their own machine.
@@ -69,9 +77,13 @@ jobs:
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
           BLOB_READ_WRITE_TOKEN: ${{ secrets.BLOB_READ_WRITE_TOKEN }}
-          # Both are empty on a scheduled run, which is what makes the cron
-          # path incremental without needing a condition here.
-          MODE: ${{ inputs.mode }}
+          # A scheduled run carries no inputs, so the mode comes from which
+          # cron fired: Sunday's is the images repair, every other day is the
+          # ordinary incremental sync.
+          MODE: >-
+            ${{ inputs.mode
+                || (github.event.schedule == '0 4 * * 0' && 'images')
+                || 'incremental' }}
           REPAIR_TARGET: ${{ inputs.repair_target }}
         run: |
           # The default shell here is `bash -e`, without pipefail, so the exit
@@ -104,7 +116,12 @@ jobs:
       - name: Commit and open a pull request
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          MODE: ${{ inputs.mode }}
+          # Same expression as the sync step, so the body names the mode that
+          # actually ran rather than only a manually chosen one.
+          MODE: >-
+            ${{ inputs.mode
+                || (github.event.schedule == '0 4 * * 0' && 'images')
+                || 'incremental' }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -145,7 +162,7 @@ jobs:
             echo "${SUMMARY:-Content changed.}"
             echo
             if [ -n "${MODE:-}" ] && [ "$MODE" != "incremental" ]; then
-              echo "Run manually in \`$MODE\` mode, not by the daily schedule."
+              echo "Ran in \`$MODE\` mode rather than the daily incremental sync."
               echo
             fi
             if [ -n "$PAGES" ]; then
@@ -176,6 +193,39 @@ jobs:
               --body-file /tmp/pr-body.md \
               --reviewer leothesen
           fi
+
+      # An image the sync could not copy keeps Notion's own signed URL, which
+      # stops working within the hour. Nine rotted that way without anything
+      # noticing, because the sync only warns and carries on.
+      #
+      # It still carries on deliberately — whatever else it wrote is worth
+      # committing and reviewing — so the alarm is raised here, after the pull
+      # request exists, and turns the run red instead of the content silently
+      # shipping broken.
+      - name: Fail if any image failed to upload
+        if: always()
+        run: |
+          if [ ! -f /tmp/sync-output.txt ]; then
+            echo "No sync output — the sync step did not get far enough to try."
+            exit 0
+          fi
+
+          COUNT=$(sed -n 's/^IMAGE_UPLOAD_FAILURES: \([0-9]*\)$/\1/p' /tmp/sync-output.txt | tail -1)
+
+          # No line at all means an older script or a sync that died first. The
+          # step that died has already failed the run; do not mask it.
+          if [ -z "$COUNT" ]; then
+            echo "::warning::the sync printed no IMAGE_UPLOAD_FAILURES line"
+            exit 0
+          fi
+
+          if [ "$COUNT" -gt 0 ]; then
+            echo "::error::$COUNT image(s) could not be copied to Blob — their Notion URLs expire within the hour"
+            grep -A "$COUNT" '^IMAGE_UPLOAD_FAILURES:' /tmp/sync-output.txt || true
+            exit 1
+          fi
+
+          echo "every image copied to Blob"
 
       # Sixteen of these had piled up by September, back to April: 36 of the 41
       # sync pull requests ever opened were closed unmerged, and closing one

@@ -6,6 +6,7 @@ import * as https from 'https'
 import * as http from 'http'
 import pLimit from 'p-limit'
 
+import { notionFileUrls } from '../lib/notion-file-urls'
 import { isRateLimited, retryDelaySeconds } from '../lib/notion-retry'
 import { createRateLimiter } from '../lib/rate-limit'
 
@@ -278,6 +279,26 @@ function pageNeedsUpdate(pageId: string, notionLastEdited: string): boolean {
 // Maps original URL (without query params) hash -> final served URL
 const imageUrlMap = new Map<string, string>() // original URL -> served path/url
 
+// Images this run could not copy to Blob. Each one leaves Notion's signed URL
+// in the committed content, which stops working within the hour. A Set because
+// the same URL is reached from more than one page.
+const failedUploads = new Set<string>()
+
+/**
+ * One line the workflow can grep, printed by every mode.
+ *
+ * The individual failures are already warned about as they happen, but they
+ * scroll past in a log of several hundred lines and each carries two kilobytes
+ * of AWS signature. This is the summary that turns the run red.
+ */
+function reportFailedUploads(): void {
+  console.log(`\nIMAGE_UPLOAD_FAILURES: ${failedUploads.size}`)
+  for (const url of failedUploads) {
+    // Without the query string — the signature is noise, the path identifies it.
+    console.log(`  - ${url.split('?')[0]}`)
+  }
+}
+
 function hashUrl(url: string): string {
   const clean = url.split('?')[0]
   return crypto.createHash('sha256').update(clean).digest('hex').slice(0, 16)
@@ -408,6 +429,11 @@ async function uploadImage(url: string): Promise<string> {
         const isHttpClientError = /: 4\d{2}$/.test(msg)
         if (isHttpClientError || attempt === 2) {
           console.warn(`  Failed to upload image: ${url}`, msg)
+          // Giving up here leaves Notion's own signed URL in the content, and
+          // that link dies within the hour. Counted so the run can say so
+          // plainly at the end rather than burying it in a warning nobody
+          // reads — which is how nine images rotted unnoticed.
+          failedUploads.add(url)
           imageUrlMap.set(url, url)
           return url
         }
@@ -524,17 +550,22 @@ const imagesToProcess: string[] = []
 
 function collectImageUrlsFromBlocks(blocks: any[]) {
   for (const block of blocks) {
-    const type = block.type
-    if (type === 'image') {
-      const img = block.image
-      const src = img?.type === 'external' ? img.external?.url : img?.file?.url
-      if (src?.startsWith('http')) imagesToProcess.push(src)
+    // An externally-hosted image is copied here too. It does not expire, so it
+    // is not a rot risk, but pages have been built against the rewritten URL
+    // since the first sync and that should not change.
+    if (block.type === 'image' && block.image?.type === 'external') {
+      const src = block.image.external?.url
+      if (typeof src === 'string' && src.startsWith('http')) imagesToProcess.push(src)
     }
-    if (type === 'video') {
-      const vid = block.video
-      const src = vid?.type === 'file' ? vid.file?.url : null
-      if (src?.startsWith('http')) imagesToProcess.push(src)
+
+    // Everything Notion hosts itself, wherever it sits on the block. This used
+    // to enumerate `image` and `video`, which meant callout icons — the six
+    // company logos on the CV — were never copied to Blob and so pointed at a
+    // signed URL that died an hour after each sync.
+    for (const src of notionFileUrls(block)) {
+      if (src.startsWith('http')) imagesToProcess.push(src)
     }
+
     if (block.children) {
       collectImageUrlsFromBlocks(block.children)
     }
@@ -1309,6 +1340,7 @@ async function imagesRepair(): Promise<void> {
   console.log(`  Stale removed: ${staleCount}`)
   console.log(`  Newly uploaded: ${imageUrlMap.size}`)
   console.log(`  Pages re-fetched: ${pagesNeedingRefresh.size}`)
+  reportFailedUploads()
 }
 
 // ---------------------------------------------------------------------------
@@ -1456,6 +1488,7 @@ async function main() {
   console.log(`  Updated: ${updatedCount}`)
   console.log(`  Skipped: ${skippedCount}`)
   console.log(`  Images: ${imageUrlMap.size}`)
+  reportFailedUploads()
 }
 
 main().catch((err) => {
