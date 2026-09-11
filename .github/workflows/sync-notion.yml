@@ -4,7 +4,31 @@ on:
   schedule:
     # Runs daily at 6:00 AM UTC
     - cron: '0 6 * * *'
-  workflow_dispatch: # Allow manual trigger from GitHub UI
+  # Manual trigger from the GitHub UI. The secrets only exist here, so this is
+  # the only place a repair can be run without someone holding a Notion token
+  # and a Blob token on their own machine.
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: What to run
+        type: choice
+        default: incremental
+        options:
+          # The daily behaviour: fetch pages Notion reports as changed.
+          - incremental
+          # Re-upload images whose Notion URL has expired, and realign the
+          # manifest with what is on disk.
+          - images
+          # Re-fetch one page from scratch, by title or page id.
+          - repair
+        # `force` is deliberately not offered. It deletes .content/ before
+        # re-fetching all 217 pages, which is not something a stray click in
+        # the Actions UI should be able to start. Run it locally if it is ever
+        # genuinely needed.
+      repair_target:
+        description: Page title or id (repair only)
+        type: string
+        required: false
 
 # Explicit rather than inherited: the last step pushes a branch and opens a pull
 # request, and a repo-level default of read-only would fail it at the very end,
@@ -45,11 +69,42 @@ jobs:
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
           BLOB_READ_WRITE_TOKEN: ${{ secrets.BLOB_READ_WRITE_TOKEN }}
-        run: pnpm sync 2>&1 | tee /tmp/sync-output.txt
+          # Both are empty on a scheduled run, which is what makes the cron
+          # path incremental without needing a condition here.
+          MODE: ${{ inputs.mode }}
+          REPAIR_TARGET: ${{ inputs.repair_target }}
+        run: |
+          # The default shell here is `bash -e`, without pipefail, so the exit
+          # status of `pnpm sync | tee` is tee's — a sync that died partway
+          # through reported success and the run carried on to commit whatever
+          # content it had managed to write. Scoped to this step deliberately:
+          # the pull-request step below relies on `grep` returning non-zero.
+          set -o pipefail
+
+          case "${MODE:-incremental}" in
+            incremental)
+              pnpm sync 2>&1 | tee /tmp/sync-output.txt
+              ;;
+            images)
+              pnpm sync:images 2>&1 | tee /tmp/sync-output.txt
+              ;;
+            repair)
+              if [ -z "$REPAIR_TARGET" ]; then
+                echo "::error::repair needs a page title or id in repair_target"
+                exit 1
+              fi
+              pnpm sync:repair "$REPAIR_TARGET" 2>&1 | tee /tmp/sync-output.txt
+              ;;
+            *)
+              echo "::error::unknown mode: $MODE"
+              exit 1
+              ;;
+          esac
 
       - name: Commit and open a pull request
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MODE: ${{ inputs.mode }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -75,6 +130,13 @@ jobs:
           # reviewing meant opening the diff every time — which is how these
           # went unread.
           SUMMARY=$(grep -E '^[0-9]+ pages? updated' /tmp/sync-output.txt | tail -1)
+
+          # An images repair never prints "N pages updated" — it reports counts
+          # instead, and without this the body fell back to "Content changed."
+          if [ -z "$SUMMARY" ]; then
+            SUMMARY=$(grep -E '^  (Newly uploaded|Pages re-fetched|Stale removed):' \
+                      /tmp/sync-output.txt | sed 's/^ *//' | paste -sd', ' -)
+          fi
           PAGES=$(grep -E '^Syncing content: ' /tmp/sync-output.txt \
                   | sed -E 's/^Syncing content: [a-f0-9]+ \((.*)\)$/- \1/' | sort -u)
           IMAGES=$(grep -c 'Uploaded to blob' /tmp/sync-output.txt || true)
@@ -82,6 +144,10 @@ jobs:
           {
             echo "${SUMMARY:-Content changed.}"
             echo
+            if [ -n "${MODE:-}" ] && [ "$MODE" != "incremental" ]; then
+              echo "Run manually in \`$MODE\` mode, not by the daily schedule."
+              echo
+            fi
             if [ -n "$PAGES" ]; then
               echo "### Pages"
               echo "$PAGES"
