@@ -71,11 +71,10 @@ export async function waitForHydration(page: Page) {
 /**
  * Opens a page and waits for it to hydrate — not for the `load` event.
  *
- * `load` waits for every image and embed, and on a CI runner each image goes
- * through the production optimizer, which transcodes it to AVIF on two cores.
- * A gallery page blew a 30s test budget that way on its first CI run while
- * taking under a second locally. Nothing here needs every image loaded;
- * hydration is the thing the tests depend on.
+ * `load` waits for every image and embed, each fetched from Blob storage and
+ * encoded by the optimizer, cold, on a two-core CI runner. A gallery page blew
+ * a 30s test budget that way. Nothing here needs every image loaded; hydration
+ * is the thing the tests depend on.
  */
 export async function visit(page: Page, path: string) {
   await page.goto(path, { waitUntil: 'domcontentloaded' })

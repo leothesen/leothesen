@@ -23,9 +23,11 @@ export default defineConfig({
   retries: 0,
   workers: process.env.CI ? 2 : undefined,
   reporter: process.env.CI ? [['list'], ['html', { open: 'never' }], ['github']] : 'list',
-  // CI gets double. Every image goes through the production optimizer, and
-  // with a cold cache that AVIF transcoding is most of the suite's runtime:
-  // 7s warm, 42s cold on a laptop, slower again on a two-core runner.
+  // Every image goes through `next start`'s optimizer. Without `sharp` (a dev
+  // dependency for exactly this reason) Next falls back to a WASM encoder that
+  // pinned both cores of a CI runner: navigations stalled past 10s and no image
+  // loaded in 20s. Vercel optimizes images itself, so production never saw it.
+  // CI still gets extra headroom, since every image is encoded cold.
   timeout: process.env.CI ? 60_000 : 30_000,
   expect: { timeout: 10_000 },
   use: {

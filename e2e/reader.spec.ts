@@ -147,7 +147,7 @@ test('loaded images are never left blurred', async ({ page }) => {
 
   // At least one article image has to have loaded, or the check below passes
   // on an empty set. Not the page `load` event: that waits for every image on
-  // the page, which on a CI runner means minutes of AVIF transcoding.
+  // the page, including ones far below the fold.
   const loaded = page.locator('img.notion-image')
   await expect
     .poll(() => loaded.evaluateAll((imgs) => (imgs as HTMLImageElement[]).filter((i) => i.complete && i.naturalWidth > 0).length), {
