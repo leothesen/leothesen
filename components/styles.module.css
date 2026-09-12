@@ -60,13 +60,10 @@
   padding: 0.5em;
 }
 
-.settings,
 .social {
   user-select: none;
 }
 
-.settings a,
-.settings button,
 .social a {
   cursor: pointer;
   font-size: 2em;
@@ -82,20 +79,12 @@
   line-height: inherit;
 }
 
-.settings a:last-of-type,
-.settings button:last-of-type,
 .social a:last-of-type {
   margin-right: 0;
 }
 
-.settings a:hover,
-.settings button:hover,
 .social a:hover {
   transition: color 50ms ease-out;
-}
-
-.toggleDarkMode:hover {
-  color: var(--link-hover);
 }
 
 .twitter:hover {
@@ -139,10 +128,6 @@
 
   .footer>div {
     margin-top: 1em;
-  }
-
-  .footer .settings {
-    order: 1;
   }
 
   .footer .social {
