@@ -1,0 +1,128 @@
+/**
+ * Palette — every colour the site draws, in one place.
+ *
+ * The rest of the stylesheets only reference these tokens, so a palette is a
+ * change to this file and nothing else. Light values sit on :root; `.dark` is
+ * the class next-themes puts on <html> when dark mode is on.
+ *
+ * The one colour that cannot live here is the browser chrome's theme-color,
+ * which is a <meta> tag — see PageHead.tsx, and keep it matching --bg-color.
+ *
+ * SLATE. Cool blue-grey neutrals and blue links — the look of good product
+ * documentation. Dark mode is a blue-black (#0a0c10) rather than pure black,
+ * which keeps white text from haloing on OLED screens.
+ */
+
+:root {
+  color-scheme: light;
+
+  /* Surfaces */
+  --bg-color: #ffffff;
+  --bg-color-1: #f3f5f8; /* callouts, table headers */
+  --hover-bg: rgb(15 23 42 / 4%); /* hover and active washes */
+  --control-bg: rgb(15 23 42 / 6%); /* header pills */
+  --header-bg: rgb(255 255 255 / 85%);
+  --header-border: #e2e7ee;
+  --overlay: rgb(11 18 32 / 40%);
+
+  /* Text */
+  --fg-color: #0f172a;
+  --fg-color-1: #526071; /* dates, captions, meta */
+
+  /* Lines */
+  --fg-color-0: #e2e7ee; /* hairlines */
+  --border-strong: #97a3b4; /* hairlines on hover */
+
+  /* Links */
+  --link-color: #1d4ed8;
+  --link-underline: rgb(29 78 216 / 35%);
+  --link-hover: #1d4ed8;
+
+  /* Code */
+  --code-bg: #f7f9fb;
+  --code-border: #e2e7ee;
+  --inline-code-bg: rgb(15 23 42 / 6%);
+  --inline-code-color: var(--fg-color);
+
+  --card-shadow: 0 1px 2px rgb(15 23 42 / 6%), 0 6px 20px rgb(15 23 42 / 8%);
+
+  /* Notion's block colours, retuned to sit on this palette's ground. */
+  --notion-gray: #646970;
+  --notion-brown: #846048;
+  --notion-orange: #a24e10;
+  --notion-yellow: #856302;
+  --notion-green: #167c52;
+  --notion-blue: #2b6ca9;
+  --notion-purple: #7457a2;
+  --notion-pink: #994a72;
+  --notion-red: #a7463e;
+  --notion-gray-bg: #edf2fa;
+  --notion-brown-bg: #f7f0ec;
+  --notion-orange-bg: #ffeee5;
+  --notion-yellow-bg: #f8f1e2;
+  --notion-green-bg: #e8f6ed;
+  --notion-blue-bg: #e8f3ff;
+  --notion-purple-bg: #f4effe;
+  --notion-pink-bg: #fdedf4;
+  --notion-red-bg: #feedeb;
+}
+
+.dark {
+  color-scheme: dark;
+
+  /* Surfaces */
+  --bg-color: #0a0c10;
+  --bg-color-1: #141821; /* callouts, table headers */
+  --hover-bg: rgb(227 232 239 / 6%); /* hover and active washes */
+  --control-bg: rgb(227 232 239 / 8%); /* header pills */
+  --header-bg: rgb(10 12 16 / 78%);
+  --header-border: #1f2531;
+  --overlay: rgb(0 0 0 / 70%);
+
+  /* Text */
+  --fg-color: #e3e8ef;
+  --fg-color-1: #98a4b5; /* dates, captions, meta */
+
+  /* Lines */
+  --fg-color-0: #1f2531; /* hairlines */
+  --border-strong: #4a5568; /* hairlines on hover */
+
+  /* Links */
+  --link-color: #6ea8fe;
+  --link-underline: rgb(110 168 254 / 35%);
+  --link-hover: #6ea8fe;
+
+  /* Code */
+  --code-bg: #0e1116;
+  --code-border: #1f2531;
+  --inline-code-bg: rgb(227 232 239 / 9%);
+  --inline-code-color: var(--fg-color);
+
+  --card-shadow: 0 0 0 1px rgb(148 163 184 / 12%);
+
+  --notion-gray: #b9bec6;
+  --notion-brown: #d8b6a0;
+  --notion-orange: #f7a97c;
+  --notion-yellow: #ddb96c;
+  --notion-green: #87d1a9;
+  --notion-blue: #8cc3fb;
+  --notion-purple: #c7aff4;
+  --notion-pink: #efa3c7;
+  --notion-red: #fda297;
+  --notion-gray-bg: #1f2329;
+  --notion-brown-bg: #2b201a;
+  --notion-orange-bg: #341c0e;
+  --notion-yellow-bg: #2c2107;
+  --notion-green-bg: #10281c;
+  --notion-blue-bg: #132436;
+  --notion-purple-bg: #261e33;
+  --notion-pink-bg: #311a26;
+  --notion-red-bg: #361a17;
+}
+
+/* The page behind the page: overscroll, and routes rendered outside the
+   Notion viewport (404, error). Without this they stay browser-white in dark. */
+html {
+  background: var(--bg-color);
+  color: var(--fg-color);
+}

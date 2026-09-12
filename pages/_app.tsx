@@ -5,6 +5,7 @@ import { useRouter } from 'next/router'
 import { Analytics } from '@vercel/analytics/react'
 import { ThemeProvider } from 'next-themes'
 
+import 'styles/palette.css'
 import 'styles/global.css'
 import 'styles/notion.css'
 
