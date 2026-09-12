@@ -57,15 +57,15 @@
   --notion-purple: #7457a2;
   --notion-pink: #994a72;
   --notion-red: #a7463e;
-  --notion-gray-bg: #f0f0f0;
-  --notion-brown-bg: #f9eee6;
-  --notion-orange-bg: #ffece2;
-  --notion-yellow-bg: #faefd8;
-  --notion-green-bg: #e0f7e9;
-  --notion-blue-bg: #e5f2ff;
-  --notion-purple-bg: #f2edff;
-  --notion-pink-bg: #ffeaf2;
-  --notion-red-bg: #ffebe8;
+  --notion-gray-bg: #f2f2f2;
+  --notion-brown-bg: #f7f0ec;
+  --notion-orange-bg: #ffeee5;
+  --notion-yellow-bg: #f8f1e2;
+  --notion-green-bg: #e8f6ed;
+  --notion-blue-bg: #e8f3ff;
+  --notion-purple-bg: #f4effe;
+  --notion-pink-bg: #fdedf4;
+  --notion-red-bg: #feedeb;
 }
 
 .dark {
