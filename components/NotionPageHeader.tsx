@@ -8,6 +8,7 @@ import { navigationLinks, navigationStyle } from '@/lib/config'
 import type { Breadcrumb } from '@/lib/types'
 
 import { SearchDialog, useSearchHotkey } from './SearchDialog'
+import { ThemeMenu } from './ThemeMenu'
 import styles from './styles.module.css'
 
 function BreadcrumbIcon({ icon }: { icon: string }) {
@@ -79,6 +80,8 @@ export const NotionPageHeader: React.FC<{
             <span className='notion-search-trigger-label'>Search</span>
             <kbd className='notion-search-trigger-kbd' aria-hidden>/</kbd>
           </button>
+
+          <ThemeMenu />
 
           {navigationStyle === 'custom' && navigationLinks?.length > 0 && (
             <>
