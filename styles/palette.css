@@ -7,108 +7,116 @@
  *
  * The one colour that cannot live here is the browser chrome's theme-color,
  * which is a <meta> tag — see PageHead.tsx, and keep it matching --bg-color.
+ *
+ * PAPER. Warm neutrals with a deep green accent on link underlines — closer to
+ * a printed page than a screen. Dark mode is a warm near-black (#0f0e0c).
  */
 
 :root {
   color-scheme: light;
 
   /* Surfaces */
-  --bg-color: #fff;
-  --bg-color-1: rgba(55, 53, 47, 0.024); /* callouts, table headers */
-  --hover-bg: rgba(55, 53, 47, 0.024); /* hover and active washes */
-  --control-bg: rgba(55, 53, 47, 0.06); /* header pills */
-  --header-bg: hsla(0, 0%, 100%, 0.8);
-  --header-border: transparent;
-  --overlay: rgba(15, 15, 15, 0.4);
+  --bg-color: #faf9f6;
+  --bg-color-1: #f0eee9; /* callouts, table headers */
+  --hover-bg: rgb(28 26 23 / 4%); /* hover and active washes */
+  --control-bg: rgb(28 26 23 / 6%); /* header pills */
+  --header-bg: rgb(250 249 246 / 85%);
+  --header-border: #e5e1d9;
+  --overlay: rgb(18 16 13 / 40%);
 
   /* Text */
-  --fg-color: rgb(55, 53, 47);
-  --fg-color-1: rgba(55, 53, 47, 0.4); /* dates, captions, meta */
+  --fg-color: #1c1a17;
+  --fg-color-1: #655f55; /* dates, captions, meta */
 
   /* Lines */
-  --fg-color-0: rgba(55, 53, 47, 0.09); /* hairlines */
-  --border-strong: rgba(55, 53, 47, 0.4); /* hairlines on hover */
+  --fg-color-0: #e5e1d9; /* hairlines */
+  --border-strong: #aba497; /* hairlines on hover */
 
   /* Links */
   --link-color: inherit;
-  --link-underline: rgba(55, 53, 47, 0.09);
-  --link-hover: #03a9fc;
+  --link-underline: #8fb5a0;
+  --link-hover: #2f6b4f;
 
   /* Code */
-  --code-bg: rgba(249, 250, 251, 1);
-  --code-border: rgba(229, 231, 235, 1);
-  --inline-code-bg: rgba(135, 131, 120, 0.15);
-  --inline-code-color: #eb5757;
+  --code-bg: #f5f3ee;
+  --code-border: #e5e1d9;
+  --inline-code-bg: rgb(28 26 23 / 6%);
+  --inline-code-color: var(--fg-color);
 
-  --card-shadow: 2px 2px 8px 4px rgba(15, 15, 15, 0.1);
+  --card-shadow: 0 1px 2px rgb(40 30 20 / 6%), 0 6px 20px rgb(40 30 20 / 8%);
 
-  /* Notion's block colours, as the author picked them in Notion. */
-  --notion-gray: #9b9a97;
-  --notion-brown: #64473a;
-  --notion-orange: #d9730d;
-  --notion-yellow: #dfab01;
-  --notion-green: #0f7b6c;
-  --notion-blue: #0b6e99;
-  --notion-purple: #6940a5;
-  --notion-pink: #ad1a72;
-  --notion-red: #e03e3e;
-  --notion-gray-bg: #ebeced;
-  --notion-brown-bg: #e9e5e3;
-  --notion-orange-bg: #faebdd;
-  --notion-yellow-bg: #fbf3db;
-  --notion-green-bg: #ddedea;
-  --notion-blue-bg: #ddebf1;
-  --notion-purple-bg: #eae4f2;
-  --notion-pink-bg: #f4dfeb;
-  --notion-red-bg: #fbe4e4;
+  /* Notion's block colours, retuned to sit on this palette's ground. */
+  --notion-gray: #6d6861;
+  --notion-brown: #82614b;
+  --notion-orange: #9e511e;
+  --notion-yellow: #84630b;
+  --notion-green: #247b54;
+  --notion-blue: #326ca4;
+  --notion-purple: #73599e;
+  --notion-pink: #964d72;
+  --notion-red: #a34942;
+  --notion-gray-bg: #f2ece4;
+  --notion-brown-bg: #f6eae3;
+  --notion-orange-bg: #ffe8db;
+  --notion-yellow-bg: #f7ecd4;
+  --notion-green-bg: #ddf3e6;
+  --notion-blue-bg: #e0efff;
+  --notion-purple-bg: #f0e9ff;
+  --notion-pink-bg: #fee5f0;
+  --notion-red-bg: #ffe6e3;
 }
 
 .dark {
   color-scheme: dark;
 
-  --bg-color: #2f3437;
-  --bg-color-1: rgb(47, 52, 55);
-  --hover-bg: rgba(255, 255, 255, 0.06);
-  --control-bg: rgba(255, 255, 255, 0.06);
-  --header-bg: hsla(203, 8%, 20%, 0.8);
-  --header-border: rgba(0, 0, 0, 0.1);
-  --overlay: rgba(15, 15, 15, 0.4);
+  /* Surfaces */
+  --bg-color: #0f0e0c;
+  --bg-color-1: #1a1815; /* callouts, table headers */
+  --hover-bg: rgb(234 230 222 / 6%); /* hover and active washes */
+  --control-bg: rgb(234 230 222 / 8%); /* header pills */
+  --header-bg: rgb(15 14 12 / 78%);
+  --header-border: #27241f;
+  --overlay: rgb(0 0 0 / 70%);
 
-  --fg-color: rgba(255, 255, 255, 0.9);
-  --fg-color-1: rgba(255, 255, 255, 0.4);
+  /* Text */
+  --fg-color: #eae6de;
+  --fg-color-1: #a59f94; /* dates, captions, meta */
 
-  --fg-color-0: rgba(255, 255, 255, 0.09);
-  --border-strong: rgba(255, 255, 255, 0.4);
+  /* Lines */
+  --fg-color-0: #27241f; /* hairlines */
+  --border-strong: #5e584e; /* hairlines on hover */
 
+  /* Links */
   --link-color: inherit;
-  --link-underline: rgba(255, 255, 255, 0.09);
-  --link-hover: #03a9fc;
+  --link-underline: #4f7a62;
+  --link-hover: #8cc7a3;
 
-  --code-bg: rgba(45, 45, 45, 1);
-  --code-border: rgba(60, 60, 60, 1);
-  --inline-code-bg: rgba(135, 131, 120, 0.3);
-  --inline-code-color: #ff7b72;
+  /* Code */
+  --code-bg: #131210;
+  --code-border: #27241f;
+  --inline-code-bg: rgb(234 230 222 / 9%);
+  --inline-code-color: var(--fg-color);
 
-  --card-shadow: 2px 2px 8px 4px rgba(15, 15, 15, 0.1);
+  --card-shadow: 0 0 0 1px rgb(234 230 222 / 9%);
 
-  --notion-gray: #979a9b;
-  --notion-brown: #937264;
-  --notion-orange: #ffa344;
-  --notion-yellow: #ffdc49;
-  --notion-green: #4dab9a;
-  --notion-blue: #529cca;
-  --notion-purple: #9a6dd7;
-  --notion-pink: #e255a1;
-  --notion-red: #ff7369;
-  --notion-gray-bg: #454b4e;
-  --notion-brown-bg: #434040;
-  --notion-orange-bg: #594a3a;
-  --notion-yellow-bg: #59563b;
-  --notion-green-bg: #354c4b;
-  --notion-blue-bg: #364954;
-  --notion-purple-bg: #443f57;
-  --notion-pink-bg: #533b4c;
-  --notion-red-bg: #594141;
+  --notion-gray: #c2bdb5;
+  --notion-brown: #d5b7a3;
+  --notion-orange: #f2ab83;
+  --notion-yellow: #dab975;
+  --notion-green: #8dcfab;
+  --notion-blue: #91c3f6;
+  --notion-purple: #c6b1f0;
+  --notion-pink: #eba6c6;
+  --notion-red: #f8a59b;
+  --notion-gray-bg: #26221c;
+  --notion-brown-bg: #2a211b;
+  --notion-orange-bg: #321d11;
+  --notion-yellow-bg: #2b210c;
+  --notion-green-bg: #13281d;
+  --notion-blue-bg: #152434;
+  --notion-purple-bg: #251f32;
+  --notion-pink-bg: #301b25;
+  --notion-red-bg: #341b18;
 }
 
 /* The page behind the page: overscroll, and routes rendered outside the
