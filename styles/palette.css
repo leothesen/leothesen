@@ -7,108 +7,118 @@
  *
  * The one colour that cannot live here is the browser chrome's theme-color,
  * which is a <meta> tag — see PageHead.tsx, and keep it matching --bg-color.
+ *
+ * MONO. One neutral grey ramp and no hue in the site's own chrome, so the only
+ * colour on a page is the photographs and whatever was coloured in Notion.
+ * Dark mode is true black (#000). Links are marked by a visible grey underline
+ * that turns to ink on hover, not by colour.
  */
 
 :root {
   color-scheme: light;
 
   /* Surfaces */
-  --bg-color: #fff;
-  --bg-color-1: rgba(55, 53, 47, 0.024); /* callouts, table headers */
-  --hover-bg: rgba(55, 53, 47, 0.024); /* hover and active washes */
-  --control-bg: rgba(55, 53, 47, 0.06); /* header pills */
-  --header-bg: hsla(0, 0%, 100%, 0.8);
-  --header-border: transparent;
-  --overlay: rgba(15, 15, 15, 0.4);
+  --bg-color: #ffffff;
+  --bg-color-1: #f4f4f4; /* callouts, table headers */
+  --hover-bg: rgb(23 23 23 / 4%); /* hover and active washes */
+  --control-bg: rgb(23 23 23 / 6%); /* header pills */
+  --header-bg: rgb(255 255 255 / 85%);
+  --header-border: #e6e6e6;
+  --overlay: rgb(0 0 0 / 40%);
 
   /* Text */
-  --fg-color: rgb(55, 53, 47);
-  --fg-color-1: rgba(55, 53, 47, 0.4); /* dates, captions, meta */
+  --fg-color: #171717;
+  --fg-color-1: #5f5f5f; /* dates, captions, meta */
 
   /* Lines */
-  --fg-color-0: rgba(55, 53, 47, 0.09); /* hairlines */
-  --border-strong: rgba(55, 53, 47, 0.4); /* hairlines on hover */
+  --fg-color-0: #e6e6e6; /* hairlines */
+  --border-strong: #a8a8a8; /* hairlines on hover */
 
   /* Links */
   --link-color: inherit;
-  --link-underline: rgba(55, 53, 47, 0.09);
-  --link-hover: #03a9fc;
+  --link-underline: #a8a8a8;
+  --link-hover: #171717;
 
   /* Code */
-  --code-bg: rgba(249, 250, 251, 1);
-  --code-border: rgba(229, 231, 235, 1);
-  --inline-code-bg: rgba(135, 131, 120, 0.15);
-  --inline-code-color: #eb5757;
+  --code-bg: #fafafa;
+  --code-border: #e6e6e6;
+  --inline-code-bg: rgb(23 23 23 / 6%);
+  --inline-code-color: var(--fg-color);
 
-  --card-shadow: 2px 2px 8px 4px rgba(15, 15, 15, 0.1);
+  --card-shadow: 0 1px 2px rgb(0 0 0 / 6%), 0 6px 20px rgb(0 0 0 / 7%);
 
-  /* Notion's block colours, as the author picked them in Notion. */
-  --notion-gray: #9b9a97;
-  --notion-brown: #64473a;
-  --notion-orange: #d9730d;
-  --notion-yellow: #dfab01;
-  --notion-green: #0f7b6c;
-  --notion-blue: #0b6e99;
-  --notion-purple: #6940a5;
-  --notion-pink: #ad1a72;
-  --notion-red: #e03e3e;
-  --notion-gray-bg: #ebeced;
-  --notion-brown-bg: #e9e5e3;
-  --notion-orange-bg: #faebdd;
-  --notion-yellow-bg: #fbf3db;
-  --notion-green-bg: #ddedea;
-  --notion-blue-bg: #ddebf1;
-  --notion-purple-bg: #eae4f2;
-  --notion-pink-bg: #f4dfeb;
-  --notion-red-bg: #fbe4e4;
+  /* Notion's block colours, retuned to sit on this palette's ground. */
+  --notion-gray: #696969;
+  --notion-brown: #846048;
+  --notion-orange: #a24e10;
+  --notion-yellow: #856302;
+  --notion-green: #167c52;
+  --notion-blue: #2b6ca9;
+  --notion-purple: #7457a2;
+  --notion-pink: #994a72;
+  --notion-red: #a7463e;
+  --notion-gray-bg: #f0f0f0;
+  --notion-brown-bg: #f9eee6;
+  --notion-orange-bg: #ffece2;
+  --notion-yellow-bg: #faefd8;
+  --notion-green-bg: #e0f7e9;
+  --notion-blue-bg: #e5f2ff;
+  --notion-purple-bg: #f2edff;
+  --notion-pink-bg: #ffeaf2;
+  --notion-red-bg: #ffebe8;
 }
 
 .dark {
   color-scheme: dark;
 
-  --bg-color: #2f3437;
-  --bg-color-1: rgb(47, 52, 55);
-  --hover-bg: rgba(255, 255, 255, 0.06);
-  --control-bg: rgba(255, 255, 255, 0.06);
-  --header-bg: hsla(203, 8%, 20%, 0.8);
-  --header-border: rgba(0, 0, 0, 0.1);
-  --overlay: rgba(15, 15, 15, 0.4);
+  /* Surfaces */
+  --bg-color: #000000;
+  --bg-color-1: #121212; /* callouts, table headers */
+  --hover-bg: rgb(236 236 236 / 6%); /* hover and active washes */
+  --control-bg: rgb(236 236 236 / 8%); /* header pills */
+  --header-bg: rgb(0 0 0 / 78%);
+  --header-border: #242424;
+  --overlay: rgb(0 0 0 / 70%);
 
-  --fg-color: rgba(255, 255, 255, 0.9);
-  --fg-color-1: rgba(255, 255, 255, 0.4);
+  /* Text */
+  --fg-color: #ececec;
+  --fg-color-1: #a3a3a3; /* dates, captions, meta */
 
-  --fg-color-0: rgba(255, 255, 255, 0.09);
-  --border-strong: rgba(255, 255, 255, 0.4);
+  /* Lines */
+  --fg-color-0: #242424; /* hairlines */
+  --border-strong: #5a5a5a; /* hairlines on hover */
 
+  /* Links */
   --link-color: inherit;
-  --link-underline: rgba(255, 255, 255, 0.09);
-  --link-hover: #03a9fc;
+  --link-underline: #5a5a5a;
+  --link-hover: #ffffff;
 
-  --code-bg: rgba(45, 45, 45, 1);
-  --code-border: rgba(60, 60, 60, 1);
-  --inline-code-bg: rgba(135, 131, 120, 0.3);
-  --inline-code-color: #ff7b72;
+  /* Code */
+  --code-bg: #0b0b0b;
+  --code-border: #242424;
+  --inline-code-bg: rgb(236 236 236 / 9%);
+  --inline-code-color: var(--fg-color);
 
-  --card-shadow: 2px 2px 8px 4px rgba(15, 15, 15, 0.1);
+  --card-shadow: 0 0 0 1px rgb(255 255 255 / 8%);
 
-  --notion-gray: #979a9b;
-  --notion-brown: #937264;
-  --notion-orange: #ffa344;
-  --notion-yellow: #ffdc49;
-  --notion-green: #4dab9a;
-  --notion-blue: #529cca;
-  --notion-purple: #9a6dd7;
-  --notion-pink: #e255a1;
-  --notion-red: #ff7369;
-  --notion-gray-bg: #454b4e;
-  --notion-brown-bg: #434040;
-  --notion-orange-bg: #594a3a;
-  --notion-yellow-bg: #59563b;
-  --notion-green-bg: #354c4b;
-  --notion-blue-bg: #364954;
-  --notion-purple-bg: #443f57;
-  --notion-pink-bg: #533b4c;
-  --notion-red-bg: #594141;
+  --notion-gray: #bebebe;
+  --notion-brown: #d8b6a0;
+  --notion-orange: #f7a97c;
+  --notion-yellow: #ddb96c;
+  --notion-green: #87d1a9;
+  --notion-blue: #8cc3fb;
+  --notion-purple: #c7aff4;
+  --notion-pink: #efa3c7;
+  --notion-red: #fda297;
+  --notion-gray-bg: #1e1e1e;
+  --notion-brown-bg: #261c15;
+  --notion-orange-bg: #2f1709;
+  --notion-yellow-bg: #271c04;
+  --notion-green-bg: #0b2418;
+  --notion-blue-bg: #0e1f30;
+  --notion-purple-bg: #21192e;
+  --notion-pink-bg: #2c1621;
+  --notion-red-bg: #301512;
 }
 
 /* The page behind the page: overscroll, and routes rendered outside the

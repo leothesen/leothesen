@@ -118,7 +118,7 @@ export const PageHead: React.FC<{
       />
 
       <meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff" key="theme-color-light" />
-      <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#2f3437" key="theme-color-dark" />
+      <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#000000" key="theme-color-dark" />
 
       <meta property='og:type' content={isArticle ? 'article' : 'website'} />
 
