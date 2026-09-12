@@ -117,8 +117,8 @@ export const PageHead: React.FC<{
         content='width=device-width, initial-scale=1, shrink-to-fit=no'
       />
 
-      <meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff" key="theme-color-light" />
-      <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#2f3437" key="theme-color-dark" />
+      <meta name="theme-color" media="(prefers-color-scheme: light)" content="#f4efe6" key="theme-color-light" />
+      <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#0d1712" key="theme-color-dark" />
 
       <meta property='og:type' content={isArticle ? 'article' : 'website'} />
 
