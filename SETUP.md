@@ -118,6 +118,30 @@ pnpm deploy
 
 Or connect the GitHub repo to Vercel for automatic deployments. Make sure to add `NOTION_TOKEN` as an environment variable in your Vercel project settings (Settings → Environment Variables), applied to Production, Preview, and Development.
 
+## Tests
+
+```bash
+pnpm typecheck   # tsc over everything, tests included — next build skips those
+pnpm test        # unit, component and content tests (Vitest, a few seconds)
+pnpm build       # the E2E suite runs against a production build...
+pnpm test:e2e    # ...started on port 3107 (Playwright)
+```
+
+Both run on every pull request (`.github/workflows/build.yml`), as the **Unit tests** and **Build + E2E** jobs.
+
+| Where | What it covers |
+|-------|----------------|
+| `lib/__tests__/` | Pure logic: URL resolution and link rewriting (against a fixture in `tests/helpers/content-fixture.ts`), embed planning, config, analytics |
+| `components/__tests__/` | The renderer block by block, SEO head and JSON-LD, search, embeds, page shell |
+| `tests/pages/` | API routes, sitemap, RSS, robots, llms.txt, archive and the 404 path — against the real `.content`. Not under `pages/`, where Next would ship them as routes |
+| `tests/content/` | Every committed page rendered and checked: one `<h1>`, canonical URL, every internal link and anchor resolves, every Notion block type is known |
+| `tests/next-config.test.ts` | Security headers, and every image host in the content allowed by `next/image` |
+| `e2e/` | Every sitemap URL and internal link over HTTP, real 404s, headers; in Chromium (desktop and phone), search, theme, skip link, navigation, lazy YouTube, image blur-up |
+
+Several content tests hold a **known list** of existing problems (URL collisions, a dangling reference, unrendered block types) rather than ignoring them, so the list can only shrink. When one fails, a new problem has appeared in Notion. Fix it there, or add it to the list if it is expected.
+
+The daily Notion sync dispatches the CI workflow on its own pull requests. GitHub holds workflows on PRs opened by `github-actions[bot]` until someone approves them, so they would otherwise run no tests.
+
 ## Project Structure
 
 ```

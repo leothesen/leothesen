@@ -41,9 +41,13 @@ on:
 # Explicit rather than inherited: the last step pushes a branch and opens a pull
 # request, and a repo-level default of read-only would fail it at the very end,
 # after the whole sync had already run.
+#
+# `actions: write` is for dispatching CI on the sync branch; see the end of the
+# pull-request step.
 permissions:
   contents: write
   pull-requests: write
+  actions: write
 
 # Two syncs at once would race for the same branch and burn the Notion rate
 # limit against each other. Queue instead of cancelling — a half-finished sync
@@ -193,6 +197,19 @@ jobs:
               --body-file /tmp/pr-body.md \
               --reviewer leothesen
           fi
+
+          # Run the tests on the content this pull request carries.
+          #
+          # Its own pull_request run never starts: GitHub holds workflows on a
+          # PR opened by github-actions[bot] as "action_required" until someone
+          # approves them. Every sync PR in September sat like that until it was
+          # re-run by hand — so the content-integrity tests, the link check and
+          # the crawl, which exist for exactly these PRs, ran only when someone
+          # remembered. A workflow_dispatch from GITHUB_TOKEN is exempt from that
+          # hold, and its checks land on the same head commit, so they show on
+          # the pull request.
+          gh workflow run build.yml --ref "$BRANCH"
+          echo "Dispatched CI on $BRANCH"
 
       # An image the sync could not copy keeps Notion's own signed URL, which
       # stops working within the hour. Nine rotted that way without anything
