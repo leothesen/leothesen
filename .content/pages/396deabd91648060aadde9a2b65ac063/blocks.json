@@ -1,6 +1,198 @@
 [
   {
     "object": "block",
+    "id": "3d8deabd-9164-8074-9da2-f1d86c5d1d93",
+    "parent": {
+      "type": "page_id",
+      "page_id": "396deabd-9164-8060-aadd-e9a2b65ac063"
+    },
+    "created_time": "2026-09-11T12:21:00.000Z",
+    "last_edited_time": "2026-09-11T12:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Look - so I tried to write about this. But words just didn’t seem to handle the magnitude of this experience. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Look - so I tried to write about this. But words just didn’t seem to handle the magnitude of this experience. ",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3d8deabd-9164-8026-846d-df8b6c0a4325",
+    "parent": {
+      "type": "page_id",
+      "page_id": "396deabd-9164-8060-aadd-e9a2b65ac063"
+    },
+    "created_time": "2026-09-11T12:21:00.000Z",
+    "last_edited_time": "2026-09-11T12:22:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I had recorded a whole lot of voicenotes throughout the race. And I made a trashy song/podcost with them on Garage Band:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I had recorded a whole lot of voicenotes throughout the race. And I made a trashy song/podcost with them on Garage Band:",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3d8deabd-9164-802b-88a6-fd774040eeb6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "396deabd-9164-8060-aadd-e9a2b65ac063"
+    },
+    "created_time": "2026-09-11T12:23:00.000Z",
+    "last_edited_time": "2026-09-11T12:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "audio",
+    "audio": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/30ec3e8e5b2e29b8.jpg",
+        "expiry_time": "2026-09-11T13:33:50.649Z"
+      }
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3d8deabd-9164-8000-83fb-d27c60aa1038",
+    "parent": {
+      "type": "page_id",
+      "page_id": "396deabd-9164-8060-aadd-e9a2b65ac063"
+    },
+    "created_time": "2026-09-11T12:21:00.000Z",
+    "last_edited_time": "2026-09-11T12:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "icon": null,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3d8deabd-9164-801b-81c0-e56b74065b4d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "396deabd-9164-8060-aadd-e9a2b65ac063"
+    },
+    "created_time": "2026-09-11T12:21:00.000Z",
+    "last_edited_time": "2026-09-11T12:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_1",
+    "heading_1": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Things I tried writing (but failed)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Things I tried writing (but failed)",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
     "id": "396deabd-9164-802c-9323-cbab52c72d1b",
     "parent": {
       "type": "page_id",
@@ -863,7 +1055,7 @@
       "type": "file",
       "file": {
         "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/b5032a707c1728c7.png",
-        "expiry_time": "2026-09-10T10:26:54.652Z"
+        "expiry_time": "2026-09-11T13:33:50.643Z"
       }
     },
     "archived": false
@@ -938,7 +1130,7 @@
       "type": "file",
       "file": {
         "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/76e9afbfad539ceb.png",
-        "expiry_time": "2026-09-10T10:26:54.639Z"
+        "expiry_time": "2026-09-11T13:33:50.765Z"
       }
     },
     "archived": false
@@ -1013,7 +1205,7 @@
       "type": "file",
       "file": {
         "url": "https://ch1i5qbcxmt5qkvq.public.blob.vercel-storage.com/notion-images/337af0bd5915bcc9.png",
-        "expiry_time": "2026-09-10T10:26:54.634Z"
+        "expiry_time": "2026-09-11T13:33:50.799Z"
       }
     },
     "archived": false
