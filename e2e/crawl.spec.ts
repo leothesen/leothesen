@@ -1,5 +1,7 @@
 import { expect, test, type APIRequestContext } from '@playwright/test'
 
+import { manifest } from './helpers'
+
 /**
  * The whole site over HTTP, against the production server.
  *
@@ -108,6 +110,26 @@ test('the machine-readable routes serve the right content types', async ({ reque
   const search = await request.post('/api/search-notion', { data: { query: 'ocean' } })
   expect(search.status()).toBe(200)
   expect(Array.isArray(await search.json())).toBe(true)
+})
+
+test('the image optimizer serves a real cover from Blob storage', async ({ request }) => {
+  // The browser tests stub /_next/image (see e2e/helpers.ts), so this is the
+  // one place the real path runs: remotePatterns, the upstream fetch, and the
+  // encode. Small width so the encode is cheap.
+  const cover = Object.values(manifest.pages)
+    .map((p) => p.cover)
+    .find((c): c is string => !!c && c.includes('.public.blob.vercel-storage.com/'))!
+  const res = await request.get(`/_next/image?url=${encodeURIComponent(cover)}&w=64&q=75`, {
+    headers: { accept: 'image/avif,image/webp,image/*' },
+    timeout: 60_000,
+  })
+  expect(res.status()).toBe(200)
+  expect(res.headers()['content-type']).toMatch(/^image\/(avif|webp|jpeg|png)$/)
+  expect((await res.body()).length).toBeGreaterThan(100)
+
+  // And it refuses a host that is not on the list, rather than proxying it.
+  const refused = await request.get(`/_next/image?url=${encodeURIComponent('https://example.com/a.png')}&w=64&q=75`)
+  expect(refused.status()).toBe(400)
 })
 
 test('icons are served as images from every depth, not as HTML', async ({ request }) => {

@@ -1,6 +1,4 @@
-import { expect, test } from '@playwright/test'
-
-import { findPage, publishedPages, visit, watchForErrors } from './helpers'
+import { expect, findPage, publishedPages, test, visit, watchForErrors } from './helpers'
 
 /**
  * What a reader actually does, in a real browser, on the production build.

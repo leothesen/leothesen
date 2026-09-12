@@ -1,7 +1,40 @@
 import * as fs from 'fs'
 import * as path from 'path'
 
-import { expect, type Page } from '@playwright/test'
+import { expect, test as base, type Page } from '@playwright/test'
+import sharp from 'sharp'
+
+/**
+ * Browser tests with the image optimizer taken out of the loop.
+ *
+ * Every `/_next/image` request is answered in the browser with a small real
+ * PNG, so images still load, fire `onLoad` and come out of their blur. But
+ * `next start` never encodes anything.
+ *
+ * Why: on a CI runner, the optimizer's AVIF encodes stalled everything else the
+ * one server process does. Measured in the traces from the second and third CI
+ * runs: a static JS chunk took 6.8s to serve while an in-memory API route
+ * answered in 79ms, and client-side navigations that needed a chunk never
+ * finished. Production never shares a process like that, since Vercel
+ * optimizes images separately, so this was test-only load.
+ *
+ * The real optimizer path is still exercised once, by the crawl.
+ */
+const placeholderPng = sharp({ create: { width: 16, height: 9, channels: 3, background: '#8aa' } })
+  .png()
+  .toBuffer()
+
+export const test = base.extend({
+  context: async ({ context }, use) => {
+    const body = await placeholderPng
+    await context.route('**/_next/image?**', (route) =>
+      route.fulfill({ status: 200, contentType: 'image/png', body })
+    )
+    await use(context)
+  },
+})
+
+export { expect }
 
 /**
  * Finding pages by what is on them, rather than hardcoding paths.
@@ -71,10 +104,10 @@ export async function waitForHydration(page: Page) {
 /**
  * Opens a page and waits for it to hydrate — not for the `load` event.
  *
- * `load` waits for every image and embed, each fetched from Blob storage and
- * encoded by the optimizer, cold, on a two-core CI runner. A gallery page blew
- * a 30s test budget that way. Nothing here needs every image loaded; hydration
- * is the thing the tests depend on.
+ * `load` also waits for every third-party embed and poster image, which is
+ * the internet's speed rather than the site's. A gallery page blew a 30s test
+ * budget that way on CI. Nothing here needs everything loaded; hydration is
+ * the thing the tests depend on.
  */
 export async function visit(page: Page, path: string) {
   await page.goto(path, { waitUntil: 'domcontentloaded' })
