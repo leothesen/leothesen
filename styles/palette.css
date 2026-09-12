@@ -55,15 +55,15 @@
   --notion-purple: #73599e;
   --notion-pink: #964d72;
   --notion-red: #a34942;
-  --notion-gray-bg: #f2ece4;
-  --notion-brown-bg: #f6eae3;
-  --notion-orange-bg: #ffe8db;
-  --notion-yellow-bg: #f7ecd4;
-  --notion-green-bg: #ddf3e6;
-  --notion-blue-bg: #e0efff;
-  --notion-purple-bg: #f0e9ff;
-  --notion-pink-bg: #fee5f0;
-  --notion-red-bg: #ffe6e3;
+  --notion-gray-bg: #f3ede6;
+  --notion-brown-bg: #f4ede8;
+  --notion-orange-bg: #fcebe2;
+  --notion-yellow-bg: #f5eedf;
+  --notion-green-bg: #e4f3ea;
+  --notion-blue-bg: #e5f0fc;
+  --notion-purple-bg: #f0ecfa;
+  --notion-pink-bg: #fae9f0;
+  --notion-red-bg: #fde9e7;
 }
 
 .dark {
