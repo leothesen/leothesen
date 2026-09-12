@@ -23,7 +23,10 @@ export default defineConfig({
   retries: 0,
   workers: process.env.CI ? 2 : undefined,
   reporter: process.env.CI ? [['list'], ['html', { open: 'never' }], ['github']] : 'list',
-  timeout: 30_000,
+  // CI gets double. Every image goes through the production optimizer, and
+  // with a cold cache that AVIF transcoding is most of the suite's runtime:
+  // 7s warm, 42s cold on a laptop, slower again on a two-core runner.
+  timeout: process.env.CI ? 60_000 : 30_000,
   expect: { timeout: 10_000 },
   use: {
     baseURL: `http://127.0.0.1:${PORT}`,

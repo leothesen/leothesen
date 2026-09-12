@@ -1,6 +1,6 @@
 import { expect, test } from '@playwright/test'
 
-import { findPage, publishedPages, waitForHydration, watchForErrors } from './helpers'
+import { findPage, publishedPages, visit, watchForErrors } from './helpers'
 
 /**
  * What a reader actually does, in a real browser, on the production build.
@@ -16,12 +16,11 @@ test('the home page, an article, the archive and a 404 all hydrate without error
   const errors = watchForErrors(page)
 
   for (const path of ['/', article().path, '/archive']) {
-    await page.goto(path)
-    await waitForHydration(page)
+    await visit(page, path)
     await expect(page.locator('h1')).toHaveCount(1)
   }
 
-  await page.goto('/no-such-page')
+  await page.goto('/no-such-page', { waitUntil: 'domcontentloaded' })
   await expect(page.getByRole('heading', { name: 'Page Not Found' })).toBeVisible()
 
   expect(errors).toEqual([])
@@ -29,8 +28,7 @@ test('the home page, an article, the archive and a 404 all hydrate without error
 
 test('search opens from the keyboard and takes you to the page', async ({ page }) => {
   const target = article()
-  await page.goto('/')
-  await waitForHydration(page)
+  await visit(page, '/')
 
   await page.keyboard.press('/')
   const input = page.getByRole('searchbox', { name: 'Search this site' })
@@ -55,8 +53,7 @@ test('search opens from the keyboard and takes you to the page', async ({ page }
 })
 
 test('search opens from the header button and closes on Escape', async ({ page }) => {
-  await page.goto('/')
-  await waitForHydration(page)
+  await visit(page, '/')
 
   await page.getByRole('button', { name: 'Search this site' }).click()
   await expect(page.getByRole('dialog', { name: 'Search this site' })).toBeVisible()
@@ -66,8 +63,7 @@ test('search opens from the header button and closes on Escape', async ({ page }
 
 test('the theme toggle switches theme and remembers it', async ({ page }) => {
   await page.emulateMedia({ colorScheme: 'light' })
-  await page.goto('/')
-  await waitForHydration(page)
+  await visit(page, '/')
 
   const html = page.locator('html')
   await expect(html).not.toHaveClass(/\bdark\b/)
@@ -76,14 +72,13 @@ test('the theme toggle switches theme and remembers it', async ({ page }) => {
   await expect(html).toHaveClass(/\bdark\b/)
   await expect(page.getByRole('button', { name: 'Switch to light mode' })).toBeVisible()
 
-  await page.reload()
+  await page.reload({ waitUntil: 'domcontentloaded' })
   await expect(html).toHaveClass(/\bdark\b/)
 })
 
-test('the skip link is the first stop and lands in the article', async ({ page, browserName }, testInfo) => {
+test('the skip link is the first stop and lands in the article', async ({ page }, testInfo) => {
   test.skip(testInfo.project.name === 'mobile', 'no keyboard on a phone')
-  await page.goto(article().path)
-  await waitForHydration(page)
+  await visit(page, article().path)
 
   await page.keyboard.press('Tab')
   const skip = page.getByRole('link', { name: 'Skip to content' })
@@ -94,8 +89,7 @@ test('the skip link is the first stop and lands in the article', async ({ page, 
 
 test('breadcrumbs and neighbour links navigate', async ({ page }) => {
   const nested = publishedPages().find((p) => p.depth >= 2)!
-  await page.goto(nested.path)
-  await waitForHydration(page)
+  await visit(page, nested.path)
 
   const neighbours = page.getByRole('navigation', { name: 'Nearby pages' })
   if (await neighbours.count()) {
@@ -115,11 +109,15 @@ test('breadcrumbs and neighbour links navigate', async ({ page }) => {
 })
 
 test('the footer reaches the archive, which lists pages newest first', async ({ page }) => {
-  await page.goto('/')
-  await waitForHydration(page)
+  await visit(page, '/')
   await page.getByRole('link', { name: 'Archive' }).click()
 
   await expect(page).toHaveURL('/archive')
+  // The URL changes before the archive renders. Wait for its own heading, or
+  // the lookup below reads the home page and finds no years — which is how
+  // this failed on its first CI run.
+  await expect(page.locator('h1.notion-title')).toHaveText('Archive')
+  await expect(page.locator('section.notion-archive-year').first()).toBeVisible()
   const years = await page.locator('section.notion-archive-year h2').evaluateAll((els) =>
     els.map((el) => el.firstChild!.textContent!.trim())
   )
@@ -129,8 +127,7 @@ test('the footer reaches the archive, which lists pages newest first', async ({ 
 
 test('YouTube stays a poster until played', async ({ page }) => {
   const withVideo = findPage((b) => b.type === 'video' && /youtu/.test(b.video?.external?.url || ''))
-  await page.goto(withVideo.path)
-  await waitForHydration(page)
+  await visit(page, withVideo.path)
 
   const embed = page.locator('.notion-youtube').first()
   await embed.scrollIntoViewIfNeeded()
@@ -146,9 +143,17 @@ test('loaded images are never left blurred', async ({ page }) => {
   // load handler never ran, and it stayed blurred for good. Only images that
   // really loaded are checked, so a slow network cannot fail the test.
   const withImages = findPage((b) => b.type === 'image')
-  await page.goto(withImages.path)
-  await waitForHydration(page)
-  await page.waitForLoadState('load')
+  await visit(page, withImages.path)
+
+  // At least one article image has to have loaded, or the check below passes
+  // on an empty set. Not the page `load` event: that waits for every image on
+  // the page, which on a CI runner means minutes of AVIF transcoding.
+  const loaded = page.locator('img.notion-image')
+  await expect
+    .poll(() => loaded.evaluateAll((imgs) => (imgs as HTMLImageElement[]).filter((i) => i.complete && i.naturalWidth > 0).length), {
+      timeout: 20_000,
+    })
+    .toBeGreaterThan(0)
 
   await expect
     .poll(
@@ -167,8 +172,7 @@ test('loaded images are never left blurred', async ({ page }) => {
 test('no page scrolls sideways on a phone', async ({ page }, testInfo) => {
   test.skip(testInfo.project.name !== 'mobile', 'layout check for narrow screens')
   for (const path of ['/', '/archive', article().path]) {
-    await page.goto(path)
-    await waitForHydration(page)
+    await visit(page, path)
     const overflow = await page.evaluate(() => document.documentElement.scrollWidth - document.documentElement.clientWidth)
     expect(overflow, path).toBeLessThanOrEqual(1)
   }
