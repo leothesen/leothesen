@@ -118,6 +118,19 @@ describe('headings', () => {
     expect([...container.querySelectorAll('h2,h3')].map((el) => el.tagName)).toEqual(['H2', 'H3'])
   })
 
+  it('renders heading_4, one level below heading_3', () => {
+    // The CV opens its experience with a heading_4 company name, which used to
+    // vanish.
+    const container = renderBlocks([h(1, 'One'), h(3, 'Three'), block('heading_4', { rich_text: [run('PARAMOS Technologies Limited')] })])
+    const h4 = container.querySelector('.notion-h4')!
+    expect(h4.textContent).toBe('PARAMOS Technologies Limited')
+    expect(h4.tagName).toBe('H5')
+  })
+
+  it('counts heading_4 when finding the shallowest heading', () => {
+    expect(computeHeadingOffset([block('heading_4', { rich_text: [] })] as any)).toBe(-2)
+  })
+
   it('keeps the Notion level as the class and the block id as the anchor', () => {
     // The table of contents links to #<block id>.
     const heading = h(1, 'Anchor me')
@@ -174,16 +187,33 @@ describe('simple blocks', () => {
     expect(container.querySelector('.notion-code figcaption')!.textContent).toBe('snippet')
   })
 
-  it('shows an emoji callout icon and a colour class, but no file icon', () => {
+  it('shows an emoji callout icon and a colour class', () => {
     const container = renderBlocks([
       block('callout', { rich_text: [run('Note')], icon: { type: 'emoji', emoji: '💡' }, color: 'blue_background' }),
-      block('callout', { rich_text: [run('Logo')], icon: { type: 'file', file: { url: 'https://x/logo.png' } }, color: 'default' }),
     ])
-    const [first, second] = container.querySelectorAll('.notion-callout')
-    expect(first.className).toBe('notion-callout notion-color-blue_background')
-    expect(first.querySelector('.notion-callout-icon')!.textContent).toBe('💡')
-    expect(second.className).toBe('notion-callout')
-    expect(second.querySelector('.notion-callout-icon')!.textContent).toBe('')
+    const callout = container.querySelector('.notion-callout')!
+    expect(callout.className).toBe('notion-callout notion-color-blue_background')
+    expect(callout.querySelector('.notion-callout-icon')!.textContent).toBe('💡')
+    expect(callout.querySelector('img')).toBeNull()
+  })
+
+  it.each([
+    // The CV's company and university logos are uploaded icons.
+    ['uploaded', { type: 'file', file: { url: 'https://x/notion-images/logo.png' } }, 'https://x/notion-images/logo.png'],
+    ['linked', { type: 'external', external: { url: 'https://cdn/logo.svg' } }, 'https://cdn/logo.svg'],
+    ['custom emoji', { type: 'custom_emoji', custom_emoji: { id: 'e1', name: 'mohara', url: 'https://x/emoji.png' } }, 'https://x/emoji.png'],
+  ])('shows an %s callout icon as an image', (_, icon, src) => {
+    const container = renderBlocks([block('callout', { rich_text: [run('Logo')], icon, color: 'default' })])
+    const img = container.querySelector('.notion-callout-icon img')!
+    expect(img.getAttribute('src')).toBe(src)
+    // The callout text already names it; a read-out file name would be noise.
+    expect(img.getAttribute('alt')).toBe('')
+    expect(container.querySelector('.notion-callout')!.className).toBe('notion-callout')
+  })
+
+  it('draws an empty icon box rather than a broken image when an icon has no URL', () => {
+    const container = renderBlocks([block('callout', { rich_text: [run('x')], icon: { type: 'file', file: null } })])
+    expect(container.querySelector('.notion-callout-icon img')).toBeNull()
   })
 
   it('renders synced blocks as their children', () => {
@@ -434,7 +464,7 @@ describe('databases', () => {
 })
 
 describe('block types the renderer does not draw', () => {
-  it.each(['table_of_contents', 'column', 'equation', 'heading_4', 'unsupported', 'breadcrumb'])(
+  it.each(['table_of_contents', 'column', 'equation', 'unsupported', 'breadcrumb'])(
     'skips %s without throwing',
     (type) => {
       expect(renderBlocks([block(type, {})]).innerHTML).toBe('')

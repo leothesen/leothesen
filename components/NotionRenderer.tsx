@@ -171,7 +171,7 @@ export function computeHeadingOffset(blocks: NotionBlock[]): number {
 
   const walk = (list: NotionBlock[] | undefined) => {
     for (const block of list || []) {
-      const match = /^heading_([123])$/.exec(block.type || '')
+      const match = /^heading_([1234])$/.exec(block.type || '')
       if (match) {
         const level = Number(match[1])
         if (shallowest === null || level < shallowest) shallowest = level
@@ -210,7 +210,8 @@ export function NotionBlock({ block, mapPageUrl, databaseEntriesMap, childPageMa
     )
   }
 
-  switch (block.type) {
+  // The API returns heading_4, but the SDK's block types predate it.
+  switch (block.type as NotionBlock['type'] | 'heading_4') {
     case 'paragraph':
       return (
         <div className="notion-text">
@@ -221,7 +222,10 @@ export function NotionBlock({ block, mapPageUrl, databaseEntriesMap, childPageMa
 
     case 'heading_1':
     case 'heading_2':
-    case 'heading_3': {
+    case 'heading_3':
+    // Notion added a fourth heading level. Until this case it fell through to
+    // nothing, and the CV lost the name of the company it opens with.
+    case 'heading_4': {
       const level = Number(block.type.slice(-1))
       // Demoted so the page title keeps the only <h1> — see headingOffset.
       // The notion-h* class still comes from the Notion level, so nothing
@@ -464,11 +468,27 @@ export function NotionBlock({ block, mapPageUrl, databaseEntriesMap, childPageMa
     case 'callout': {
       const callout = (block as any).callout
       const icon = callout.icon
+      // An uploaded icon (`file`), a linked one (`external`) or a workspace
+      // custom emoji all arrive as an image URL. Only emoji used to render, so
+      // the CV's company and university logos drew an empty box.
+      const iconUrl =
+        icon?.type === 'file'
+          ? icon.file?.url
+          : icon?.type === 'external'
+            ? icon.external?.url
+            : icon?.type === 'custom_emoji'
+              ? icon.custom_emoji?.url
+              : undefined
       return (
         <div className={`notion-callout${callout.color && callout.color !== 'default' ? ` notion-color-${callout.color}` : ''}`}>
           {icon && (
             <div className="notion-callout-icon">
-              {icon.type === 'emoji' ? icon.emoji : null}
+              {icon.type === 'emoji' ? (
+                icon.emoji
+              ) : iconUrl ? (
+                // Decorative: the callout's own text names what the logo is.
+                <img src={iconUrl} alt="" className="notion-callout-icon-image" loading="lazy" decoding="async" />
+              ) : null}
             </div>
           )}
           <div className="notion-callout-text">
