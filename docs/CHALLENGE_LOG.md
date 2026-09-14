@@ -37,3 +37,41 @@ straight back.
 
 **Still open:** the 14 stale `sync/notion-*` PRs (#65–#78) are unreviewed noise
 and should be closed; nothing distinguishes a quiet sync from a broken one.
+
+---
+
+## 2026-09-12 — "Write comprehensive tests, and run them when a PR opens"
+
+**Test that fired:** MECHANISM. The ask named a mechanism (write tests, run
+them on pull requests) rather than an outcome.
+
+**Outcome restated:** No change to leothesen.com, whether code or the daily
+Notion content, reaches the live site broken without a red signal first.
+
+**The case that this was the wrong problem:**
+
+Tests already existed and already ran on every pull request: `build.yml` has
+run `pnpm test` on `pull_request` all along. Writing more of them does nothing
+about the two places that signal was actually missing. First, the daily content
+PRs, the most frequent PRs this repo gets and the ones the content-integrity
+tests exist for, ran no tests at all. GitHub holds workflows on a PR opened by
+`github-actions[bot]` as `action_required`, and every sync PR in September sat
+that way until it was re-run by hand. Second, a red check blocked nothing,
+because the `main` ruleset requires no status checks. And the site's real
+breakages this year were not pure-function bugs a unit test would catch. They
+were rendered-output failures: cross-links 404ing after renames, a raw
+`/<uuid>` link to an unsynced page, blurred images, analytics dark for six
+months. A few hundred unit tests over lib/ would have caught none of them.
+
+**Resolution:** Built the suite around rendered output rather than around
+functions. Every committed page is rendered and link-checked in the unit job,
+and the E2E job crawls every page and every internal link on a real production
+server. Fixed the plumbing too: the sync now dispatches CI on its own PRs, and
+PR branches stop running CI twice. The unit layer still covers the resolver,
+renderer, routes and config, since those are where a code change breaks those
+outputs.
+
+**Still open:** making the checks *required* is a repository setting, not a
+file, and was left to Leo. Until it is set, a red run still merges. The
+workflow_dispatch path for sync PRs is verified by mechanism, not yet
+end-to-end on a real scheduled sync.
