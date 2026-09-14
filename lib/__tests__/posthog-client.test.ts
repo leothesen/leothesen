@@ -58,7 +58,7 @@ describe('with a project key', () => {
     expect(posthog.capture).not.toHaveBeenCalled()
   })
 
-  it('initialises once, against the EU host by default', async () => {
+  it('initialises once, through the managed proxy by default', async () => {
     const client = await load({ key: 'phc_test' })
     client.initAnalytics()
     client.initAnalytics()
@@ -66,9 +66,12 @@ describe('with a project key', () => {
     expect(posthog.init).toHaveBeenCalledTimes(1)
     const [key, options] = posthog.init.mock.calls[0]
     expect(key).toBe('phc_test')
-    // A US key against the EU host drops every event silently, so the host is
-    // part of the contract rather than an implementation detail.
-    expect(options.api_host).toBe('https://eu.i.posthog.com')
+    // The proxy fronts the EU project, and a US key against an EU host drops
+    // every event silently — so the host is part of the contract rather than an
+    // implementation detail. ui_host has to name the app itself, or the
+    // toolbar tries to open PostHog on the proxy's domain.
+    expect(options.api_host).toBe('https://e.leothesen.com')
+    expect(options.ui_host).toBe('https://eu.posthog.com')
     // _app sends pageviews itself; the SDK doing it too would double count.
     expect(options.capture_pageview).toBe(false)
     expect(options.person_profiles).toBe('identified_only')
