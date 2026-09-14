@@ -531,6 +531,12 @@
   width: 100% !important;
 }
 
+/* Audio */
+.notion-asset-wrapper-audio audio {
+  display: block;
+  width: 100%;
+}
+
 /* Bookmark */
 .notion-bookmark {
   display: flex;

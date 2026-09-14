@@ -389,6 +389,27 @@ export function NotionBlock({ block, mapPageUrl, databaseEntriesMap, childPageMa
       )
     }
 
+    case 'audio': {
+      // Until this case existed an audio block fell through to nothing, so a
+      // page built around a recording showed a blank gap where it should be.
+      const audio = (block as any).audio
+      const src = audio?.type === 'external' ? audio.external?.url : audio?.file?.url
+      if (!src) return null
+      const caption = audio.caption || []
+      return (
+        <figure className="notion-asset-wrapper notion-asset-wrapper-audio">
+          {/* metadata, not auto: enough to show the length without pulling a
+              27 MB recording for everyone who opens the page. */}
+          <audio src={src} controls preload="metadata" />
+          {caption.length > 0 && (
+            <figcaption className="notion-asset-caption">
+              <RichText richText={caption} />
+            </figcaption>
+          )}
+        </figure>
+      )
+    }
+
     case 'embed':
     case 'link_preview': {
       const data = (block as any)[block.type]

@@ -6,6 +6,7 @@ import * as https from 'https'
 import * as http from 'http'
 import pLimit from 'p-limit'
 
+import { fileExtFromUrl, isStoredUnder } from '../lib/notion-file-ext'
 import { notionFileUrls } from '../lib/notion-file-urls'
 import { isRateLimited, retryDelaySeconds } from '../lib/notion-retry'
 import { createRateLimiter } from '../lib/rate-limit'
@@ -304,15 +305,6 @@ function hashUrl(url: string): string {
   return crypto.createHash('sha256').update(clean).digest('hex').slice(0, 16)
 }
 
-function getExtFromUrl(url: string): string {
-  const pathname = url.split('?')[0]
-  const ext = path.extname(pathname).toLowerCase()
-  if (['.jpg', '.jpeg', '.png', '.gif', '.webp', '.svg', '.ico', '.bmp', '.avif'].includes(ext)) {
-    return ext
-  }
-  return '.jpg'
-}
-
 function downloadFile(url: string, dest: string): Promise<void> {
   return new Promise((resolve, reject) => {
     const get = url.startsWith('https') ? https.get : http.get
@@ -375,8 +367,17 @@ async function uploadImage(url: string): Promise<string> {
   if (imageUrlMap.has(url)) return imageUrlMap.get(url)!
 
   const hash = hashUrl(url)
-  const ext = getExtFromUrl(url)
+  const ext = fileExtFromUrl(url)
   const filename = `${hash}${ext}`
+
+  // A copy from before this file's extension was recognised — an MP3 or a
+  // phone video stored as .jpg, and served as image/jpeg. Forget it so the file
+  // goes up again under its real name. The old blob is left where it is; a page
+  // not yet re-synced may still point at it.
+  if (persistedImageMap[hash] && !isStoredUnder(persistedImageMap[hash], filename)) {
+    console.log(`  Re-copying under its real extension: ${filename}`)
+    delete persistedImageMap[hash]
+  }
 
   // Check if already uploaded in a previous run
   if (persistedImageMap[hash]) {

@@ -288,6 +288,30 @@ describe('video', () => {
   })
 })
 
+describe('audio', () => {
+  it('plays an uploaded recording with controls, captioned', () => {
+    const container = renderBlocks([
+      block('audio', { type: 'file', file: { url: 'https://x/notion-images/abc.mp3' }, caption: [run('Race voicenotes')] }),
+    ])
+    const audio = container.querySelector('audio')!
+    expect(audio.getAttribute('src')).toBe('https://x/notion-images/abc.mp3')
+    expect(audio.hasAttribute('controls')).toBe(true)
+    // Not the whole file up front — some recordings are tens of megabytes.
+    expect(audio.getAttribute('preload')).toBe('metadata')
+    expect(container.querySelector('figcaption')!.textContent).toBe('Race voicenotes')
+  })
+
+  it('plays an external audio link', () => {
+    const container = renderBlocks([block('audio', { type: 'external', external: { url: 'https://cdn/track.m4a' } })])
+    expect(container.querySelector('audio')!.getAttribute('src')).toBe('https://cdn/track.m4a')
+    expect(container.querySelector('figcaption')).toBeNull()
+  })
+
+  it('renders nothing for audio with no URL', () => {
+    expect(renderBlocks([block('audio', { type: 'file', file: null })]).innerHTML).toBe('')
+  })
+})
+
 describe('embeds', () => {
   it('renders nothing for an empty embed, rather than framing the page itself', () => {
     const container = renderBlocks([block('embed', { url: '' })])
@@ -410,7 +434,7 @@ describe('databases', () => {
 })
 
 describe('block types the renderer does not draw', () => {
-  it.each(['table_of_contents', 'column', 'equation', 'audio', 'heading_4', 'unsupported', 'breadcrumb'])(
+  it.each(['table_of_contents', 'column', 'equation', 'heading_4', 'unsupported', 'breadcrumb'])(
     'skips %s without throwing',
     (type) => {
       expect(renderBlocks([block(type, {})]).innerHTML).toBe('')
