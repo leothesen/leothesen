@@ -5,12 +5,14 @@ import { useRouter } from 'next/router'
 import { Analytics } from '@vercel/analytics/react'
 import { ThemeProvider } from 'next-themes'
 
+import 'styles/palette.css'
 import 'styles/global.css'
 import 'styles/notion.css'
 
 import { bootstrap } from '@/lib/bootstrap-client'
 import { isServer } from '@/lib/config'
 import { capturePageview, captureWebVital, initAnalytics } from '@/lib/posthog-client'
+import { THEME_STORAGE_KEY } from '@/lib/theme-choice'
 import { startContentEngagement, startOutboundClickTracking } from '@/lib/reader-events'
 
 if (!isServer) {
@@ -47,7 +49,16 @@ export default function App({ Component, pageProps }: AppProps) {
   }, [router.asPath])
 
   return (
-    <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
+    // System is the default for anyone who has not chosen. Switching themes
+    // turns transitions off for that one frame, so the site's hover and
+    // blur-up transitions do not all animate from the old colours at once.
+    <ThemeProvider
+      attribute="class"
+      defaultTheme="system"
+      enableSystem
+      storageKey={THEME_STORAGE_KEY}
+      disableTransitionOnChange
+    >
       <Component {...pageProps} />
       <Analytics />
     </ThemeProvider>
