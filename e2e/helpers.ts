@@ -94,11 +94,13 @@ export function findPage(predicate: (block: any) => boolean) {
  *
  * Clicking before hydration is the classic e2e flake: the element is visible
  * and the click lands, but no handler is attached yet so nothing happens. The
- * footer's theme toggle is only rendered after mount, so its presence is a
- * signal owned by this site rather than by Next's internals.
+ * header's theme menu button is named plain "Theme" in the server render and
+ * only becomes "Theme: System (currently light)" and the like once it has
+ * mounted, so that name is a signal owned by this site rather than by Next's
+ * internals.
  */
 export async function waitForHydration(page: Page) {
-  await expect(page.getByRole('button', { name: /^Switch to (dark|light) mode$/ })).toBeVisible()
+  await expect(page.getByRole('button', { name: /^Theme: / })).toBeVisible()
 }
 
 /**

@@ -3,7 +3,7 @@ import { expect, findPage, publishedPages, test, visit, watchForErrors } from '.
 /**
  * What a reader actually does, in a real browser, on the production build.
  *
- * Everything here depends on hydration — search, the theme toggle, the lazy
+ * Everything here depends on hydration — search, the theme menu, the lazy
  * YouTube player, images coming out of their blur — and none of it is visible
  * to a server render, which is why it lives here and not in the unit suite.
  */
@@ -59,19 +59,43 @@ test('search opens from the header button and closes on Escape', async ({ page }
   await expect(page.getByRole('dialog')).toHaveCount(0)
 })
 
-test('the theme toggle switches theme and remembers it', async ({ page }) => {
+test('the theme follows the device until you choose, then remembers the choice', async ({ page }) => {
   await page.emulateMedia({ colorScheme: 'light' })
   await visit(page, '/')
 
   const html = page.locator('html')
+  const menuButton = page.getByRole('button', { name: /^Theme: / })
+  await expect(menuButton).toHaveAccessibleName('Theme: System (currently light)')
   await expect(html).not.toHaveClass(/\bdark\b/)
 
-  await page.getByRole('button', { name: 'Switch to dark mode' }).click()
+  // On System the page follows the device as it changes, with no reload.
+  await page.emulateMedia({ colorScheme: 'dark' })
   await expect(html).toHaveClass(/\bdark\b/)
-  await expect(page.getByRole('button', { name: 'Switch to light mode' })).toBeVisible()
+  await page.emulateMedia({ colorScheme: 'light' })
+  await expect(html).not.toHaveClass(/\bdark\b/)
 
+  await menuButton.click()
+  await page.getByRole('menuitemradio', { name: 'Dark' }).click()
+  await expect(html).toHaveClass(/\bdark\b/)
+  await expect(menuButton).toHaveAccessibleName('Theme: Dark')
+
+  // An explicit choice outlasts a reload even though the device is light.
   await page.reload({ waitUntil: 'domcontentloaded' })
   await expect(html).toHaveClass(/\bdark\b/)
+
+  await menuButton.click()
+  await page.getByRole('menuitemradio', { name: 'System' }).click()
+  await expect(html).not.toHaveClass(/\bdark\b/)
+})
+
+test('a choice saved by the old footer toggle does not override System', async ({ page }) => {
+  // The old two-way toggle wrote `theme`, and nothing could ever clear it.
+  await page.addInitScript(() => window.localStorage.setItem('theme', 'dark'))
+  await page.emulateMedia({ colorScheme: 'light' })
+  await visit(page, '/')
+
+  await expect(page.locator('html')).not.toHaveClass(/\bdark\b/)
+  await expect(page.getByRole('button', { name: /^Theme: / })).toHaveAccessibleName('Theme: System (currently light)')
 })
 
 test('the skip link is the first stop and lands in the article', async ({ page }, testInfo) => {
