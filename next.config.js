@@ -15,13 +15,13 @@
  */
 const contentSecurityPolicy = [
   "default-src 'self'",
-  "script-src 'self' 'unsafe-inline' https://va.vercel-scripts.com https://*.posthog.com",
+  "script-src 'self' 'unsafe-inline' https://va.vercel-scripts.com https://e.leothesen.com https://*.posthog.com",
   "style-src 'self' 'unsafe-inline'",
   "img-src 'self' data: blob: https:",
   "font-src 'self' data:",
   "media-src 'self' https:",
   'frame-src https:',
-  "connect-src 'self' https://*.posthog.com https://va.vercel-scripts.com https://vitals.vercel-insights.com",
+  "connect-src 'self' https://e.leothesen.com https://*.posthog.com https://va.vercel-scripts.com https://vitals.vercel-insights.com",
   // The genuinely cheap wins: no plugins, no <base> hijacking, no posting the
   // page's forms to somebody else's origin, and nobody may frame this site.
   "object-src 'none'",

@@ -2,9 +2,15 @@ import posthog from 'posthog-js'
 
 import { isServer, posthogId } from './config'
 
-// Both of Leo's other PostHog orgs are on EU cloud, so that is the default.
-// Override with NEXT_PUBLIC_POSTHOG_HOST if this site's project lives elsewhere.
-const apiHost = process.env.NEXT_PUBLIC_POSTHOG_HOST || 'https://eu.i.posthog.com'
+// Events go through PostHog's managed reverse proxy on our own subdomain.
+// e.leothesen.com is a CNAME to PostHog's EU proxy (the project is on EU
+// cloud), so nothing here changes regions. What it changes is who can see the
+// requests as analytics: blocklists match *.posthog.com, not a first-party
+// host, so a share of readers were never counted at all.
+//
+// Override with NEXT_PUBLIC_POSTHOG_HOST — and if you do, the host must be in
+// next.config.js's CSP, or the browser blocks every request without a sound.
+const apiHost = process.env.NEXT_PUBLIC_POSTHOG_HOST || 'https://e.leothesen.com'
 
 let started = false
 
@@ -22,8 +28,8 @@ export function initAnalytics(): void {
   posthog.init(posthogId, {
     api_host: apiHost,
     // Where the PostHog app itself lives, as opposed to where events are sent.
-    // Only diverges once a reverse proxy is pointed at api_host, but setting it
-    // now means the toolbar's links do not break when that happens.
+    // With api_host on the proxy these differ, and without ui_host the toolbar
+    // and its links would try to open the app on e.leothesen.com.
     ui_host: 'https://eu.posthog.com',
 
     // Opt into the SDK's dated defaults rather than inheriting "unset", which
