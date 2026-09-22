@@ -1,6 +1,81 @@
 [
   {
     "object": "block",
+    "id": "3e3deabd-9164-8053-a6dd-c1e902c969d2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "4284d2da-051a-4deb-9f13-26c38001c315"
+    },
+    "created_time": "2026-09-22T08:42:00.000Z",
+    "last_edited_time": "2026-09-22T08:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "This was originally written when LLMs were just launched. Things have moved so quickly and now, coming back and reading it, it seems remarkably outdated. \n\nEverything is now run by Claude Code. Everything is automated. And the experience of writing software is equivalent to being a CTO and just managing engineers from a high level. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "This was originally written when LLMs were just launched. Things have moved so quickly and now, coming back and reading it, it seems remarkably outdated. \n\nEverything is now run by Claude Code. Everything is automated. And the experience of writing software is equivalent to being a CTO and just managing engineers from a high level. ",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "emoji",
+        "emoji": "🤯"
+      },
+      "color": "blue_background"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3e3deabd-9164-80be-8627-c1b48b0c1747",
+    "parent": {
+      "type": "page_id",
+      "page_id": "4284d2da-051a-4deb-9f13-26c38001c315"
+    },
+    "created_time": "2026-09-22T08:42:00.000Z",
+    "last_edited_time": "2026-09-22T08:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "icon": null,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
     "id": "f4ebe0bc-efe4-4587-a331-6e084f9881a3",
     "parent": {
       "type": "page_id",
@@ -39,6 +114,7 @@
           "href": null
         }
       ],
+      "icon": null,
       "color": "default"
     },
     "archived": false
@@ -65,6 +141,7 @@
     "type": "paragraph",
     "paragraph": {
       "rich_text": [],
+      "icon": null,
       "color": "default"
     },
     "archived": false
@@ -109,6 +186,7 @@
           "href": null
         }
       ],
+      "icon": null,
       "color": "default"
     },
     "archived": false
@@ -135,6 +213,7 @@
     "type": "paragraph",
     "paragraph": {
       "rich_text": [],
+      "icon": null,
       "color": "default"
     },
     "archived": false
@@ -186,6 +265,7 @@
     "type": "paragraph",
     "paragraph": {
       "rich_text": [],
+      "icon": null,
       "color": "default"
     },
     "archived": false

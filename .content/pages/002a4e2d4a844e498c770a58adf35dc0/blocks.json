@@ -1,6 +1,701 @@
 [
   {
     "object": "block",
+    "id": "5696d5eb-4849-4060-9b90-24f306d4d560",
+    "parent": {
+      "type": "page_id",
+      "page_id": "002a4e2d-4a84-4e49-8c77-0a58adf35dc0"
+    },
+    "created_time": "2026-09-22T08:28:00.000Z",
+    "last_edited_time": "2026-09-22T08:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Fractional CTO",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Fractional CTO",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "363ff0ee-b264-41f6-9f6c-c14a6cb00bb8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "002a4e2d-4a84-4e49-8c77-0a58adf35dc0"
+    },
+    "created_time": "2026-09-22T08:28:00.000Z",
+    "last_edited_time": "2026-09-22T08:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "I work with founders who are building their products with AI coding agents. Tools like Claude Code let a small team, or a non-technical founder, ship software remarkably fast. What they don't provide is the foundation underneath: infrastructure, data models, and guardrails that keep that speed from turning into risk once real clients and real data are involved.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "I work with founders who are building their products with AI coding agents. Tools like Claude Code let a small team, or a non-technical founder, ship software remarkably fast. What they don't provide is the foundation underneath: infrastructure, data models, and guardrails that keep that speed from turning into risk once real clients and real data are involved.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "3931b03e-c174-4eca-883e-46100c938ff2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "002a4e2d-4a84-4e49-8c77-0a58adf35dc0"
+    },
+    "created_time": "2026-09-22T08:28:00.000Z",
+    "last_edited_time": "2026-09-22T08:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "That foundation is what I build. I set it up once, properly, and hand it over so the team can keep building agentically without me in the loop.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "That foundation is what I build. I set it up once, properly, and hand it over so the team can keep building agentically without me in the loop.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "c42074b1-aed0-443e-9422-91b37d8c9b9c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "002a4e2d-4a84-4e49-8c77-0a58adf35dc0"
+    },
+    "created_time": "2026-09-22T08:28:00.000Z",
+    "last_edited_time": "2026-09-22T08:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "What I do",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "What I do",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "ed0e3e06-3d07-4ea3-944d-3bed6b0446f8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "002a4e2d-4a84-4e49-8c77-0a58adf35dc0"
+    },
+    "created_time": "2026-09-22T08:28:00.000Z",
+    "last_edited_time": "2026-09-22T08:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Cloud infrastructure as code",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Cloud infrastructure as code",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ": environments (production, staging, demo) defined in the repository, so nothing lives in one person's head or a cloud console",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ": environments (production, staging, demo) defined in the repository, so nothing lives in one person's head or a cloud console",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "aa55aa21-c218-4414-9e38-662dd2b74963",
+    "parent": {
+      "type": "page_id",
+      "page_id": "002a4e2d-4a84-4e49-8c77-0a58adf35dc0"
+    },
+    "created_time": "2026-09-22T08:28:00.000Z",
+    "last_edited_time": "2026-09-22T08:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Data models and database schemas",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Data models and database schemas",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ": the expensive-to-change parts, designed up front so the application layer stays cheap to rewrite",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ": the expensive-to-change parts, designed up front so the application layer stays cheap to rewrite",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "5ef11cfa-6b34-4ce9-a2c1-6c25ec986168",
+    "parent": {
+      "type": "page_id",
+      "page_id": "002a4e2d-4a84-4e49-8c77-0a58adf35dc0"
+    },
+    "created_time": "2026-09-22T08:28:00.000Z",
+    "last_edited_time": "2026-09-22T08:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "CI/CD for both application and infrastructure",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "CI/CD for both application and infrastructure",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ": automated tests and reviews on every pull request, and a promotion flow that makes it hard to break production",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ": automated tests and reviews on every pull request, and a promotion flow that makes it hard to break production",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "f69759ac-1746-4bfd-87cc-7323079c0e73",
+    "parent": {
+      "type": "page_id",
+      "page_id": "002a4e2d-4a84-4e49-8c77-0a58adf35dc0"
+    },
+    "created_time": "2026-09-22T08:28:00.000Z",
+    "last_edited_time": "2026-09-22T08:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Agent-ready handover",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Agent-ready handover",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ": documentation and coding-agent configuration written so the founder's AI tooling can operate and extend the system safely",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ": documentation and coding-agent configuration written so the founder's AI tooling can operate and extend the system safely",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "d5e38c67-3f76-43e1-934a-b273add28813",
+    "parent": {
+      "type": "page_id",
+      "page_id": "002a4e2d-4a84-4e49-8c77-0a58adf35dc0"
+    },
+    "created_time": "2026-09-22T08:28:00.000Z",
+    "last_edited_time": "2026-09-22T08:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Recent work",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Recent work",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "1c864bf5-2e6e-4e1d-999a-35a3fa9123e2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "002a4e2d-4a84-4e49-8c77-0a58adf35dc0"
+    },
+    "created_time": "2026-09-22T08:28:00.000Z",
+    "last_edited_time": "2026-09-22T08:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Energy management platform for large mines.",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Energy management platform for large mines.",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " The founder had built a compelling product with an AI coding agent and had clients ready to send data. I scoped the critical risk (getting meter data off mine sites reliably) and designed the platform underneath: time-series and application databases, multi-tenant isolation between competing clients, and CI/CD for application and infrastructure.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " The founder had built a compelling product with an AI coding agent and had clients ready to send data. I scoped the critical risk (getting meter data off mine sites reliably) and designed the platform underneath: time-series and application databases, multi-tenant isolation between competing clients, and CI/CD for application and infrastructure.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "2b50024e-6702-4102-b202-29d23741b073",
+    "parent": {
+      "type": "page_id",
+      "page_id": "002a4e2d-4a84-4e49-8c77-0a58adf35dc0"
+    },
+    "created_time": "2026-09-22T08:28:00.000Z",
+    "last_edited_time": "2026-09-22T08:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Reporting platform for renewable energy projects.",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Reporting platform for renewable energy projects.",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " A non-technical founder building entirely with Claude Code. I set up the hosting, CI/CD, automated code reviews, testing and Claude Code configuration, then built a working skeleton of the product so the founder could take it from there.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " A non-technical founder building entirely with Claude Code. I set up the hosting, CI/CD, automated code reviews, testing and Claude Code configuration, then built a working skeleton of the product so the founder could take it from there.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8cc871f3-1e1d-48b2-a739-bf10fb9801f8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "002a4e2d-4a84-4e49-8c77-0a58adf35dc0"
+    },
+    "created_time": "2026-09-22T08:28:00.000Z",
+    "last_edited_time": "2026-09-22T08:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "If this sounds like where you are, ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "If this sounds like where you are, ",
+          "href": null
+        },
+        {
+          "type": "mention",
+          "mention": {
+            "type": "page",
+            "page": {
+              "id": "d3ab4bd9-e90d-4f95-bad9-3bdee5181ffa"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Get in touch",
+          "href": "https://app.notion.com/p/d3ab4bd9e90d4f95bad93bdee5181ffa"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " to book a call.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " to book a call.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    },
+    "archived": false
+  },
+  {
+    "object": "block",
+    "id": "8dd0fe84-589f-4125-90fe-047b84b2a3e7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "002a4e2d-4a84-4e49-8c77-0a58adf35dc0"
+    },
+    "created_time": "2026-09-22T08:28:00.000Z",
+    "last_edited_time": "2026-09-22T08:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "divider",
+    "divider": {},
+    "archived": false
+  },
+  {
+    "object": "block",
     "id": "ac4ab8d2-974c-4c0d-ae97-92bbe9342e65",
     "parent": {
       "type": "page_id",
