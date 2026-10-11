@@ -48,5 +48,9 @@ export function formatDate(dateString: string, opts?: { month?: string }): strin
     year: 'numeric',
     month,
     day: 'numeric',
+    // Pages are built statically, so the server and the browser both render
+    // this. Without a fixed zone they disagree near midnight and React
+    // throws a hydration error.
+    timeZone: 'UTC',
   })
 }
