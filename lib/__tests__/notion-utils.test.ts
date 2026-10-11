@@ -1,4 +1,4 @@
-import { describe, expect, it } from 'vitest'
+import { afterEach, describe, expect, it } from 'vitest'
 
 import { formatDate, idToUuid, parsePageId, slugify, uuidToId } from '@/lib/notion-utils'
 
@@ -75,5 +75,22 @@ describe('formatDate', () => {
     // Midday UTC, so no timezone the tests run in moves it to another day.
     expect(formatDate('2024-03-05T12:00:00.000Z')).toBe('Mar 5, 2024')
     expect(formatDate('2024-03-05T12:00:00.000Z', { month: 'long' })).toBe('March 5, 2024')
+  })
+
+  describe('in a timezone ahead of UTC', () => {
+    const originalTz = process.env.TZ
+    afterEach(() => {
+      // Assigning undefined would store the string "undefined".
+      if (originalTz === undefined) delete process.env.TZ
+      else process.env.TZ = originalTz
+    })
+
+    it('gives the UTC date, as the static build does', () => {
+      process.env.TZ = 'Asia/Shanghai'
+      const iso = '2022-10-01T21:57:00.000Z'
+      // 21:57 UTC is already the next day in Shanghai.
+      expect(new Date(iso).getDate()).toBe(2)
+      expect(formatDate(iso, { month: 'long' })).toBe('October 1, 2022')
+    })
   })
 })
