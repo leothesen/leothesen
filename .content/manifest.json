@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-14T18:56:56.304Z",
+  "syncedAt": "2026-10-31T11:39:11.682Z",
   "slugTree": {
     "novel-experiences": {
       "pageId": "52ce318b6309412fa2217af728b7e9f2",
@@ -1010,21 +1010,6 @@
               "title": "Leo + Julian",
               "children": {}
             },
-            "kassie": {
-              "pageId": "849a221b97d148edb9cda805f87a6fb8",
-              "title": "Kassie",
-              "children": {}
-            },
-            "mattea-dale": {
-              "pageId": "c8c13056719142208a3ffd9b229a1cb0",
-              "title": "Mattea Dale",
-              "children": {}
-            },
-            "kassie-paschke": {
-              "pageId": "02718ec6b11c4a9e8d9bf73571cf9c5d",
-              "title": "Kassie Paschke ",
-              "children": {}
-            },
             "julian-culverhouse": {
               "pageId": "9470b50df81a4a719c4df8c496bf9bac",
               "title": "Julian Culverhouse",
@@ -1038,6 +1023,16 @@
             "leo-thesen": {
               "pageId": "1d781f4bfdc647beb39c49e17595703d",
               "title": "Leo Thesen",
+              "children": {}
+            },
+            "kassie": {
+              "pageId": "849a221b97d148edb9cda805f87a6fb8",
+              "title": "Kassie",
+              "children": {}
+            },
+            "mattea-dale": {
+              "pageId": "c8c13056719142208a3ffd9b229a1cb0",
+              "title": "Mattea Dale",
               "children": {}
             },
             "luke-naude": {
@@ -3365,39 +3360,6 @@
         "leo-julian"
       ],
       "title": "Leo + Julian",
-      "icon": null,
-      "cover": null,
-      "description": null
-    },
-    "d675bd231fc84a398c3d5e4ccbcb2007": {
-      "slugPath": [
-        "people",
-        "dinner-conversations",
-        "kassie"
-      ],
-      "title": "Kassie",
-      "icon": null,
-      "cover": null,
-      "description": null
-    },
-    "27bdd536336342b0b674e0be29eae752": {
-      "slugPath": [
-        "people",
-        "dinner-conversations",
-        "mattea-dale"
-      ],
-      "title": "Mattea Dale",
-      "icon": null,
-      "cover": null,
-      "description": null
-    },
-    "02718ec6b11c4a9e8d9bf73571cf9c5d": {
-      "slugPath": [
-        "people",
-        "dinner-conversations",
-        "kassie-paschke"
-      ],
-      "title": "Kassie Paschke ",
       "icon": null,
       "cover": null,
       "description": null
