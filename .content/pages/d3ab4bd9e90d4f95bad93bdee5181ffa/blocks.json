@@ -1,40 +1,13 @@
 [
   {
     "object": "block",
-    "id": "eded81c0-1e9a-48e6-859e-a0249ac9ce8f",
+    "id": "400deabd-9164-807f-8f29-f9be8865d223",
     "parent": {
       "type": "page_id",
       "page_id": "d3ab4bd9-e90d-4f95-bad9-3bdee5181ffa"
     },
-    "created_time": "2023-10-20T12:29:00.000Z",
-    "last_edited_time": "2024-06-12T05:31:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
-    },
-    "has_children": false,
-    "in_trash": false,
-    "type": "paragraph",
-    "paragraph": {
-      "rich_text": [],
-      "icon": null,
-      "color": "default"
-    },
-    "archived": false
-  },
-  {
-    "object": "block",
-    "id": "b857bf82-a718-4932-82ae-f1f98cfa64d4",
-    "parent": {
-      "type": "page_id",
-      "page_id": "d3ab4bd9-e90d-4f95-bad9-3bdee5181ffa"
-    },
-    "created_time": "2023-10-20T09:27:00.000Z",
-    "last_edited_time": "2023-10-20T12:46:00.000Z",
+    "created_time": "2026-10-21T19:29:00.000Z",
+    "last_edited_time": "2026-10-21T19:29:00.000Z",
     "created_by": {
       "object": "user",
       "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
@@ -48,34 +21,7 @@
     "type": "embed",
     "embed": {
       "caption": [],
-      "url": "https://cal.com/leo-thesen/15min"
-    },
-    "archived": false
-  },
-  {
-    "object": "block",
-    "id": "3a479b4a-0895-4ca8-b32a-b33fef9a05cc",
-    "parent": {
-      "type": "page_id",
-      "page_id": "d3ab4bd9-e90d-4f95-bad9-3bdee5181ffa"
-    },
-    "created_time": "2024-06-12T05:31:00.000Z",
-    "last_edited_time": "2024-06-12T05:31:00.000Z",
-    "created_by": {
-      "object": "user",
-      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
-    },
-    "last_edited_by": {
-      "object": "user",
-      "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
-    },
-    "has_children": false,
-    "in_trash": false,
-    "type": "paragraph",
-    "paragraph": {
-      "rich_text": [],
-      "icon": null,
-      "color": "default"
+      "url": "https://cal.com/leo-thesen/chat-with-leo"
     },
     "archived": false
   },
@@ -87,7 +33,7 @@
       "page_id": "d3ab4bd9-e90d-4f95-bad9-3bdee5181ffa"
     },
     "created_time": "2024-06-09T06:55:00.000Z",
-    "last_edited_time": "2026-09-14T18:51:00.000Z",
+    "last_edited_time": "2026-09-14T19:39:00.000Z",
     "created_by": {
       "object": "user",
       "id": "a89840a5-a507-41f8-ad65-4d62341efbc9"
